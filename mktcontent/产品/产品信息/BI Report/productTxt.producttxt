@@ -1,0 +1,22 @@
+[
+	{
+		"txt":"{\"instruction\":[{\"explain\":\" Open ticket to apply for free trial, click to go immediately\",\"explainLink\":\"https://uc.jdcloud.com/question/submit\"}],\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/df62ac4e-7aa1-4ba1-9724-949926781c9f20181115171717.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|40\",\"iconUrl\":\"\",\"label\":[{\"TitleName\":\"Try Now\",\"TitleUrl\":\"https://xdata.jdcloud.com/bi/index.html#/\"}],\"sectionClstag\":\"Products|keycount|SectionBannerSec|40\",\"desc\":\"The One-stop Self-service Data Analysis Platform of JD Cloud BI Report supports drag-and-drop operation with rich visualization effects and instant visualization of massive data, which contributes to easy completion of data analysis and exploration of service data, fully tapping the value of enterprise data.\"}",
+		"id":"412"
+	},
+	{
+		"txt":"[{\"proGood\":\" Simple and Convenient Operation\",\"proName\":\"WYSIWYG visualization of data is performed with the automatic and manual drag-and-drop modes, enabling data analysis with low threshold, so as to easily utilize the data analysis tool.\"},{\"proGood\":\"Top-speed Mass Data Analysis\",\"proName\":\"The multidimensional data model is configured to support ultra-low-latency processing of ten-million-level data, and realize sub-second response to most of inquiries and adapt to the high-concurrency interactive analysis scenario.\"},{\"proGood\":\"Diversified Visualization Effect\",\"proName\":\"Diversified effects of visual data diagrams are supported with intelligent recommendation of personalized report demonstration solutions.\"}]",
+		"id":"413"
+	},
+	{
+		"txt":"[{\"funcContent\":[{\"funcP\":\"It provides users with a drag-and-drop operation mode, which enables fast and direct acquisition of the reports needed, with in-depth customization supported. Moreover, it offers quick sharing to meet the needs of reports sharing. The visual charts can be obtained with the drag-and-drop mode by customizing the data processing logic and processing big data quickly. \\n\",\"funcTitle\":\"WYSIWYG Operations to Support In-depth Customized Reports\"}],\"funcName\":\"Self-service Data Analysis\"},{\"funcContent\":[{\"funcP\":\"It supports a wide range of visual chart formats, including line graphs, column maps, scatter plots, pie charts, radar charts, heat maps, dashboards, funnels and Wayne charts, to meet the needs of different customer scenarios.\",\"funcTitle\":\"Multi-charts, Flexible Layout of Plug-in Combinations to Meet Your Needs\"}],\"funcName\":\"Diversified Chart Forms\"},{\"funcContent\":[{\"funcP\":\"It supports online analysis of mass data without preprocessing a large amount of data in advance, thus greatly improving the efficiency of analysis.\",\"funcTitle\":\"Fast Data Computing\"}],\"funcName\":\"Real-time Analysis of Mass Data\"}]",
+		"id":"414"
+	},
+	{
+		"txt":"[{\"instruction\":\"For e-commerce data visualization, one of the best ways to obtain information is to quickly grasp the key information through the visualization mode; visualization turns information into a scenery line, namely, an information map, that can be explored with eyes.\",\"langId\":122,\"name\":\"Cross-border E-commerce Sales Data Visualization\",\"picUrl\":\"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/01f43474-6ad9-42db-aade-eb2f9daecfa820180515115735.png\",\"selectedProduct\":[]},{\"instruction\":\"The users can dig data deeply and realize data operation with different algorithms (e.g. regression, classification and clustering) by making in-depth data analysis on BI product.\",\"langId\":123,\"name\":\"Venture Investment Data Analysis and Forecasting\",\"picUrl\":\"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/773e1d27-b19f-4244-8434-a6e329b436db20180515131108.jpg\",\"selectedProduct\":[]},{\"instruction\":\"Vividly show the passengers’ travel characteristics with such icons as map, word cloud and bubble chart\",\"langId\":185,\"name\":\"Internet Passenger Travel Data Analysis\",\"picUrl\":\"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/5f8c30db-26ba-4a4d-b832-4e40b37113b420180515132229.jpg\",\"selectedProduct\":[]}]",
+		"id":"415"
+	},
+	{
+		"txt":"{\"operatingClasstag\":\"Products|keycount|MiddleContentSec|40\",\"price\":\"//docs.jdcloud.com/bi-report/billing-overview\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|40\"}",
+		"id":"416"
+	}
+]
