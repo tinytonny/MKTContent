@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/a204b1cf-2cf9-463b-9530-9077a899296220181115163636.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|24\",\"iconUrl\":\"\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|24\",\"desc\":\"VPN connection uses public IP to set up private network and realizes Intranet access by external users and cross-region Intranet communication through an encrypted channel.For example, the enterprise data center and the JD Cloud Virtual Private Cloud (VPC) can be connected through VPN private network to provide secure and reliable multicloud deployment.. To activate this feature, please contact operators through the number of: 4006151212.\"}",
+		"id":"387"
+	},
+	{
+		"txt":"[{\"proGood\":\"Easy Operation\",\"proName\":\"Operation is completed through the console, with the simple process, and it is purchased as required and used immediately, so it is easy to manage.\"},{\"proGood\":\"High Security\",\"proName\":\"Based on IPSEC and IKE encryption communication, it is secure and reliable.\"},{\"proGood\":\"Low Cost\",\"proName\":\"It can create and delete VPN tunnels according to specific service requirements, offering flexible billing method.\"}]",
+		"id":"388"
+	},
+	{
+		"txt":"[{\"funcContent\":[{\"funcP\":\"VPN encrypts data by using methods as IPSEC, IKE and pre-shared secrete key and provides the secure and reliable communication tunnel based on public network.\",\"funcTitle\":\"Secure and Reliable Dedicated Tunnel\"}],\"funcName\":\"VPN Tunnel\"},{\"funcContent\":[{\"funcP\":\"Support the establishment of multiple tunnels under the VPN gateway (requiring peer gateways) and provide a relatively-flexible networking mode, meeting requirements of different service scenarios.\",\"funcTitle\":\"Flexible Networking Method and Supporting Gateways Shared by Tunnels\"}],\"funcName\":\"VPN Gateway\"},{\"funcContent\":[{\"funcP\":\"VPN provides automatic detection of tunnel’s connectivity by default, periodically detects connectivity of tunnel and updates availability of current tunnel in real time.\",\"funcTitle\":\"Tunnel Connectivity Detection to Ensure Tunnel Availability\"}],\"funcName\":\"Availability\"}]",
+		"id":"389"
+	}
+]
