@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/332bb5a4-b7c2-4897-8c60-65ee1f760d1620181115174121.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|97\",\"iconUrl\":\"\",\"label\":[{\"TitleName\":\"Try Now\",\"TitleUrl\":\"http://code.jdcloud.com\"}],\"sectionClstag\":\"Products|keycount|SectionBannerSec|97\",\"desc\":\"With the CodeCommit tool based on Git, a user can host a code to JD Cloud. The product package includes code commitment, storage, download, fork management, comparison, merger, history and other functions, which provide source CodeCommit service for the whole process of JD Cloud continuous delivery.\"}",
+		"id":"585"
+	},
+	{
+		"txt":"[{\"proGood\":\"High-speed\",\"proName\":\"Compared with foreign CodeCommit service, JD Cloud CodeCommit service is faster. Version libraries are deployed in multiple locations to guarantee data security.\"},{\"proGood\":\"Stable\",\"proName\":\"Based on JD Cloud internal CodeCommit platform experience, it can be hosted with massive source codes. Real-time data synchronization across machine rooms with highly available platform architecture, it can provide you with reliable and stable source code hosting service.\"},{\"proGood\":\"General\",\"proName\":\"Based on generalGit; conforms to the user's operation custom, you can easily learn how to use JD Cloud CodeCommit service.\"}]",
+		"id":"586"
+	},
+	{
+		"txt":"[{\"funcContent\":[{\"funcP\":\"Provide efficient and stable source code hosting service, that users can focus on code development without bothering to manage their own source code hosting system. Support Git standard operation at the same time, provide seamless connection with Git tools, comply with the developer's habits, easy to get started.\",\"funcTitle\":\"Source Code Management\"}],\"funcName\":\"CodeCommit\"},{\"funcContent\":[{\"funcP\":\"Support a combination of multiple products such as JD Cloud-CodeBuild and JD Cloud-DevOps to achieve continuous delivery and help the DevOps whole process.\",\"funcTitle\":\"Combined with DevOps\"}],\"funcName\":\"Integrated Delivery\"}]",
+		"id":"587"
+	}
+]
