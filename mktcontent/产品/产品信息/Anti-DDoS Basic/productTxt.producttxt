@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/7aa42828-55d8-454f-acde-108d9f2a12b720181115172130.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|10\",\"iconUrl\":\"\",\"label\":[{\"TitleName\":\"Try Now\",\"TitleUrl\":\"//antiddos-console.jdcloud.com/gz/ddos\"}],\"sectionClstag\":\"Products|keycount|SectionBannerSec|10\",\"desc\":\"DDoS (BasicAntiDDoS) basic protection is a free service for JD Cloud users against DDoS attacks. It can provide up to 2G of protection against basic DDoS attacks. The cleaning trigger value can be set according to service requirements to protect your business security, so that common DDoS attacks will not threaten your business.\"}",
+		"id":"372"
+	},
+	{
+		"txt":"[{\"proGood\":\"Quick Protection\",\"proName\":\"Anti-DDoS Basic will carry out real-time detection of all traffic, find the attack traffic in the first time, deal with the attack in a second, and rapidly clear the attack, guaranteeing the normal operation of the business.\"},{\"proGood\":\"Flexible Settings\",\"proName\":\"According to the actual business requirements, you can flexibly modify the cleaning trigger value in real time and flexibly cope with the business requirements.\"},{\"proGood\":\"Real-time Monitoring\",\"proName\":\"It can recover the business in the fastest way by monitoring and displaying the real-time DDoS attack data, positioning the attack source quickly, monitoring the attack state, and shortening the black hole duration.\"},{\"proGood\":\"Safe and Free\",\"proName\":\"By purchasing the EIP product of JD Cloud, the Anti-DDoS Basic service feature is enabled automatically. After you use the Anti-DDoS Basic service, common heavy traffic attacks such as SYNFlood and ICMPFlood cannot threaten your business.\"}]",
+		"id":"373"
+	},
+	{
+		"txt":"[{\"funcContent\":[{\"funcP\":\"Anti-DDoS Basic is based on advanced identification algorithms. It can help you defend against heavy traffic attacks, such as SYN Flood and ICMP Flood. If you purchase the EIP product of JD Cloud, Anti-DDoS Basic service feature is enabled automatically. After you use Anti-DDoS Basic service, common heavy traffic attacks such as SYN Flood and ICMP Flood will not threaten your business.\",\"funcTitle\":\"After you apply for an EIP, Anti-DDoS Basic is automatically enabled for you.\"}],\"funcName\":\"Automatic Protection\"},{\"funcContent\":[{\"funcP\":\"According to the actual business demands, you can flexibly set the cleaning trigger value and adjust the protection policy. After the attack traffic exceeds the cleaning trigger value, the EIP will trigger black hole state.\",\"funcTitle\":\"Depending on the actual business needs, you have the flexibility to set the cleaning trigger value.\"}],\"funcName\":\"Setting of Threshold\"},{\"funcContent\":[{\"funcP\":\"Anti-DDoS Basic monitors the security status of EIP in real time. Once any attack is found, the protection is enabled immediately.\",\"funcTitle\":\"Provide Real-time DDoS Security Monitoring for EIP\"}],\"funcName\":\"Real-time Monitoring\"}]",
+		"id":"374"
+	},
+	{
+		"txt":"{\"operatingClasstag\":\"Products|keycount|MiddleContentSec|10\",\"price\":\"https://docs.jdcloud.com/anti-ddos-basic/billing-overview\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|10\"}",
+		"id":"375"
+	}
+]
