@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/079b21bd-075e-4ff0-a995-db09aca6976320181115173929.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|1143\",\"iconUrl\":\"\",\"label\":[{\"TitleName\":\"Buy Now\",\"TitleUrl\":\"https://market.jdcloud.com/#/service/details/577109\"},{\"TitleName\":\"Help Center\",\"TitleUrl\":\"https://docs.jdcloud.com/cn/marketplace/plus-smart-sms-document\"}],\"sectionClstag\":\"Products|keycount|SectionBannerSec|1143\",\"desc\":\"JD Cloud PLUS Smart SMS is an open communication service platform provided by JD Cloud to the user. It supports SMS verification code, SMS notification and marketing & promotion SMS. Based on traditional SMS, add the value to text messages through personalized functional menu configuration, connect traditional SP SMS business and intelligent menu so as to provide the customer with one-stop service for SMS sending and promotion of SMS transformation.\"}",
+		"id":"658"
+	},
+	{
+		"txt":"[{\"proGood\":\"Enterprise Real-name Security Verification  Strong Brand Exposure\",\"proName\":\"Display Company Name+Logo. Greatly increase company brand exposure and user trust, increase reading by \\n30%, and decrease the interception probability by 70%.\"},{\"proGood\":\"Intelligent Menu  Intelligent Interaction\",\"proName\":\"Intelligent SMS interactive entrance is based on improving user experience. Based on business scenarios, it is close to the user’s online operation behaviors so as to satisfy the user’s deep potential needs.\"},{\"proGood\":\"Business Transformation Improved Significantly\",\"proName\":\"Form like JD Cloud Wechat, with more convenient interaction, less consumer hesitation so as to facilitate business transformation.\"}]",
+		"id":"659"
+	},
+	{
+		"txt":"[{\"funcContent\":[{\"funcP\":\"Display Company Name+Logo, Greatly Increase Brand Exposure and User Trust\",\"funcTitle\":\"Strong Enterprise Brand Exposure\"}],\"funcName\":\"Enterprise Real-name Security Verification\"},{\"funcContent\":[{\"funcP\":\"Intelligent menu can be configured with customer service hot-line to avoid trouble of user query.\",\"funcTitle\":\"Intelligent Menu Call Customer Service Hot-line by One Key\"}],\"funcName\":\"Call Customer Service Hot-line by One Key\"},{\"funcContent\":[{\"funcP\":\"Add transformation, go to the business landing page by one key or go to the official service by the vertical link, so that the operation is simple and convenient with good user experience.\",\"funcTitle\":\"SMS Official Account\"}],\"funcName\":\"Intelligent Menu\"},{\"funcContent\":[{\"funcP\":\"Multiple data encryption ensures customer data security and user privacy security as well as the effective arrival of complete message sending records.\",\"funcTitle\":\"Security Protection\"}],\"funcName\":\"Data Security\"}]",
+		"id":"660"
+	},
+	{
+		"txt":"[{\"instruction\":\"Add transformation, go to the business landing page by one key or provide easy, simple and convenient access and reduce the consumer’s doubts.\",\"langId\":2032,\"name\":\"Marketing Scenarios\",\"picUrl\":\"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/f6676d8f-4a79-4e90-9fd0-e4d4a75e142820181026185511.png\",\"selectedProduct\":[]},{\"instruction\":\"Security verification of SMS numbers and direct entry to official services to eliminate fraud information\",\"langId\":2033,\"name\":\"Notification Scenarios\",\"picUrl\":\"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/1d521bfa-5995-48ee-b5b2-bc773f531de020181105151450.png\",\"selectedProduct\":[]}]",
+		"id":"661"
+	}
+]
