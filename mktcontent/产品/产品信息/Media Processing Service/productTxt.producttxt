@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/fe70ebd0-a8b3-42c4-8093-65757b74372920181115171955.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|72\",\"iconUrl\":\"\",\"label\":[{\"TitleName\":\"Try Now\",\"TitleUrl\":\"https://mps-console.jdcloud.com\"}],\"sectionClstag\":\"Products|keycount|SectionBannerSec|72\",\"desc\":\"The Media Processing Service （MPS） is a multimedia file processing service provided by JD Cloud. It provides customers with one-stop services such as video transcoding, snapshot, and callback. Instant Account Setup\"}",
+		"id":"513"
+	},
+	{
+		"txt":"[{\"proGood\":\"Efficient Transcoding\",\"proName\":\"The distributed computing server constructs a high-speed and stable parallel transcoding system, provides seamless expansion of transcoding task scale, and handles high concurrency stably.\"},{\"proGood\":\"Flexible Customization\",\"proName\":\"A great number of transcoding templates are provided to meet most of the demands for transcoding. Video processing features, including snapshot, callback, etc., as well as one-stop video processing services are provided.\"},{\"proGood\":\"Quality Service\",\"proName\":\"Professional technical supports are provided to quickly respond to the problems occurred during use and facilitate users' business.\"}]",
+		"id":"514"
+	},
+	{
+		"txt":"[{\"funcContent\":[{\"funcP\":\"Support most of the main video formats. The output format supports MP4, FLV and HLS. It provides system built-in templates that support the universal transcoding scenarios, to output videos with multiple bitrates and resolutions, suitable for different devices. \",\"funcTitle\":\"Full Coverage of Mainstream Formats, Support Multiple Resolutions and Bitrates, with Rich Transcoding Templates\"}],\"funcName\":\"Video Transcoding\"},{\"funcContent\":[{\"funcP\":\"You can perform video screenshots operation for a specified video media file according to certain rules (such as specified starting and ending time, at a certain time interval, or by the number of sheets specified to be intercepted), which can be used to generate a preview image for the video or to make a video cover through the screenshot etc.\",\"funcTitle\":\"Provide Snapshot feature on Demand for Videos Uploaded to JD Cloud Object Storage Service\"}],\"funcName\":\"Video Snapshot\"},{\"funcContent\":[{\"funcP\":\"If a callback notification is configured, JD Cloud's Media Processing Service will send a notification to the users' callback address to inform them after a video processing task is completed. Currently, it supports operations including video transcoding and video snapshots.\",\"funcTitle\":\"After the video processing (such as trans-coding, screenshot) is completed, the Media Processing Service can notify the users in time by configuring the callback address.\"}],\"funcName\":\"Callback Setting\"}]",
+		"id":"515"
+	}
+]
