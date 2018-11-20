@@ -1,0 +1,22 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/053f6ded-d842-41e8-ac54-db40eaa3430120181115174256.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|44\",\"iconUrl\":\"\",\"label\":[{\"TitleName\":\"Try Now\",\"TitleUrl\":\"https://streamhub-console.jdcloud.com/stream/html/list.html\"}],\"sectionClstag\":\"Products|keycount|SectionBannerSec|44\",\"desc\":\"Stream Hub is a scalable, distributed, high-throughput message service in the big data scenario, providing low-delay messaging and subscription features to help users quickly build stream analysis and application.\"}",
+		"id":"421"
+	},
+	{
+		"txt":"[{\"proGood\":\"Auto Scaling\",\"proName\":\"It can adjust its message service processing capacity flexibly and rapidly according to business scale.                           \"},{\"proGood\":\"Easy Access\",\"proName\":\"Several methods are provided to access data quickly, for example, Restful API/SDK/Agent.                         \"},{\"proGood\":\"Easy Integration\",\"proName\":\"The users can quickly build the real-time analysis application through integration with stream compute.                       \"},{\"proGood\":\"Auto Archiving\",\"proName\":\"The data archiving feature is provided to automatically store streaming data in cloud storage and data warehouse.                      \"}]",
+		"id":"422"
+	},
+	{
+		"txt":"[{\"funcContent\":[{\"funcP\":\"Support API, SDK, Agent, Syslog and other data access modes, and customize the mode for enabling the theme service.\",\"funcTitle\":\"Multiple data access methods to meet the demands for different scenarios\"}],\"funcName\":\"Access of Data\"},{\"funcContent\":[{\"funcP\":\"Provide single-topic level Shard partitioning and Shard merging features to adjust the topic message concurrent processing capability as needed.\",\"funcTitle\":\"Support dynamic scaling of data stream throughput for on-demand use\"}],\"funcName\":\"Auto Scaling\"},{\"funcContent\":[{\"funcP\":\"Provide data archiving feature to automatically store streaming data to cloud storage or data warehouse according to customized archiving policies.\",\"funcTitle\":\"Customize stream archiving policy for real-time archiving\"}],\"funcName\":\"Data Archiving\"}]",
+		"id":"423"
+	},
+	{
+		"txt":"[{\"instruction\":\"Stream Hub can be utilized for continuous collection and storage of stream in different types.\",\"langId\":70,\"name\":\"Real-time Data Integration\",\"picUrl\":\"\",\"selectedProduct\":[]},{\"instruction\":\"Obtain related data of IoT devices in real time through Stream Hub, connect stream data onto Steam Compute or customized real-time analysis application, so as to perform different services, such as real-time analysis, operation monitoring and fault forecasting.\",\"langId\":71,\"name\":\"Real-time IoT analysis\",\"picUrl\":\"\",\"selectedProduct\":[]}]",
+		"id":"424"
+	},
+	{
+		"txt":"{\"operatingClasstag\":\"Products|keycount|MiddleContentSec|44\",\"price\":\"//docs.jdcloud.com/stream-hub/price-overview\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|44\"}",
+		"id":"425"
+	}
+]
