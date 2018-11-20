@@ -572,12 +572,6 @@
 	{
 		"name":"JCS for Kubernetes",
 		"description":"Easy-to-use Container Management Service with High Reliability",
-		"id":"1261",
-		"button_title":"View Now"
-	},
-	{
-		"name":"JCS for Kubernetes",
-		"description":"Easy-to-use Container Management Service with High Reliability",
 		"id":"1263",
 		"button_title":"View Now"
 	},
