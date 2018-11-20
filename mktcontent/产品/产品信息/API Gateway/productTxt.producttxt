@@ -1,0 +1,22 @@
+[
+	{
+		"txt":"{\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/c4f0a4ad-6093-44a3-9c7f-0b63a48e725020181115173506.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|100\",\"iconUrl\":\"\",\"label\":[{\"TitleName\":\"Apply for Beta Test\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/apigateway\"}],\"sectionClstag\":\"Products|keycount|SectionBannerSec|100\",\"desc\":\"API Gateway is an API hosting service. It provides full life-cycle management for API, including release, management, running, maintenance, off-line, etc. In addition to self-system integration and service composition, a user can implement conveniently and safely open its business features and data and connect with developers and cooperative partners through API gateway.\"}",
+		"id":"621"
+	},
+	{
+		"txt":"[{\"proGood\":\"Simple and easy to use, convenient management\",\"proName\":\"API gateway users can do the management by multiple ways: configuring by managing console, directly calling API for service configuration by JD Cloud SDK or CLItools.\"},{\"proGood\":\"Low Cost and High Performance\",\"proName\":\"Provide users with full life-cycle management ofAPI, API documents and SDK generation and download, API version management and other issues, adopt cross-availability zone distributed deployment, it is automatically extensible and host large-scale access.\"},{\"proGood\":\"Safe and Stable\",\"proName\":\"JD Cloud account security system is fully relied on, and the HTTPS protocol is supported. The cluster elastic expansion has supported super large concurrency. Also, Anti-DDoS/CC Basic and other security protection features are provided.\"}]",
+		"id":"622"
+	},
+	{
+		"txt":"[{\"funcContent\":[{\"funcP\":\" Provide a full life cycle management of definition, release, running, off-line, etc. of API . It also provides users with automatic generation and downloading service of SDK and documents of API, Mock server, monitoring and other services.\\n provides convenient version management, rollback operation, etc.\\n provides environment management which enables users to deploy API in three kinds of environment: test, pre-release, and formal. \\n\",\"funcTitle\":\"Provide API Life Cycle Management.\"}],\"funcName\":\"API Life Cycle Management\"},{\"funcContent\":[{\"funcP\":\"Provide strict verification service. API A request to arrive at a gateway requires the key pair (AK/SK) provided by the gateway; identity verification, association verification and backend signature are required before arriving at the backend service to protect the security of API. \\nProvide effective traffic control policy. Users can configure Access Keytraffic limits and API traffic limits per unit of time according to the importance of API. \\n\",\"funcTitle\":\"Provide strict verification service and convenient traffic control policy management.\"}],\"funcName\":\"Verification and Traffic Control \"}]",
+		"id":"623"
+	},
+	{
+		"txt":"[{\"instruction\":\" With API Gateway, users can easily manage the open API. Using the authorization, flow control, and signature functions provided by API Gateway, users can ensure that the open API is not illegally called. At the same time, API can also be launched to the API market, so as to realize the cash value of API.\",\"langId\":284,\"name\":\" API Open\",\"picUrl\":\"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/2711760a-031d-404b-b07d-628bf1823ea820181008182106.png\",\"selectedProduct\":[]},{\"instruction\":\" The API can be used to adapt multi-end applications as called by gateway. Enterprise users only need to maintain a set of services. By adjusting the API definition, it can provide multi-scenario, multi-terminal and multi-user service output.\",\"langId\":287,\"name\":\" Multi-terminal Compatibility\",\"picUrl\":\"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/bffe0df7-8db0-4de1-a67e-fbaeddb401a720180907173358.png\",\"selectedProduct\":[]}]",
+		"id":"624"
+	},
+	{
+		"txt":"{\"operatingClasstag\":\"Products|keycount|MiddleContentSec|100\",\"price\":\"//docs.jdcloud.com/api-gateway/price-overview\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|100\"}",
+		"id":"625"
+	}
+]
