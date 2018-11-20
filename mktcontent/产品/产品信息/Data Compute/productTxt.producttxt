@@ -1,0 +1,22 @@
+[
+	{
+		"txt":"{\"instruction\":[{\"explain\":\" Open ticket to apply for free trial, click to go immediately\",\"explainLink\":\"https://uc.jcloud.com/question/submit\"}],\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/329fea52-a5e6-4a08-855e-b9e793129ee120181115174241.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|39\",\"iconUrl\":\"\",\"label\":[{\"TitleName\":\"Try Now\",\"TitleUrl\":\"https://xdata.jdcloud.com/dw/instance.html#/\"}],\"sectionClstag\":\"Products|keycount|SectionBannerSec|39\",\"desc\":\"JD Cloud Data Compute is a fully hosted, low-cost and cloud-based data warehousing service. It provides out-of-the-box data management, flexible computing resources, open data interface and fine-grained authority system to help the users quickly build an enterprise-level data analysis platform and keep focusing on release of data value.\"}",
+		"id":"635"
+	},
+	{
+		"txt":"[{\"proGood\":\"Response in Seconds\",\"proName\":\"TB/PB-level data volume, high throughput and high concurrency, real-time display of second-level consumption, cross-data-source hybrid computing.\"},{\"proGood\":\"Flexible and User-friendly\",\"proName\":\"It is out-of-the-box and fully hosted, with free switch of computing framework and multiple access interfaces.\"},{\"proGood\":\"Auto Scaling\",\"proName\":\"One or more computing resources can be created based on the demand for data processing and search and retrieval, and the capacity of computing resources can be flexibly expanded or reduced.\"}]",
+		"id":"636"
+	},
+	{
+		"txt":"[{\"funcContent\":[{\"funcP\":\"Ad-hoc query/batch offline processing computing capabilities are available to meet the needs of massive data ETL and interactive query.\",\"funcTitle\":\"Support SQL, Python multi-language analysis query\"}],\"funcName\":\"Massive Data Computing\"},{\"funcContent\":[{\"funcP\":\"Simple setup can quickly carry out data analysis work, and underlying construction and operation and maintenance of the cluster are fully managed.\",\"funcTitle\":\"Focus on Data Value Mining without Worrying about Underlying Platform Operation\"}],\"funcName\":\"Fully Hosted and Out-of-the-box\"},{\"funcContent\":[{\"funcP\":\"Task development, user-defined features and task scheduling features are available to support the task development via WEB/IDE/CLI/SDK by developers.\",\"funcTitle\":\"Support Multiple Task Development Methods\"}],\"funcName\":\"Task Development\"},{\"funcContent\":[{\"funcP\":\"A security mechanism is set up for data storage and access with multi-dimensional authority verification mechanism for data operation.\",\"funcTitle\":\"Fine-grained User Permission Settings\"}],\"funcName\":\"User Permission Management\"}]",
+		"id":"637"
+	},
+	{
+		"txt":"[{\"instruction\":\"Data Compute enables seamless integration with various tools (e.g. Data Integration, Stream Compute and BI report) provided by JD Cloud, and assisting the user in unified collection, storage and computing of enterprise data. Data Compute provides the executive capacity of SQL/Python data development and operation, capable of giving goods supports to data cleaning and data processing logics. In combination with its elastic resource computing & management capacity/complete authority management system, Data Compute can help enterprises quickly set up a PB-level enterprise data warehouse.\",\"langId\":129,\"name\":\"Creating Enterprise Data Warehouse\",\"picUrl\":\"\",\"selectedProduct\":[]},{\"instruction\":\"Data Compute Service, as a new cloud data warehouse, can not only process and analyze the data in the warehouse, but also provide default support to Object Storage Service on Cloud. The users can directly process and analyze the data on the Object Storage Service (such as data of such types as log, text and csv) by utilizing elastic Data Compute and SQL/Python computing environment. The processed data can be written back to the Object Storage Service, and release related compute resources as well, lending low-cost support to the data cleaning and processing scenario.\",\"langId\":130,\"name\":\"Low-cost Mass Data Cleaning\",\"picUrl\":\"\",\"selectedProduct\":[]}]",
+		"id":"638"
+	},
+	{
+		"txt":"{\"operatingClasstag\":\"Products|keycount|MiddleContentSec|39\",\"price\":\"//docs.jdcloud.com/data-compute/billing-rules\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|39\"}",
+		"id":"639"
+	}
+]
