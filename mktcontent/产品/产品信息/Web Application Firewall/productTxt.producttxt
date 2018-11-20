@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[{\"explain\":\"Buy Now\",\"explainLink\":\"https://cloudwaf-console.jdcloud.com/buy\"}],\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/2c46054a-978f-494e-a98d-c49aafd92a2320181115172216.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|83\",\"iconUrl\":\"\",\"label\":[{\"TitleName\":\"Apply for Free\",\"TitleUrl\":\"http://cloudwaf-console.jdcloud.com/certify\"}],\"sectionClstag\":\"Products|keycount|SectionBannerSec|83\",\"desc\":\"Identify malicious features and protect the business traffic of network and return normal and secure traffic to servers. Protect website server against malicious invasion, guarantee business core data security and solve server performance exception caused by malicious attack.\"}",
+		"id":"551"
+	},
+	{
+		"txt":"[{\"proGood\":\"Professional Protection Capacity\",\"proName\":\"Thousands of defense rules resist web attacks comprehensively and the 7*24-hour protection from the professional defensive group safeguards your website against web attacks.\"},{\"proGood\":\"Quick Patch Recovery\",\"proName\":\"It distributes bug patches in a timely manner and synchronizes multiple clusters on a second-level basis.\"},{\"proGood\":\"Quick Access\",\"proName\":\"With a convenient access mode, need no other software or any complex operation, ensuring website web security in a simple and fast manner.\"},{\"proGood\":\"Quick Detection and Efficient Protection\",\"proName\":\"It detects attacks per second and initiates effective protection without delay.\"},{\"proGood\":\"Service with High Reliability and High Availability\",\"proName\":\"The fully automatic detection, featuring together with the attack policy, performs a real-time protection.\"}]",
+		"id":"552"
+	},
+	{
+		"txt":"[{\"funcContent\":[{\"funcP\":\"SQL injection, XSS cross-site, Webshell upload, backdoor isolation protection, command injection, illegal HTTP protocol request, common web server vulnerability attack, core file unauthorized access, path traversal, scan protection, and other safety protection can be carried out\",\"funcTitle\":\"Owasp Top10 featureal Protection\"}],\"funcName\":\"Web Attack Protection\"},{\"funcContent\":[{\"funcP\":\"Filter spam access and efficiently mitigate CC attacking problem. \\n\",\"funcTitle\":\"Malicious CC Attack Protection\"}],\"funcName\":\"CC Protection\"},{\"funcContent\":[{\"funcP\":\"Configure IAM for malicious features shown in common header fields in the request, such as IP, URL, User-Agent, Referer and the parameters.\",\"funcTitle\":\"Customized Protection Rules\"}],\"funcName\":\"Precise IAM\"}]",
+		"id":"553"
+	},
+	{
+		"txt":"[{\"instruction\":\"Launch a lot of vicious requests during website attack or cracker racketeering, occupy and consume core resources of the server for a long time, cause server failure (such as CPU, memory and bandwidth), and lead to slow response of website business or a failure to provide normal services.\",\"langId\":198,\"name\":\"Website Service\",\"picUrl\":\"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/be986138-d420-4138-9693-9d5fb942009a20180621170535.png\",\"selectedProduct\":[]}]",
+		"id":"554"
+	}
+]
