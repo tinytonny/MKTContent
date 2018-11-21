@@ -1,14 +1,14 @@
 [
 	{
 		"txt":"{\"instruction\":[{\"explain\":\" Open ticket to apply for free trial, click to go immediately\",\"explainLink\":\"https://uc.jcloud.com/question/submit\"}],\"imageUrl\":\"//img1.jcloudcs.com/cms/cf5f3369-d8c0-48cb-b083-7a4aa6483d9720180419122405.jpg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|46\",\"iconUrl\":\"&#xe742;\",\"label\":[{\"TitleName\":\"Try Now\",\"TitleUrl\":\"https://www.jcloud.com/public/testApply/profile\"}],\"sectionClstag\":\"Products|keycount|SectionBannerSec|46\",\"desc\":\"Portrait Analysis products provide enterprise customers with online services for designing, producing and applying user profiling tags:  It supports enterprise customers to clean and model user data in JD Cloud data warehouse, design user tags and generate business rules independently;  supports enterprise customers to make market segmentation understanding and crowd portrait analysis of output tag data; and makes targeted population planning for accurate marketing activities based on user tags; \"}",
-		"id":"109"
+		"id":109
 	},
 	{
 		"txt":"[{\"proGood\":\"Support Customer Data\",\"proName\":\"The access to the data by customers is supported to produce and own the individual portrait tag of their users.\"},{\"proGood\":\"Support User Tag Customization\",\"proName\":\"The enterprise customers can define the workload rules of tags, types and tag generation; \\n subsequently, the rule engine will be supported and the more flexible capability of Tag Definition capability provided.\"},{\"proGood\":\"Support Dynamic Updating of User Tag\",\"proName\":\"The enterprise customers can define the statistical period and scheduling period of Tag Production and dynamically update changes in the tag of new users.\"},{\"proGood\":\"Support Data Cleaning & Integration and Analysis Modeling\",\"proName\":\"The relationship modeling for source data of enterprise customers is supported; \\n the flexible and strong data cleansing, transformation and integration (next version) are supported;\"}]",
-		"id":"110"
+		"id":110
 	},
 	{
 		"txt":"[{\"funcContent\":[{\"funcP\":\"1, Create database and table \\n2, Relationship modeling \\n3, Data cleaning \\n4, Data integration and extension\",\"funcTitle\":\"Support customer access to source data and integrate relational modeling and data cleaning\"}],\"funcName\":\"Source Data Management\"},{\"funcContent\":[{\"funcP\":\"The user indicator refers to the characteristic statistics of user behaviors according to certain service attribute dimensions, such as user clicks, purchase volume and purchase amount. \\n Create a modeling based on service rules and machine learning and carry out data analysis of these behavior characteristics statistics, to generate user profiling label. \\n\",\"funcTitle\":\"User Indicator Management\"},{\"funcP\":\"The system supports the generating rules for setting user-defined labels according to the user's business logic.\",\"funcTitle\":\"Tag Definition\"},{\"funcP\":\"Support the statistical period and scheduling period for tag production customized by an enterprise user, and dynamically update the changes of user tag.\",\"funcTitle\":\"Tag Production scheduling\"}],\"funcName\":\"Label Management\"}]",
-		"id":"111"
+		"id":111
 	}
 ]
