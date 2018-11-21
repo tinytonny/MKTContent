@@ -1,14 +1,14 @@
 [
 	{
 		"txt":"{\"instruction\":[{\"explain\":\"Experience face recognition service now>>\",\"explainLink\":\"https://face.jdcloud.com/#/pieFace\"}],\"imageUrl\":\"//img1.jcloudcs.com/cms/b9679a0f-9a70-401b-b714-de6bee793a3020180419122932.jpg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|57\",\"iconUrl\":\"&#xe743;\",\"label\":[{\"TitleName\":\"Try Now\",\"TitleUrl\":\"https://cognitive-console.jdcloud.com/console/html/list.html\"}],\"sectionClstag\":\"Products|keycount|SectionBannerSec|57\",\"desc\":\"Human Face Recognition is a biometric recognition technology based on human facial feature information for identity recognition. Human Face Recognition provides human face verification service at present, which can judge whether it is a same person through the similarity of human faces.\"}",
-		"id":"141"
+		"id":141
 	},
 	{
 		"txt":"[{\"proGood\":\"Simple and User-friendly\",\"proName\":\"In the cognitive service, the cognitive service application of face recognition type is created to upload pictures via API for scenario analysis of face authentication, etc. and return results.\"},{\"proGood\":\"Multi-scenario Application\",\"proName\":\"It satisfies application requirements on scenarios like face verification and face identification. More services will be provided in succession to satisfy requirements on other scenarios.\"}]",
-		"id":"142"
+		"id":142
 	},
 	{
 		"txt":"[{\"funcContent\":[{\"funcP\":\"Through the API interface, the user arbitrarily gives a pair of faces, and the face verification service gives the similarity of the two faces to determine whether it belongs to the same person.\",\"funcTitle\":\"Compare two face images to determine similarity\"}],\"funcName\":\"Face Verification\"}]",
-		"id":"143"
+		"id":143
 	}
 ]
