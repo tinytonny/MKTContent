@@ -1,14 +1,14 @@
 [
 	{
 		"txt":"{\"instruction\":[],\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/a7f1ca9f-483b-4bb4-a204-397c3dddcea720181115172947.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|12\",\"iconUrl\":\"\",\"label\":[{\"TitleName\":\"Service Application\",\"TitleUrl\":\"https://uc.jdcloud.com/myorder/form?cateId=5&questionId=28\"}],\"sectionClstag\":\"Products|keycount|SectionBannerSec|12\",\"desc\":\"IAM is a user identity management and resource access management service provided by JD Cloud. With IAM, you can create and manage sub-accounts of enterprise members or partners, and assign them independent resource access rights to achieve consistency of power and responsibility.\"}",
-		"id":"39"
+		"id":39
 	},
 	{
 		"txt":"[{\"proGood\":\"Account Security\",\"proName\":\"You can easily create, manage and cancel a sub-account (group) without sharing the primary account password and access key.\"},{\"proGood\":\"Convenient and Flexible\",\"proName\":\"The customized authorization policy of visual configuration supports the authorization assignment to a single resource.\"}]",
-		"id":"40"
+		"id":40
 	},
 	{
 		"txt":"[{\"funcContent\":[{\"funcP\":\"Sub-account supports the user name in Chinese; set and reset console login password for sub-account\",\"funcTitle\":\"Manage Sub-users\"},{\"funcP\":\"You can add multiple sub-users to one user group for unified authorization; one sub-user may belong to multiple user groups. In this case, the sub-user rights are a collection of permissions for each group\",\"funcTitle\":\"Manage User Group\"}],\"funcName\":\"User Management\"},{\"funcContent\":[{\"funcP\":\"Support the IAM of reading, changing and deleting an individual resource\",\"funcTitle\":\"Permission Granularity\"},{\"funcP\":\"The system provides administrators and read-only permissions for various resources which can be directly assigned.\",\"funcTitle\":\"System Authorization Policy\"},{\"funcP\":\"Facilitation policy generator: Without writing JSON, resources to operate and to be operated that require authorization are selected visually. Policy editor: By editing JSON based on existing policy templates, JSON is directly generated to achieve authorization demands.\",\"funcTitle\":\"Customized Authorization Policy\"}],\"funcName\":\"Policy Management\"}]",
-		"id":"41"
+		"id":41
 	}
 ]
