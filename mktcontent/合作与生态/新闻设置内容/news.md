@@ -4,7 +4,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/beed87a3-29f4-4c7c-a73a-e37d015e93ac20180702110614.png",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_107",
 		"jss_key":"en/News_Content_107",
-		"id":"107",
+		"id":107,
 		"news_title":"JD Cloud cooperating with Digital Guangxi Group to broaden the “new space” of digital economy"
 	},
 	{
@@ -12,7 +12,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/4e1f37fc-71f9-4bfe-a22a-1e013b3d569320180702183341.png",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_108",
 		"jss_key":"en/News_Content_108",
-		"id":"108",
+		"id":108,
 		"news_title":"Cloud Industry helping rural development   rural E-commerce opening “Zhaoqing Pattern”"
 	},
 	{
@@ -20,7 +20,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/ffaee869-3dc9-44b2-aef0-8d795aeb88c120180719185902.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_109",
 		"jss_key":"en/News_Content_109",
-		"id":"109",
+		"id":109,
 		"news_title":"JD Cloud making effort for 18 months, step into the first rank of cloud computing in China"
 	},
 	{
@@ -28,7 +28,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/7c793618-c0af-4fd5-815a-d87b14696ae720180720170314.png",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_110",
 		"jss_key":"en/News_Content_110",
-		"id":"110",
+		"id":110,
 		"news_title":"JD Cloud reaching strategic cooperation with Top Cloud-Agri and jointly forging ecological products of intelligent agriculture"
 	},
 	{
@@ -36,7 +36,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/a4a692df-05e7-47f1-b108-612688075c7820180723155705.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_111",
 		"jss_key":"en/News_Content_111",
-		"id":"111",
+		"id":111,
 		"news_title":"Awarding activity of “JD Cloud Pingyi Industry Incubation Center” held in Pingyi"
 	},
 	{
@@ -44,7 +44,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/2fc2b412-3b23-473f-bd5e-6dbfe9cf2c7920180723171301.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_112",
 		"jss_key":"en/News_Content_112",
-		"id":"112",
+		"id":112,
 		"news_title":"JD Cloud reaching strategic cooperation with UnitedData and jointly expanding the digital transformation market"
 	},
 	{
@@ -52,7 +52,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/3582a755-b2d7-49ae-b9ab-f7e2aff03a9f20180726191433.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_113",
 		"jss_key":"en/News_Content_113",
-		"id":"113",
+		"id":113,
 		"news_title":"JD Cloud cooperating with SMART Technology, an educational technology brand subordinate to Foxconn"
 	},
 	{
@@ -60,7 +60,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/67cce1ae-7bac-4f38-93b9-ee65b99e36ef20180726194233.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_114",
 		"jss_key":"en/News_Content_114",
-		"id":"114",
+		"id":114,
 		"news_title":"JD Cloud publishing intelligent education strategy, and forging an one-stop service platform"
 	},
 	{
@@ -68,7 +68,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/5480dfc2-0a03-416d-b63b-02f61a3f25bc20180727155259.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_115",
 		"jss_key":"en/News_Content_115",
-		"id":"115",
+		"id":115,
 		"news_title":"Promote innovative entrepreneurial culture   JD Cloud helping rural development"
 	},
 	{
@@ -76,7 +76,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/2905d9cf-5afb-47a3-b28e-4b0e31d0446e20180801155243.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_116",
 		"jss_key":"en/News_Content_116",
-		"id":"116",
+		"id":116,
 		"news_title":"“Zhaoqing Yunkai”, write a new chapter of “enabling, collection and win-win”"
 	},
 	{
@@ -84,7 +84,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/284d58a0-1d55-460c-b31f-9e2d952f1ab820180803110750.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_117",
 		"jss_key":"en/News_Content_117",
-		"id":"117",
+		"id":117,
 		"news_title":"JD Cloud enabling Changzhou to forge a new engine of agricultural product “Internet +”"
 	},
 	{
@@ -92,7 +92,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/630f8651-5735-4220-8a36-4d02ead2611a20180803113015.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_118",
 		"jss_key":"en/News_Content_118",
-		"id":"118",
+		"id":118,
 		"news_title":"JD Cloud pushing bare metal server, its independently researched and developed products were accepted by customers"
 	},
 	{
@@ -100,7 +100,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/a9378ced-3976-41e3-ad84-7ad06889af3120180803114729.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_119",
 		"jss_key":"en/News_Content_119",
-		"id":"119",
+		"id":119,
 		"news_title":"Upon independent research and development, JD Cloud pushed the cloud architecture core product distributed message queue (JCQ)."
 	},
 	{
@@ -108,7 +108,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/eb9858ab-3e51-4b36-9cd0-db1170f5469320180806171638.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_120",
 		"jss_key":"en/News_Content_120",
-		"id":"120",
+		"id":120,
 		"news_title":"JD Cloud Agricultural Cloud appearing on the “First China Intelligent Pig Breeding Industry Practice Summit”"
 	},
 	{
@@ -116,7 +116,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/9ea97c70-8b34-4a1f-b01a-7eb9aebacf8820180807185952.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_121",
 		"jss_key":"en/News_Content_121",
-		"id":"121",
+		"id":121,
 		"news_title":"JD Cloud making strategic investment into EasyStack and laid the enterprise cloud marketplace"
 	},
 	{
@@ -124,7 +124,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/21c2a7a4-c065-4432-a6c7-6f9ae8ede6c420180808110318.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_122",
 		"jss_key":"en/News_Content_122",
-		"id":"122",
+		"id":122,
 		"news_title":"test"
 	},
 	{
@@ -132,7 +132,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/af865a3f-e05a-466c-815c-7cf8ee7d7f4420180808180305.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_123",
 		"jss_key":"en/News_Content_123",
-		"id":"123",
+		"id":123,
 		"news_title":"JD Cloud Load Balancer realizing three levels of high availability"
 	},
 	{
@@ -140,7 +140,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/2b5fe1d0-3d11-4a31-aea9-2fa23825915420180814154015.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_124",
 		"jss_key":"en/News_Content_124",
-		"id":"124",
+		"id":124,
 		"news_title":"Technical innovation + enabling of government affairs, JD Cloud won several awards for credible cloud."
 	},
 	{
@@ -148,7 +148,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/1fecc694-b30a-451a-b785-6f999f89d8e620180817163055.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_125",
 		"jss_key":"en/News_Content_125",
-		"id":"125",
+		"id":125,
 		"news_title":"Deepen Strategic Cooperation between JD Group and HNA Group   JD Cloud Products fully Moved in HNA Cloud Marketplace"
 	},
 	{
@@ -156,7 +156,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/2734bf36-aa06-4fdf-930a-cf819fdd8b4120180822152501.png",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_126",
 		"jss_key":"en/News_Content_126",
-		"id":"126",
+		"id":126,
 		"news_title":"JD Cloud Energizes Game Industry   Build a Brand New Game Ecology with 51.com"
 	},
 	{
@@ -164,7 +164,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/24285fab-c9e4-44b7-9425-38aa462141e420180823183450.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_127",
 		"jss_key":"en/News_Content_127",
-		"id":"127",
+		"id":127,
 		"news_title":"JD Cloud Debuted at Smart China Expo"
 	},
 	{
@@ -172,7 +172,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/5a79792c-91b5-4616-820e-dd1117a6746220180904140954.png",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_128",
 		"jss_key":"en/News_Content_128",
-		"id":"128",
+		"id":128,
 		"news_title":" Strategic Cooperation Between JD Cloud and Monash University  to Improve R&D and Application of Block Chain Base Layer Technology"
 	},
 	{
@@ -180,7 +180,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/f79577bd-d9b9-4893-bcf5-d245654d968820180906153402.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_129",
 		"jss_key":"en/News_Content_129",
-		"id":"129",
+		"id":129,
 		"news_title":" JD Cloud Develops Strategic Partnership with VSTECS  for Opportunities to Go Abroad"
 	},
 	{
@@ -188,7 +188,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/2433a5a0-4f4d-424d-8ca9-adfb15496f1120180906155831.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_130",
 		"jss_key":"en/News_Content_130",
-		"id":"130",
+		"id":130,
 		"news_title":" Seagate and JD Cloud Establish Comprehensive Strategic Partnership"
 	},
 	{
@@ -196,7 +196,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/ac40bc8c-6b06-40c8-ab08-4a1dd62f027c20180907182847.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_131",
 		"jss_key":"en/News_Content_131",
-		"id":"131",
+		"id":131,
 		"news_title":" JD Cloud Joins Hands with Xiangtan Universities to Get Through the “Last Kilometer” of Industry and Education Integration"
 	},
 	{
@@ -204,7 +204,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/136b80e7-e069-4ec9-bdd5-7015aa50e5a820180928191030.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_355",
 		"jss_key":"en/News_Content_355",
-		"id":"355",
+		"id":355,
 		"news_title":"IDC: Government Affairs Cloud of JD Cloud Ranking Top 5 Market Share in China in 2017"
 	},
 	{
@@ -212,7 +212,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/0412d951-c3a0-40be-a912-4a6763b6381e20180928192311.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_357",
 		"jss_key":"en/News_Content_357",
-		"id":"357",
+		"id":357,
 		"news_title":"Open the New Chapter of Digitalization Develops in Shanxi· Wining Future by Intelligence with Datong by Working with JD Cloud"
 	},
 	{
@@ -220,7 +220,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/25ba258e-bba0-4a79-bc6c-39510fa5fecc20180928195314.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_358",
 		"jss_key":"en/News_Content_358",
-		"id":"358",
+		"id":358,
 		"news_title":"CDN Technical Service Capacity Ranking the First Class JD Cloud and Qihoo 360 Jointly Perform “JD-Qihoo\" Cloud"
 	},
 	{
@@ -228,7 +228,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/13a0e3ff-2fd0-4a02-8ac5-08e794f8518c20180928200907.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_359",
 		"jss_key":"en/News_Content_359",
-		"id":"359",
+		"id":359,
 		"news_title":"Convening of JD Cloud Partner Conference 2018 Opened a New Era of Cloud Ecological Cooperation"
 	},
 	{
@@ -236,7 +236,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/6e461bed-b360-414b-b4b3-76aebab87ef520180929114738.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_360",
 		"jss_key":"en/News_Content_360",
-		"id":"360",
+		"id":360,
 		"news_title":"Opening of E-commerce Startup Championship of Undergraduates in Chuzhou Leading \"Youth on Cloud\""
 	},
 	{
@@ -244,7 +244,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/95a160c4-6a08-4ce5-aae3-92b887b6f89c20181018191549.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_367",
 		"jss_key":"en/News_Content_367",
-		"id":"367",
+		"id":367,
 		"news_title":"JD Cloud Empowerment Local Industrial Development Investment Attraction Exchange Meeting of Chuzhou Series has completed successfully."
 	},
 	{
@@ -252,7 +252,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/97725c56-3af4-4706-b184-391ecf0bd96720181022154229.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_368",
 		"jss_key":"en/News_Content_368",
-		"id":"368",
+		"id":368,
 		"news_title":"JD Cloud fully energizes large enterprises to realize digital transformation and helps two customers win IDC awards"
 	},
 	{
@@ -260,7 +260,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/b3312351-ab7f-475d-905a-bf61992efb5520181030150020.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_371",
 		"jss_key":"en/News_Content_371",
-		"id":"371",
+		"id":371,
 		"news_title":"The capabilities of JD Cloud CDN obtains wide acknowledgment  Capture another castle in the single month -- Cooperating with iQIYI"
 	},
 	{
@@ -268,7 +268,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/a92e47f6-60bd-46e9-93cd-7771389e91c420181101160746.png",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_372",
 		"jss_key":"en/News_Content_372",
-		"id":"372",
+		"id":372,
 		"news_title":"Two-way Empowerment and Sustainable Development, Presenting on the E-commerce Trade Expo in Xi’an"
 	},
 	{
@@ -276,7 +276,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/2283d435-f5f4-4146-905b-150bd0b2df3720181101164108.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_373",
 		"jss_key":"en/News_Content_373",
-		"id":"373",
+		"id":373,
 		"news_title":"JD Cloud and Synology Release Brand New Object Storage Service solutions, Establishing New Standards for NAS multicloud backup."
 	},
 	{
@@ -284,7 +284,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/ef79162a-6abb-4f9c-9cef-e71c99f128ef20181109165959.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_377",
 		"jss_key":"en/News_Content_377",
-		"id":"377",
+		"id":377,
 		"news_title":"The \"Internet +\" telescope of JD Cloud was awarded by \"CES 2019 Innovation Awards\". Explore the vast sky with your cellphone"
 	},
 	{
@@ -292,15 +292,16 @@
 		"image_url":"//img1.jcloudcs.com/cms/bf815b5e-8ecd-4406-8e81-95261fc6cdec20181114141103.png",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_378",
 		"jss_key":"en/News_Content_378",
-		"id":"378",
+		"id":378,
 		"news_title":"Strategic Layout Intelligent Medical Health Industry  JD Cloud Cooperates with Ecologic Partners Specially for Solving the \"Difficulty in Receiving the Medical Care\""
 	},
 	{
 		"summary":"JD Cloud officially unveiled the application ecology strategy for its intelligent data visualization screen at the GFIC Global Family Internet Conference 2018.",
 		"image_url":"//img1.jcloudcs.com/cms/108d4975-323a-4857-a4ff-78cd04dc342f20181114153430.png",
+		"channel_agent":"JD Cloud",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_379",
 		"jss_key":"en/News_Content_379",
-		"id":"379",
+		"id":379,
 		"news_title":"JD Cloud: application ecology reconstructed the value of data visualization screen"
 	},
 	{
@@ -308,7 +309,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/7f6ed291-43df-4212-8a24-a8bab7c3066220181114161759.png",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_380",
 		"jss_key":"en/News_Content_380",
-		"id":"380",
+		"id":380,
 		"news_title":"Fang Cloud obtained the joint strategic investment of JD Cloud and My Data Visualization Screen, and the powerful combination accelerated the construction enterprise service ecology"
 	},
 	{
@@ -316,7 +317,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/c98dec7c-9fc0-45c0-a1ef-64385d40b06d20181114163238.png",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_381",
 		"jss_key":"en/News_Content_381",
-		"id":"381",
+		"id":381,
 		"news_title":"JD Cloud product lines are enriched continuously and high speed JCS for Memcached was released"
 	},
 	{
@@ -324,7 +325,7 @@
 		"image_url":"//img1.jcloudcs.com/cms/15fc137e-2065-46f9-8b0d-69a58e5b55b420181114171038.jpg",
 		"jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/News_Content_382",
 		"jss_key":"en/News_Content_382",
-		"id":"382",
+		"id":382,
 		"news_title":"JD Cloud released JCS for Elasticsearch and helped mass data search analysis"
 	}
 ]
