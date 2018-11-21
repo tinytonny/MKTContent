@@ -1,22 +1,22 @@
 [
 	{
 		"txt":"{\"instruction\":[{\"explain\":\"Free Experience\",\"explainLink\":\"http://ocr.jdcloud.com/#/ocrLicense\"}],\"imageUrl\":\"//img1.jcloudcs.com/cms/f464195c-dde4-4948-ab6f-9758634c462320180419122537.jpg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|54\",\"iconUrl\":\"&#xe762;\",\"label\":[{\"TitleName\":\"Try Now\",\"TitleUrl\":\"https://cognitive-console.jdcloud.com/console/html/list.html\"},{\"TitleName\":\"Business Cooperation\",\"TitleUrl\":\"http://ocr.jdcloud.com/#/partner\"}],\"sectionClstag\":\"Products|keycount|SectionBannerSec|54\",\"desc\":\"Optical Character Recognition (OCR) Service can analyze and recognize text data in image files to obtain text content in the image.  For business license, name card and other scenarios, it can analyze the names, company names and other fields for customers to facilitate data entry.\"}",
-		"id":"131"
+		"id":131
 	},
 	{
 		"txt":"[{\"proGood\":\"Diversified Customer Scenarios\",\"proName\":\"It not only can recognize the certificate information accurately and quickly, but also can recognize the card-certificate information. Moreover, there is the common OCR technology to recognize the business license or the general text information of any layout.\"},{\"proGood\":\"High-precision Identification\",\"proName\":\"With a large number of sample data used, the accumulated training and the high-precision recognition of pictures and texts, the accuracy of the industry-leading deep learning technology has reached the industry-leading level.\"},{\"proGood\":\"Stable Service\",\"proName\":\"It provides API services based on JD Cloud; the background server is featured by stable operation, rapid response and big storage; with smooth network communication, it contentiously provides stable services.\"},{\"proGood\":\"Multi-service Integration\",\"proName\":\"It can optimize products and integrate other products of JD Cloud according to the users’ requirements, including face recognition, anti-porn, BI statement, user profiling etc.\"}]",
-		"id":"132"
+		"id":132
 	},
 	{
 		"txt":"[{\"funcContent\":[{\"funcP\":\"Upload the picture of ID card and extract the information such as ID number, address, name, gender and so on from the picture.\",\"funcTitle\":\"ID Identification\"},{\"funcP\":\"Uploading the driving license picture and extracting the owner, license plate number, vehicle types, addresses and other information from the picture.\",\"funcTitle\":\"Driving License Identification\"},{\"funcP\":\"Upload the picture of driver's license and extract the information such as name, address, ID number, date of birth and so on from the picture.\",\"funcTitle\":\"Driver's License Identification\"},{\"funcP\":\"Uploading a passport picture and extracting the name, passport number, nationality, license date, and other information from the picture.\",\"funcTitle\":\"Passport Identification\"}],\"funcName\":\"Character recognition service of certificate type\"},{\"funcContent\":[{\"funcP\":\"Upload the picture of bank card and extract the information such as bank card number, bank name and so on from the picture.\",\"funcTitle\":\"Bank Card Identification\"},{\"funcP\":\"Upload the picture of business card and extract the information such as name, company name, mobile phone number, address and so on from the picture.\",\"funcTitle\":\"Business Card Recognition\"}],\"funcName\":\"Character Recognition Service for Cards and Certificates\"},{\"funcContent\":[{\"funcP\":\"Upload the picture of business license and extract the information such as company name, type, business scope and so on from the picture.\",\"funcTitle\":\"Business License Identification\"},{\"funcP\":\"Upload the picture, locate the text area in the picture and extract the text information.\",\"funcTitle\":\"Universal Text Recognition\"}],\"funcName\":\"Universal Character Recognition Service\"}]",
-		"id":"133"
+		"id":133
 	},
 	{
 		"txt":"[{\"instruction\":\"Identify driver’s licenses, driving permits, business cards, ID cards, business licenses and the like, and quickly extract fields to help users quickly enter text messages in batches. And through face recognition, it can determine whether multiple certificates of a user are for the same person.\",\"langId\":95,\"name\":\"Certificate Identification\",\"picUrl\":\"\",\"selectedProduct\":[]},{\"instruction\":\"The user can utilize Character Recognition OCR Server to accurately obtain the verbal content in the appointed picture, and quickly identify those exaggerated, politically sensitive and pornographic characters in the picture by making a comparative analysis on the prohibited keywords, so as to assist the administrator in content audit and control.\",\"langId\":150,\"name\":\"Prohibited Character Recognition\",\"picUrl\":\"\",\"selectedProduct\":[]}]",
-		"id":"134"
+		"id":134
 	},
 	{
 		"txt":"{\"operatingClasstag\":\"Products|keycount|MiddleContentSec|54\",\"price\":\"//www.jdcloud.com/help/detail/979/isCatalog/1\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|54\"}",
-		"id":"135"
+		"id":135
 	}
 ]
