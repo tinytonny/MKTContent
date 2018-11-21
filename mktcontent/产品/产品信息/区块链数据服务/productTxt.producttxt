@@ -1,18 +1,18 @@
 [
 	{
 		"txt":"{\"imageUrl\":\"//img1.jcloudcs.com/cms/bfd111ea-c803-4e83-b0e6-84472c6f5b5720180809163509.jpg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|89\",\"iconUrl\":\"\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|89\",\"desc\":\"Block Chain Data Service is a data storage and analysis service built by JD Cloud based on public block chain. Compared with non-structuralization and discreteness of public block chain raw data, block chain data service structurally stores public block chain raw data into high-performance database services to facilitate reading, analysis and monitoring of data.\"}",
-		"id":"258"
+		"id":258
 	},
 	{
 		"txt":"[{\"proGood\":\"High Usability\",\"proName\":\"Full BTC, ETH and other public chain data, one-key synchronization;\"},{\"proGood\":\"Easy to Analyze\",\"proName\":\"Structural storage of public chain data, easy to analyze;\"},{\"proGood\":\"Easy to Maintain\",\"proName\":\"Multidimensional monitoring, customized warning to reduce operation and maintenance costs;\"}]",
-		"id":"259"
+		"id":259
 	},
 	{
 		"txt":"[{\"funcContent\":[{\"funcP\":\"Full BTC and ETH main chain data, which is synchronized in real time to the availability relational database instance.\",\"funcTitle\":\"Data Synchronization\"}],\"funcName\":\"Easy to Analyze\"},{\"funcContent\":[{\"funcP\":\"Provide real-time monitoring and automatic warning functions for all indicators of instances to reduce users’ operation and maintenance costs.\",\"funcTitle\":\"Convenient Operation and Maintenance \"}],\"funcName\":\"High Usability\"}]",
-		"id":"260"
+		"id":260
 	},
 	{
 		"txt":"[{\"instruction\":\"JD Cloud Block Chain Data Service makes deep analysis on the block data, transaction data and contract data of public chains in real time, providing the digital currency exchanges with abnormal transaction monitoring, public chain operating analysis and risk contract identification. \",\"langId\":244,\"name\":\"Digital Currency Exchange\",\"picUrl\":\"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/95687f8c-e687-4d39-ac3d-9d79d9059b6c20180809162945.png\",\"selectedProduct\":[]},{\"instruction\":\"JD Cloud Block Chain Data Service makes deep analysis on the account data, transaction data and block data of public chains in real time, providing the financial analysis institutions with transaction mapping analysis, block trade monitoring and financial trend forecasting.\",\"langId\":245,\"name\":\"Financial Analysis Organization\",\"picUrl\":\"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/0012d82a-4753-4208-bf6d-95237231e25c20180809163030.png\",\"selectedProduct\":[]}]",
-		"id":"261"
+		"id":261
 	}
 ]
