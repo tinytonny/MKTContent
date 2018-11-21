@@ -7,7 +7,7 @@
 		"name":"JD Cloud forging Suqian E-government Cloud Intelligent Big Data Center",
 		"channel_agent":"Government Cloud",
 		"customer_income":"<br/>1)\t Promoting intensive construction and operation and maintenance of government information projects \n under the environment of Suqian Municipal Cloud Data Center, the government can hand over information technology resources to professional service providers for management. JD Cloud provides the required information technology infrastructure, hardware and software resources, and information services. It can bring two major benefits to the relevant government departments: First, the government does not need to invest in the establishment of data centers and large computer rooms, purchase servers and storage devices, etc., thereby greatly saving construction costs; second, the information hardware and software resources are handed over to professional cloud service providers for management, and the government no longer burdens information system maintenance and upgrades, saving operation and maintenance costs. \n<br/>2)\t Improving the efficiency of local e-government deployment \n Suqian Municipal Affairs Cloud Big Data Center is highly flexible. When the government implements new e-government projects, it does not need to purchase additional hardware and software, but apply the existing cloud infrastructure to quickly deploy systems and increase the speed of e-government applications. Developers build and deploy applications on a single platform, greatly improving the efficiency of information system deployment. \n<br/>3)\t Reducing the difficulty of information sharing and business collaboration\n For a long time, E-government of local government has a problem of decentralized resources. Cloud computing can technically reduce the difficulty of information sharing and business collaboration. Through the Suqian Municipal Cloud Platform, government departments can share the corresponding infrastructure to achieve software and hardware sharing between government systems, improve the efficiency of e-government information sharing, and expand the scope of information sharing.",
-		"id":"1",
+		"id":1,
 		"solution_jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/Customer_Case_Solution1",
 		"solution_jss_key":"en/Customer_Case_Solution1"
 	},
@@ -19,7 +19,7 @@
 		"name":"JD Cloud cooperated with Shouxian County to forge the “Internet +” industrial park.",
 		"channel_agent":"Government Cloud",
 		"customer_income":"With professional information technology service capabilities, operational experience and resources in the field of e-commerce, JD Cloud can provide information technology support and services in commodity sale for the People's Government of Shouxian, so as to promote the successful transformation of local enterprises in internet plus, improve the local economic structure, and promote the improvement of the economic and living standards of people in Shouxian County. The specific benefits include: \n<br/>1)\t Application acceleration is in combination with caching technology to improve response speed \n In order to deal with the request delay caused by high concurrency, JD Cloud increases the response speed by overwriting distributed content of the CDN nodes nationwide, and in the meantime, it reduces database access pressure and improves user experience in line with the Redis request to cache data.\n<br/>2)\t The problems of resource capacity enlargement and cost control during peak periods have been effectively dealt with: \n JD Cloud relies on the Auto Scaling of cloud computing resources to enlarge the capacity of the system flexibly, so as to ensure the high availability of services and respond to business peaks at the lowest cost. \n<br/>3)\t Reliable security protection ensures the security of business \n JD Cloud provides professional DDoS protection and application protection to protect the security of the business furthest. \n<br/>4)\t Powerful and sufficient cloud resources can ensure the stability, performance and reliability of infrastructure \n<br/>5)\t Different operator networks are provided to ensure the full coverage of community networks and smooth use of users",
-		"id":"2",
+		"id":2,
 		"solution_jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/Customer_Case_Solution2",
 		"solution_jss_key":"en/Customer_Case_Solution2"
 	},
@@ -31,7 +31,7 @@
 		"name":"JD Cloud Enabling 3C Double-11 racing business",
 		"channel_agent":"E-commerce",
 		"customer_income":"The racing business created by JD Cloud can help enterprises achieve cost reduction and efficiency improvement, and achieve the following benefits: \n<br/>(1)\t The high-quality and specialized service can help users to focus on their own business instead of technology, entrusting the specialized technology to a professional team, thereby greatly reducing project risks and shortening the project delivery cycle. \n<br/>(2)\t Through the JD Cloud+JOS exclusive platform, it can push out the JD Double 11 activity in real time (with a refreshing frequency of <10s) safely and compliantly and achieve safe and reliable access, and feed back information in real time, realizing a user marketing closed loop. \n<br/>(3)\t Provided with an all-round dual-flexible architecture, it can ensure business continuity, stable and reliable system, and worry-free business. \n<br/>(4)\t Based on an on-demand architecture adjustment and flexible security strategy, it can easily realize high-availability architecture changes and security policy implementation from dual subnets to multiple subnets in one day. \n<br/>(5)\t With full environmental monitoring and automatic warning, and through global monitoring, it can greatly reduce the operation and maintenance workload and improve efficiency.",
-		"id":"3",
+		"id":3,
 		"solution_jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/Customer_Case_Solution3",
 		"solution_jss_key":"en/Customer_Case_Solution3"
 	},
@@ -43,7 +43,7 @@
 		"name":"JD Cloud helped AsiaInfo Data establish the big data cloud platform",
 		"channel_agent":"Big Data",
 		"customer_income":"AsiaInfo builds a big data PaaS platform through JD Cloud, which can realize cost reduction and operational efficiency improvement for an enterprise, and achieve the following benefits: \n<br/>1)\t based on JD Cloud basic cloud platform service, it can help customers free themselves from heavy maintenance work, saving a lot of platform construction investment and labor costs; \n<br/>2)\t relying on JD Cloud platform can improve data protection services and resources rapid scaling capability, effectively guaranteeing customers’ business continuity and ability to respond to unexpected business, and helping customers realize business innovation and performance growth; \n<br/>3)\t, in virtue of JD Cloud resource monitoring system, it is able to fully and visually display the running status of the cloud platform, providing decision support for handling faults and emergencies, and significantly improving the ability of continuous operation of the AsiaInfo data system; \n<br/>4)\t, through the three-dimensional security system of JD Cloud, it has laid the foundation for multi-level, all-around security protection on the AsiaInfo data cloud; \n<br/>5)\t, by means of the primary sub-account function, it can establish different cloud resource access rights for management personnel, and realize hierarchical management of rights according to the authorization policy.",
-		"id":"4",
+		"id":4,
 		"solution_jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/Customer_Case_Solution4",
 		"solution_jss_key":"en/Customer_Case_Solution4"
 	},
@@ -55,7 +55,7 @@
 		"name":"JD Cloud helped Kingdee establish mixed cloud",
 		"channel_agent":"Big Data",
 		"customer_income":"Kingdee develops a dynamic hybrid cloud through JD Cloud so as to reduce enterprise costs, and greatly improve efficiency. Benefits are as follows: \n<br/>1)\t Protect the original investment and reduce future investment in hardware: \n\t Kingdee purchased relevant hardware before, so it has protected the previous hardware investment through managed cloud service; \n\t JD Cloud's flexible scalability and on-demand payment can help Kingdee save its costs; \n\t Through the unified operation and maintenance management platform, tasks including resources monitoring and batch deployment can be completed quickly to reduce management costs. \n<br/>2)\t Ensure business continuity: \n\t The high stability of JD Cloud is taken to ensure the production environment of Kingdee; \n\t We provide Kingdee customers with a remote active-active mode in different places through interconnected inter-provincial and municipal data centers of JD Cloud to correspond to single data center disaster or planned maintenance and support business continuity; \n\t Rapid adjustment and expansion of resources respond to unexpected services and backup for disaster recovery. \n<br/>3)\t Tunnel technology is adopted to build high-speed connectivity in different places: \n\t Kingdee's production environments are deployed on public cloud in two places. High-speed network connection is constructed by using tunnel technology, and core data is deployed on managed cloud so as to realize the dual activity of the business system in different places; \n\t If public cloud and managed cloud are seamlessly connected to each other, the flexibility of the public cloud can be obtained and the data security can be protected furthest. \n<br/>4)\t Authority is graded so as to realize different management for dissimilar services: \n\t On the basis of the functions of primary/sub-account number, the management authority of different businesses is graded and assigned to the management personnel of dissimilar businesses to customize authorization policies in accordance with customer scenario of the business.",
-		"id":"5",
+		"id":5,
 		"solution_jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/Customer_Case_Solution5",
 		"solution_jss_key":"en/Customer_Case_Solution5"
 	},
@@ -67,7 +67,7 @@
 		"name":"JD Cloud cooperated with Ele-Cloud to forge an integral “Internet tax” cloud platform.",
 		"channel_agent":"Big Data",
 		"customer_income":"Based on big data and cloud computing technology, Ele-Cloud has built an integrated application cloud platform for electronic invoice and invoice management, so as to improve the operating efficiency of enterprises and reduce the cost for using invoices. \n<br/>1)\t Application acceleration is in combination with caching technology to improve response speed: \n In order to deal with the request delay caused by high concurrency, JD Cloud increases the response speed by overwriting distributed content of the CDN nodes nationwide, and in the meantime, it reduces database access pressure and improves user experience in line with the Redis request to cache data. \n<br/>2)\t The problems of resource capacity enlargement and cost control during peak periods have been effectively dealt with: \n Aiming at meeting the extremely great deal of concurrent peak access, JD Cloud relies on the Auto Scaling of cloud computing resources to enlarge the capacity of the system flexibly, so as to ensure the high availability of business and respond to business peaks at the lowest cost. \n<br/>3)\t Reliable security protection ensures the security of business: \n JD Cloud provides professional DDoS protection and application protection so as to protect the security of the business furthest. \n<br/>4)\t Different operator networks are supplied to ensure smooth access of users: \n We provide BGP network access for customers to ensure each user can have an experience in different regions. \t\n<br/>5)\t We connect with a large number of data centers to effectively guarantee data security and disaster tolerance: \n Dedicated lines are used to achieve disaster tolerance and backup of remote data centers so as to effectively ensure business continuity and data security.",
-		"id":"6",
+		"id":6,
 		"solution_jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/Customer_Case_Solution6",
 		"solution_jss_key":"en/Customer_Case_Solution6"
 	},
@@ -79,7 +79,7 @@
 		"name":"JD Cloud cooperated with SuperMap to establish the “cloud map information sharing cloud platform”.",
 		"channel_agent":"Big Data",
 		"customer_income":"With the help of SuperMap Online platform, SuperMap continuously gathers solutions, applications and services from all industries, and provides more deep-seated services for them by using big data mining technology, professional content and a virtuous circle sharing mechanism. Based on cloud computing and big data technology, JD Cloud supports the VM of the SuperMap online GIS platform and provides support for caching, capacity enlargement, security, operation and maintenance, etc. The values created for customers include: \n<br/>1)\t Application acceleration is in combination with caching technology to improve response speed: \n In order to deal with the request delay caused by high concurrency, JD Cloud increases the response speed by overwriting distributed content of the CDN nodes nationwide, and in the meantime, it reduces database access pressure and improves user experience in line with the Redis request to cache data. \n<br/>2)\t The problems of resource capacity enlargement and cost control during peak periods have been effectively dealt with: \n Aiming at meeting the extremely great deal of concurrent peak access, JD Cloud relies on the Auto Scaling of cloud computing resources to enlarge the capacity of the system flexibly so as to ensure the high availability of business and respond to business peaks at the lowest cost. \n<br/>3)\t Reliable security protection ensures the security of business: \n JD Cloud provides professional DDoS protection and application protection so as to protect the security of the business furthest. \n<br/>4)\t Different operator networks are supplied to ensure smooth access of users: \n We provide BGP network access for customers to ensure each user can have an experience in different regions. \t\n<br/>5)\t We connect with a large number of data centers to effectively guarantee data security and disaster tolerance: \n Dedicated lines are used to achieve disaster tolerance and backup of remote data centers so as to effectively ensure business continuity and data security.",
-		"id":"7",
+		"id":7,
 		"solution_jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/Customer_Case_Solution7",
 		"solution_jss_key":"en/Customer_Case_Solution7"
 	},
@@ -91,7 +91,7 @@
 		"name":"Hardware E-mall in China South City",
 		"channel_agent":"E-commerce",
 		"customer_income":"JD Cloud and ChinaSouthCity, with the hardware industry as an opportunity, based on the advantages of ChinaSouthCity in the industry, carry out the exclusive cooperation in the industry, and combine the advantages of both sides to create a new mode of specialized market development. Fully combine the resource advantage of ChinaSouthCity as the brand owner and distributor in the industry to explore a new mode to use suppliers to create self-operated B2B. At the same time, a good foundation is laid for the follow-up cooperation between the two parties to create a B2B integrated business ecosystem.",
-		"id":"9",
+		"id":9,
 		"solution_jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/Customer_Case_Solution9",
 		"solution_jss_key":"en/Customer_Case_Solution9"
 	},
@@ -103,7 +103,7 @@
 		"name":"Bulk commodity group-buying E-commerce platform of China Railway Materials Co., Ltd.",
 		"channel_agent":"E-commerce",
 		"customer_income":"1.Group-purchase E-commerce Platform for Bulk Commodity of China Railway Materials Company Limited is a B2B e-commerce platform based on JD Cloud computing technology, providing domestic enterprises with public services such as bulk commodity information presentation, transaction matching, supply chain finance, logistics, etc.; <br/>\n2. By means of the establishment of the platform, JD Cloud assists China Railway Materials Company Limited in successfully realizing the internet-based transformation from traditional offline business to online B2B business, and applying cloud computing technology to enterprise information construction for the first time, which creates a new way for the agglomeration and effective utilization of social resources.",
-		"id":"10",
+		"id":10,
 		"solution_jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/Customer_Case_Solution10",
 		"solution_jss_key":"en/Customer_Case_Solution10"
 	},
@@ -115,7 +115,7 @@
 		"name":"Baozheng Packaging – one-stop packaging solution",
 		"channel_agent":"E-commerce",
 		"customer_income":"1.By establishing an E-Commerce platform, it has integrated many domestic and foreign packaging enterprise resources to provide online one-stop purchase and distribution services, and improved the information matching and transaction efficiency of the industry. <br/>\n2. Based on the  E-Commerce platform, by integrating the resources of industry operation, sales, design and other aspects, it has been capable of offering the customized service of C2M, expanded the scope of sales, improved the overall income of the industry, and created more service value to packaging-related industrial chain units;",
-		"id":"11",
+		"id":11,
 		"solution_jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/Customer_Case_Solution11",
 		"solution_jss_key":"en/Customer_Case_Solution11"
 	},
@@ -127,7 +127,7 @@
 		"name":"Guangjin Building Materials in Shunde District, Guangdong Province",
 		"channel_agent":"E-commerce",
 		"customer_income":"1. Industrial competitiveness: Shunde ranks first in the home building materials industry <br/>\n2. User experience: Becoming the preferred choice for users <br/>\n3. Internet + and O2O regional benchmarks",
-		"id":"12",
+		"id":12,
 		"solution_jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/Customer_Case_Solution12",
 		"solution_jss_key":"en/Customer_Case_Solution12"
 	},
@@ -139,7 +139,7 @@
 		"name":"Jingsha Shoe City in Zhengzhou City, Henan Province",
 		"channel_agent":"E-commerce",
 		"customer_income":"1. From the display platform to the trading platform; <br/>\n2. Industrial competitiveness: Multi-link services including information, trading, finance and logistics <br/>\n3. User experience: Connecting merchant services <br/>\n4. Internet + B2B2C benchmark",
-		"id":"13",
+		"id":13,
 		"solution_jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/Customer_Case_Solution13",
 		"solution_jss_key":"en/Customer_Case_Solution13"
 	},
@@ -151,7 +151,7 @@
 		"name":"JD Cloud multicloud helps Weconex build big transportation ecology",
 		"channel_agent":"Big Data",
 		"customer_income":"1. Business innovation: Based on cloud service provided by JD Cloud and combined with big data, artificial intelligence (AI), mobile informatization, NFC (Near Field Communication technology), TSM (Trusted Service Manager platform) and other key technologies, Weconex has developed \"DeerTrip™\" App to provide solution for cross-border traffic integration. \"DeerTrip™\" has integrated public transportation service for 4 provinces and 50 cities such as Guangdong, Jiangsu, Shaanxi and He'nan, which provide 300 million users with global public transportation travel service interface, multiple cross-border payment methods, destination information service, multiple countries AI customer service, etc. At present, JD Cloud helps Weconex improve service efficiency by 300%, reaching 95% of customer satisfaction. \n<br/>2. High management efficiency: The cloud service provided by JD Cloud facilitates Weconex to have more powerful management capability, which implements remote synchronization management, sharing, and backup for various businesses. Weconex can cooperate with different enterprises and even different industries both internally and externally. \n<br/>3. Saving cost: The cloud service provided by JD Cloud helps Weconex reduce its device cost, avoiding expenditure of purchasing a large number of IT devices, renting machine rooms and cabinets. The human cost also has been cut down, because Weconex dosen't need to provide staff for maintenance while JD Cloud provides professional staff to perform maintenance and operation management. \n<br/>4. Enhance competitiveness: JD Cloud helps Weconex free itself from fussy server deployment and maintenance and enables it to focus on its businesses with more energy.",
-		"id":"161",
+		"id":161,
 		"solution_jss_url":"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/Customer_Case_Solution161",
 		"solution_jss_key":"en/Customer_Case_Solution161"
 	}
