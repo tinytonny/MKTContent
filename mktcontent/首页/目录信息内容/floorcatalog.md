@@ -324,7 +324,7 @@
 		"button_title":"Sign Up Now"
 	},
 	{
-		"name":"The\"Internet +\" Telescope of JD Cloud Won the \"CES 2019 Innovation Award\" (November 9)",
+		"name":"The \"Internet +\" Telescope of JD Cloud Won the \"CES 2019 Innovation Award\" (November 9)",
 		"description":"An \"Internet +\" Telescope based on the cutting-edge technology of JD Cloud Computing, was included in the list of the CES 2019 Innovation Awards, winning the \"Innovative Product Award\". This \"funny thing\" enabled JD to have a good start at its first participation in CES Exhibition.",
 		"id":66,
 		"button_title":"Awards"
