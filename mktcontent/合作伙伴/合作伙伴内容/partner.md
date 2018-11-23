@@ -161,7 +161,7 @@
 	},
 	{
 		"name":"Shenzhen Qicai Technology Co., Ltd.",
-		"description":"COMIX.com.cn is owned by COMIX Group (stock code: 002301) mainly as a B2B one-stop procurement and service platform aiming at the procurement and service needs of enterprise users to provide “hardware + software + service” for terminal enterprise users based on the operation mode of platform operator + O2O. \n",
+		"description":"COMIX.com.cn is owned by COMIX Group (stock code: 002301) mainly as a B2B one-stop procurement and service platform aiming at the procurement and service needs of enterprise users to provide “hardware + software + service” for terminal enterprise users based on the operation mode of platform operator + O2O.\n",
 		"short_name":"17cai.com",
 		"id":21,
 		"partner_label":"Enterprise one-stop purchase and service platform",
@@ -185,7 +185,7 @@
 	},
 	{
 		"name":"Beijing Yuanding Technology Co., Ltd.",
-		"description":"Yuanding Technology (Stock Code: 831126) is committed to building the leading IT integrated service platform in China. Relying on IT resources, enterprise-class customers, Internet innovation and capital venture capital, it builds a larger IT Internet ecosystem to fully meet customer needs for IT construction \n",
+		"description":"Yuanding Technology (Stock Code: 831126) is committed to building the leading IT integrated service platform in China. Relying on IT resources, enterprise-class customers, Internet innovation and capital venture capital, it builds a larger IT Internet ecosystem to fully meet customer needs for IT construction\n",
 		"short_name":"Yuanding Technology",
 		"id":24,
 		"partner_label":"An Internet company engaged in IT business",
@@ -361,7 +361,7 @@
 	},
 	{
 		"name":"Fujian TECHFISH Co., Ltd.",
-		"description":"TECHFISH was established in 2016, which has become an innovative technology enterprise focusing on providing comprehensive IT services for customers through the strategic transformation from the mainstream to the frontier. The enterprise makes full use of new technologies such as artificial intelligence, cloud computing and big data to aggregate products and solutions required by enterprise informatization so as to build a service platform for enterprise informatization integration. ",
+		"description":"TECHFISH was established in 2016, which has become an innovative technology enterprise focusing on providing comprehensive IT services for customers through the strategic transformation from the mainstream to the frontier. The enterprise makes full use of new technologies such as artificial intelligence, cloud computing and big data to aggregate products and solutions required by enterprise informatization so as to build a service platform for enterprise informatization integration.",
 		"short_name":"TECHFISH",
 		"id":592,
 		"partner_label":"Solution Provider",

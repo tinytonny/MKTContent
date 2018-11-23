@@ -212,7 +212,7 @@
 		"product_type":"Database",
 		"id":47,
 		"type":"1",
-		"product_name":"JCS for Percona"
+		"product_name":"Cloud Database Percona Service"
 	},
 	{
 		"product_type":"Middleware",
@@ -241,7 +241,7 @@
 		"product_type":"Elastic Compute",
 		"id":613,
 		"type":"1",
-		"product_name":"GPU Virtual Machine"
+		"product_name":"GPU Virtual Machines"
 	},
 	{
 		"product_type":"Cloud Security",

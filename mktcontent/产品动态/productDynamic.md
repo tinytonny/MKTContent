@@ -49,7 +49,7 @@
 	},
 	{
 		"product_type":"Computing and Network",
-		"fun_description":"CentOS 7.1 64-bit images is supported in North China, South China, East China and Hong Kong region to enrich the type of operating system.",
+		"fun_description":"CentOS 7.1 64-bit images is support in North China, South China, East China and Hong Kong region, which can enrich the type of operating system type.",
 		"id":7,
 		"fun_introduce":"CentOS 7.1 64-bit images is support in North China, South China, East China and Hong Kong region, which can enrich the type of operating system",
 		"product_name":"Virtual Machines",
@@ -68,7 +68,7 @@
 		"fun_description":"Obtain the address of download link and perform the operation of download at backup and Binlog page through the console of cloud database. Users can automatically backup the policy by custom settings in order to avoid the time point when the cloud database’s load is high and to execute the automatic backup policy at appropriate time nodes to improve the cloud database’s backup efficiency.",
 		"id":9,
 		"fun_introduce":"Cloud Database’s console provides backup download - BinLog Download and the users can customize the settings of the feature regarding automatic backup policy",
-		"product_name":"JCS for MySQL",
+		"product_name":"JCS for  MySQL",
 		"fun_name":"Backup Download and BinLog Download"
 	},
 	{
@@ -108,7 +108,7 @@
 		"fun_description":"Cloud database is the stable and reliable relational database cloud service provided by JD Cloud. Compared with traditional database, it is easy to deploy, manage and expand. It supports master-slave hot standby architecture by default and provides complete solutions, such as data backup, fault recovery and monitoring, etc., which can completely solve the troubles of database’s operation and maintenance.",
 		"id":14,
 		"fun_introduce":"JD Cloud’s cloud database is officially opened to the public. It can be selected by the users in South China, East China and North China.",
-		"product_name":"JCS for MySQL",
+		"product_name":"JCS for  MySQL",
 		"fun_name":"Cloud Database is officially online"
 	},
 	{
@@ -209,7 +209,7 @@
 	},
 	{
 		"product_type":"Computing and Network",
-		"fun_description":"CentOS 5.8 64-bit images is supported in North China, South China, East China and Hong Kong region to enrich the type of operating system.",
+		"fun_description":"CentOS 5.8 64-bit images is support in North China, South China, East China and Hong Kong region, which can enrich the type of operating system type.",
 		"id":27,
 		"fun_introduce":"CentOS 5.8 64-bit images is support in North China, South China, East China and Hong Kong region, which can enrich the type of operating system",
 		"product_name":"Virtual Machines",
@@ -225,7 +225,7 @@
 	},
 	{
 		"product_type":"Computing and Network",
-		"fun_description":"CentOS 7.2 64-bit images is supported in North China, South China, East China and Hong Kong region to enrich the type of operating system.",
+		"fun_description":"CentOS 7.2 64-bit images is support in North China, South China, East China and Hong Kong region, which can enrich the type of operating system type.",
 		"id":29,
 		"fun_introduce":"CentOS 7.2 64-bit images is support in North China, South China, East China and Hong Kong region, which can enrich the type of operating system",
 		"product_name":"Virtual Machines",
@@ -233,7 +233,7 @@
 	},
 	{
 		"product_type":"Computing and Network",
-		"fun_description":"CentOS 7.3 64-bit images is supported in North China, South China, East China and Hong Kong region to enrich the type of operating system.",
+		"fun_description":"CentOS 7.3 64-bit images is support in North China, South China, East China and Hong Kong region, which can enrich the type of operating system type.",
 		"id":30,
 		"fun_introduce":"CentOS 7.3 64-bit images is support in North China, South China, East China and Hong Kong region, which can enrich the type of operating system",
 		"product_name":"Virtual Machines",
@@ -243,13 +243,13 @@
 		"product_type":"Computing and Network",
 		"fun_description":"In North China, East China, South China and Hong Kong, Monthly Package prices are reduced by 26% at most; Pay By Configuration pricing is cut down by 54% at most; \n",
 		"id":31,
-		"fun_introduce":"JD Cloud’s Virtual Machines, Cloud Disk Service and Elastic IP cut down price to bring maximum profits to our users.",
+		"fun_introduce":"JD Cloud’s Virtual Machines, Cloud Disk Service and Elastic IP cut down the price to bring maximum profits to our users。",
 		"product_name":"Virtual Machines",
 		"fun_name":"The Virtual Machines cut down the prices permanently with 54% drop"
 	},
 	{
 		"product_type":"Computing and Network",
-		"fun_description":"CentOS 6.6 64-bit images is supported in North China, South China, East China and Hong Kong region to enrich the type of operating system.",
+		"fun_description":"CentOS 6.6 64-bit images is support in North China, South China, East China and Hong Kong region, which can enrich the type of operating system type.",
 		"id":32,
 		"fun_introduce":"CentOS 6.6 64-bit images is support in North China, South China, East China and Hong Kong region, which can enrich the type of operating system",
 		"product_name":"Virtual Machines",
@@ -379,7 +379,7 @@
 		"product_type":"Computing and Network",
 		"fun_description":"Product line of Virtual Machines adds massive memory specifications: 76-core 1532GB matching with Intel's latest generation processor and the exclusive underlying computing resources can meet the application deployments asking for high requirements and dependence regarding memory capacity, memory operations and data’s computation rates.",
 		"id":49,
-		"fun_introduce":"The Virtual Machines with massive memory are launched in domestic for the first time                     ",
+		"fun_introduce":"The Virtual Machines with massive memory are launched in domestic for the first time",
 		"product_name":"Virtual Machines",
 		"fun_name":"The Virtual Machines with massive memory are online"
 	},
@@ -491,7 +491,7 @@
 		"product_type":"Computing and Network",
 		"fun_description":"Listening and forwarding based on 7-layer HTTPS agreement is supported; at the same time, uploading and management of SSL certificate is supported, besides multi-level SSL certificates is supported.",
 		"id":69,
-		"fun_introduce":"Load Balancer supports HTTPS protocol",
+		"fun_introduce":"Load Balancer Supports HTTPS Protocol",
 		"product_name":"Load Balancer",
 		"fun_name":"Load Balancer Supports HTTPS Protocol"
 	},
@@ -505,7 +505,7 @@
 	},
 	{
 		"product_type":"Database and Storage",
-		"fun_description":" Support universal domain name configuration management and business usage query; support CDN access Log Download; support the Pay-As-You-Go mode.",
+		"fun_description":" Support the management of extensive-domain-name’s configuration and query of business usage; support the CDN access Log Download; support the billing mode of Pay-As-You-Go。",
 		"id":71,
 		"fun_introduce":"Support the management of extensive-domain-name’s configuration and query of business usage; support the CDN access Log Download; support the billing mode of Pay-As-You-Go",
 		"product_name":"CDN",
@@ -540,7 +540,7 @@
 		"fun_description":"SQL Server service is online and publicly tested. Users can create and manage SQL Server’s instances, databases, accounts & permissions and backups AND can monitor the database in multiple dimensions.",
 		"id":75,
 		"fun_introduce":"The users can apply for free open-beta test",
-		"product_name":"JCS for SQL Server",
+		"product_name":"Cloud Database JCS for SQL Server",
 		"fun_name":"SQL Server service is online for open-beta test"
 	},
 	{
@@ -611,7 +611,7 @@
 		"product_type":"Computing and Network",
 		"fun_description":"The settlement cycle of Virtual Machines Pay By Configuration is adjusted from one day to one hour, and settled by the hour.",
 		"id":87,
-		"fun_introduce":"The settlement interval of the pay-by-configuration Virtual Machines is adjusted to one hour",
+		"fun_introduce":"Settlement interval of the Virtual Machines whose billing are calculated by configuration is adjusted one hour",
 		"product_name":"Virtual Machines",
 		"fun_name":"Settlement interval of the Virtual Machines whose billing are calculated by configuration is adjusted"
 	},
@@ -620,7 +620,7 @@
 		"fun_description":"It is mainly used in the protection scenarios with high-traffic DDoS attack, such as finance, game and E-commerce websites. When the users are under DDoS attacks, malicious attack traffic can be effectively filtered and the normal operation of the website can be ensured through the purchase of advanced anti-website service.",
 		"id":88,
 		"fun_introduce":"The paid value-added protection service coping with the condition that the website suffers from heavy traffic DDoS attacks",
-		"product_name":"Anti-DDoS Pro of network",
+		"product_name":"Anti-DDoS Pro for Website",
 		"fun_name":"Advanced anti-website is online"
 	},
 	{
@@ -652,7 +652,7 @@
 		"fun_description":"The users can enjoy cloud database’s stability and efficiency by “transferring” the offline database to the cloud through the following three steps: \n1. Backup local database; \n2. Upload database’s backup files to JD Cloud; \n3. Restore the uploaded file to the cloud database. \n",
 		"id":92,
 		"fun_introduce":"Migrate the offline database of SQL server to JD Cloud database through recovering the backup of database",
-		"product_name":"JCS for SQL Server",
+		"product_name":"Cloud Database JCS for SQL Server",
 		"fun_name":"SQL Server supports the operation of \"moving\" the library on the cloud"
 	},
 	{
@@ -660,7 +660,7 @@
 		"fun_description":"Built on the basis of different data centers, the multi-availability zone of JD Cloud is a multi-availability zone which is really and completely isolated from power, network and other physical facilities, and thus can bear the fault at the computer-room level and further improve the high availability and high reliability.",
 		"id":93,
 		"fun_introduce":"Cloud Database, such as MySQL service and SQL Server, etc. support the deployment in different availability zones",
-		"product_name":"JCS for MySQL",
+		"product_name":"JCS for  MySQL",
 		"fun_name":"Database’s and storage’s all products support the deployment in different availability zones"
 	},
 	{
@@ -668,7 +668,7 @@
 		"fun_description":"Built on the basis of different data centers, the multi-availability zone of JD Cloud is a multi-availability zone which is really and completely isolated from power, network and other physical facilities, and thus can bear the fault at the computer-room level and further improve the reliability.",
 		"id":94,
 		"fun_introduce":"Deploy master-slave instances in different availability zones can improve data’s reliability.",
-		"product_name":"JCS for SQL Server",
+		"product_name":"Cloud Database JCS for SQL Server",
 		"fun_name":"SQL Ser service supports the deployment in different availability zones"
 	},
 	{
@@ -689,7 +689,7 @@
 	},
 	{
 		"product_type":"Database and Storage",
-		"fun_description":"Cloud Redis adjust the settlement cycle to 1 hour Pay By Configuration billing resource",
+		"fun_description":"Cloud Redis adjust the settlement cycle to 1 hour according to the configured billing resource",
 		"id":97,
 		"fun_introduce":"Cloud Redis adjust the settlement cycle to 1 hour according to the configured billing resource",
 		"product_name":"Redis",
@@ -833,7 +833,7 @@
 	},
 	{
 		"product_type":"Storage and CDN",
-		"fun_description":"The AES128 method is used to encrypt and encode the data uploaded by the user on the server side to ensure the user data security",
+		"fun_description":"The AES128 method is used to encrypt and encode the data uploaded by the users on the server side to ensure the user data security",
 		"id":115,
 		"fun_introduce":"The AES128 method is used to encrypt and encode the data uploaded by the users on the server side to ensure the user data security",
 		"product_name":"Object Storage Service",
@@ -899,7 +899,7 @@
 		"product_type":"Storage and CDN",
 		"fun_description":"With JD Cloud Object Storage Service as the source station, it can Associate the customized domain name and use the customized domain name to access the resource",
 		"id":123,
-		"fun_introduce":"With JD Cloud Object Storage Service as the source station, it can associate the customized domain name and use the customized domain name to access the resource",
+		"fun_introduce":"With JD Cloud Object Storage Service as the source station, it can Associate the customized domain name and use the customized domain name to access the resource",
 		"product_name":"Object Storage Service",
 		"fun_name":"User-defined domain name is online"
 	},
@@ -921,7 +921,7 @@
 	},
 	{
 		"product_type":"Storage and CDN",
-		"fun_description":"It can flexibly configure different users' operating permissions for the files and directories under the bucket",
+		"fun_description":"It can to flexibly configure different users' operating permissions for the files and directories under the bucket",
 		"id":126,
 		"fun_introduce":"It can to flexibly configure different users' operating permissions for the files and directories under the bucket",
 		"product_name":"Object Storage Service",
@@ -971,13 +971,13 @@
 		"product_type":"Storage and CDN",
 		"fun_description":"It can to migrate the data from local, AWS, Alibaba Cloud, Tencent Cloud, Baidu Cloud, Qiniu Cloud and etc. to JD Cloud Object Storage Service",
 		"id":132,
-		"fun_introduce":"It can migrate the data from local, AWS, Alibaba Cloud, Tencent Cloud, Baidu Cloud, Qiniu Cloud and etc. to JD Cloud Object Storage Service",
+		"fun_introduce":"It can to migrate the data from local, AWS, Alibaba Cloud, Tencent Cloud, Baidu Cloud, Qiniu Cloud and etc. to JD Cloud Object Storage Service",
 		"product_name":"Object Storage Service",
 		"fun_name":"Migration tool of Object Storage Service’s data is online"
 	},
 	{
 		"product_type":"Storage and CDN",
-		"fun_description":"The Object Storage Service CDN return source traffic price is cut down by 52%, and the storage capacity price is cut down by 12%",
+		"fun_description":"The Object Storage Service CDN back-to-source traffic price is cut down by 52%, and the storage capacity price is cut down by 12%",
 		"id":133,
 		"fun_introduce":"The Object Storage Service CDN back-to-source traffic price is cut down by 52%, and the storage capacity price is cut down by 12%",
 		"product_name":"Object Storage Service",
@@ -1017,7 +1017,7 @@
 	},
 	{
 		"product_type":"Database",
-		"fun_description":"JCS for MongoDB provides the feature of creating backup. Users can create new MongoDB instances based on a certain backup’s point data. \n",
+		"fun_description":"JCS for MongoDB provides the feature of creating backup. Users can create new MongoDB instances based on a certain backup’s point data.\n",
 		"id":138,
 		"fun_introduce":"JCS for MongoDB provides the feature of creating backup. Users can create new MongoDB instances based on a certain backup’s point data.",
 		"product_name":"JCS for MongoDB",
@@ -1065,7 +1065,7 @@
 	},
 	{
 		"product_type":"Computing and Network",
-		"fun_description":"When a Virtual Machine is created, it supports selecting the existing snapshots to create a Cloud Disk Service and Attach it with the host; if the selected private image contains the data disk snapshot information, it will configure the data disk automatically according to the information in the image, and support adjustments. \n",
+		"fun_description":"When a Virtual Machine is created, it supports selecting the existing snapshots to create a Cloud Disk Service and Attach it with the host; if the selected private image contains the data disk snapshot information, it will configure the data disk automatically according to the information in the image, and support adjustments.\n",
 		"id":144,
 		"fun_introduce":"When the created Virtual Machines add data disk, it can create the data disk based on the existing cloud disk snapshot with attachment performed",
 		"product_name":"Virtual Machines",
@@ -1105,7 +1105,7 @@
 	},
 	{
 		"product_type":"Elastic Compute",
-		"fun_description":"Windows Server operating system supports KMS (Key Management Service) activation, Windows Server Virtual Machines legitimate activation is no longer dependent on public network, and it can still be activated when without associating EIP.",
+		"fun_description":"Windows Server operating system supports KMS (Key Management Service) activation, Windows Server Virtual Mac hines legitimate activation is no longer dependent on public network, and it can still be activated when without associating EIP.",
 		"id":150,
 		"fun_introduce":"All regions gradually launch KMS service activated by genuine Windows Server",
 		"product_name":"Virtual Machines",
@@ -1123,7 +1123,7 @@
 		"product_type":"Elastic Compute",
 		"fun_description":"The list page of the Console’s Virtual Machines supports the users to display the information items by custom settings, besides it can select focused information to display it in various Virtual Machines information.",
 		"id":152,
-		"fun_introduce":"Virtual Machines support Edit Columns",
+		"fun_introduce":"The Virtual Machines support Edit Columns",
 		"product_name":"Virtual Machines",
 		"fun_name":"The Virtual Machines support Edit Columns"
 	},
@@ -1141,14 +1141,14 @@
 		"id":154,
 		"fun_introduce":"The Availability Group is on official Beta",
 		"product_name":"Availability Group",
-		"fun_name":"Official Beta of Availability Group"
+		"fun_name":"The Availability Group is on official Beta"
 	},
 	{
 		"product_type":"Database",
-		"fun_description":"The cloud database Percona is a stable and reliable database service built by JD Cloud on the basis of the open source Percona 5.7 version. Compared with traditional databases, the cloud database Percona is easy to deploy, manage and expand. By default, it supports the master-slave hot standby architecture and provides complete solutions for data backup, fault recovery, monitoring and etc. to completely solve the problem in the operation and maintenance of database.",
+		"fun_description":"The Cloud Database Percona is a stable and reliable database service built by JD Cloud on the basis of the open source Percona 5.7 version. Compared with traditional databases, the Cloud Database Percona is easy to deploy, manage and expand. By default, it supports the master-slave hot standby architecture and provides complete solutions for data backup, fault recovery, monitoring and etc. to completely solve the problem in the operation and maintenance of database.",
 		"id":155,
-		"fun_introduce":"Compatible with MySQL protocol, with a more powerful engine",
-		"product_name":"JCS for Percona",
+		"fun_introduce":"Powerful Database Engine with Compatibility to MySQL Protocol",
+		"product_name":"Cloud Database Percona Service",
 		"fun_name":"Percona is officially online"
 	},
 	{
@@ -1156,7 +1156,7 @@
 		"fun_description":"When an instance has a problem with linking number or performance, you can manually restart the instance to try to solve the problem",
 		"id":156,
 		"fun_introduce":"Restart Instance",
-		"product_name":"JCS for MySQL",
+		"product_name":"JCS for  MySQL",
 		"fun_name":"Restart Instance"
 	},
 	{
@@ -1164,7 +1164,7 @@
 		"fun_description":"If it required to connect the local database management software with the MySQL Service, you can open the external network's access of JCS for MySQL",
 		"id":157,
 		"fun_introduce":"Support outer net’s access regarding Cloud Database",
-		"product_name":"JCS for MySQL",
+		"product_name":"JCS for  MySQL",
 		"fun_name":"Access of External Network"
 	},
 	{
@@ -1172,7 +1172,7 @@
 		"fun_description":"Feature of cloud database list supports the IAM by setting the IP segment. It also supports the IAM of a single IP Address by precise designation. It will be effective immediately after modification",
 		"id":158,
 		"fun_introduce":"Cloud Database’s security access is under control",
-		"product_name":"JCS for MySQL",
+		"product_name":"JCS for  MySQL",
 		"fun_name":"White List"
 	},
 	{
@@ -1180,7 +1180,7 @@
 		"fun_description":"Through cross-regional backup synchronization service, you can continuously back up the data in cloud database to a remote location and create new database instance based on backup data to meet the business scenarios such as remote backup for disaster recovery.",
 		"id":159,
 		"fun_introduce":"Cloud Database’s backup can perform synchronization regarding the real-time backup in different places",
-		"product_name":"JCS for MySQL",
+		"product_name":"JCS for  MySQL",
 		"fun_name":"Cross-regional backup can be synchronized"
 	},
 	{
@@ -1204,7 +1204,7 @@
 		"fun_description":"Feature of cloud database list supports the IAM by setting the IP segment. It also supports the IAM of a single IP Address by precise designation. It will be effective immediately after modification",
 		"id":163,
 		"fun_introduce":"Cloud Database’s security access is under control",
-		"product_name":"JCS for Percona",
+		"product_name":"Cloud Database Percona Service",
 		"fun_name":"White List"
 	},
 	{
@@ -1212,7 +1212,7 @@
 		"fun_description":"If it required to connect the local database management software with the Percona Service, you can open the external network's access of JCS for Percona.",
 		"id":164,
 		"fun_introduce":"Support outer net’s access regarding Cloud Database",
-		"product_name":"JCS for Percona",
+		"product_name":"Cloud Database Percona Service",
 		"fun_name":"Access of External Network"
 	},
 	{
@@ -1220,14 +1220,14 @@
 		"fun_description":"Products of Message Queue can provide a series of message cloud services with high-reliability, high-availability and high-processing performance, such as publication and subscription of messages, message queries and Dead Letter Queue. They are indispensable core products in the cloud architecture.",
 		"id":165,
 		"fun_introduce":"Provide distributed message queue service for JD Cloud’s users",
-		"product_name":"All",
+		"product_name":"Message Queue",
 		"fun_name":"Message Queue"
 	},
 	{
 		"product_type":"Networking",
 		"fun_description":"Load Balancer supports associating containers to distribute traffic as back-end services, supports containers to join a unified virtual server group for load sharing, and provides basic network architecture support for micro-services. \n",
 		"id":166,
-		"fun_introduce":"Load Balancer supports container",
+		"fun_introduce":"Load Balancer Supports Container",
 		"product_name":"Load Balancer",
 		"fun_name":"Load Balancer Supports Container"
 	},
@@ -1235,7 +1235,7 @@
 		"product_type":"Networking",
 		"fun_description":"Load Balancer supports the provision of back-end services through Availability Groups. Load Balancer back-end servers are distributed under different racks to avoid system failures due to single rack failures and support auto scaling of the number of back-end servers based on business load.",
 		"id":167,
-		"fun_introduce":"Load Balancer supports Availability Groups",
+		"fun_introduce":"Load Balancer Supports Availability Groups",
 		"product_name":"Load Balancer",
 		"fun_name":"Load Balancer Supports Availability Groups"
 	},
@@ -1243,15 +1243,15 @@
 		"product_type":"Networking",
 		"fun_description":"The original listening rules of Load Balancer are divided into two modules: listener and back-end service, which support the typical scenario of HTTP and HTTPs reusing back-end services.",
 		"id":168,
-		"fun_introduce":"Load Balancer architecture optimization",
+		"fun_introduce":"Load Balancer Architecture Optimization",
 		"product_name":"Load Balancer",
 		"fun_name":"Load Balancer Architecture Optimization"
 	},
 	{
 		"product_type":"Database",
-		"fun_description":"MariaDB Service is a stable and reliable database service built by JD Cloud based on the open source MariaDB 10.2 revision. Compared with traditional databases, the MariaDB Service is easy to deploy, manage and expand. By default, it supports the primary-secondary hot standby architecture and provides complete solutions such as data backup, fault recovery and monitoring to completely solve the problem of database operation and maintenance.",
+		"fun_description":"The JCS for MariaDB is a stable and reliable database service built by JD Cloud based on the open source MariaDB 10.2 version. Compared with traditional databases, the JCS for MariaDB is easy to deploy, manage and expand. It supports the primary-secondary hot standby architecture by default, and provides complete solutions such as data backup, fault recovery and monitoring to completely solve the problem of database operation and maintenance.",
 		"id":2041,
-		"fun_introduce":"Compatible with MySQL protocol, with a more powerful engine",
+		"fun_introduce":"Powerful Database Engine with Compatibility to MySQL Protocol",
 		"product_name":"JCS for MariaDB",
 		"fun_name":"Official Launch of MairaDB"
 	},
@@ -1268,7 +1268,7 @@
 		"fun_description":"RDS parameter groups allow the user to customize operation parameters of database instances and make adjustment as needed.",
 		"id":2043,
 		"fun_introduce":"Customized RDS Operation Parameters are Supported",
-		"product_name":"JCS for  Percona",
+		"product_name":"Cloud Database Percona Service",
 		"fun_name":"Parameter Set"
 	},
 	{
@@ -1284,7 +1284,7 @@
 		"fun_description":"Based on efficient computing service of GPU, it is applicable to artificial intelligence (AI), image processing and other multiple-field scenarios. It has real-time high speed, providing excellent concurrent computing and floating-point computing capabilities to quickly build heterogeneous computing applications.",
 		"id":2049,
 		"fun_introduce":"Open Beta Test of GPU Virtual Machine",
-		"product_name":"GPU Virtual Machine",
+		"product_name":"GPU Virtual Machines",
 		"fun_name":"Open Beta Test of GPU Virtual Machine"
 	},
 	{

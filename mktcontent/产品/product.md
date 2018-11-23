@@ -12,7 +12,7 @@
 		"id":6
 	},
 	{
-		"name":"JCS for MySQL",
+		"name":"JCS for  MySQL",
 		"id":7
 	},
 	{
@@ -60,7 +60,7 @@
 		"id":32
 	},
 	{
-		"name":"GPU VM",
+		"name":"GPU Virtual Machines",
 		"id":34
 	},
 	{
@@ -160,7 +160,7 @@
 		"id":76
 	},
 	{
-		"name":"Cloud Database Percona",
+		"name":"Cloud Database Percona Service",
 		"id":77
 	},
 	{
