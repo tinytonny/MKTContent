@@ -1448,5 +1448,10 @@
 		"name":"SaaS 集市",
 		"description":"国内领先的数据交易平台，拥有为您精选的数十款SaaS应用，久经市场检验。",
 		"id":3013
+	},
+	{
+		"name":"Oracle 上云",
+		"description":"",
+		"id":3014
 	}
 ]
