@@ -410,19 +410,9 @@
 		"id":192
 	},
 	{
-		"name":"快报用不展示",
+		"name":"其他",
 		"description":"",
 		"id":194
-	},
-	{
-		"name":"域名服务",
-		"description":"",
-		"id":195
-	},
-	{
-		"name":"备案服务",
-		"description":"",
-		"id":196
 	},
 	{
 		"name":"费用管理",
@@ -433,11 +423,6 @@
 		"name":"账户管理",
 		"description":"",
 		"id":198
-	},
-	{
-		"name":"热门活动",
-		"description":"",
-		"id":199
 	},
 	{
 		"name":"基础软件",
@@ -1453,5 +1438,10 @@
 		"name":"Oracle 上云",
 		"description":"",
 		"id":3014
+	},
+	{
+		"name":"函数服务",
+		"description":"",
+		"id":3019
 	}
 ]
