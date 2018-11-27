@@ -120,14 +120,6 @@
 		"news_title":"京东云战略投资EasyStack 发力布局企业云市场"
 	},
 	{
-		"summary":"sdfsdf",
-		"image_url":"//img1.jcloudcs.com/cms/21c2a7a4-c065-4432-a6c7-6f9ae8ede6c420180808110318.jpg",
-		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_122",
-		"jss_key":"News_Content_122",
-		"id":122,
-		"news_title":"test"
-	},
-	{
 		"summary":"京东云正式发布新版负载均衡产品。此次迭代更新，主要从功能增强和结构调整两个维度进行，实现产品功能、稳定性、可靠性等方面的大幅度提升。",
 		"image_url":"//img1.jcloudcs.com/cms/af865a3f-e05a-466c-815c-7cf8ee7d7f4420180808180305.jpg",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_123",
