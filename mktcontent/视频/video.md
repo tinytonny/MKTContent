@@ -10,7 +10,7 @@
 		"title":"The New is to test video information"
 	},
 	{
-		"description":"First, we need to solve an issue, i.e., why we shall set video tags. \n\n If this issue cannot be solved, the following issues you will also not value!\n\n \n\n First, each platform for uploading videos has the video tag option. Since the video platform provides you with the permission of setting video tag, it shows that its function is powerful; otherwise why such setting is provided? Have you thought about it? Never tell a story!\n\n \n\n Second, tag is the video recommendation provided by official platform for us",
+		"description":"",
 		"id":3,
 		"title":"http"
 	},
