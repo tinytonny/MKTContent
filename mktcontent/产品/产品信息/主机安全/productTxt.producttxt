@@ -1,14 +1,14 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"主机安全\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://hips-console.jdcloud.com/gz/safetyDogStatistics?dataCenter=bj_02\"}],\"desc\":\"主机安全是京东云为用户提供的云主机安全管理产品，采用轻量级安全防护进程实现主机风险实时监测、安全威胁及时预警，恶意入侵精准防护，有效提升主机安全防御能力，保障云主机业务安全。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/7352f134-9fd8-4121-bcfb-1a8eb1caacb220181115172336.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|45\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|45\"}",
-		"id":106
+		"txt":"{\"desc\":\"主机安全是京东云为用户提供的云主机安全管理产品，采用轻量级安全防护进程实现主机风险实时监测、安全威胁及时预警，恶意入侵精准防护，有效提升主机安全防御能力，保障云主机业务安全。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/b96fcb71-92d7-4f05-9ff1-d5e8e4f98b5920180419122347.jpg\",\"instruction\":\"[]\",\"label\":\"[{\\\"TitleName\\\":\\\"立即使用\\\",\\\"TitleUrl\\\":\\\"https://hips-console.jdcloud.com/gz/safetyDogStatistics?dataCenter=bj_02\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|45\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|45\"}",
+		"id":6167
 	},
 	{
 		"txt":"[{\"proGood\":\"主机风险可视化\",\"proName\":\"自动扫描识别业务系统存在安全风险，及时发现潜在安全威胁，形成多维度可视化安全分析报告全面掌握主机整体安全状况，及时优化和加固安全风险，提升主机安全防御能力。\"},{\"proGood\":\"精准实时防御\",\"proName\":\"基于多引擎检测技术实现对用户行为的异常检测和识别，实时准确发现暴力破解、异常登录等入侵行为，可快速响应拦截恶意入侵攻击行为，实时上报安全事件。\"},{\"proGood\":\"安全集中管理\",\"proName\":\"京东云用户通过京东云控制台实现主机的安全检测、防御配置、安全加固及安全事件的集中展示和告警，主机系统无任何操作界面。\"},{\"proGood\":\"自动化运维\",\"proName\":\"主机安全防护进程内置在云主机操作系统，启动云主机时自动加载主机安全防护功能，实现主机安全风险预警、恶意攻击行为实时拦截，采用一键式加载无需用户安装部署，自动化无值守运行，降低运维管理成本。\"}]",
-		"id":107
+		"id":6168
 	},
 	{
 		"txt":"[{\"funcContent\":[{\"funcP\":\"系统内置弱口令字典，根据字典规则对账号口令进行检测，通过云平台展示存在弱口令风险，提醒用户修改，避免系统账号被破解。\",\"funcTitle\":\"快速检测弱口令账号\"}],\"funcName\":\"弱口令检测\"},{\"funcContent\":[{\"funcP\":\"根据系统设置规则自动识别异常登录行为并预警，用户可以设置常用登录地区，当出现登录地址为非常用登录地，则产生告警记录，上报到云平台提醒用户存在异地登录风险。\",\"funcTitle\":\"准确识别异常登录地址\"}],\"funcName\":\"异常登录\"},{\"funcContent\":[{\"funcP\":\"包括远程登录暴力破、数据库防暴力破解、FTP防暴力破解，通过系统日志、网络数据包协议分析、端口等方式获取尝试暴力破解的IP，并判断其是否满足防护规则若满足规则，则进行拦截并上报云平台\",\"funcTitle\":\"有效阻断暴力破解行为\"}],\"funcName\":\"暴力破解\"},{\"funcContent\":[{\"funcP\":\"定期检测系统高危漏洞上报云主机漏洞详情，产品提供windows系统漏洞修复功能，Linux提供漏洞修复建议需手动完成漏洞修复。\",\"funcTitle\":\"定期检测系统高危漏洞上报漏洞详情，并提供漏洞修复和建议\"}],\"funcName\":\"高危漏洞检测\"}]",
-		"id":108
+		"id":6169
 	}
 ]
