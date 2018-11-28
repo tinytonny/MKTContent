@@ -1,22 +1,22 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"弹性网卡\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"//cns-console.jdcloud.com/host/eni/list\"}],\"desc\":\"弹性网卡是一种虚拟网络接口，您可以在云主机上绑定弹性网卡以使云主机接入不同网络。弹性网卡可以在构建业务流量分离、多业务承载以及网络高可用等应用场景时提供支持。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/c3e0bae9-8b64-4c76-885c-95cf73546b8820181115163650.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|84\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|84\"}",
-		"id":235
+		"txt":"{\"desc\":\"弹性网卡是一种虚拟网络接口，您可以在云主机上绑定弹性网卡以使云主机接入不同网络。弹性网卡可以在构建业务流量分离、多业务承载以及网络高可用等应用场景时提供支持。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/6c344d62-a6f8-44cb-84e3-11501c0e07fd20180625105421.jpg\",\"label\":\"[{\\\"TitleName\\\":\\\"立即使用\\\",\\\"TitleUrl\\\":\\\"//cns-console.jdcloud.com/host/eni/list\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|84\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|84\"}",
+		"id":6296
 	},
 	{
 		"txt":"[{\"proGood\":\"弹性插拔\",\"proName\":\"弹性网卡支持在云主机上弹性热插拔。京东云弹性网卡支持在云主机运行状态下弹性热插拔，保证业务在无中断状态下实现弹性网卡的增加与移除，方便您构建更加可靠的应用方案\\n\"},{\"proGood\":\"灵活复用\",\"proName\":\"云主机支持分配多块弹性网卡，每块弹性网卡支持分配多个内网IP地址。京东云弹性网卡支持分配多个内网IP地址，每个内网IP地址可以绑定一个公网IP地址，可满足单台云主机提供不同服务的应用场景\\n\"},{\"proGood\":\"业务分离\",\"proName\":\"不同弹性网卡可以分别承载内网、公网以及管理网业务流量。京东云云主机支持挂载私有网络内多个子网弹性网卡，不同弹性网卡承载不同业务流量，为满足虚拟网络设备以及业务流量分离等场景提供解决方案\\n\"},{\"proGood\":\"安全提升\",\"proName\":\"不同弹性网卡可以应用不同安全组策略。京东云弹性网卡提供网卡级安全组策略，不同弹性网卡根据业务流量特点可以应用不同安全组策略，实现对业务流量的精确管控，提升解决方案安全性\\n\"},{\"proGood\":\"容错可靠\",\"proName\":\"弹性网卡支持在不同可用区云主机之间动态迁移。京东云提供无可用区属性弹性网卡，支持弹性网卡在不同可用区云主机间动态迁移，实现可用区级的高可用方案，缩短故障时间，提升系统可靠性\\n\"}]",
-		"id":236
+		"id":6297
 	},
 	{
 		"txt":"[{\"funcContent\":[{\"funcP\":\"依据云主机实例规格，单台云主机最多支持绑定8块弹性网卡，弹性网卡可以分别属于同一私有网络下不同子网\",\"funcTitle\":\"多网卡\"},{\"funcP\":\"依据云主机实例规格，云主机每块弹性网卡最多支持分配21个内网IP地址，同一弹性网卡上所有内网IP地址属于同一子网\",\"funcTitle\":\"多内网IP\"},{\"funcP\":\"弹性网卡每分配1个内网IP地址，该内网IP地址可关联1个弹性公网IP地址\",\"funcTitle\":\"多公网IP\"}],\"funcName\":\"多网卡多IP\"},{\"funcContent\":[{\"funcP\":\"支持地域级属性弹性网卡，突破传统弹性网卡可用区限制，弹性网卡可在私有网络内不同可用区云主机间实现弹性迁移\",\"funcTitle\":\"地域级网卡\"},{\"funcP\":\"弹性网卡可在所属私有网络内云主机间实现灵活迁移，弹性网卡迁移时，保留已分配的内网IP地址、弹性公网IP地址以及安全组\",\"funcTitle\":\"灵活迁移\"}],\"funcName\":\"网卡迁移\"},{\"funcContent\":[{\"funcP\":\"支持网卡级安全策略控制，弹性网卡至多绑定5个安全组，实现对于业务流量的精确管控\",\"funcTitle\":\"独立安全策略\"},{\"funcP\":\"云主机可挂载多块弹性网卡，特定业务可由特定弹性网卡承载流量，不同弹性网卡分别应用安全组策略，可实现业务流量与安全策略的精准分离\",\"funcTitle\":\"业务流量分离\"}],\"funcName\":\"业务安全\"},{\"funcContent\":[{\"funcP\":\"云主机可挂载多块分属不同子网的弹性网卡，每个子网可独立设置访问控制策略与路由转发策略，从而实现用户业务与网络的安全隔离\",\"funcTitle\":\"子网路由\"},{\"funcP\":\"云主机内部可设置精细路由策略，特定类型业务流量可由特定弹性网卡或特定IP地址进行转发\",\"funcTitle\":\"主机路由\"}],\"funcName\":\"路由控制\"}]",
-		"id":237
+		"id":6298
 	},
 	{
-		"txt":"[{\"instruction\":\"弹性网卡多IP地址特性可以支持构建单台云主机部署多个互联网业务的场景。例如，用户在同一台云主机上提供多个基于HTTPS的Web业务，每个安全证书需要绑定特定IP地址。通过这种部署方式，可以大幅节约用户成本，并提升云主机的资源利用率。\",\"name\":\"云主机承载多个业务\",\"picUrl\":\"//img1.jcloudcs.com/cms/c907189a-f5e1-4e60-a72d-a2d7ba34c28d20180625200334.png\",\"selectedProduct\":[{\"name\":\"云主机\",\"url\":\"//console.jdcloud.com/host/compute/list\"},{\"name\":\"弹性网卡\",\"url\":\"//console.jdcloud.com/host/eni/list\"},{\"name\":\"弹性公网IP\",\"url\":\"//console.jdcloud.com/host/pip/list\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}},{\"instruction\":\"业务流量分离与网络隔离是弹性网卡最典型的应用场景之一。云主机可以挂载多块分属于同一私有网络内不同子网的弹性网卡，特定网卡分别承载云主机的内网、公网与管理网流量。子网可独立设置访问安全控制策略与路由策略，弹性网卡也可配置独立安全组策略，从而实现了网络隔离与业务流量分离。\",\"name\":\"云主机业务流量分离\",\"picUrl\":\"//img1.jcloudcs.com/cms/4bca004c-9618-4290-923d-23228ac9bc5d20180625200406.png\",\"selectedProduct\":[{\"name\":\"云主机\",\"url\":\"//console.jdcloud.com/host/compute/list\"},{\"name\":\"弹性网卡\",\"url\":\"//console.jdcloud.com/host/eni/list\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}},{\"instruction\":\"京东云提供无可用区属性弹性网卡，可为用户构建可用区级高可用解决方案提供有力支撑。基于keepalived工具，用户可以实现IP或网卡的故障切换。在特定场景下，用户的弹性网卡与安全设备策略以及安全证书强关联，在发生故障时，需要使用弹性网卡迁移；一般场景下，用户可以使用IP迁移实现故障切换。\",\"name\":\"云主机高可用性架构\",\"picUrl\":\"//img1.jcloudcs.com/cms/c522373c-1158-4c59-9fbd-0d1acef07c2420180625200431.png\",\"selectedProduct\":[{\"name\":\"云主机\",\"url\":\"//console.jdcloud.com/host/compute/list\"},{\"name\":\"弹性网卡\",\"url\":\"//console.jdcloud.com/host/eni/list\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]",
-		"id":238
+		"txt":"[{\"instruction\":\"弹性网卡多IP地址特性可以支持构建单台云主机部署多个互联网业务的场景。例如，用户在同一台云主机上提供多个基于HTTPS的Web业务，每个安全证书需要绑定特定IP地址。通过这种部署方式，可以大幅节约用户成本，并提升云主机的资源利用率。\",\"name\":\"云主机承载多个业务\",\"picUrl\":\"//img1.jcloudcs.com/cms/c907189a-f5e1-4e60-a72d-a2d7ba34c28d20180625200334.png\",\"selectedProduct\":[{\"name\":\"云主机\",\"url\":\"//console.jdcloud.com/host/compute/list\"},{\"name\":\"弹性网卡\",\"url\":\"//console.jdcloud.com/host/eni/list\"},{\"name\":\"弹性公网IP\",\"url\":\"//console.jdcloud.com/host/pip/list\"}]},{\"instruction\":\"业务流量分离与网络隔离是弹性网卡最典型的应用场景之一。云主机可以挂载多块分属于同一私有网络内不同子网的弹性网卡，特定网卡分别承载云主机的内网、公网与管理网流量。子网可独立设置访问安全控制策略与路由策略，弹性网卡也可配置独立安全组策略，从而实现了网络隔离与业务流量分离。\",\"name\":\"云主机业务流量分离\",\"picUrl\":\"//img1.jcloudcs.com/cms/4bca004c-9618-4290-923d-23228ac9bc5d20180625200406.png\",\"selectedProduct\":[{\"name\":\"云主机\",\"url\":\"//console.jdcloud.com/host/compute/list\"},{\"name\":\"弹性网卡\",\"url\":\"//console.jdcloud.com/host/eni/list\"}]},{\"instruction\":\"京东云提供无可用区属性弹性网卡，可为用户构建可用区级高可用解决方案提供有力支撑。基于keepalived工具，用户可以实现IP或网卡的故障切换。在特定场景下，用户的弹性网卡与安全设备策略以及安全证书强关联，在发生故障时，需要使用弹性网卡迁移；一般场景下，用户可以使用IP迁移实现故障切换。\",\"name\":\"云主机高可用性架构\",\"picUrl\":\"//img1.jcloudcs.com/cms/c522373c-1158-4c59-9fbd-0d1acef07c2420180625200431.png\",\"selectedProduct\":[{\"name\":\"云主机\",\"url\":\"//console.jdcloud.com/host/compute/list\"},{\"name\":\"弹性网卡\",\"url\":\"//console.jdcloud.com/host/eni/list\"}]}]",
+		"id":6299
 	},
 	{
 		"txt":"{\"operatingClasstag\":\"Products|keycount|MiddleContentSec|84\",\"price\":\"//docs.jdcloud.com/elastic-network-interface/billing-overview\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|84\"}",
-		"id":239
+		"id":6300
 	}
 ]
