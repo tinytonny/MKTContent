@@ -138,8 +138,8 @@
 		"button_title":"查看详情"
 	},
 	{
-		"name":"数据云",
-		"description":"结合京东“完善高质的数据链+丰富的业务场景+强大的数据分析能力”，京东云大数据处理引擎充分覆盖各行业大数据需求。京东云大数据专家团队将根据用户具体需求，提供丰富的解决方案。",
+		"name":"安全云",
+		"description":"结合京东云安全技术和最佳实践，提供合规、安全、稳定的云计算服务，保障用户数据和业务安全，让用户放心上云。",
 		"id":35,
 		"button_title":"查看详情"
 	},
@@ -324,14 +324,14 @@
 		"button_title":"立即注册"
 	},
 	{
-		"name":"与伟仕佳杰达成战略合作",
-		"description":"伟仕佳杰与京东云宣布建立战略合作伙伴关系。双方约定将进行资源互补，通力合作，共同推进云计算及相关业务在中国及海外市场的应用、推广和发展。\n",
+		"name":"“互联网+”望远镜获CES 2019创新",
+		"description":"一款基于京东云云计算前沿技术的“互联网+”望远镜，今天出现在了CES 2019创新大奖的榜单中——荣膺“创新产品奖”，这款“好玩的好物”也让首次参与CES大展的京东赢得开门红。",
 		"id":66,
-		"button_title":"战略合作"
+		"button_title":"获奖殊荣"
 	},
 	{
-		"name":"与希捷建立战略合作伙伴关系",
-		"description":"希捷与京东云建立全面战略合作伙伴关系，双方同意按照市场化原则在云计算、存储技术、电商等领域开展广泛而深入的全面战略合作，结合双方的优质技术与资源，共同开拓创新，促进双方战略合作目标的实现。",
+		"name":"京东云与群晖科技建立战略合作",
+		"description":"京东云宣布与Synology群晖科技建立战略合作，双方聚焦智能、安全的存储趋势发布全新解决方案，让用户兼顾本地存储性能和云上异地备份双重优点，打造快速、安全、稳定、低成本的异地备份。",
 		"id":68,
 		"button_title":"战略合作"
 	},
@@ -456,10 +456,10 @@
 		"button_title":"立即查看"
 	},
 	{
-		"name":"2018京东云合作伙伴大会召开",
-		"description":"“相加·创无限”2018京东云合作伙伴大会，发布京东云生态的核心理念、时代使命、最新进展。京东云携手英特尔、品友互动、希捷等众多合作伙伴齐聚一堂，共同探讨云生态发展趋势，共建云生态的美好蓝图。",
+		"name":"京东云CDN携手爱奇艺",
+		"description":"爱奇艺与京东云的CDN服务合作正式拉开了序幕，京东云将为爱奇艺的视频点播产品提供技术服务支撑。这也是继服务奇虎360旗下相关视频业务后，京东云在1个月签订的又一家重量级视频产品服务商。",
 		"id":101,
-		"button_title":"重要活动"
+		"button_title":"服务合作"
 	},
 	{
 		"name":"高可用组",
@@ -568,5 +568,233 @@
 		"description":"兼容 MySQL 协议，引擎功能更强大",
 		"id":119,
 		"button_title":"立即查看"
+	},
+	{
+		"name":"Kubernetes 集群",
+		"description":"采用管理节点全托管的方式，提供简单易用、高可靠、功能强大的容器管理服务",
+		"id":1260,
+		"button_title":"立即查看"
+	},
+	{
+		"name":"容器镜像仓库",
+		"description":"全托管的Docker镜像管理服务",
+		"id":1262,
+		"button_title":"立即查看"
+	},
+	{
+		"name":"云数据库 MariaDB",
+		"description":"兼容 MySQL 协议，引擎功能更强大",
+		"id":1264,
+		"button_title":""
+	},
+	{
+		"name":"分布式数据库 TiDB",
+		"description":"支持强一致事务的分布式数据库，兼容MySQL协议",
+		"id":1265,
+		"button_title":""
+	},
+	{
+		"name":"缓存 Memcached",
+		"description":"京东云缓存Memcached是京东云提供基于Memcached协议的高性能、内存级的Key-Value服务。",
+		"id":1267,
+		"button_title":""
+	},
+	{
+		"name":"分布式关系型数据库 DRDS",
+		"description":"自动分库分表的分布式数据库，兼容MySQL协议",
+		"id":1268,
+		"button_title":""
+	},
+	{
+		"name":"DDoS 防护包",
+		"description":"云内产品DDoS防护能力快速提升",
+		"id":1270,
+		"button_title":""
+	},
+	{
+		"name":"Web 应用防火墙",
+		"description":"识别web攻击威胁，提供web安全防护，为网站保驾护航",
+		"id":1272,
+		"button_title":""
+	},
+	{
+		"name":"安全咨询",
+		"description":"结合京东云的安全经验，为用户提供成熟的咨询服务",
+		"id":1275,
+		"button_title":""
+	},
+	{
+		"name":"数据集成",
+		"description":"高效、可靠、安全的一站式实时接入多数据源的同步平台",
+		"id":1277,
+		"button_title":""
+	},
+	{
+		"name":"数据大屏",
+		"description":"专业级数据大屏可视化服务",
+		"id":1279,
+		"button_title":""
+	},
+	{
+		"name":"视频服务",
+		"description":"",
+		"id":1281,
+		"button_title":""
+	},
+	{
+		"name":"视频直播",
+		"description":"低延迟、高可用、易接入的一站式视频直播服务　",
+		"id":1282,
+		"button_title":""
+	},
+	{
+		"name":"媒体处理服务",
+		"description":"为客户提供视频转码、截图、回调等多媒体文件处理服务",
+		"id":1283,
+		"button_title":""
+	},
+	{
+		"name":"专有云",
+		"description":"",
+		"id":1285,
+		"button_title":""
+	},
+	{
+		"name":"JDStack",
+		"description":"安全、合规、成熟、专业的企业级云平台",
+		"id":1287,
+		"button_title":""
+	},
+	{
+		"name":"NF1 ADC",
+		"description":"助力建立高性能、高可用的用户接入体系",
+		"id":1288,
+		"button_title":""
+	},
+	{
+		"name":"NeuHub人工智能",
+		"description":"",
+		"id":1291,
+		"button_title":""
+	},
+	{
+		"name":"模型训练",
+		"description":"利用算法平台快速打造智能业务",
+		"id":1292,
+		"button_title":""
+	},
+	{
+		"name":"NLP 分析",
+		"description":"文本分析与文本信息挖掘",
+		"id":1294,
+		"button_title":""
+	},
+	{
+		"name":"超融合数据中心",
+		"description":"",
+		"id":1296,
+		"button_title":""
+	},
+	{
+		"name":"云物理服务器",
+		"description":"独享高性能物理服务器租赁服务",
+		"id":1298,
+		"button_title":""
+	},
+	{
+		"name":"云托管服务",
+		"description":"提供 T3+ 优质机房，高可靠性电力及网络保障的托管服务",
+		"id":1300,
+		"button_title":""
+	},
+	{
+		"name":"GPU 云物理服务器",
+		"description":"独享高性能GPU物理服务器租赁服务",
+		"id":1303,
+		"button_title":""
+	},
+	{
+		"name":"互联网中间件",
+		"description":"",
+		"id":1305,
+		"button_title":""
+	},
+	{
+		"name":"消息队列 JCQ",
+		"description":"高可靠、高可用、高处理性能的消息中间件",
+		"id":1307,
+		"button_title":""
+	},
+	{
+		"name":"API 网关",
+		"description":"API网关，是API的托管服务。提供API的全生命周期管理，包含发布、管理、运行、维护、下线等。",
+		"id":1309,
+		"button_title":""
+	},
+	{
+		"name":"云搜索 Elasticsearch",
+		"description":"高可用、准实时的分布式全文搜索服务",
+		"id":1311,
+		"button_title":""
+	},
+	{
+		"name":"企业应用",
+		"description":"",
+		"id":1313,
+		"button_title":""
+	},
+	{
+		"name":"PLUS 企业邮箱",
+		"description":"为中小企业量身打造的一套企业办公邮箱系统。",
+		"id":1315,
+		"button_title":""
+	},
+	{
+		"name":"PLUS 企业云盘",
+		"description":"安全、易用的企业级文档管理平台。",
+		"id":1317,
+		"button_title":""
+	},
+	{
+		"name":"PLUS 云会议",
+		"description":"京东云PLUS云会议，是一款即买即用、简单易用、支持企业定制的SaaS化服务，为用户打造一站式音视频交互、数据共享平台。",
+		"id":1319,
+		"button_title":""
+	},
+	{
+		"name":"PLUS 智能短信",
+		"description":"为用户提供的开放通讯服务平台。支持短信验证码、短信通知以及营促销短信。",
+		"id":1321,
+		"button_title":""
+	},
+	{
+		"name":"云桌面",
+		"description":"安全、便捷的云上虚拟Windows桌面服务。",
+		"id":1323,
+		"button_title":""
+	},
+	{
+		"name":"开发者工具",
+		"description":"",
+		"id":1324,
+		"button_title":""
+	},
+	{
+		"name":"代码托管",
+		"description":"基于Git的代码托管工具",
+		"id":1326,
+		"button_title":""
+	},
+	{
+		"name":"云编译",
+		"description":"云编译服务为开发者提供基于容器的自动化持续集成服务。支持多语言构建环境，自动/手动触发任务，构建产出支持包/镜像，查看构建结果及日志。",
+		"id":1328,
+		"button_title":""
+	},
+	{
+		"name":"列式存储",
+		"description":"基于 Hadoop 且100%兼容HBase协议的高性能、可弹性伸缩、面向列的分布式数据库",
+		"id":1336,
+		"button_title":""
 	}
 ]
