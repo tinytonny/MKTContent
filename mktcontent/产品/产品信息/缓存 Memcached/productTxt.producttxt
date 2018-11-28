@@ -1,18 +1,18 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"缓存 Memcached\",\"label\":[{\"TitleName\":\"申请试用\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/memcached\"}],\"desc\":\"京东云缓存Memcached(JCS for Memcached)是京东云提供基于Memcached协议的高性能、内存级的Key-Value服务，适用于高速缓存的场景，提供即开即用、快速部署、轻松运维的全套服务，极大缓解对后端存储的压力，提高网站或应用的响应速度。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/263f14b5-cde3-4517-b5ae-ef88ef17573020181115165822.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|1122\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|1122\"}",
-		"id":315
+		"txt":"{\"desc\":\"京东云缓存Memcached(JCS for Memcached)是京东云提供基于Memcached协议的高性能、内存级的Key-Value服务，适用于高速缓存的场景，提供即开即用、快速部署、轻松运维的全套服务，极大缓解对后端存储的压力，提高网站或应用的响应速度。\",\"iconUrl\":\"\",\"imageUrl\":\"\",\"label\":\"[{\\\"TitleName\\\":\\\"申请试用\\\",\\\"TitleUrl\\\":\\\"https://www.jdcloud.com/public/testApply/memcached\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|1122\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|1122\"}",
+		"id":6376
 	},
 	{
 		"txt":"[{\"proGood\":\"一键部署\",\"proName\":\"一键部署，方便快捷。购买缓存Memcached即时可用，实现快速部署，无需关心硬件及软件\"},{\"proGood\":\"平滑扩容\",\"proName\":\"可根据使用情况弹性扩容，按需选择，按需升级，提高资源利用率，降低冗余费用\"},{\"proGood\":\"监控告警\",\"proName\":\"为用户提供多种类型的监控，包括如当前连接数、CPU使用率、 存储总字节数、命令使用等多种监控，可视化数据监控展示，用户可自定义监控项\"},{\"proGood\":\"低成本\",\"proName\":\"可轻松部署、运行和扩展缓存Memcached，无需机器安装和数据库部署运维等工作；提供资源监控、稳定性维护等功能，降低日常维护工作量\"}]",
-		"id":316
+		"id":6377
 	},
 	{
 		"txt":"[{\"funcContent\":[{\"funcP\":\"用户可轻松部署、运行和扩展缓存Memcached，无需机器安装和数据库部署运维等工作。缓存Memcached单机版实例规格支持1G、2G、4G、8G、16G、32G内存，用户可根据实际使用情况按需选择，按需升级，提高资源利用率，降低冗余费用\\n\",\"funcTitle\":\"平滑扩容 按需选择\"}],\"funcName\":\"简单易用\"},{\"funcContent\":[{\"funcP\":\"提供资源的运行状况和性能的监控、稳定性维护等功能，提前预警通知，降低日常维护工作量。实例运行在私有网络（VPC）中，增强了安全性和隔离性。提供了子网、访问控制策略等限制访问的功能\\n\",\"funcTitle\":\"全面监控 便捷运维\"}],\"funcName\":\"安全防护\"}]",
-		"id":317
+		"id":6378
 	},
 	{
-		"txt":"[{\"instruction\":\"大型促销秒杀系统，系统整体访问压力非常大。一般的数据库根本无法承载这样的读取压力，可选用缓存Memcached来进行快速读写，提高访问速率。\",\"name\":\"电商大型促销活动\",\"picUrl\":\"//img1.jcloudcs.com/cms/a0ad028a-57af-4511-bf19-5311174d887020180927193723.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}},{\"instruction\":\"游戏单区单服场景中，缓存Memcached可以作为缓存层，存储非角色类数据，如排行榜等。高性能的特性满足区服玩家需要快速访问数据的场景需求，您无需设计复杂的后端系统来应对高并发量。\",\"name\":\"游戏数据缓存\",\"picUrl\":\"//img1.jcloudcs.com/cms/8f601f23-364b-4bfc-af08-32f1c852444520180927193743.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}},{\"instruction\":\"社交应用需要引用大量的用户信息、好友信息等，如果这些功能全部直接跨表或跨库操作数据库，会带来极大的效率损耗和系统负载。您可以使用Memcached将这类数据全部缓存下来，可以极大程度提高访问速率。\",\"name\":\"社交应用\",\"picUrl\":\"//img1.jcloudcs.com/cms/b73e96ce-88ad-4daf-bd24-e53c02ed877e20180927193800.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]",
-		"id":318
+		"txt":"[{\"instruction\":\"大型促销秒杀系统，系统整体访问压力非常大。一般的数据库根本无法承载这样的读取压力，可选用缓存Memcached来进行快速读写，提高访问速率。\",\"name\":\"电商大型促销活动\",\"picUrl\":\"//img1.jcloudcs.com/cms/a0ad028a-57af-4511-bf19-5311174d887020180927193723.png\",\"selectedProduct\":[]},{\"instruction\":\"游戏单区单服场景中，缓存Memcached可以作为缓存层，存储非角色类数据，如排行榜等。高性能的特性满足区服玩家需要快速访问数据的场景需求，您无需设计复杂的后端系统来应对高并发量。\",\"name\":\"游戏数据缓存\",\"picUrl\":\"//img1.jcloudcs.com/cms/8f601f23-364b-4bfc-af08-32f1c852444520180927193743.png\",\"selectedProduct\":[]},{\"instruction\":\"社交应用需要引用大量的用户信息、好友信息等，如果这些功能全部直接跨表或跨库操作数据库，会带来极大的效率损耗和系统负载。您可以使用Memcached将这类数据全部缓存下来，可以极大程度提高访问速率。\",\"name\":\"社交应用\",\"picUrl\":\"//img1.jcloudcs.com/cms/b73e96ce-88ad-4daf-bd24-e53c02ed877e20180927193800.png\",\"selectedProduct\":[]}]",
+		"id":6379
 	}
 ]
