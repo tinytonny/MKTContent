@@ -1,18 +1,18 @@
 [
 	{
-		"txt":"{\"desc\":\"数据集成是京东云对外提供的高效、可靠、安全的一站式接入多数据源的同步平台。打通数据孤岛，进行跨异构数据存储系统的数据同步、离线搬运服务，对数据源提供全量/增量数据进出通道。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/87be2442-b2bd-4a83-bd0f-fc7946ef641e20180524145650.jpg\",\"label\":\"[{\\\"TitleName\\\":\\\"立即使用\\\",\\\"TitleUrl\\\":\\\"https://xdata.jdcloud.com/dataIntegration/connectionlist.html\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|75\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|75\"}",
-		"id":6264
+		"txt":"{\"instruction\":[],\"productName\":\"数据集成\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://xdata.jdcloud.com/dataIntegration/connectionlist.html\"}],\"desc\":\"数据集成是京东云对外提供的高效、可靠、安全的一站式接入多数据源的同步平台。打通数据孤岛，进行跨异构数据存储系统的数据同步、离线搬运服务，对数据源提供全量/增量数据进出通道。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/d0af4e12-262f-4ec5-8019-a49cd180060520181115174207.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|75\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|75\"}",
+		"id":203
 	},
 	{
 		"txt":"[{\"proGood\":\"丰富的数据源\",\"proName\":\"支持本地文件、关系型数据库、大数据存储、半结构化存储、NoSQL及消息队列(即将支持)之间的数据同步\"},{\"proGood\":\"数据同步能力可靠\",\"proName\":\"内建高效的数据搬运能力，面向搬运任务分配搬运资源，提供质量可靠的服务\"},{\"proGood\":\"调度策略和监控报警\",\"proName\":\"支持对同步任务周期性的调度功能，监控同步任务运行时的状况并发送通知告警\"},{\"proGood\":\"支持多种同步方式\",\"proName\":\"通过where条件设定时间变量参数配合调度策略实现增量数据同步\"}]",
-		"id":6265
+		"id":204
 	},
 	{
 		"txt":"[{\"funcContent\":[{\"funcP\":\"数据集成原生支持多种常见数据源，可对云上服务、用户本地环境不同数据源进行连接和数据采集，加速数据集成进程。目前支持云存储、云数据库、数据计算服务、SQL Server、Oracle、MySQL、DB2、FTP等服务\",\"funcTitle\":\"数据源连接\"}],\"funcName\":\"支持多种数据源\"},{\"funcContent\":[{\"funcP\":\"数据集成的数据同步支持从多个本地和云数据源间同步数据，支持用户全量、增量同步等不同的同步策略，可用于企业数据仓库的数据接入工作，对多源数据进行采集\",\"funcTitle\":\"批量、全量/增量同步\"},{\"funcP\":\"可以通过数据同步功能，将数据仓库中加工处理后的数据分发到生产系统支持在线业务，如数据库系统\",\"funcTitle\":\"数据分发\"}],\"funcName\":\"数据同步\"},{\"funcContent\":[{\"funcP\":\"数据集成支持定时任务处理、多时间维度(月、周、天、小时、分钟)的离线任务定时调度\",\"funcTitle\":\"周期任务调度\"},{\"funcP\":\"对任务运行结果通过预定义好的方式告知用户，用户可以按照自身的需求来配置告警规则\",\"funcTitle\":\"报警设置\"}],\"funcName\":\"调度&监控告警\"},{\"funcContent\":[{\"funcP\":\"整库迁移是数据集成提供的批量创建同步任务的快捷方式，可以快速完成将Mysql库内所有的表一并上传到数据计算服务中，大幅提升搬运能力\",\"funcTitle\":\"整库迁移\"}],\"funcName\":\"整库迁移\"}]",
-		"id":6266
+		"id":205
 	},
 	{
-		"txt":"[{\"instruction\":\"利用数据集成服务，企业可以快速、低成本地实施面向云数据库、对象存储、标准数据接口服务（JDBC适配的数据库/FTP服务等）的数据同步任务，通过调度任务的管理，企业可轻松实现数据仓库对不同数据来源的周期性数据接入。\",\"name\":\"云数据仓库的数据接入\",\"picUrl\":\"\",\"selectedProduct\":[]},{\"instruction\":\"数据集成提供了便捷的工具（Client客户端、SDK），方便用户在本地环境基于命令行/SDK方式将本地文件、本地数据库(mysql、oracle、sql server、DB2等)数据上传至云数据仓库（数据计算服务），也可利用该工具下载云数据仓库数据到本地的操作，大大降低企业本地数据上云的门槛。\",\"name\":\"本地数据迁移上云\",\"picUrl\":\"\",\"selectedProduct\":[]}]",
-		"id":6267
+		"txt":"[{\"instruction\":\"利用数据集成服务，企业可以快速、低成本地实施面向云数据库、对象存储、标准数据接口服务（JDBC适配的数据库/FTP服务等）的数据同步任务，通过调度任务的管理，企业可轻松实现数据仓库对不同数据来源的周期性数据接入。\",\"name\":\"云数据仓库的数据接入\",\"picUrl\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"数据集成提供了便捷的工具（Client客户端、SDK），方便用户在本地环境基于命令行/SDK方式将本地文件、本地数据库(mysql、oracle、sql server、DB2等)数据上传至云数据仓库（数据计算服务），也可利用该工具下载云数据仓库数据到本地的操作，大大降低企业本地数据上云的门槛。\",\"name\":\"本地数据迁移上云\",\"picUrl\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false}]",
+		"id":206
 	}
 ]
