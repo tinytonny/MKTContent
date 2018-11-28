@@ -1,14 +1,14 @@
 [
 	{
-		"txt":"{\"desc\":\"模型训练平台依托强大的分布式数据处理能力，内置丰富的算法模型，满足从原始数据到模型产出的一站式服务。同时通过拖拽组件可视化建模的方式，让用户在模型训练平台可快速打造智能业务。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/155242d2-c2f2-45b0-bbc0-65505440dda120180419122506.jpg\",\"instruction\":\"[]\",\"label\":\"[{\\\"TitleName\\\":\\\"立即使用\\\",\\\"TitleUrl\\\":\\\"https://aip-console.jcloud.com/algor/lab/index.html?dataCenter=bj_02\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|52\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|52\"}",
-		"id":6189
+		"txt":"{\"instruction\":[],\"productName\":\"模型训练\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://aip-console.jcloud.com/algor/lab/index.html?dataCenter=bj_02\"}],\"desc\":\"模型训练平台依托强大的分布式数据处理能力，内置丰富的算法模型，满足从原始数据到模型产出的一站式服务。同时通过拖拽组件可视化建模的方式，让用户在模型训练平台可快速打造智能业务。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/317d9ff1-b56f-4cc3-8d76-8a5c448ef34120181115172814.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|52\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|52\"}",
+		"id":128
 	},
 	{
 		"txt":"[{\"proGood\":\"易用性\",\"proName\":\"通过可视化拖拽组件的方式进行建模实验，将复杂的机器学习算法集成为算法组件，随意组合，只需简单参数调整即可构建模型，极大降低了使用门槛。\"},{\"proGood\":\"高效性\",\"proName\":\"除了高性能CPU之外，还集成了GPU，FPGA、HPC硬件并行加速；同时结合京东机器学习与大数据计算能力多年沉淀，给您极速体验。\"},{\"proGood\":\"组件化\",\"proName\":\"丰富的组件库，包含逻辑回归 （LR）、聚类Kmeans、支持向量机（SVM）, 卷积神经网络（CNN）,深度神经网络（DNN）、协同过滤（CF）等多种算法模型组件。\"},{\"proGood\":\"一站式\",\"proName\":\"集数据导入、数据预处理、模型训练、模型评估、模型发布等功能于一体，提供一站式全方位的建模流程，助您迅速完成建模。\"}]",
-		"id":6190
+		"id":129
 	},
 	{
-		"txt":"[{\"funcContent\":[{\"funcP\":\"算法、数据、模型组件化，通过拖拽组件灵活组合完成任务流搭建、构建模型。数据流通过组件之间连线传递，自动感知。组件输入输出，数据格式自动校验，智能提醒。\",\"funcTitle\":\"\"}],\"funcName\":\"简单易用的可视化建模\"},{\"funcContent\":[{\"funcP\":\"支持 TensorFlow、BigDL, Caffe、Xgboost等主流框架，内置CNN、DNN等多种成熟的深度学习算法，可应用于图片运算和自然语言处理等。\",\"funcTitle\":\"\"}],\"funcName\":\"丰富的组件库\"},{\"funcContent\":[{\"funcP\":\"一次建模实验支持构建多个拓扑模型结构同时运行；针对运行成功的节点不用反复执行，支持从任务流中间节点启动运行；支持任意运行版本的调出重新执行。\",\"funcTitle\":\"\"}],\"funcName\":\"灵活多变的运行模式\"}]",
-		"id":6191
+		"txt":"[{\"funcContent\":[{\"funcP\":\"算法、数据、模型组件化，通过拖拽组件灵活组合完成任务流搭建、构建模型。数据流通过组件之间连线传递，自动感知。组件输入输出，数据格式自动校验，智能提醒。\",\"funcTitle\":\"可视化建模\"}],\"funcName\":\"简单易用的可视化建模\"},{\"funcContent\":[{\"funcP\":\"支持 TensorFlow、BigDL, Caffe、Xgboost等主流框架，内置CNN、DNN等多种成熟的深度学习算法，可应用于图片运算和自然语言处理等。\",\"funcTitle\":\"多主流框架\"}],\"funcName\":\"丰富的组件库\"},{\"funcContent\":[{\"funcP\":\"一次建模实验支持构建多个拓扑模型结构同时运行；针对运行成功的节点不用反复执行，支持从任务流中间节点启动运行；支持任意运行版本的调出重新执行。\",\"funcTitle\":\"多种运行模式\"}],\"funcName\":\"灵活多变的运行模式\"}]",
+		"id":130
 	}
 ]
