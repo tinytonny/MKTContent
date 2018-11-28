@@ -832,8 +832,8 @@
 	},
 	{
 		"sub_title":"致力于海量数据搜索与分析",
-		"image_Url":"//img1.jcloudcs.com/cms/498c3deb-f599-4e6a-b292-ade380ec3dc420181026165145.png",
-		"dynamic_image":"//img1.jcloudcs.com/cms/9a93cd67-f6e4-4c73-85da-dc0c3f9612bd20181026165149.png",
+		"image_Url":"//img1.jcloudcs.com/cms/97bb4e81-f345-4b78-86c3-2865f14925d320181115212850.png",
+		"dynamic_image":"//img1.jcloudcs.com/cms/27ed56b1-3464-4af3-9eb3-159e8a79e1a920181115212858.png",
 		"name":"云搜索Elasticsearch",
 		"id":1031,
 		"button_title":"免费试用",
@@ -841,8 +841,8 @@
 	},
 	{
 		"sub_title":"融合威胁情报、动态行为检测、机器学习异常检测",
-		"image_Url":"//img1.jcloudcs.com/cms/2892fcda-60a0-4d64-9ebd-f39f96aec07020181029172004.png",
-		"dynamic_image":"//img1.jcloudcs.com/cms/db6f1930-9f4c-4228-920f-56d2a0206a5020181029172010.png",
+		"image_Url":"//img1.jcloudcs.com/cms/36338987-a6bb-4297-adca-c65771c5b6fb20181115212933.png",
+		"dynamic_image":"//img1.jcloudcs.com/cms/7127bcb5-ec7b-4549-aacb-46e51dcbdb6b20181115212943.png",
 		"name":"态势感知企业版开放公测",
 		"id":1033,
 		"button_title":"立即申请",
@@ -850,8 +850,8 @@
 	},
 	{
 		"sub_title":"公网IP不用换，快速提升京东云内服务的抗D能力",
-		"image_Url":"//oss.cn-north-1.jcloudcs.com/jcloud-test1/cms/56e64ef1-0a36-48f2-9652-175c23f4565f20181113160554.png",
-		"dynamic_image":"//oss.cn-north-1.jcloudcs.com/jcloud-test1/cms/92c3a115-1e04-4143-b35a-cfb10d7a105c20181113160618.png",
+		"image_Url":"//img1.jcloudcs.com/cms/3d20335e-5cf4-4836-a458-f254afb529bb20181115213033.png",
+		"dynamic_image":"//img1.jcloudcs.com/cms/d384c1b7-f0ae-4b54-8999-56d8315e9f1420181115213038.png",
 		"name":"DDoS防护包上线公测",
 		"id":1034,
 		"button_title":"查看详情",
@@ -869,8 +869,8 @@
 	},
 	{
 		"sub_title":"千条群发短信、3万京豆、百元代金券即领即送",
-		"image_Url":"//img1.jcloudcs.com/cms/4026bb0a-8022-4153-a4c4-8860ecd082b120181030170432.png",
-		"dynamic_image":"//img1.jcloudcs.com/cms/98eeaee0-5550-49d7-97bd-abbe2caa4c5020181030170436.png",
+		"image_Url":"//img1.jcloudcs.com/cms/01461228-bcab-4793-be2c-0d7b74741cf920181115213008.png",
+		"dynamic_image":"//img1.jcloudcs.com/cms/f9752d3f-7978-4148-b6bd-88c1090444db20181115213013.png",
 		"name":"1元限时领取价值500元会员大礼包",
 		"id":1038,
 		"button_title":"立即领取",
@@ -878,57 +878,11 @@
 	},
 	{
 		"sub_title":"10月30日-11月30日，云市场PLUS产品惠聚齐发",
-		"image_Url":"//oss.cn-north-1.jcloudcs.com/jcloud-test1/cms/a1399928-2fdb-4440-ad76-57e87c296e9620181113161211.png",
+		"image_Url":"//img1.jcloudcs.com/cms/f0d2d761-6da0-4c85-9eb9-f2203f4da24d20181115215851.png",
 		"name":"企惠购",
 		"id":1041,
 		"button_title":"查看详情",
 		"main_title":"11.11企惠购",
-		"backgroud_image":"//oss.cn-north-1.jcloudcs.com/jcloud-test1/cms/ec930d46-1bfc-4421-83f6-8c987cbdcbf020181113161100.jpg"
-	},
-	{
-		"sub_title":"test",
-		"image_Url":"//oss.cn-north-1.jcloudcs.com/jcloud-test1/cms/5b995b81-af99-43a3-a7ad-bd49b73bad4f20181113154234.png",
-		"dynamic_image":"//oss.cn-north-1.jcloudcs.com/jcloud-test1/cms/83d3245e-5cb5-4dff-9aef-2c9ee209d34920181113154240.png",
-		"name":"test",
-		"id":1044,
-		"button_title":"",
-		"main_title":"test",
-		"backgroud_image":"//oss.cn-north-1.jcloudcs.com/jcloud-test1/cms/83d3245e-5cb5-4dff-9aef-2c9ee209d34920181113154240.png"
-	},
-	{
-		"sub_title":"常规banner",
-		"image_Url":"//oss.cn-north-1.jcloudcs.com/jcloud-test1/cms/d0122556-5a9b-4f60-8b34-d6afbe7147f120181113155604.png",
-		"dynamic_image":"//oss.cn-north-1.jcloudcs.com/jcloud-test1/cms/13635cde-aa9c-4b0c-85a9-b037674d60be20181113155610.png",
-		"name":"test常规banner",
-		"id":1045,
-		"button_title":"",
-		"main_title":"常规banner"
-	},
-	{
-		"sub_title":"重复提交常规banner",
-		"image_Url":"//oss.cn-north-1.jcloudcs.com/jcloud-test1/cms/1ddf6d2b-cd2c-4307-83f2-8b9cae6b45cd20181113192938.png",
-		"dynamic_image":"//oss.cn-north-1.jcloudcs.com/jcloud-test1/cms/00e9d56d-be46-4592-894d-d22fb905283320181113192945.png",
-		"name":"重复提交常规banner",
-		"id":1046,
-		"button_title":"重复提交常规",
-		"main_title":"重复提交常规banner"
-	},
-	{
-		"sub_title":"测试专题banner",
-		"image_Url":"//oss.cn-north-1.jcloudcs.com/jcloud-test1/cms/ae0cfdab-cb99-4348-b254-533ff29ca32c20181114160742.png",
-		"name":"测试专题banner",
-		"id":1047,
-		"button_title":"测试专题",
-		"main_title":"测试专题banner",
-		"backgroud_image":"//oss.cn-north-1.jcloudcs.com/jcloud-test1/cms/8c6d47de-3ab4-4cf7-b8c6-aaea253a53a820181114105050.jpg"
-	},
-	{
-		"sub_title":"ceshi1114",
-		"image_Url":"//oss.cn-north-1.jcloudcs.com/jcloud-test1/cms/11ce2170-ca41-4c9d-9317-dbda464ef7f420181114160335.png",
-		"dynamic_image":"//oss.cn-north-1.jcloudcs.com/jcloud-test1/cms/b41bff35-bf2c-458f-91f6-8b99e9ea114e20181114160341.png",
-		"name":"ceshi1114",
-		"id":1048,
-		"button_title":"ceshi1",
-		"main_title":"ceshi1114"
+		"backgroud_image":"//img1.jcloudcs.com/cms/6929106a-9914-4a52-a065-5c9369df4e9b20181115215904.png"
 	}
 ]
