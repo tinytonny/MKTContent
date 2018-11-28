@@ -18,9 +18,5 @@
 	{
 		"channel_agent":"京  东  云",
 		"id":7
-	},
-	{
-		"channel_agent":"交通",
-		"id":68
 	}
 ]
