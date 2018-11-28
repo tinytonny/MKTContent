@@ -1,22 +1,22 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"API 网关\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/apigateway\"}],\"desc\":\"API 网关（API Gateway），是API托管服务。 提供API的全生命周期管理，包含发布、管理、运行、维护、下线等。用户可通过API网关实现自身系统集成和服务聚合，还能便捷安全地开放其业务功能和数据，并实现与开发者或合作伙伴的连接。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/c4f0a4ad-6093-44a3-9c7f-0b63a48e725020181115173506.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|100\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|100\"}",
-		"id":301
+		"txt":"{\"desc\":\"API 网关（API Gateway），是API托管服务。 提供API的全生命周期管理，包含发布、管理、运行、维护、下线等。用户可通过API网关实现自身系统集成和服务聚合，还能便捷安全地开放其业务功能和数据，并实现与开发者或合作伙伴的连接。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/28c39adc-9562-47ee-a6d6-820e13f5b09720180907161820.jpg\",\"label\":\"[{\\\"TitleName\\\":\\\"申请公测\\\",\\\"TitleUrl\\\":\\\"https://www.jdcloud.com/public/testApply/apigateway\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|100\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|100\"}",
+		"id":6362
 	},
 	{
 		"txt":"[{\"proGood\":\"简单易用管理便捷\",\"proName\":\"API 网关用户可通过多种方式进行管理：通过管理控制台进行配置，通过京东云SDK或者CLI工具直接调用API 进行业务配置等。\"},{\"proGood\":\"低成本高性能\",\"proName\":\"给用户提供了API的全生命周期管理、API文档和SDK的生成下载、API版本管理等问题、采用跨可用区分布式部署、可自动扩展并承载大规模访问等。\"},{\"proGood\":\"安全稳定\",\"proName\":\"充分依托于京东云账户安全体系、支持HTTPS协议、同时集群可弹性扩容已支持超大并发，还提供了基本的防DDoS/CC等安全防护功能。\"}]",
-		"id":302
+		"id":6363
 	},
 	{
 		"txt":"[{\"funcContent\":[{\"funcP\":\"提供了 API 的定义、发布、运行、下线等全生命周期管理。并给用户提供了自动生成和下载API的SDK和文档、Mock后端、监控等服务。\\n提供了便捷的版本管理，回滚操作等。\\n提供了环境管理，使用户可在测试、预发布、正式三种环境中部署API 。\\n\",\"funcTitle\":\"提供了API 的生命周期管理。\"}],\"funcName\":\"API生命周期管理\"},{\"funcContent\":[{\"funcP\":\"提供严格的认证服务。API请求到达网关需要使用网关提供的密钥（AK/SK），经过身份认证、绑定认证、后端签名才能到达后端服务，有效保护API的安全性。\\n提供有效的流控策略。用户可根据API的重要程度，配置单位时间内的Access Key流量限制、API流量限制。\\n\",\"funcTitle\":\"提供严格的认证服务，和便捷的流控策略管理。\"}],\"funcName\":\"认证与限流\"}]",
-		"id":303
+		"id":6364
 	},
 	{
-		"txt":"[{\"instruction\":\"通过API网关，可以很方便地管理对外开放的API。利用API网关提供的授权、流控、签名等功能，可以保证开放的API不被非法调用。同时，还可以将API上架到API市场，实现API的变现。\",\"name\":\"API开放\",\"picUrl\":\"//img1.jcloudcs.com/cms/2711760a-031d-404b-b07d-628bf1823ea820181008182106.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}},{\"instruction\":\"通过网关调用API可适配多端应用，企业用户只需维护一套服务，通过调整API定义，即可实现对多场景、多终端、多用户的服务输出。\",\"name\":\"多端兼容\",\"picUrl\":\"//img1.jcloudcs.com/cms/bffe0df7-8db0-4de1-a67e-fbaeddb401a720180907173358.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]",
-		"id":304
+		"txt":"[{\"instruction\":\"通过API网关，可以很方便地管理对外开放的API。利用API网关提供的授权、流控、签名等功能，可以保证开放的API不被非法调用。同时，还可以将API上架到API市场，实现API的变现。\",\"name\":\"API开放\",\"picUrl\":\"//img1.jcloudcs.com/cms/2711760a-031d-404b-b07d-628bf1823ea820181008182106.png\",\"selectedProduct\":[]},{\"instruction\":\"通过网关调用API可适配多端应用，企业用户只需维护一套服务，通过调整API定义，即可实现对多场景、多终端、多用户的服务输出。\",\"name\":\"多端兼容\",\"picUrl\":\"//img1.jcloudcs.com/cms/bffe0df7-8db0-4de1-a67e-fbaeddb401a720180907173358.png\",\"selectedProduct\":[]}]",
+		"id":6365
 	},
 	{
 		"txt":"{\"operatingClasstag\":\"Products|keycount|MiddleContentSec|100\",\"price\":\"//docs.jdcloud.com/api-gateway/price-overview\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|100\"}",
-		"id":305
+		"id":6366
 	}
 ]
