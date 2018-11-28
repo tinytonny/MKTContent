@@ -350,5 +350,13 @@
 		"jss_key":"News_Content_391",
 		"id":391,
 		"news_title":"Empowerment to Sonid Right Banner by JD Cloud, Assisting Development of XilinGol League with \"Internet + Characteristic Economy\""
+	},
+	{
+		"summary":"On November 22, at the \"2018 China Industry Informatization Integration Development Forum\" under the guide of China Center for Information Industry Development and the sponsorship of CCIDnet.com, etc., Liu Zihao, Vice President of JD Group and responsible person of JD Cloud Ecology business was invited to attend and share his penetrating judgment on the era of artificial intelligence and the future development pattern of the cloud computing industry.",
+		"image_url":"//img1.jcloudcs.com/cms/d2d7de42-188c-4609-b940-97323d50845d20181123173109.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_392",
+		"jss_key":"News_Content_392",
+		"id":392,
+		"news_title":"Liu Zihao from JD Cloud: Ecology, the New Eye of a Storm to Open up Artificial Intelligence"
 	}
 ]

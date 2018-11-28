@@ -1350,5 +1350,13 @@
 		"fun_introduce":"New Resource Overview and Visual Cabinet",
 		"product_name":"Cloud Cabinet Service",
 		"fun_name":"New Resource Overview and Visual Cabinet"
+	},
+	{
+		"product_type":"Network",
+		"fun_description":"1. The name of Load Balancer is changed to be Application Load Balancer\n2, Application Load Balancer supports TLS listening\n3, and LB Monitoring items are added (input traffic rate, output traffic rate, number of input bytes, number of output bytes, and number of total bytes)",
+		"id":2067,
+		"fun_introduce":"The upgraded version of Application Load Balancer is released",
+		"product_name":"Load Balancer",
+		"fun_name":"The upgraded version of Application Load Balancer is released"
 	}
 ]

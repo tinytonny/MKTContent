@@ -12,10 +12,6 @@
         "id":7
     },
     {
-        "name":"Industrial Cloud",
-        "id":8
-    },
-    {
         "name":"Tourism Cloud",
         "id":9
     },
@@ -28,28 +24,8 @@
         "id":11
     },
     {
-        "name":"Data Cloud",
-        "id":14
-    },
-    {
-        "name":"Internet + Health Care Solution",
-        "id":15
-    },
-    {
-        "name":"Government Cloud",
-        "id":16
-    },
-    {
         "name":"Industry Innovation",
         "id":20
-    },
-    {
-        "name":"Talent Empowerment Center of JD University",
-        "id":21
-    },
-    {
-        "name":"Urban Industry Operation Platform Solution",
-        "id":22
     },
     {
         "name":"Biologic Empowerment of JD Cloud Industrial Chain",
@@ -58,10 +34,6 @@
     {
         "name":"Logistics Cloud Solutions",
         "id":27
-    },
-    {
-        "name":"New Times, New Economy and New Motion",
-        "id":28
     },
     {
         "name":"Online Education and Training Solutions",
@@ -110,10 +82,6 @@
     {
         "name":"JD WorkSpace Private Solutions",
         "id":72
-    },
-    {
-        "name":"Cloud Call Center",
-        "id":73
     },
     {
         "name":"Oracle Migration Access",

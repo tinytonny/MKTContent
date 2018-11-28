@@ -1,14 +1,14 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"imageUrl\":\"//img1.jcloudcs.com/cms/8c390255-5fac-47b7-8c16-2ba0701d9cae20180620152331.jpg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|81\",\"iconUrl\":\"\",\"label\":[],\"sectionClstag\":\"Products|keycount|SectionBannerSec|81\",\"desc\":\"Column-oriented Storage is a high-performance, Auto Scaling, column-oriented distributed database based on Hadoop and 100% compatible with HBase protocol. It easily supports PB-level big data storage and meets ten million-level QPS high-throughput random read and write scenarios.  Under internal test. Coming soon. \"}",
-		"id":"224"
+		"txt":"{\"instruction\":[],\"productName\":\"\",\"label\":[{\"TitleName\":\"Apply for Public Beta\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/jdhbase\",\"classTag\":\"\"}],\"desc\":\"Column-Based Storage is a column-oriented distributed database based on Hadoop, which is 100% compatible with the HBase Protocol and has high performance and auto scaling, it supports PB-level big data storage easily so as to meet ten million-level QPS high-throughput random read and write scenarios.\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/8c390255-5fac-47b7-8c16-2ba0701d9cae20180620152331.jpg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|81\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|81\"}",
+		"id":224
 	},
 	{
-		"txt":"[{\"proGood\":\"High-reliability Storage Engine\",\"proName\":\"Distributed cluster architecture and at least three such architectures ensure data reliability.\"},{\"proGood\":\"High Service Availability\",\"proName\":\"With HA real-time monitoring system, the failure of single node is transferred quickly, guaranteeing the service not interrupted.\"},{\"proGood\":\"Compatible with Ecological Products\",\"proName\":\"Both of phoenix and openTSDB are supported.\"}]",
-		"id":"225"
+		"txt":"[{\"proGood\":\"High-reliability Storage Engine\",\"proName\":\"Distributed cluster architecture and at least three such architectures ensure data reliability.\"},{\"proGood\":\"High Service Availability\",\"proName\":\"With HA real-time monitoring system, the failure of single node is transferred quickly, guaranteeing the service not interrupted.\"},{\"proGood\":\"Compatible with Ecological Products\",\"proName\":\"phoenix and openTSDB are supported\"}]",
+		"id":225
 	},
 	{
-		"txt":"[{\"funcContent\":[{\"funcP\":\"Master has two nodes and they are in active-backup mode mutually, besides HA can perform real-time detection in order to ensure business’s high reliability; When the core node has fault, region can perform switch in second-level.\",\"funcTitle\":\"Support HA mode\"}],\"funcName\":\"Cluster Architecture’s High Availability\"},{\"funcContent\":[{\"funcP\":\"Disks and nodes can be flexibly expanded, and they could easily expand to thousands of units, and meet ten million-level QPS and count PB storage space.\",\"funcTitle\":\"Support the flexible expansion of nodes\"}],\"funcName\":\"Cluster’s Elastic Extension\"},{\"funcContent\":[{\"funcP\":\"ACL permission control; multi-layer network protection mechanism can defend against 90% malicious data destruction\",\"funcTitle\":\"Support Permission Control\"}],\"funcName\":\"Guarantee of Cluster’s Defense\"}]",
-		"id":"226"
+		"txt":"[{\"funcContent\":[{\"funcP\":\"It is two-master node by default, supporting high availability and real-time detection, and guaranteeing the high reliability of business; when the core node is in failure, region can be switched in second-level.\",\"funcTitle\":\"Support HA Mode\"}],\"funcName\":\"Cluster Architecture High Availability\"},{\"funcContent\":[{\"funcP\":\"The disk and node can expand flexibly, which can expand to the scale of thousands of sets, meeting ten million-level QPS and PB bucket.\",\"funcTitle\":\"Support flexible expansion of node\"}],\"funcName\":\"Cluster Elastic Expansion\"},{\"funcContent\":[{\"funcP\":\"ACL permission control and multi-layer network protection mechanism can defense 90% malicious data corruption\",\"funcTitle\":\"Support Permission Control\"}],\"funcName\":\"Cluster Protection Guarantee\"}]",
+		"id":226
 	}
 ]
