@@ -1,14 +1,14 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"代码托管\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"http://code.jdcloud.com\"}],\"desc\":\"基于Git的代码托管工具，用户可将代码托管到京东云中。产品包含代码提交、存储、下载、分支管理与对比、合并、历史等功能，为京东云持续交付全流程提供源代码托管服务。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/332bb5a4-b7c2-4897-8c60-65ee1f760d1620181115174121.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|97\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|97\"}",
-		"id":290
+		"txt":"{\"desc\":\"基于Git的代码托管工具，用户可将代码托管到京东云中。产品包含代码提交、存储、下载、分支管理与对比、合并、历史等功能，为京东云持续交付全流程提供源代码托管服务。\",\"iconUrl\":\"\",\"imageUrl\":\"\",\"instruction\":\"[]\",\"label\":\"[{\\\"TitleName\\\":\\\"立即使用\\\",\\\"TitleUrl\\\":\\\"http://code.jdcloud.com\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|97\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|97\"}",
+		"id":6351
 	},
 	{
 		"txt":"[{\"proGood\":\"高速\",\"proName\":\"相较于国外代码托管服务，京东云代码托管更加高速。版本库多地部署，保障数据安全。\"},{\"proGood\":\"稳定\",\"proName\":\"基于京东云内部代码托管平台的经验，可托管海量源代码。实时异地跨机房数据同步，平台架构高可用，为您提供可靠稳定的源代码托管服务。\"},{\"proGood\":\"通用\",\"proName\":\"基于通用Git，符合用户操作习惯，您可轻松上手京东云代码托管服务。\"}]",
-		"id":291
+		"id":6352
 	},
 	{
 		"txt":"[{\"funcContent\":[{\"funcP\":\"提供高效且稳定的源代码托管服务，用户可专注于代码开发，而无需费心管理自己的源代码托管系统。同时，支持Git的标准操作，无缝对接Git工具，符合开发者习惯，方便上手。\",\"funcTitle\":\"源代码管理\"}],\"funcName\":\"代码托管\"},{\"funcContent\":[{\"funcP\":\"支持与京东云-云编译、京东云-DevOps等多种产品相结合，实现持续交付，助力DevOps全流程。\",\"funcTitle\":\"与DevOps相结合\"}],\"funcName\":\"集成交付\"}]",
-		"id":292
+		"id":6353
 	}
 ]
