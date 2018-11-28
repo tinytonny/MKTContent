@@ -1,22 +1,22 @@
 [
 	{
-		"txt":"{\"desc\":\"应用安全网关是对网站或APP服务进行可视化安全分析和应用层威胁防护的产品。通过提供WAF、用户访问审计、业务安全可视和合规性检查等功能，保障业务稳定可持续运行，提升用户体验，为网络服务提供者解决HTTP/HTTPS业务因攻击导致的异常或合规性问题。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/9c9d0868-ee10-43a5-a83a-0bb513776f3120180419123533.jpg\",\"label\":\"[{\\\"TitleName\\\":\\\"立即使用\\\",\\\"TitleUrl\\\":\\\"https://sgw-console.jdcloud.com/jsecvpcwaf/dashboard\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|68\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|68\"}",
-		"id":6241
+		"txt":"{\"instruction\":[],\"productName\":\"应用安全网关\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://sgw-console.jdcloud.com/jsecvpcwaf/dashboard\"}],\"desc\":\"应用安全网关是对网站或APP服务进行可视化安全分析和应用层威胁防护的产品。通过提供WAF、用户访问审计、业务安全可视和合规性检查等功能，保障业务稳定可持续运行，提升用户体验，为网络服务提供者解决HTTP/HTTPS业务因攻击导致的异常或合规性问题。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/58cafacd-cdeb-463d-b37e-6d450bcb65b620181115172440.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|68\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|68\"}",
+		"id":180
 	},
 	{
 		"txt":"[{\"proGood\":\"兼顾普通用户和专家用户\",\"proName\":\"Web安全功能，CC防护，业务安全防护,网页防篡改功能，提供普通用户模式和专家配置模式，可满足开关配置和高度定制要求\"},{\"proGood\":\"资源独享式服务\",\"proName\":\"部署在VPC网络边界或内部，资源独享，动态扩容。\\n\"},{\"proGood\":\"HTTPs证书管理，回源安全更有保障\",\"proName\":\"证书保存在自己的VPC网络内部，证书自我管理，证书更安全；\\n回源流量HTTP属于内网流量，外网无法监听和窃取\\n\"},{\"proGood\":\"低延时，无带宽多余消耗\\n\",\"proName\":\"和云环境一起部署，延迟小于1ms；无额外带宽消耗，使用源站的带宽即可。\\n\"}]",
-		"id":6242
+		"id":181
 	},
 	{
 		"txt":"[{\"funcContent\":[{\"funcP\":\"有效防御 SQL注入、XSS攻击、命令/代码执行、文件包含、木马上传、路径穿越、恶意扫描等 OWASP TOP 10攻击。\",\"funcTitle\":\"OWASP TOP 10威胁防护\"},{\"funcP\":\"专业的攻防团队7*24小时跟进0day漏洞，分析漏洞原理，并制定安全防护策略，及时进行防护。\",\"funcTitle\":\"0Day漏洞防护\"},{\"funcP\":\"支持全局模式和单IP防护模式，基于多种挑战验证算法进行CC攻击防护校验，防护应用层DOS功能。\",\"funcTitle\":\"CC攻击防护\"}],\"funcName\":\"Web应用防火墙\"},{\"funcContent\":[{\"funcP\":\"提供Web安全、CC攻击、自定义访问控制规则、用户访问和运行监控五大安全分析报表，洞悉业务监控状态，安全防护状况和效果。\",\"funcTitle\":\"五大安全分析报表\"},{\"funcP\":\"提供用户访问和攻击趋势图，了解黑客对业务的关注程度。\",\"funcTitle\":\"攻击趋势图概览\"},{\"funcP\":\"CC攻击趋势统计，实时查看防护效果和统计。\",\"funcTitle\":\"CC攻击防护趋势概览\"},{\"funcP\":\"对用户制定的访问控制规则进行统计分析，实时查询用户访问情况。\",\"funcTitle\":\"用户访问趋势概览\"}],\"funcName\":\"业务安全可视化\"},{\"funcContent\":[{\"funcP\":\"用户可以对HTTP协议字段进行组合制定访问控制规则，确定优先级，提供多种定制方式和简单逻辑语法，满足个性化需求。\",\"funcTitle\":\"精准的访问控制\"},{\"funcP\":\"记录所有用户对业务网站的访问日志，提供趋势分析，可以根据需要提供日志下载功能。\",\"funcTitle\":\"访问日志审计\"},{\"funcP\":\"采用强制静态缓存锁定和更新机制，对网站特定页面进行保护，即使源站相关网页被篡改，依然能够返回给用户缓存页面。\",\"funcTitle\":\"网页防篡改\"},{\"funcP\":\"对所有管理员的操作提供审计日志，在进行安全合规排查可以根据需要提供\",\"funcTitle\":\"管理员操作审计\"}],\"funcName\":\"安全合规\"},{\"funcContent\":[{\"funcP\":\"对恶意爬虫进行识别和阻断，防止恶意内容抓取保护源站安全。\",\"funcTitle\":\"反爬虫防护\"},{\"funcP\":\"自动识别注册或登录页面，采用多种挑战验证方式进行人机识别，保护用户账号安全。\",\"funcTitle\":\"防暴力破解\"},{\"funcP\":\"支持个性化业务安全防护定义，指定URL或特字段的频次和行为学习模式，针对分布式或者单IP模式的业务威胁进行防护。\",\"funcTitle\":\"自定义BOT策略\"}],\"funcName\":\"BOT管理\"},{\"funcContent\":[{\"funcP\":\"提供全套RESTfulAPI接口，可实现页面自定义，获取相关的监控统计信息\",\"funcTitle\":\"RESTfulAPI支持\"},{\"funcP\":\"无需修改DNS实现业务防护和监控，直接绑定负载均衡，可以支持直接IP接入\",\"funcTitle\":\"无DNS修改接入\"},{\"funcP\":\"在负载均衡处上传ssl证书，实现HTTPS卸载管理。\",\"funcTitle\":\"HTTPS支持\"}],\"funcName\":\"便捷管理\"}]",
-		"id":6243
+		"id":182
 	},
 	{
-		"txt":"[{\"instruction\":\"应用安全网关即可以绑定公网IP的负载均衡绑定，也可与VPC内部工作的负载均衡，进行协同工作，所以即可以防御来自互联网的攻击，也可防御来自VPC内部的攻击。\",\"name\":\"高度灵活的防御部署方案\",\"picUrl\":\"//img1.jcloudcs.com/cms/c7a75244-9169-43a6-9059-70ff4240947920180413181942.png\",\"selectedProduct\":[]}]",
-		"id":6244
+		"txt":"[{\"instruction\":\"应用安全网关即可以绑定公网IP的负载均衡绑定，也可与VPC内部工作的负载均衡，进行协同工作，所以即可以防御来自互联网的攻击，也可防御来自VPC内部的攻击。\",\"name\":\"高度灵活的防御部署方案\",\"picUrl\":\"//img1.jcloudcs.com/cms/c7a75244-9169-43a6-9059-70ff4240947920180413181942.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]",
+		"id":183
 	},
 	{
 		"txt":"{\"operatingClasstag\":\"Products|keycount|MiddleContentSec|68\",\"price\":\"//docs.jdcloud.com/application-security-gateway/price-overview\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|68\"}",
-		"id":6245
+		"id":184
 	}
 ]
