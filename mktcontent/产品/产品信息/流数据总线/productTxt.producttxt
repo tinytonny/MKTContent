@@ -1,22 +1,22 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"流数据总线\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://streamhub-console.jdcloud.com/stream/html/list.html\"}],\"desc\":\"流数据总线是面向大数据场景下可扩展、分布式、高吞吐量的消息服务，提供低延迟的消息发布及订阅功能，帮助用户快速构建流式数据的分析和应用。(公测中)\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/053f6ded-d842-41e8-ac54-db40eaa3430120181115174256.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|44\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|44\"}",
-		"id":101
+		"txt":"{\"desc\":\"流数据总线是面向大数据场景下可扩展、分布式、高吞吐量的消息服务，提供低延迟的消息发布及订阅功能，帮助用户快速构建流式数据的分析和应用。(公测中)\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/7c2499a0-7ef7-4eb8-984f-f9cc087b4cf520180419122126.jpg\",\"instruction\":\"[]\",\"label\":\"[{\\\"TitleName\\\":\\\"立即使用\\\",\\\"TitleUrl\\\":\\\"https://streamhub-console.jdcloud.com/stream/html/list.html\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|44\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|44\"}",
+		"id":6162
 	},
 	{
 		"txt":"[{\"proGood\":\"弹性伸缩\",\"proName\":\"可根据业务规模灵活、快速调整消息服务处理能力。                           \"},{\"proGood\":\"轻松接入\",\"proName\":\"提供Restful API/SDK/Agent等快速接入数据的手段。                         \"},{\"proGood\":\"易于集成\",\"proName\":\"通过与流式计算产品进行集成，用户可快速构建实时分析应用。                       \"},{\"proGood\":\"自动归档\",\"proName\":\"提供数据归档功能自动存储流式数据到云存储和数据仓库。                      \"}]",
-		"id":102
+		"id":6163
 	},
 	{
 		"txt":"[{\"funcContent\":[{\"funcP\":\"支持API、SDK、Agent、Syslog等多种数据接入方式，及自定义开通主题服务。\",\"funcTitle\":\"多种数据接入方式，满足不同场景需求\"}],\"funcName\":\"数据接入\"},{\"funcContent\":[{\"funcP\":\"提供单主题级别的Shard分割、Shard合并功能，按需调整主题消息并发处理能力。\",\"funcTitle\":\"支持数据流吞吐能力动态伸缩，按需使用\"}],\"funcName\":\"弹性伸缩\"},{\"funcContent\":[{\"funcP\":\"提供数据归档功能，按照用户自定义归档策略，将流式数据自动存储到云存储或数据仓库。\",\"funcTitle\":\"自定义流数据归档策略，实时归档\"}],\"funcName\":\"数据归档\"}]",
-		"id":103
+		"id":6164
 	},
 	{
-		"txt":"[{\"instruction\":\"利用流数据总线，能够持续地对不同类型的流式数据进行采集、存储。\",\"name\":\"实时数据集成\",\"picUrl\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"通过流数据总线实时获取物联网设备的相关数据，并将流数据连接到流计算服务或用户自定义的实时分析应用，从而开展实时分析、运行监控、故障预测等业务。\",\"name\":\"物联网实时分析\",\"picUrl\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false}]",
-		"id":104
+		"txt":"[{\"instruction\":\"利用流数据总线，能够持续地对不同类型的流式数据进行采集、存储。\",\"name\":\"实时数据集成\",\"picUrl\":\"\",\"selectedProduct\":[]},{\"instruction\":\"通过流数据总线实时获取物联网设备的相关数据，并将流数据连接到流计算服务或用户自定义的实时分析应用，从而开展实时分析、运行监控、故障预测等业务。\",\"name\":\"物联网实时分析\",\"picUrl\":\"\",\"selectedProduct\":[]}]",
+		"id":6165
 	},
 	{
 		"txt":"{\"operatingClasstag\":\"Products|keycount|MiddleContentSec|44\",\"price\":\"//docs.jdcloud.com/stream-hub/price-overview\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|44\"}",
-		"id":105
+		"id":6166
 	}
 ]
