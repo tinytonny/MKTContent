@@ -1,18 +1,18 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"流计算\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://stream-compute-console.jdcloud.com/front/joblist.html\"}],\"desc\":\"流计算是大数据场景下的实时数据处理与分析平台，支持用户以SQL方式编写数据处理作业，降低流式数据开发门槛，帮助用户快速构建流处理应用。(公测中)\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/31ae5ce6-47ac-4df1-a28f-2890dc3d38b620181115174220.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|49\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|49\"}",
-		"id":116
+		"txt":"{\"desc\":\"流计算是大数据场景下的实时数据处理与分析平台，支持用户以SQL方式编写数据处理作业，降低流式数据开发门槛，帮助用户快速构建流处理应用。(公测中)\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/3c8864f3-d6ec-4b5d-b16b-6d6b3a31cee320180419135016.jpg\",\"instruction\":\"[]\",\"label\":\"[{\\\"TitleName\\\":\\\"立即使用\\\",\\\"TitleUrl\\\":\\\"https://stream-compute-console.jdcloud.com/front/joblist.html\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|49\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|49\"}",
+		"id":6177
 	},
 	{
 		"txt":"[{\"proGood\":\"秒级延迟\",\"proName\":\"处理流数据所产生的延迟以达到秒级，能够做到实时分析。\"},{\"proGood\":\"完全托管\",\"proName\":\"全托管的在线开发平台，自动运行流式处理应用程序，无需任何基础设施。\"},{\"proGood\":\"自动伸缩\",\"proName\":\"计算能力可根据作业自动扩展或缩减运行的流式处理应用程序所需的资源。\"},{\"proGood\":\"简单易用\",\"proName\":\"支持SQL方式开发流数据处理作业，学习门槛低。\"}]",
-		"id":117
+		"id":6178
 	},
 	{
 		"txt":"[{\"funcContent\":[{\"funcP\":\"提供交互式 SQL 编辑器，支持调试及优化脚本，快速构建复杂的流处理应用程序。\",\"funcTitle\":\"实时数据清洗、统计汇总、数据分析\"}],\"funcName\":\"实时计算\"},{\"funcContent\":[{\"funcP\":\"自动集成流数据中心作为输入流，处理结果发送至数据计算服务进行持久化。\",\"funcTitle\":\"无缝集成流数据中心和数据计算服务\"}],\"funcName\":\"自动集成\"},{\"funcContent\":[{\"funcP\":\"根据作业匹配数据吞吐量，自动扩展或缩减运行的流式处理应用程序所需的资源。\",\"funcTitle\":\"自定义作业，计算集群弹性伸缩\"}],\"funcName\":\"弹性伸缩\"}]",
-		"id":118
+		"id":6179
 	},
 	{
-		"txt":"[{\"instruction\":\"传统数据仓库解决方案基于离线批量采集及分析，无法做到实时的数据分析功能。基于流计算可方便地对多种流式数据进行实时采集、实时分析，然后结合BI报表等组件，可快速搭建一套实时流数据分析应用。\",\"name\":\"实时数据分析\",\"picUrl\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"从传感器、智能终端等物联网设备接收、转换、整合和筛选流数据，支持每秒对数百万消息进行流式处理。\",\"name\":\"物联网\",\"picUrl\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false}]",
-		"id":119
+		"txt":"[{\"instruction\":\"传统数据仓库解决方案基于离线批量采集及分析，无法做到实时的数据分析功能。基于流计算可方便地对多种流式数据进行实时采集、实时分析，然后结合BI报表等组件，可快速搭建一套实时流数据分析应用。\",\"name\":\"实时数据分析\",\"picUrl\":\"\",\"selectedProduct\":[]},{\"instruction\":\"从传感器、智能终端等物联网设备接收、转换、整合和筛选流数据，支持每秒对数百万消息进行流式处理。\",\"name\":\"物联网\",\"picUrl\":\"\",\"selectedProduct\":[]}]",
+		"id":6180
 	}
 ]
