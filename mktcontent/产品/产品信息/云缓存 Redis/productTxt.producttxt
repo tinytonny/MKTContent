@@ -1,22 +1,22 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"云缓存 Redis\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"//redis-console.jdcloud.com/create?dataCenter=bj_02&hideSideMenu=1\"}],\"desc\":\"云缓存 Redis是京东云提供的基于Redis协议的在线缓存服务，支持主从版、集群版的多种规格供用户选择。可满足多种业务场景对可用性、可靠性和高读写性能的要求，支持双机热备，提供自动容灾切换、实例监控等服务，以降低业务风险，确保业务的连续性。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/83b026b7-897c-46f8-bcd1-c310aebb7b4c20181115165804.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|8\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|8\"}",
-		"id":22
+		"txt":"{\"desc\":\"云缓存 Redis是京东云提供的基于Redis协议的在线缓存服务，支持主从版、集群版的多种规格供用户选择。可满足多种业务场景对可用性、可靠性和高读写性能的要求，支持双机热备，提供自动容灾切换、实例监控等服务，以降低业务风险，确保业务的连续性。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/3ae8b9f7-42cf-42f8-9dbf-f397ac740e8120180419120918.jpg\",\"instruction\":\"[]\",\"label\":\"[{\\\"TitleName\\\":\\\"立即购买\\\",\\\"TitleUrl\\\":\\\"//redis-console.jdcloud.com/create?dataCenter=bj_02&hideSideMenu=1\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|8\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|8\"}",
+		"id":6083
 	},
 	{
 		"txt":"[{\"proGood\":\"高可用\",\"proName\":\"双机热备，自动切换。当主节点发生故障后，从节点会被迅速提升为新的主节点，继续提供服务；服务数据持久化，实例跨可用区部署，保证数据的安全和业务的不间断运行\"},{\"proGood\":\"平滑扩容\",\"proName\":\"一键扩容，方便快捷。可根据使用情况弹性扩容，按需选择，按需升级，提高资源利用率，降低冗余费用；您可以登录控制台进行扩容操作，整个过程不影响您的线上业务\"},{\"proGood\":\"高性能\",\"proName\":\"使用内存作为存储介质，利用 Redis 引擎的低延迟、高吞吐量特点，提供比关系型数据库高很多的性能；源码级护航，超高的性能可以满足您绝大部分场景需求；支持绝大多数Redis命令，轻松应对Redis大容量或高性能的业务需求；提供集群版规格扩展Redis性能，破除Redis单线程机制的性能瓶颈\"},{\"proGood\":\"大容量\",\"proName\":\"海量存储，无限容量。集群版采用分布式架构，数据分布在多台物理机上，突破单机物理限制，解决海量数据存储在 Redis 上的瓶颈\"},{\"proGood\":\"监控告警\",\"proName\":\"为用户提供多种类型的监控，包括如使用量、连接数、QPS、 Key数量等多种监控，可视化数据监控展示。全链路监控预警，帮助您提前预警提示风险、快速定位和解决问题\"},{\"proGood\":\"低成本\",\"proName\":\"可轻松部署、运行和扩展缓存Redis，无需机器安装和数据库部署运维等工作；提供资源监控、稳定性维护等功能，降低日常维护工作量\"}]",
-		"id":23
+		"id":6084
 	},
 	{
 		"txt":"[{\"funcContent\":[{\"funcP\":\"缓存Redis主从版，高度兼容开源 Redis 协议，采用主从热备的架构，主机数据自动同步到备机，数据保持一致。当主机出现故障时，系统会自动检测到故障，服务切换到备机。整个过程自动完成，确保不出现数据丢失和服务中断，无需用户做任何处理\",\"funcTitle\":\"主从版\"},{\"funcP\":\"缓存Redis集群版，京东自研成熟的分布式存储和缓存架构，具有更大的工作负荷、灾难恢复，更高的安全性。集群自动对多个Redis节点中的数据进行分片，因此可以创建更大内存，达到超大容量的技术能力\",\"funcTitle\":\"集群版\"}],\"funcName\":\"规格丰富\"},{\"funcContent\":[{\"funcP\":\"缓存Redis将数据完全保存在内存中，保证了高效性，并且同时会在物理磁盘进行持久化，保证数据安全\",\"funcTitle\":\"持久化存储\"},{\"funcP\":\"地域内增加的多可用区部署，保证数据的安全和业务的不间断运行，从而保证了用户业务的高可用\",\"funcTitle\":\"多可用区部署\"}],\"funcName\":\"可靠性\"},{\"funcContent\":[{\"funcP\":\"用户可轻松部署、运行和扩展缓存Redis，无需机器安装和数据库部署运维等工作\\n缓存Redis主从版实例规格支持1G、2G、4G、8G、16G、32G、64G内存\\n集群版规格支持16G、32G、64G、128G、256G、工单可申请512G内存，用户可根据实际使用情况按需选择，按需升级，提高资源利用率，降低冗余费用\",\"funcTitle\":\"平滑扩容 按需选择\"}],\"funcName\":\"简单易用\"},{\"funcContent\":[{\"funcP\":\"提供资源的运行状况和性能的监控、稳定性维护等功能，提前预警通知，降低日常维护工作量\\n实例运行在私有网络（VPC）中，增强了安全性和隔离性。提供了子网、访问控制策略等限制访问的功能\",\"funcTitle\":\"全面监控 便捷运维\"}],\"funcName\":\"安全性\"}]",
-		"id":24
+		"id":6085
 	},
 	{
-		"txt":"[{\"instruction\":\"电商行业中，对大型促销秒杀、商品库存的实时更新、带有计数的应用、商品库存量、商品的实时推荐等，系统整体的访问压力巨大，使用缓存redis能够轻松承载巨大的瞬时读写压力并进行数据持久化；通过缓存Redis提供的强大性能支持，可提供高达100W+的QPS来轻松应对高并发访问\",\"name\":\"电商平台\",\"picUrl\":\"//img1.jcloudcs.com/cms/f722bbd0-99d5-4cdd-a38e-72a06e7bffc920180926161447.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}},{\"instruction\":\"视频直播行业中，爆发式的用户数据、互动数据、物品道具数据等出现的流量突发场景，缓存redis百万级的QPS可以满足低时延、高并发的业务需求\",\"name\":\"视频直播\",\"picUrl\":\"//img1.jcloudcs.com/cms/7c3545e7-76f7-4d50-bf31-33f5937727fe20180926161452.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}},{\"instruction\":\"在游戏行业中，为了快速抢占市场，加上本身对性能、交互的高要求，使用缓存Redis可以减少开发的复杂度并极大的提升性能，当业务持续增长的时候，可以平滑的进行扩容，满足各个阶段业务的需求；基于缓存Redis自身特点，比如每日任务、成就、各种积分排名、功能活动、玩家交际属性等策划案的实现，缓存Redis都有非常明显的优势\",\"name\":\"游戏行业\",\"picUrl\":\"//img1.jcloudcs.com/cms/fd23caae-29e2-43f6-aa84-445466d45a3c20180926161458.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}},{\"instruction\":\"网站、APP等对读写压力要求较高的应用，缓存Redis提供高QPS、构建队列系统、数据缓存、精准设定过期时间、数据持久化到RDS的应用等\",\"name\":\"互联网应用\",\"picUrl\":\"//img1.jcloudcs.com/cms/57e567d6-18d2-4495-ba24-d3834aa2451b20180926161504.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]",
-		"id":25
+		"txt":"[{\"instruction\":\"电商行业中，对大型促销秒杀、商品库存的实时更新、带有计数的应用、商品库存量、商品的实时推荐等，系统整体的访问压力巨大，使用缓存redis能够轻松承载巨大的瞬时读写压力并进行数据持久化；通过缓存Redis提供的强大性能支持，可提供高达100W+的QPS来轻松应对高并发访问\",\"name\":\"电商平台\",\"picUrl\":\"//img1.jcloudcs.com/cms/f722bbd0-99d5-4cdd-a38e-72a06e7bffc920180926161447.png\",\"selectedProduct\":[]},{\"instruction\":\"视频直播行业中，爆发式的用户数据、互动数据、物品道具数据等出现的流量突发场景，缓存redis百万级的QPS可以满足低时延、高并发的业务需求\",\"name\":\"视频直播\",\"picUrl\":\"//img1.jcloudcs.com/cms/7c3545e7-76f7-4d50-bf31-33f5937727fe20180926161452.png\",\"selectedProduct\":[]},{\"instruction\":\"在游戏行业中，为了快速抢占市场，加上本身对性能、交互的高要求，使用缓存Redis可以减少开发的复杂度并极大的提升性能，当业务持续增长的时候，可以平滑的进行扩容，满足各个阶段业务的需求；基于缓存Redis自身特点，比如每日任务、成就、各种积分排名、功能活动、玩家交际属性等策划案的实现，缓存Redis都有非常明显的优势\",\"name\":\"游戏行业\",\"picUrl\":\"//img1.jcloudcs.com/cms/fd23caae-29e2-43f6-aa84-445466d45a3c20180926161458.png\",\"selectedProduct\":[]},{\"instruction\":\"网站、APP等对读写压力要求较高的应用，缓存Redis提供高QPS、构建队列系统、数据缓存、精准设定过期时间、数据持久化到RDS的应用等\",\"name\":\"互联网应用\",\"picUrl\":\"//img1.jcloudcs.com/cms/57e567d6-18d2-4495-ba24-d3834aa2451b20180926161504.png\",\"selectedProduct\":[]}]",
+		"id":6086
 	},
 	{
 		"txt":"{\"operatingClasstag\":\"Products|keycount|MiddleContentSec|8\",\"price\":\"//www.jdcloud.com/calculator/calCache\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|8\"}",
-		"id":26
+		"id":6087
 	}
 ]
