@@ -1,14 +1,14 @@
 [
 	{
-		"txt":"{\"desc\":\"京东云安全咨询服务是京东云安全专家结合具体使用场景为用户提供的全方位安全服务。为用户降低高昂的安全运营成本，输出专业的安全技术人员，提供成熟的解决方案。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/ee94f806-8af4-447e-a574-d895120f7c8620180419121517.jpg\",\"instruction\":\"[]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|29\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|29\"}",
-		"id":6119
+		"txt":"{\"instruction\":[],\"productName\":\"安全咨询\",\"label\":[],\"desc\":\"京东云安全咨询服务是京东云安全专家结合具体使用场景为用户提供的全方位安全服务。为用户降低高昂的安全运营成本，输出专业的安全技术人员，提供成熟的解决方案。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/3bf8614c-09ed-4269-8841-15a83e369dd820181115172537.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|29\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|29\"}",
+		"id":58
 	},
 	{
 		"txt":"[{\"proGood\":\"电商行业\",\"proName\":\"京东云安全专家基于对电商行业安全体系建设多年的深入解读，为用户提供更为专业的安全咨询服务。\"},{\"proGood\":\"安全合规\",\"proName\":\"京东云安全团队拥有经验丰富的通过CISA执业资质认证的内部审计人员，为用户提供有效的安全咨询服务。\"},{\"proGood\":\"牌照申请\",\"proName\":\"京东云安全专家已为京东取得移动转售、医药零售等牌照，在行业牌照申请方面有着较为丰富的经验，可以为用户提供有效的参考与指导。\"}]",
-		"id":6120
+		"id":59
 	},
 	{
 		"txt":"[{\"funcContent\":[{\"funcP\":\"合规审计咨询服务为用户提供内控审计、财务审计、专项审计，如SOX合规审计、年度财报审计等审计服务咨询。\",\"funcTitle\":\"合规审计咨询\"},{\"funcP\":\"合规审查咨询服务为用户提供行业主管部门的定期检查，如网络安全防护检查、关键信息基础设施检查、信息系统等级保护自查及年度检查、ISO27000年度检查等检查咨询服务。\",\"funcTitle\":\"合规检查咨询\"},{\"funcP\":\"牌照申请咨询服务为用户提供行业牌照申请，如移动转售牌照、医药零售牌照申请等。\",\"funcTitle\":\"牌照申请咨询\"}],\"funcName\":\"安全合规\"},{\"funcContent\":[{\"funcP\":\"为用户解读京东云安全产品中云主机扫描和Web应用扫描检测出的漏洞报告，并提出技术解决方案。\",\"funcTitle\":\"漏洞管理\"},{\"funcP\":\"针对服务器、网络、业务、体系建设等方面的全方位安全技术咨询服务。为用户提供windows/linux服务器安全基线、HTTPS改造、网络架构安全、web漏洞安全开发规范、安全培训、SDL流程建设等一系列的安全能力输出。\",\"funcTitle\":\"安全技术咨询\"},{\"funcP\":\"在应用开发阶段为用户提供安全技术规范与指导，帮助用户在开发阶段消除可能存在的安全风险，保障业务安全。\",\"funcTitle\":\"安全开发规范\"}],\"funcName\":\"安全技术\"}]",
-		"id":6121
+		"id":60
 	}
 ]
