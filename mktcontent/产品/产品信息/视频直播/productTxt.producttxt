@@ -1,22 +1,18 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"视频直播\",\"label\":[{\"TitleName\":\"立即开通\",\"TitleUrl\":\"https://docs.jdcloud.com/cn/live-video/service-provisioning?isWX=\"}],\"desc\":\"视频直播服务是基于京东云平台优质的网络基础设施和大规模分布式实时转码技术，为客户提供低延迟、高可用、易接入的视频直播一站式服务，解决客户底层研发难题，降低设备运维成本，帮助客户能快速搭建自己的直播平台及应用。开通此服务需联系运营人员，联系电话：4006151212。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/ce3e7b46-02bb-4c66-b2ae-07ed526594da20181115171936.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|67\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|67\"}",
-		"id":176
+		"txt":"{\"desc\":\"视频直播服务是基于京东云平台优质的网络基础设施和大规模分布式实时转码技术，为客户提供低延迟、高可用、易接入的视频直播一站式服务，解决客户底层研发难题，降低设备运维成本，帮助客户能快速搭建自己的直播平台及应用。开通此服务需联系运营人员，联系电话：4006151212。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/c72fbb1b-24b3-48a6-8798-f54e406bec5420180419123450.jpg\",\"instruction\":\"[]\",\"label\":\"[{\\\"TitleName\\\":\\\"立即开通\\\",\\\"TitleUrl\\\":\\\"https://docs.jdcloud.com/cn/live-video/service-provisioning?isWX=\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|67\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|67\"}",
+		"id":6237
 	},
 	{
 		"txt":"[{\"proGood\":\"多终端多协议\",\"proName\":\"支持RTMP/HDL/HLS协议，PC/iOS/Android多终端视频直播、观看\"},{\"proGood\":\"多行业多场景\",\"proName\":\"满足电商、娱乐、在线教育、游戏、金融等多种直播应用场景\"},{\"proGood\":\"专业视频能力\",\"proName\":\"提供实时转码、直播录制、直播截图、等丰富功能满足视频直播多种业务需求\\n\"},{\"proGood\":\"全面安全防护\",\"proName\":\"提供防盗链、鉴权，内容审核等功能，保证直播业务安全\"},{\"proGood\":\"24小时专家客服\",\"proName\":\"提供7*24小时专家客服，随时处理客户问题，保证业务连续\"}]",
-		"id":177
+		"id":6238
 	},
 	{
 		"txt":"[{\"funcContent\":[{\"funcP\":\"高性能分布式转码集群，可实时将源流转成不同分辨率、码率直播流，适用PC、PAD、手机等不同终端设备观看\",\"funcTitle\":\"实时转码\"},{\"funcP\":\"无缝对接京东云存储，可将直播内容实时录制，用作存档和回看\",\"funcTitle\":\"直播录制\"},{\"funcP\":\"周期生成视频图片，方便用户进行内容审核、动态更新直播封面\",\"funcTitle\":\"直播截图\"},{\"funcP\":\"丰富的节点数量和领先的分发技术，通过边缘推流可有效降低直播延迟\",\"funcTitle\":\"边缘推流\"}],\"funcName\":\"视频处理\"},{\"funcContent\":[{\"funcP\":\"提供referer黑白名单，有效防止视频资源被盗取\",\"funcTitle\":\"防盗链\"},{\"funcP\":\"支持直播鉴权，有效保证推流和播出的安全\",\"funcTitle\":\"直播鉴权\"},{\"funcP\":\"丰富的流管理控制台接口，可实时进行断流操作，保证播出安全\",\"funcTitle\":\"一键断流\"}],\"funcName\":\"安全防护\"},{\"funcContent\":[{\"funcP\":\"可对带宽、流量、在线人数等进行统计查看，帮助客户有效分析业务方向\",\"funcTitle\":\"丰富的统计分析\"}],\"funcName\":\"统计分析\"}]",
-		"id":178
+		"id":6239
 	},
 	{
 		"txt":"{\"operatingClasstag\":\"Products|keycount|MiddleContentSec|67\",\"price\":\"//docs.jdcloud.com/live-video/price-overview\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|67\"}",
-		"id":179
-	},
-	{
-		"txt":"[{\"name\":\"视频直播是否可以自定义域名？\",\"link\":\"https://docs.jdcloud.com/cn/live-video/faq\",\"classTag\":\"\"},{\"name\":\"目前支持的推流和拉流协议有哪些？\",\"link\":\"https://docs.jdcloud.com/cn/live-video/faq\",\"classTag\":\"\"},{\"name\":\"视频直播是否支持多终端播放？\",\"link\":\"https://docs.jdcloud.com/cn/live-video/faq\",\"classTag\":\"\"}]",
-		"id":681
+		"id":6240
 	}
 ]
