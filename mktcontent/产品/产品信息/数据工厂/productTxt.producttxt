@@ -1,18 +1,18 @@
 [
 	{
-		"txt":"{\"desc\":\"数据工厂是一款云上的数据工作流调度服务，它内建数据同步、数据处理分析任务的编排与调度能力，帮助用户以工作流形式快速构建数据处理分析作业并周期性地执行。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/eeaca070-91b8-48de-b9d5-0bc861ee0e9920180419122107.jpg\",\"instruction\":\"[{\\\"explain\\\":\\\"提交工单申请免费试用，点击立即前往\\\",\\\"explainLink\\\":\\\"https://uc.jdcloud.com/question/submit\\\"}]\",\"label\":\"[{\\\"TitleName\\\":\\\"立即使用\\\",\\\"TitleUrl\\\":\\\"https://xdata.jdcloud.com/scheduler-web/accessUser/wflist\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|41\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|41\"}",
-		"id":6158
+		"txt":"{\"instruction\":[{\"explain\":\"提交工单申请免费试用，点击立即前往\",\"explainLink\":\"https://uc.jdcloud.com/question/submit\"}],\"productName\":\"数据工厂\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://xdata.jdcloud.com/scheduler-web/accessUser/wflist\"}],\"desc\":\"数据工厂是一款云上的数据工作流调度服务，它内建数据同步、数据处理分析任务的编排与调度能力，帮助用户以工作流形式快速构建数据处理分析作业并周期性地执行。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/e874b282-1f68-4472-b08a-cef5dce8745820181115174148.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|41\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|41\"}",
+		"id":97
 	},
 	{
 		"txt":"[{\"proGood\":\"支持丰富数据源\",\"proName\":\"原生支持多种数据源，可对云上服务、用户本地环境不同数据源进行连接和数据采集，加速数据集成进程\"},{\"proGood\":\"数据同步能力可靠\",\"proName\":\"内建高效的数据搬运能力，面向搬运任务分配搬运资源，提供质量可靠的同步服务能力\"},{\"proGood\":\"无缝集成\",\"proName\":\"与云上服务无缝集成，可快速连接用户的数据计算服务、JMR、流数据总线、流计算等服务，开展数据驱动的服务编排\"},{\"proGood\":\"简单易用\",\"proName\":\"提供向导式配置、图形化服务编排、灵活的作业调度机制，用户可以快速构建数据采集、ETL处理分析的数据工作流（data pipeline）\"},{\"proGood\":\"企业级运维\",\"proName\":\"提供作业运行监控、异常处理、告警通知、作业日志明细查询等功能，支持企业开展自助运维\"}]",
-		"id":6159
+		"id":98
 	},
 	{
 		"txt":"[{\"funcContent\":[{\"funcP\":\"数据工厂原生支持多种常见数据源，可对云上服务、用户本地环境不同数据源进行连接和数据采集，加速数据集成进程。目前支持云存储、云数据库、数据计算服务、SQL Server、Oracle、MySQL、DB2、FTP等服务。\",\"funcTitle\":\"数据源连接\"},{\"funcP\":\"作为云上的数据集成服务，数据工厂需要对接入数据源的数据进行ETL处理，数据工厂通过连接不同的分析服务，以工作流形式，由分析服务对接入的数据进行清洗、转换、分析，实现ETL。目前数据工厂支持接入数据计算服务，后续将增加JMR、流数据总线、流计算、机器学习平台等服务。\",\"funcTitle\":\"计算资源连接\"}],\"funcName\":\"服务连接管理\"},{\"funcContent\":[{\"funcP\":\"数据工厂的数据同步支持从多个本地和云数据源间同步数据，支持用户全量同步、增量同步等不同的同步策略。可用于企业数据仓库的数据接入工作，对多源数据进行采集；也可以通过数据工厂的数据同步功能，将数据仓库中加工处理后的数据分发到生产系统支持在线业务，如数据库系统。\",\"funcTitle\":\"数据接入与分发\"}],\"funcName\":\"数据同步\"},{\"funcContent\":[{\"funcP\":\"通过统一的工作流管理模块，对数据接入、数据清洗、数据汇总分析、数据分发等分析任务进行编排组织，用户可根据业务需要按照月、周、天、小时等不同时间周期制定调度策略。\",\"funcTitle\":\"数据同步及处理的编排与调度\"}],\"funcName\":\"数据工作流\"},{\"funcContent\":[{\"funcP\":\"数据工厂的工作流，在创建时可设置多种告警通知策略，让用户在第一时间获知任务的关键运行状态。\",\"funcTitle\":\"作业设置告警通知规则\"},{\"funcP\":\"提供对工作流执行状态及历史的记录，用户可查看各作业的执行结果以及详细的执行日志，跟踪到每个工作流的每个执行环节的详细日志，便于运维人员诊断及分析问题。\",\"funcTitle\":\"作业运行监控\"}],\"funcName\":\"作业运维\"}]",
-		"id":6160
+		"id":99
 	},
 	{
-		"txt":"[{\"instruction\":\"利用数据工厂服务，企业可以快速、低成本地实施面向云数据库、对象存储、标准数据接口服务（JDBC适配的数据库/FTP服务等）的数据同步任务，通过调度任务的管理，企业可轻松实现数据仓库对不同数据来源的周期性数据接入。\",\"name\":\"云数据仓库的数据接入\",\"picUrl\":\"\",\"selectedProduct\":[]},{\"instruction\":\"数据集成提供了便捷的工具（Client客户端、SDK），方便用户在本地环境基于命令行/SDK方式将本地文件、本地数据库(mysql、oracle、sql server、DB2等)数据上传至云数据仓库（数据计算服务），也可利用该工具下载云数据仓库数据到本地的操作，大大降低企业本地数据上云的门槛。\",\"name\":\"本地数据迁移上云\",\"picUrl\":\"\",\"selectedProduct\":[]}]",
-		"id":6161
+		"txt":"[{\"instruction\":\"利用数据工厂服务，企业可以快速、低成本地实施面向云数据库、对象存储、标准数据接口服务（JDBC适配的数据库/FTP服务等）的数据同步任务，通过调度任务的管理，企业可轻松实现数据仓库对不同数据来源的周期性数据接入。\",\"name\":\"云数据仓库的数据接入\",\"picUrl\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"数据集成提供了便捷的工具（Client客户端、SDK），方便用户在本地环境基于命令行/SDK方式将本地文件、本地数据库(mysql、oracle、sql server、DB2等)数据上传至云数据仓库（数据计算服务），也可利用该工具下载云数据仓库数据到本地的操作，大大降低企业本地数据上云的门槛。\",\"name\":\"本地数据迁移上云\",\"picUrl\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false}]",
+		"id":100
 	}
 ]
