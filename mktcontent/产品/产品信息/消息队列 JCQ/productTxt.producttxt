@@ -1,22 +1,22 @@
 [
 	{
-		"txt":"{\"desc\":\"京东云消息队列（JD Cloud Message Queue，简称JCQ）是京东云自主研发的分布式消息队列服务。产品能够提供消息发布订阅、消息查询和死信队列等一系列高可靠、高可用、高处理性能的消息云服务，是云架构中不可或缺的核心产品。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/91706f2a-53d3-49f6-b038-deedea7128ce20180716095644.jpg\",\"label\":\"[{\\\"TitleName\\\":\\\"申请公测\\\",\\\"TitleUrl\\\":\\\"https://www.jdcloud.com/public/testApply/jcq\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|85\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|85\"}",
-		"id":6301
+		"txt":"{\"instruction\":[],\"productName\":\"消息队列 JCQ\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"//jcq-console.jdcloud.com/topics\"}],\"desc\":\"京东云消息队列（JD Cloud Message Queue，简称JCQ）是京东云自主研发的分布式消息队列服务。产品能够提供消息发布订阅、消息查询和死信队列等一系列高可靠、高可用、高处理性能的消息云服务，是云架构中不可或缺的核心产品。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/3d79d751-4c0a-42cc-b24f-b17f4128e96320181115173415.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|85\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|85\"}",
+		"id":240
 	},
 	{
 		"txt":"[{\"proGood\":\"高可用\",\"proName\":\"集群部署与主从自动切换技术，承诺服务可用性高达 99.95%\"},{\"proGood\":\"高可靠\",\"proName\":\"引入Raft 算法实现数据高可靠性，同步写入，三副本数据备份，数据可靠性高达 99.999999%，并且默认消息持久化存储 3 天，支持重置消费位点消费3天之内任何时间点的消息\"},{\"proGood\":\"高性能\",\"proName\":\"支持每秒千万级的消息收发和推送，无并发限制，海量消息堆积，容量不设上限，消息写入延迟在 10ms 以内\"},{\"proGood\":\"多类型\",\"proName\":\"支撑多种消息类型，包括普通消息、顺序消息和延时消息，以满足不同业务情景的需要\"},{\"proGood\":\"平滑扩容\",\"proName\":\"为满足业务之间的消息收发需求，Topic数量可弹性扩展，集群规模可弹性扩缩，对用户完全透明，按需收费，提高资源利用率，降低冗余费用\"},{\"proGood\":\"监控告警\",\"proName\":\"为用户提供多种类型的监控，包括如生产的TPS、已发布消息的数量大小、堆积消息数量等多种可视化数据监控。多终端监控预警，帮助您提前预警提示风险、快速定位和解决问题\"}]",
-		"id":6302
+		"id":241
 	},
 	{
 		"txt":"[{\"funcContent\":[{\"funcP\":\"生产者可以创建Topic发布多种类型的消息，消费者可以订阅Topic按需进行消费。\",\"funcTitle\":\"发布订阅\"},{\"funcP\":\"用户可以通过TopicID和MessageID进行消息状态和内容的查看。\",\"funcTitle\":\"消息查看\"},{\"funcP\":\"由于多种原因无法成功传递消费的消息都放置在死信队列上，可以进行查看和再次消费。\",\"funcTitle\":\"死信队列\"},{\"funcP\":\"在消息持久化存储的时间范围内（默认3天），重新设置消息消费进度。\",\"funcTitle\":\"重置消费点位\"}],\"funcName\":\"核心功能\"},{\"funcContent\":[{\"funcP\":\"解决业务间异步解耦，流量的削峰填谷，消息通讯等。\",\"funcTitle\":\"普通消息\"},{\"funcP\":\"按照消息的发布顺序进行顺序消费（FIFO）。\",\"funcTitle\":\"顺序消息\"},{\"funcP\":\"在消息发送时间（当前时间）之后的指定延迟时间点进行投递，比如指定消息发送时间的 5 分钟之后进行投递。\",\"funcTitle\":\"延时消息\"}],\"funcName\":\"多样性\"},{\"funcContent\":[{\"funcP\":\"支持Restful API简单方便接入。\",\"funcTitle\":\"支持HTTP 协议接入\"},{\"funcP\":\"提供更为专业、可靠、稳定的 TCP 协议的 SDK 接入。\\t\",\"funcTitle\":\"支持 TCP 协议接入\"}],\"funcName\":\"多协议接入\"},{\"funcContent\":[{\"funcP\":\"支持弹性扩展，可根据业务情况按需增加或者减少资源，提高资源利用率，降低使用成本。\",\"funcTitle\":\"平滑扩展\"},{\"funcP\":\"提供 Web端控制台、API 访问接口和 java SDK，开发简单，易于业务支持和业务迁移。\",\"funcTitle\":\"开发便利\"}],\"funcName\":\"简单易用\"},{\"funcContent\":[{\"funcP\":\"提供多维度的资源运行状况和性能的监控、稳定性维护等功能，提前预警通知，降低日常维护工作量\",\"funcTitle\":\"全面监控 \"},{\"funcP\":\"实例运行在私有网络（VPC）中，增强了安全性和隔离性。提供了子网、访问控制策略等限制访问的功能，抵御网络攻击，保护您的业务隐私\",\"funcTitle\":\"私有网络\"}],\"funcName\":\"安全防护\"}]",
-		"id":6303
+		"id":242
 	},
 	{
-		"txt":"[{\"instruction\":\"在不是强耦合多系统中，很多业务流程不强依赖于核心流程，可以放到消息队列中让消息消费者去按需消费，而不影响核心主流程。例如电商场景（即订单、购物车、物流、积分等系统）。\",\"name\":\"系统解耦\",\"picUrl\":\"//img1.jcloudcs.com/cms/57d2fe3c-3673-431a-87bb-0f3b30ff19f920180705175621.png\",\"selectedProduct\":[]},{\"instruction\":\"上下游系统处理能力存在差距的时候，利用消息队列作为数据的缓冲器，控制信息流量，在下游有能力处理的时候，再进行消费，避免系统处理的请求无效，无服务能力。例如秒杀，抢购等场景。\",\"name\":\"削峰填谷\",\"picUrl\":\"//img1.jcloudcs.com/cms/08916070-5316-42a6-aa75-9c35fbfae9c620180705175626.png\",\"selectedProduct\":[]},{\"instruction\":\"生产者只关心消息是否送达了队列，不关心谁订阅了消息，系统的多个部分可以同时发送或消费消息。例如消息总线，ConfigService更新配置。\\n\\n\",\"name\":\"广播\",\"picUrl\":\"//img1.jcloudcs.com/cms/20ed0784-1487-4100-b18b-68c8de417b7a20180705175630.png\",\"selectedProduct\":[]},{\"instruction\":\"对于上游系统发出的请求，接收者可能由于网络，断电，负载过高等各种原因无法接受，而消息队列同步写入、三副本备份可以存储请求，保证消息的可靠传递，保证信息的可靠性。例如金融交易。\",\"name\":\"可靠信息传递\",\"picUrl\":\"//img1.jcloudcs.com/cms/973f55e3-55a7-4f82-ab40-c92ce94d55ff20180705175634.png\",\"selectedProduct\":[]}]",
-		"id":6304
+		"txt":"[{\"instruction\":\"在不是强耦合多系统中，很多业务流程不强依赖于核心流程，可以放到消息队列中让消息消费者去按需消费，而不影响核心主流程。例如电商场景（即订单、购物车、物流、积分等系统）。\",\"name\":\"系统解耦\",\"picUrl\":\"//img1.jcloudcs.com/cms/57d2fe3c-3673-431a-87bb-0f3b30ff19f920180705175621.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"上下游系统处理能力存在差距的时候，利用消息队列作为数据的缓冲器，控制信息流量，在下游有能力处理的时候，再进行消费，避免系统处理的请求无效，无服务能力。例如秒杀，抢购等场景。\",\"name\":\"削峰填谷\",\"picUrl\":\"//img1.jcloudcs.com/cms/08916070-5316-42a6-aa75-9c35fbfae9c620180705175626.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"生产者只关心消息是否送达了队列，不关心谁订阅了消息，系统的多个部分可以同时发送或消费消息。例如消息总线，ConfigService更新配置。\\n\\n\",\"name\":\"广播\",\"picUrl\":\"//img1.jcloudcs.com/cms/20ed0784-1487-4100-b18b-68c8de417b7a20180705175630.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"对于上游系统发出的请求，接收者可能由于网络，断电，负载过高等各种原因无法接受，而消息队列同步写入、三副本备份可以存储请求，保证消息的可靠传递，保证信息的可靠性。例如金融交易。\",\"name\":\"可靠信息传递\",\"picUrl\":\"//img1.jcloudcs.com/cms/973f55e3-55a7-4f82-ab40-c92ce94d55ff20180705175634.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false}]",
+		"id":243
 	},
 	{
 		"txt":"{\"operatingClasstag\":\"Products|keycount|MiddleContentSec|85\",\"price\":\"//docs.jdcloud.com/message-queue/price-overview\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|85\"}",
-		"id":6305
+		"id":244
 	}
 ]
