@@ -120,14 +120,6 @@
 		"news_title":"JD Cloud making strategic investment into EasyStack and laid the enterprise cloud marketplace"
 	},
 	{
-		"summary":"sdfsdf",
-		"image_url":"//img1.jcloudcs.com/cms/21c2a7a4-c065-4432-a6c7-6f9ae8ede6c420180808110318.jpg",
-		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_122",
-		"jss_key":"News_Content_122",
-		"id":122,
-		"news_title":"test"
-	},
-	{
 		"summary":"JD Cloud officially launches the new version of Load Balancer. This updating focuses on the following two aspects: function enhancement and structural adjustment, realizing a significant increase in the features, stability and reliability, etc. of products.",
 		"image_url":"//img1.jcloudcs.com/cms/af865a3f-e05a-466c-815c-7cf8ee7d7f4420180808180305.jpg",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_123",

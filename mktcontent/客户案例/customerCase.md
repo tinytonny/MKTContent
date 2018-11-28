@@ -120,18 +120,6 @@
 		"solution_jss_key":"Customer_Case_Solution11"
 	},
 	{
-		"project_overview":"It is a commercial complex with a construction area over 200,000m2, integrating such operation types as home building material market, catering, entertainment, business hotel and SOHO apartment. With over 1,000 home building material brands have been settled in it, making it the largest domestic home building material market for online and offline transactions. It works hand in hand with JD to integrate all kinds of resources, integrate and complement with different advantages of online and offline channels, deeply combine information resources with sales channels, and complete the transformation and upgrade from the traditional commerce and trade industry to the E-commerce industry.",
-		"application_type":"Applicable to similar e-commerce enterprises",
-		"introduce":"1. E-commerce propagates its belief on a large scale. Decrease of off-line passenger flow <br/>\n2. The customer service capacity of traditional building material market cannot meet the needs of mobile Internet era.",
-		"image_url":"//img1.jcloudcs.com/cms/3283fcda-37da-4fe2-9e12-8b740d19efd420170328105223.jpg",
-		"name":"Guangjin Building Materials in Shunde District, Guangdong Province",
-		"channel_agent":"E-commerce",
-		"customer_income":"1. Industrial competitiveness: Shunde ranks first in the home building materials industry <br/>\n2. User experience: Becoming the preferred choice for users <br/>\n3. Internet + and O2O regional benchmarks",
-		"id":12,
-		"solution_jss_url":"http://img1.jcloudcs.com/Customer_Case_Solution12",
-		"solution_jss_key":"Customer_Case_Solution12"
-	},
-	{
 		"project_overview":"1. E-commerce propagates its belief on a large scale. Decrease of off-line passenger flow; <br/>\n2. Urban planning, migration of specialized market; <br/>\n3. The customer service capacity of traditional market cannot meet the needs of mobile Internet era;",
 		"application_type":"Applicable to similar e-commerce enterprises",
 		"introduce":"With a covered area of more than 100,000m2, it is a commercial complex integrated with medium and high-end footwear retailing and wholesale. More than 1,000 shoe enterprises enter and are stationed here. It has already become a regional market of online and off-line transactions in Henan Province. Through JD E-commerce Cloud Platform, Jingshawang gradually formed a B2B shoe wholesale and purchasing platform mainly serving nationwide manufacturers, brand owners and end retailers, which directly connects with the upstream manufactures and brand owners by shortening the product supply chain, and serves various end retailers and online shops with the most reasonable wholesale prices.",

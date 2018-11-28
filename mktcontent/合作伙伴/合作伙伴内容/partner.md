@@ -72,14 +72,6 @@
 		"tableName":"cms_partner"
 	},
 	{
-		"name":"Chinasoft International Limited",
-		"description":"China Software International is a leading comprehensive software and information service company in China. Founded in 2000, it is listed on the main board of Hong Kong. Adhering to the core values of \"struggle-orientation, customer achievement, creation and sharing, common growth\", it is a long-term, stable and reliable partner of customers. \n",
-		"short_name":"Chinasoft International",
-		"id":10,
-		"partner_label":"Provide integrated software and information service",
-		"tableName":"cms_partner"
-	},
-	{
 		"name":"Visualsec (Beijing) Technology Co., Ltd.",
 		"description":"VisualSec is a software company focusing on cloud data security management, and it ensures data security and compliance of enterprise users on the cloud through cloud database audit, database firewall, database encryption and other systems. \n",
 		"short_name":"VisualSec",
@@ -240,27 +232,11 @@
 		"tableName":"cms_partner"
 	},
 	{
-		"name":"Emotibot Technologies (Shanghai) Limited",
-		"description":"Emotibot takes emotion calculation as the core, natural language understanding and deep learning as the basis, to create the artificial intelligence that can read, watch, listen and memorize. As the only domestic company with multi-modal human-computer interaction technology of text, image and voice, Emotibot is taking emotional computing and natural language understanding as its core, and leading dialogue robots to better serve human life and work in high-value scenarios.",
-		"short_name":"Emotibot Technologies",
-		"id":35,
-		"partner_label":"Emotibot Technologies makes AI serve humans with the “human” mode",
-		"tableName":"cms_partner"
-	},
-	{
 		"name":"Harbin Innovation Valley Investment Management Co., Ltd.",
 		"description":"As the JD Cloud Base and the Heilongjiang Operating Center of JD Cloud College, Harbin Cloud Times Technology Development Co., Ltd. is a wholly-owned subsidiary of Innovation Valley. It is supported by the professional computer team of Harbin University of Technology. Subordinate systems integrate business division and JD Cloud business division, and software R & D department as the carrier. With long-term business practice and technology accumulation in cloud computing, big data, Internet of Things and mobile Internet applications, it is committed to building a social cloud service platform to provide safe, professional, stable and convenient cloud services for the whole society.",
 		"short_name":"Innovation Valley Investment Management Co., Ltd.",
 		"id":36,
 		"partner_label":"Cloud future, double-pioneer and one-stop cloud service platform",
-		"tableName":"cms_partner"
-	},
-	{
-		"name":"WTOIP",
-		"description":"Knowledge Business Cloud is a cloud service product built by WTOIP based on JD Cloud computing and global Internet data, integrating intellectual property inquiry (trademark, patent, software copyright, copyright and domain name), big data enterprise service application (policy push on science and technology project), patent intelligent renewal, radar monitoring, risk early warning, industry competition analysis report and other core services, and provides a full range of support services for knowledge business enterprises.",
-		"short_name":"",
-		"id":37,
-		"partner_label":"Enterprise intellectual property AI and big data application platform",
 		"tableName":"cms_partner"
 	},
 	{
