@@ -225,11 +225,6 @@
 		"id":121
 	},
 	{
-		"name":"日志服务",
-		"description":"一站式服务的日志类数据服务",
-		"id":123
-	},
-	{
 		"name":"JMR",
 		"description":"全托管的Hadoop/Spark计算集群服务",
 		"id":124
@@ -415,19 +410,9 @@
 		"id":192
 	},
 	{
-		"name":"快报用不展示",
+		"name":"其他",
 		"description":"",
 		"id":194
-	},
-	{
-		"name":"域名服务",
-		"description":"",
-		"id":195
-	},
-	{
-		"name":"备案服务",
-		"description":"",
-		"id":196
 	},
 	{
 		"name":"费用管理",
@@ -438,11 +423,6 @@
 		"name":"账户管理",
 		"description":"",
 		"id":198
-	},
-	{
-		"name":"热门活动",
-		"description":"",
-		"id":199
 	},
 	{
 		"name":"基础软件",
@@ -1433,5 +1413,45 @@
 		"name":"Elite 精选",
 		"description":"Elite精选产品双品牌、轻交付，标准产品结合部分定制，减省招投标环节，可线上签约交易，交付过程及质量可控",
 		"id":3003
+	},
+	{
+		"name":"流水线",
+		"description":"京东云CodePipeline是一款提供持续集成、持续交付能力的产品",
+		"id":3007
+	},
+	{
+		"name":"日志服务",
+		"description":"一站式日志服务平台",
+		"id":3011
+	},
+	{
+		"name":"金融征信 API",
+		"description":"面向企业、机构、个人的一站式金融征信服务市场，集合了京东和国内顶级金融与征信类服务商提供的产品服务。",
+		"id":3012
+	},
+	{
+		"name":"SaaS 集市",
+		"description":"国内领先的数据交易平台，拥有为您精选的数十款SaaS应用，久经市场检验。",
+		"id":3013
+	},
+	{
+		"name":"Oracle 上云",
+		"description":"",
+		"id":3014
+	},
+	{
+		"name":"函数服务",
+		"description":"",
+		"id":3019
+	},
+	{
+		"name":"移动开发解决方案",
+		"description":"",
+		"id":3020
+	},
+	{
+		"name":"存储网关",
+		"description":"安全易用、经济高效的混合云存储服务",
+		"id":3021
 	}
 ]
