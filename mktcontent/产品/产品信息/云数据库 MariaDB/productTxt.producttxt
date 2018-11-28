@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[{\"explain\":\"帮助中心-产品简介\",\"explainLink\":\"https://docs.jdcloud.com/rds/product-overview\"},{\"explain\":\"帮助中心-操作指南\",\"explainLink\":\"https://docs.jdcloud.com/rds/create-instance\"},{\"explain\":\"帮助中心-最佳实践\",\"explainLink\":\"https://docs.jdcloud.com/rds/connect-instance\"}],\"productName\":\"云数据库 MariaDB\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://rds-console.jdcloud.com/createDataBase\"}],\"desc\":\"云数据库 MariaDB 是京东云基于开源的 MariaDB 10.2 版本构建的稳定可靠的数据库服务。相比传统数据库，云数据库 MariaDB 易于部署、管理和扩展，默认支持主从热备架构，提供数据备份、故障恢复、监控等全套解决方案，彻底解决数据库运维的烦恼。\",\"iconUrl\":\" \",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/be5a4afa-3e13-469c-83a1-17382e94d64220181115165507.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|92\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|92\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"云数据库 MariaDB\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://rds-console.jdcloud.com/createDataBase\"}],\"desc\":\"云数据库 MariaDB 是京东云基于开源的 MariaDB 10.2 版本构建的稳定可靠的数据库服务。相比传统数据库，云数据库 MariaDB 易于部署、管理和扩展，默认支持主从热备架构，提供数据备份、故障恢复、监控等全套解决方案，彻底解决数据库运维的烦恼。\",\"iconUrl\":\" \",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/be5a4afa-3e13-469c-83a1-17382e94d64220181115165507.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|92\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|92\"}",
 		"id":272
 	},
 	{
@@ -12,7 +12,11 @@
 		"id":274
 	},
 	{
-		"txt":"[{\"instruction\":\"京东云提供了 LAMP 网站所必须的云主机和云数据库 MariaDB 产品，便于您的网站部署在京东云上。同时，监控、备份、安全防护等多项辅助运维能力和自身的主备高可用架构，使您可以专注于网站建设。\",\"name\":\"LAMP网站场景\",\"picUrl\":\"//img1.jcloudcs.com/cms/b9bf0d62-69e6-4de2-851f-0057401c985d20180816175936.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}},{\"instruction\":\"应用于读取请求较高，或是需要应对短期内读取流量高峰，可在云数据库 MariaDB 上创建一个或多个只读实例，每个只读实例拥有独立的链接地址，从而应用端可以实现读取压力均摊。\",\"name\":\"读写分离场景\",\"picUrl\":\"//img1.jcloudcs.com/cms/ec59bd32-be7a-472c-8119-2603ebca4e4920180816175954.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]",
+		"txt":"[{\"instruction\":\"京东云提供了 LAMP 网站所必须的云主机和云数据库 MariaDB 产品，便于您的网站部署在京东云上。同时，监控、备份、安全防护等多项辅助运维能力和自身的主备高可用架构，使您可以专注于网站建设。\",\"name\":\"LAMP网站场景\",\"picUrl\":\"//img1.jcloudcs.com/cms/b9bf0d62-69e6-4de2-851f-0057401c985d20180816175936.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"应用于读取请求较高，或是需要应对短期内读取流量高峰，可在云数据库 MariaDB 上创建一个或多个只读实例，每个只读实例拥有独立的链接地址，从而应用端可以实现读取压力均摊。\",\"name\":\"读写分离场景\",\"picUrl\":\"//img1.jcloudcs.com/cms/ec59bd32-be7a-472c-8119-2603ebca4e4920180816175954.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false}]",
 		"id":275
+	},
+	{
+		"txt":"[{\"name\":\"产品概述\",\"link\":\"https://docs.jdcloud.com/cn/rds/product-overview\",\"classTag\":\"\"},{\"name\":\"从本地 MariaDB 迁移到云数据库 MariaDB\",\"link\":\"https://docs.jdcloud.com/cn/rds/local-to-mariadb\",\"classTag\":\"\"},{\"name\":\"Open API文档\",\"link\":\"https://docs.jdcloud.com/cn/rds/api/overview?content=API\",\"classTag\":\"\"},{\"name\":\"云数据库 MariaDB 限制说明\",\"link\":\"https://docs.jdcloud.com/cn/rds/mariadb-restrictions\",\"classTag\":\"\"},{\"name\":\"云数据库 MariaDB 异地数据备份同步\",\"link\":\"https://docs.jdcloud.com/cn/rds/create-cross-region-synchronization-service\",\"classTag\":\"\"},{\"name\":\"云数据库 MariaDB 参数组\",\"link\":\"https://docs.jdcloud.com/cn/rds/creat-parameter-group\",\"classTag\":\"\"}]",
+		"id":689
 	}
 ]
