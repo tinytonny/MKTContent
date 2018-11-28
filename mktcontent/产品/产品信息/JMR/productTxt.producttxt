@@ -1,26 +1,26 @@
 [
 	{
-		"txt":"{\"instruction\":[{\"explain\":\"提交工单申请免费试用，点击立即前往！\",\"explainLink\":\"https://uc.jdcloud.com/question/submit\"},{\"explain\":\"推广优惠期间，JMR产品服务费全免！\",\"explainLink\":\"https://www.jdcloud.com/help/detail/3132/isCatalog/1\"}],\"productName\":\"JMR\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://xdata.jdcloud.com/rmgr/resources/res-manage/custom-resources.html?dataCenter=bj_02\"}],\"desc\":\"JMR(JingDong MapReduce)是一个托管集群平台，可以在京东云上运行大数据框架（如Apache Hadoop和Apache Spark）或运行这些框架相关的开源项目（如Apache Hive和Apache Pig），您可便捷地使用MapReduce，Hive，Spark，Presto等服务低成本开展大规模分布式数据计算服务和海量数据分析。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/51be59c8-862b-4cfe-a2a5-26fc31527f4820181115162120.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|38\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|38\"}",
-		"id":80
+		"txt":"{\"desc\":\"JMR(JingDong MapReduce)是一个托管集群平台，可以在京东云上运行大数据框架（如Apache Hadoop和Apache Spark）或运行这些框架相关的开源项目（如Apache Hive和Apache Pig），您可便捷地使用MapReduce，Hive，Spark，Presto等服务低成本开展大规模分布式数据计算服务和海量数据分析。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/4a0a7299-3b2d-4a01-9f6d-66e2b8c3847820180419121908.jpg\",\"instruction\":\"[{\\\"explain\\\":\\\"提交工单申请免费试用，点击立即前往！\\\",\\\"explainLink\\\":\\\"https://uc.jdcloud.com/question/submit\\\"},{\\\"explain\\\":\\\"推广优惠期间，JMR产品服务费全免！\\\",\\\"explainLink\\\":\\\"https://www.jdcloud.com/help/detail/3132/isCatalog/1\\\"}]\",\"label\":\"[{\\\"TitleName\\\":\\\"立即使用\\\",\\\"TitleUrl\\\":\\\"https://xdata.jdcloud.com/rmgr/resources/res-manage/custom-resources.html?dataCenter=bj_02\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|38\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|38\"}",
+		"id":6141
 	},
 	{
 		"txt":"[{\"proGood\":\"简单易用\",\"proName\":\"基于自身的业务规模，来选择硬件机型（CPU、内存、磁盘），选软件组合和版本，选网络环境等，整个过程全部自动化部署。通常创建一个集群仅需十几分钟。\"},{\"proGood\":\"节约成本\",\"proName\":\"可以按需创建集群，即离线作业运行结束就可以释放集群。可以动态的在需要的时候增加节点，也可以选择购买按量模式并长期运行。\"},{\"proGood\":\"深度整合\",\"proName\":\"与京东云其他产品如云存储、云监控，大数据分析平台等深度整合，作为 JMR 产品中Hadoop/Spark 计算引擎的输入源或者输出目的地。\"},{\"proGood\":\"安全可靠\",\"proName\":\"各集群通过VPC网络隔离，自动配置防火墙管理网络访问，支持网络ACL和安全组的自动配置；集群自带高可用方案并提供集群监控管理功能。\"}]",
-		"id":81
+		"id":6142
 	},
 	{
 		"txt":"[{\"funcContent\":[{\"funcP\":\"根据用户指定节点硬件配置、存储、软件，一键式自动创建集群，并自动完成防火墙设置、弹性IP绑定。\",\"funcTitle\":\"集群灵活创建\"},{\"funcP\":\"随着业务量增大，可以随时对集群进行扩容。\\n\",\"funcTitle\":\"集群灵活扩容\"},{\"funcP\":\"如果是临时计算海量数据，可将随时释放相关联的集群。\",\"funcTitle\":\"集群灵活释放\"}],\"funcName\":\"集群管理\"},{\"funcContent\":[{\"funcP\":\"提供集群的可用性、性能监控，帮助用户发现问题、解决问题，同时满足用户对集群资源调整、释放等管理需求。\",\"funcTitle\":\"集群主要指标\"},{\"funcP\":\"监控集群中的每个节点的网络状态，硬盘状态等。\",\"funcTitle\":\"集群节点指标\"},{\"funcP\":\"根据您集群中的相关组件进行监控。\\n监控服务节点是否正常运转。\",\"funcTitle\":\"集群服务进程\"}],\"funcName\":\"全方位监控\"},{\"funcContent\":[{\"funcP\":\"可选集群，可选作业跑在不同集群上。\\n可查看作业的详情，作业的历史执行日志。\",\"funcTitle\":\"配置作业\"},{\"funcP\":\"部署时的调度策略分为单次调度和周期调度。\\n可供客户灵活的选择作业自动执行的时间。\",\"funcTitle\":\"部署作业\"}],\"funcName\":\"作业管理\"}]",
-		"id":82
+		"id":6143
 	},
 	{
-		"txt":"[{\"companyName\":\"钱大妈\",\"description\":\"基于JMR搭建大数据平台，利用京东人工智能和大数据技术，提供智能补货和销量预测等。\",\"logoUrl\":\"//img1.jcloudcs.com/cms/b77ef599-a335-4174-ab19-465124738e0920180806155618.jpg\",\"showShade\":false,\"sketch\":\"专营生鲜肉菜市场，以满足消费者对食材产品的新鲜健康需求为核心\"},{\"companyName\":\"良品铺子\",\"description\":\"基于JMR搭建大数据平台，利用京东人工智能和大数据技术，提供智能补货和销量预测等。\",\"logoUrl\":\"//img1.jcloudcs.com/cms/ec40245d-a447-43a5-b7e5-c2b7f13e382620180806155624.jpg\",\"showShade\":false,\"sketch\":\"一家专业品牌连锁运营公司，旨在成为休闲零食第一品牌。\"}]",
-		"id":83
+		"txt":"[{\"companyName\":\"钱大妈\",\"description\":\"基于JMR搭建大数据平台，利用京东人工智能和大数据技术，提供智能补货和销量预测等。\",\"logoUrl\":\"//img1.jcloudcs.com/cms/b77ef599-a335-4174-ab19-465124738e0920180806155618.jpg\"},{\"companyName\":\"良品铺子\",\"description\":\"基于JMR搭建大数据平台，利用京东人工智能和大数据技术，提供智能补货和销量预测等。\",\"logoUrl\":\"//img1.jcloudcs.com/cms/ec40245d-a447-43a5-b7e5-c2b7f13e382620180806155624.jpg\"}]",
+		"id":6144
 	},
 	{
-		"txt":"[{\"instruction\":\"支持处理各类应用程序生成的各种日志，帮助用户将对非结构化数据或半结构化数据进行挖掘和分析。支持海量数据ETL，在大型数据集上进行数据抽取、转换、加载，同时支持用户自定义数据加工处理的作业，满足海量数据ETL的应用需求。\",\"name\":\"离线分析\",\"picUrl\":\"//img1.jcloudcs.com/cms/0712e52f-9030-40b7-b699-bb555fa7c65220180806153902.jpg\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"生产环境中的数据传入消息队列，流计算引擎实时不间断地处理消息队列中的数据，并产生新数据或是计算结果。流计算的产出可以存储至集群之中或是存储在外部云服务之上。\",\"name\":\"流计算\",\"picUrl\":\"//img1.jcloudcs.com/cms/2ca596bf-52cb-4c2d-a4e8-361961debcad20180803161014.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}},{\"instruction\":\"JMR_BD-OS1.0版本，是一款平台级大数据产品。平台提供多源异构的数据采集模块、实时/离线计算框架，简洁易用的开发环境和平台接口，提供大数据管理、开发和计算的能力，可支撑企业级数据仓库、用户画像、知识图谱、深度学习、文本分析及更多企业级应用的构建。\",\"name\":\"一站式大数据平台\",\"picUrl\":\"//img1.jcloudcs.com/cms/76a1ea18-75ac-4f3e-be67-0b8c976ec4b820180807105902.jpg\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]",
-		"id":84
+		"txt":"[{\"instruction\":\"支持处理各类应用程序生成的各种日志，帮助用户将对非结构化数据或半结构化数据进行挖掘和分析。支持海量数据ETL，在大型数据集上进行数据抽取、转换、加载，同时支持用户自定义数据加工处理的作业，满足海量数据ETL的应用需求。\",\"name\":\"离线分析\",\"picUrl\":\"//img1.jcloudcs.com/cms/0712e52f-9030-40b7-b699-bb555fa7c65220180806153902.jpg\",\"selectedProduct\":[]},{\"instruction\":\"生产环境中的数据传入消息队列，流计算引擎实时不间断地处理消息队列中的数据，并产生新数据或是计算结果。流计算的产出可以存储至集群之中或是存储在外部云服务之上。\",\"name\":\"流计算\",\"picUrl\":\"//img1.jcloudcs.com/cms/2ca596bf-52cb-4c2d-a4e8-361961debcad20180803161014.png\",\"selectedProduct\":[]},{\"instruction\":\"JMR_BD-OS1.0版本，是一款平台级大数据产品。平台提供多源异构的数据采集模块、实时/离线计算框架，简洁易用的开发环境和平台接口，提供大数据管理、开发和计算的能力，可支撑企业级数据仓库、用户画像、知识图谱、深度学习、文本分析及更多企业级应用的构建。\",\"name\":\"一站式大数据平台\",\"picUrl\":\"//img1.jcloudcs.com/cms/76a1ea18-75ac-4f3e-be67-0b8c976ec4b820180807105902.jpg\",\"selectedProduct\":[]}]",
+		"id":6145
 	},
 	{
 		"txt":"{\"operatingClasstag\":\"Products|keycount|MiddleContentSec|38\",\"price\":\"https://docs.jdcloud.com/jd-mapreduce/price-overview\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|38\"}",
-		"id":86
+		"id":6147
 	}
 ]
