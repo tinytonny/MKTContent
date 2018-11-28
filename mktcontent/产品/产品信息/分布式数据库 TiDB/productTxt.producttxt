@@ -1,18 +1,18 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"分布式数据库 TiDB\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://docs.jdcloud.com/cn/tidb-service/public-beta-introduction\"}],\"desc\":\"Cloud-TiDB 是京东云联合 PingCAP 基于国内开源 数据库 TiDB 打造的一款同时支持联机事务处理（OLTP）和 联机分析处理（OLAP）分布式数据库，具有自动的水平伸缩，强一致性的分布式事务，故障自恢复，兼容 MySQL协议等种种优点，适合海量数据量的在线交易和实时分析业务。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/e56edfea-c93c-455b-8d29-840172319ca220181115165645.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|78\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|78\"}",
-		"id":216
+		"txt":"{\"desc\":\"Cloud-TiDB 是京东云联合 PingCAP 基于国内开源 数据库 TiDB 打造的一款同时支持联机事务处理（OLTP）和 联机分析处理（OLAP）分布式数据库，具有自动的水平伸缩，强一致性的分布式事务，故障自恢复，兼容 MySQL协议等种种优点，适合海量数据量的在线交易和实时分析业务。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/1aa1c655-c150-4d2f-a1a2-2def89f6601d20180629144226.jpg\",\"label\":\"[{\\\"TitleName\\\":\\\"申请公测\\\",\\\"TitleUrl\\\":\\\"https://docs.jdcloud.com/cn/tidb-service/public-beta-introduction\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|78\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|78\"}",
+		"id":6277
 	},
 	{
 		"txt":"[{\"proGood\":\"水平弹性扩展\",\"proName\":\"分布式的 TiDB 可随着你的数据增长而无缝地水平扩展，只需要通过增加更多的机器来满足业务增长需要，应用层可以不用关心存储的容量和吞吐。 TiDB 根据存储、网络、距离等因素，动态进行负载均衡调整，以保证更优的读写性能。\"},{\"proGood\":\"高度兼容 MySQL\",\"proName\":\"TiDB 的通讯协议与 MySQL 高度兼容，你可以轻松地像使用单机数据库一样，用 TiDB 替换 MySQL 来支持你的业务，而几乎无需修改代码。 MySQL 的客户端管理工具及社区所有的周边工具都可直接接入，极大降低学习和使用成本。\"},{\"proGood\":\"故障自恢复及异地多活\",\"proName\":\"TiDB 使用多副本进行数据存储，并依赖业界最先进的 Raft 多数派选举算法确保数据 100% 强一致性和高可用。 副本可跨地域部署在的不同的数据中心，主副本故障时自动切换，无需人工介入，自动保障业务的连续性，实现真正意义上的异地多活。\"},{\"proGood\":\"一站式 HTAP 解决方案\",\"proName\":\"TiDB 作为典型的 OLTP 行存数据库，同时兼具强大的 OLAP 功能，一份数据可以同时支持 OLTP & OLAP，无需传统繁琐的 ETL 过程，降低了数据分析的延迟，实时性得到极大提升。\"},{\"proGood\":\"在线DDL\",\"proName\":\"按需更新 TiDB Schema。添加新的列和索引，不影响当前业务。\"}]",
-		"id":217
+		"id":6278
 	},
 	{
-		"txt":"[{\"funcContent\":[{\"funcP\":\"提供一站式 HTAP 解决方案，一份数据同时支持 OLTP 和 OLAP 两种场景，无需传统的ETL过程\",\"funcTitle\":\"一站式 HTAP 解决方案\"}],\"funcName\":\"交易分析，两全其美\"},{\"funcContent\":[{\"funcP\":\"选择规格后下单，几分钟内即可创建 TiDB 实例，可立即投入使用，立即创造价值。\",\"funcTitle\":\"快速部署\"}],\"funcName\":\"部署方便快速\"},{\"funcContent\":[{\"funcP\":\"计算层，存储层，管理层都是多节点的冗余架构，可以实现故障的自动恢复，保证服务可用性。\",\"funcTitle\":\"多节点架构\"}],\"funcName\":\"服务高可用\"},{\"funcContent\":[{\"funcP\":\"只需简单增加节点即可扩展处理能力，存储能力和并发能力\",\"funcTitle\":\"线性扩展\"}],\"funcName\":\"线性扩展\"}]",
-		"id":218
+		"txt":"[{\"funcContent\":[{\"funcP\":\"提供一站式 HTAP 解决方案，一份数据同时支持 OLTP 和 OLAP 两种场景，无需传统的ETL过程\",\"funcTitle\":\"\"}],\"funcName\":\"交易分析，两全其美\"},{\"funcContent\":[{\"funcP\":\"选择规格后下单，几分钟内即可创建 TiDB 实例，可立即投入使用，立即创造价值。\",\"funcTitle\":\"\"}],\"funcName\":\"部署方便快速\"},{\"funcContent\":[{\"funcP\":\"计算层，存储层，管理层都是多节点的冗余架构，可以实现故障的自动恢复，保证服务可用性。\",\"funcTitle\":\"\"}],\"funcName\":\"服务高可用\"},{\"funcContent\":[{\"funcP\":\"只需简单增加节点即可扩展处理能力，存储能力和并发能力\",\"funcTitle\":\"\"}],\"funcName\":\"线性扩展\"}]",
+		"id":6279
 	},
 	{
-		"txt":"[{\"instruction\":\"TiDB支持强一致性的分布式事务，ACID 事务可以在多节点间进行，无需担心一致性问题。TiDB的处理能力和数据容量可以随着节点的增加而无缝的水平扩展，因此非常适合海量数据的在线交易系统\",\"name\":\"海量数据的在线交易系统\",\"picUrl\":\"//img1.jcloudcs.com/cms/783bc198-ec76-49b9-a9da-069b04b58fba20180625092729.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}},{\"instruction\":\"TiDB强大的分布式查询引擎可提供高性能的复杂SQL的查询能力，使联机交易和数据分析能够在一份数据上同时运行，摆脱了传统的ETL过程，适合各种需要实时数据分析的场景。\",\"name\":\"海量数据高性能实时分析\",\"picUrl\":\"//img1.jcloudcs.com/cms/4e68ba04-d11d-436d-b08a-a2752faae70520180625092734.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]",
-		"id":219
+		"txt":"[{\"instruction\":\"TiDB支持强一致性的分布式事务，ACID 事务可以在多节点间进行，无需担心一致性问题。TiDB的处理能力和数据容量可以随着节点的增加而无缝的水平扩展，因此非常适合海量数据的在线交易系统\",\"name\":\"海量数据的在线交易系统\",\"picUrl\":\"//img1.jcloudcs.com/cms/783bc198-ec76-49b9-a9da-069b04b58fba20180625092729.png\",\"selectedProduct\":[]},{\"instruction\":\"TiDB强大的分布式查询引擎可提供高性能的复杂SQL的查询能力，使联机交易和数据分析能够在一份数据上同时运行，摆脱了传统的ETL过程，适合各种需要实时数据分析的场景。\",\"name\":\"海量数据高性能实时分析\",\"picUrl\":\"//img1.jcloudcs.com/cms/4e68ba04-d11d-436d-b08a-a2752faae70520180625092734.png\",\"selectedProduct\":[]}]",
+		"id":6280
 	}
 ]
