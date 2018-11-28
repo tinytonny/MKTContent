@@ -8,7 +8,7 @@
 		"id":288
 	},
 	{
-		"txt":"[{\"funcContent\":[{\"funcP\":\"Users can create, delete, and download docker images according to demands.\",\"funcTitle\":\"Manage Docker Image\"},{\"funcP\":\"Support three big regions such as cn-north-1, cn-east-2, and cn-south-1\",\"funcTitle\":\"Support Several Regions\"}],\"funcName\":\"Docker Image Management\"},{\"funcContent\":[{\"funcP\":\"Quickly create containerized applications by combining native containers with 、Kubernetes clusters.\",\"funcTitle\":\"Rapidly Create Container Application\"}],\"funcName\":\"Integrated Container Service\"}]",
+		"txt":"[{\"funcContent\":[{\"funcP\":\"Users can create, delete, and download docker images according to demands.\",\"funcTitle\":\"Manage Docker Image\"},{\"funcP\":\"Support three big regions such as cn-north-1, cn-east-2, and cn-south-1\",\"funcTitle\":\"Support Several Regions\"}],\"funcName\":\"Docker Image Management\"},{\"funcContent\":[{\"funcP\":\"Quickly create containerized applications by combining native containers with Kubernetes clusters.\",\"funcTitle\":\"Rapidly Create Container Application\"}],\"funcName\":\"Integrated Container Service\"}]",
 		"id":289
 	}
 ]
