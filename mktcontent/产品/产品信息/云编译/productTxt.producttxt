@@ -1,14 +1,14 @@
 [
 	{
-		"txt":"{\"desc\":\"云编译服务为开发者提供基于容器的自动化持续集成服务。支持多语言构建环境，构建产出支持包/镜像，查看构建结果及日志。编译构建实现容器化隔离，支持自定义构建容器，为产品的持续集成提供上游基础服务，提升研发效率。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/afd5167c-1a17-4752-b8c8-bbe2fb1fa87c20180822114903.jpg\",\"label\":\"[{\\\"TitleName\\\":\\\"申请公测\\\",\\\"TitleUrl\\\":\\\"https://www.jdcloud.com/public/testApply/codebuild\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|94\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|94\"}",
-		"id":6341
+		"txt":"{\"instruction\":[],\"productName\":\"云编译\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/codebuild\"}],\"desc\":\"云编译服务为开发者提供基于容器的自动化持续集成服务。支持多语言构建环境，构建产出支持包/镜像，查看构建结果及日志。编译构建实现容器化隔离，支持自定义构建容器，为产品的持续集成提供上游基础服务，提升研发效率。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/ed1bc8dd-5415-4f22-bf8f-d20c2404c13320181115173954.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|94\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|94\"}",
+		"id":280
 	},
 	{
 		"txt":"[{\"proGood\":\"支持多种编译语言\",\"proName\":\"无需配置或维护编译环境。使用多种语言创建快速、一致且可靠的版本。提供 Java、Golang、NodeJs、Python等多种编译环境，将源代码打包到对象存储或容器中。\"},{\"proGood\":\"构建脚本支持参数化\",\"proName\":\"系统支持默认构建参数，允许自定义配置构建参数及构建脚本，满足个性化构建需求。\\n\"},{\"proGood\":\"构建日志查看\",\"proName\":\"提供历史构建日志查看功能，方便定位问题。\\n\"},{\"proGood\":\"快速编译\",\"proName\":\"多核CPU运行编译作业，SSD缓存源代码及其他依赖项，以加快编译速度。\"}]",
-		"id":6342
+		"id":281
 	},
 	{
-		"txt":"[{\"funcContent\":[{\"funcP\":\"\",\"funcTitle\":\"支持自动下载Git、GitHub中的代码\"}],\"funcName\":\"源代码下载\"},{\"funcContent\":[{\"funcP\":\"\",\"funcTitle\":\"支持 Java、Golang、NodeJs、Python等多种编译环境\"}],\"funcName\":\"主流语言编译\"},{\"funcContent\":[{\"funcP\":\"\",\"funcTitle\":\"系统支持默认构建参数，允许自定义配置构建参数及构建脚本，满足个性化构建需求\"}],\"funcName\":\"构建脚本参数化\"},{\"funcContent\":[{\"funcP\":\"\",\"funcTitle\":\"支持查看构建日志，便于用户查看构建的详细情况，进行问题定位及相应处理\"}],\"funcName\":\"构建日志\"},{\"funcContent\":[{\"funcP\":\"\",\"funcTitle\":\"查看全部编译构建任务，并提供下载功能\"}],\"funcName\":\"构建历史\"},{\"funcContent\":[{\"funcP\":\"\",\"funcTitle\":\"支持下载构建包\"}],\"funcName\":\"构建包下载\"}]",
-		"id":6343
+		"txt":"[{\"funcContent\":[{\"funcP\":\"支持自动下载Git、GitHub中的代码\",\"funcTitle\":\"自动下载Git、GitHub中的代码\"}],\"funcName\":\"源代码下载\"},{\"funcContent\":[{\"funcP\":\"支持 Java、Golang、NodeJs、Python等多种编译环境\",\"funcTitle\":\"多种编译环境\"}],\"funcName\":\"主流语言编译\"},{\"funcContent\":[{\"funcP\":\"系统支持默认构建参数，允许自定义配置构建参数及构建脚本，满足个性化构建需求\",\"funcTitle\":\"允许自定义配置\"}],\"funcName\":\"构建脚本参数化\"},{\"funcContent\":[{\"funcP\":\"支持查看构建日志，便于用户查看构建的详细情况，进行问题定位及相应处理\",\"funcTitle\":\"查看构建日志\"}],\"funcName\":\"构建日志\"},{\"funcContent\":[{\"funcP\":\"查看全部编译构建任务，并提供下载功能\",\"funcTitle\":\"查看构建历史\"}],\"funcName\":\"构建历史\"},{\"funcContent\":[{\"funcP\":\"支持下载构建包\",\"funcTitle\":\"支持下载构建包\"}],\"funcName\":\"构建包下载\"}]",
+		"id":282
 	}
 ]
