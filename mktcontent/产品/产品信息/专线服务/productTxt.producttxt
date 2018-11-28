@@ -1,22 +1,22 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"专线服务\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"//cns-console.jdcloud.com/host/physicalConnection/list\"}],\"desc\":\"专线服务(Direct Connection)是京东云提供的一款高速、安全、稳定的网络接入服务。实现京东云网络与您的IDC、合作伙伴等网络环境进行内网通信、数据备份及跨机房容灾，为用户提供混合云解决方案。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/79036acb-1427-4de5-8079-07b3a8c47dcb20181115163620.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|60\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|60\"}",
-		"id":153
+		"txt":"{\"desc\":\"专线服务(Direct Connection)是京东云提供的一款高速、安全、稳定的网络接入服务。实现京东云网络与您的IDC、合作伙伴等网络环境进行内网通信、数据备份及跨机房容灾，为用户提供混合云解决方案。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/e3aab722-1c45-4c0e-b74d-d1898357a4c120180419123023.jpg\",\"label\":\"[{\\\"TitleName\\\":\\\"立即使用\\\",\\\"TitleUrl\\\":\\\"//cns-console.jdcloud.com/host/physicalConnection/list\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|60\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|60\"}",
+		"id":6214
 	},
 	{
 		"txt":"[{\"proGood\":\"网络质量好\",\"proName\":\"通过专用的物理链路接入京东云网络，提供内网级通信质量，网络时延、丢包率等极低。\"},{\"proGood\":\"安全可靠\",\"proName\":\"物理链路由接入的用户独享，无数据泄露风险，安全性高，满足游戏、金融、政府企业等对网络安全性要求高的客户需求。\"},{\"proGood\":\"传输带宽高\",\"proName\":\"单物理链路最大支持10Gbps的带宽，可满足大数据量业务的客户，支持多条专线做ECMP，在保障服务可用性的基础上叠加扩充带宽上限。\"}]",
-		"id":154
+		"id":6215
 	},
 	{
 		"txt":"[{\"funcContent\":[{\"funcP\":\"京东云各地域均提供至少2~3个专线接入点，方便您就近接入，节省长途专线接入的成本。同时可通过京东云专线连接丰富的合作伙伴进行接入，合作伙伴提供更多的接入点及更灵活的接入方式。\",\"funcTitle\":\"各地域均提供多个专线接入点，便于就近接入，为您节省接入成本。\"}],\"funcName\":\"多接入点\"},{\"funcContent\":[{\"funcP\":\"京东云专线接入默认支持1000Base-T、1000Base-LX、10GBase-LR三种接入端口，单物理连接最大支持10Gbps的带宽，可通过多条物理连接进行ECMP扩充带宽上限，满足您的多种带宽需求。\",\"funcTitle\":\"支持多种接入端口及带宽\"}],\"funcName\":\"多端口带宽\"},{\"funcContent\":[{\"funcP\":\"允许在您的IDC和京东云专线接入点间创建多条物理链路，实现流量的负载均衡，保障专线服务的高可用性。\",\"funcTitle\":\"多条物理链路支持做ECMP，满足客户的高可用网络质量需求\"}],\"funcName\":\"网络高可用性\"},{\"funcContent\":[{\"funcP\":\"您可将已接入公有云的物理链路共享给其他用户使用，用于实现物理链路的充分使用，同时物理链路上可以运行多种不同的业务。\",\"funcTitle\":\"物理链路支持多用户、多业务共用，用户间及业务间相互隔离、互不影响。\"}],\"funcName\":\"多用户多业务隔离\"}]",
-		"id":155
+		"id":6216
 	},
 	{
-		"txt":"[{\"instruction\":\"业务规模爆发式增长，原物理机房可部署的机位有限，只能选择公有云作为弹性手段，快速部署业务，满足用户需求。企业的业务会有很明显的波峰波谷期，如果IT建设按照波峰需求建设将造成大量浪费，按照波谷需求建设又无法满足业务繁忙时的需要。\",\"name\":\"扩展企业现有数据中心，应对业务爆发式增长\",\"picUrl\":\"//img1.jcloudcs.com/cms/d5bb7622-d319-4c27-b6ca-d0b80edcbe2a20170922181008.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}},{\"instruction\":\"不再担心基础设施部署速度无法满足业务增长，更多地从稳定性、可靠性等寻求从单中心向多中心化发展，通过消灭单点，解决单数据中心故障带来的业务风险。\",\"name\":\"多地容灾的高可用架构部署\",\"picUrl\":\"//img1.jcloudcs.com/cms/f9f2e9d8-a8b4-4f28-9d81-692cbdba204620170922181058.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}},{\"instruction\":\"此类用户大多为银行、金融、保险等行业，需要监管合规。一般普通公有云服务基础设施较难满足金融合规的要求，因而此类业务倾向于将系统的交易、流水等核心问题放在合规机房内，而将web层、业务行情、企业OA等放在公有云内进行快速部署。\",\"name\":\"监管要求下的混合云部署\",\"picUrl\":\"//img1.jcloudcs.com/cms/c230ca90-4ba9-4f0e-b17c-31a58866314320170922181117.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]",
-		"id":156
+		"txt":"[{\"instruction\":\"业务规模爆发式增长，原物理机房可部署的机位有限，只能选择公有云作为弹性手段，快速部署业务，满足用户需求。企业的业务会有很明显的波峰波谷期，如果IT建设按照波峰需求建设将造成大量浪费，按照波谷需求建设又无法满足业务繁忙时的需要。\",\"name\":\"扩展企业现有数据中心，应对业务爆发式增长\",\"picUrl\":\"//img1.jcloudcs.com/cms/d5bb7622-d319-4c27-b6ca-d0b80edcbe2a20170922181008.png\",\"selectedProduct\":[]},{\"instruction\":\"不再担心基础设施部署速度无法满足业务增长，更多地从稳定性、可靠性等寻求从单中心向多中心化发展，通过消灭单点，解决单数据中心故障带来的业务风险。\",\"name\":\"多地容灾的高可用架构部署\",\"picUrl\":\"//img1.jcloudcs.com/cms/f9f2e9d8-a8b4-4f28-9d81-692cbdba204620170922181058.png\",\"selectedProduct\":[]},{\"instruction\":\"此类用户大多为银行、金融、保险等行业，需要监管合规。一般普通公有云服务基础设施较难满足金融合规的要求，因而此类业务倾向于将系统的交易、流水等核心问题放在合规机房内，而将web层、业务行情、企业OA等放在公有云内进行快速部署。\",\"name\":\"监管要求下的混合云部署\",\"picUrl\":\"//img1.jcloudcs.com/cms/c230ca90-4ba9-4f0e-b17c-31a58866314320170922181117.png\",\"selectedProduct\":[]}]",
+		"id":6217
 	},
 	{
 		"txt":"{\"operatingClasstag\":\"Products|keycount|MiddleContentSec|60\",\"price\":\"//docs.jdcloud.com/direct-connection/billing-overview\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|60\"}",
-		"id":157
+		"id":6218
 	}
 ]
