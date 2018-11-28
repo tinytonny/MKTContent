@@ -278,5 +278,77 @@
 		"jss_key":"News_Content_377",
 		"id":377,
 		"news_title":"京东云“互联网+”望远镜获得CES 2019创新大奖    用手机探索无垠星空"
+	},
+	{
+		"summary":"在9月19日举行的医疗健康战略发布会上，京东云将积蓄已久的“医疗健康战略”和盘托出。",
+		"image_url":"//img1.jcloudcs.com/cms/bf815b5e-8ecd-4406-8e81-95261fc6cdec20181114141103.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_378",
+		"jss_key":"News_Content_378",
+		"id":378,
+		"news_title":"战略布局智能医疗健康产业  京东云串联生态伙伴专治“看病难”"
+	},
+	{
+		"summary":"2018 GFIC全球家庭互联网大会上，京东云正式对外公布了智能大屏应用生态战略。",
+		"image_url":"//img1.jcloudcs.com/cms/84c958a9-2069-4779-9eae-b8ab7c56bdec20181121190858.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_379",
+		"jss_key":"News_Content_379",
+		"id":379,
+		"news_title":"京东云：应用生态重塑智能大屏价值"
+	},
+	{
+		"summary":"京东集团旗下云计算综合服务商京东云与专注企业级市场的文件管理和协作云平台亿方云宣布，由京东云和京东数科联合投资1000万美元对亿方云进行B轮融资。",
+		"image_url":"//img1.jcloudcs.com/cms/7f6ed291-43df-4212-8a24-a8bab7c3066220181114161759.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_380",
+		"jss_key":"News_Content_380",
+		"id":380,
+		"news_title":"亿方云获京东云和京东数科联合战略投资，强强联合加速建设企业服务生态"
+	},
+	{
+		"summary":"京东云发布缓存Memcached公测版，为用户提供基于Memcached协议的高性能、内存级的Key-Value服务，显著提高访问的速度，同时减低了数据库的负载，从而提升数据库的访问性能。",
+		"image_url":"//img1.jcloudcs.com/cms/c98dec7c-9fc0-45c0-a1ef-64385d40b06d20181114163238.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_381",
+		"jss_key":"News_Content_381",
+		"id":381,
+		"news_title":"京东云产品线持续丰富，推出高速缓存Memcached"
+	},
+	{
+		"summary":"京东云发布云搜索Elasticsearch公测版，致力于海量数据搜索和日志分析，旨在为用户提供更便捷的云搜索服务。",
+		"image_url":"//img1.jcloudcs.com/cms/15fc137e-2065-46f9-8b0d-69a58e5b55b420181114171038.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_382",
+		"jss_key":"News_Content_382",
+		"id":382,
+		"news_title":"京东云推出云搜索Elasticsearch，助力海量数据搜索分析"
+	},
+	{
+		"summary":"第75届中国教育装备展在江西南昌举行，京东云作为云计算行业推动教育产业数字化转型的先行者受邀参展此次会议，备受关注。",
+		"image_url":"//img1.jcloudcs.com/cms/8d7c5ae1-aec5-4e9e-97b6-983b91ece24320181119152222.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_383",
+		"jss_key":"News_Content_383",
+		"id":383,
+		"news_title":"京东云EdTech：科技赋能教育产业转型"
+	},
+	{
+		"summary":"陕西云创科技·京东云·京东旅行 云旅项目战略合作新闻发布会”在古都西安隆重举行。",
+		"image_url":"//img1.jcloudcs.com/cms/a8261d03-6943-4116-a21d-3fad7c3d1cc820181121143335.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_390",
+		"jss_key":"News_Content_390",
+		"id":390,
+		"news_title":"“陕西云创科技·京东云·京东旅行 云旅项目战略合作新闻发布会”西安举行"
+	},
+	{
+		"summary":"京东云携手苏尼特右旗政府以及京东优势资源，在北京亦庄京东总部召开了“上京东•遇见最纯正苏尼特羊——京东·锡林郭勒盟电商扶贫产业园暨苏尼特右旗电商产业链培育中心启动发布会”。",
+		"image_url":"//img1.jcloudcs.com/cms/efbf94ce-43dc-492b-b1d5-f46affe7c89220181121162144.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_391",
+		"jss_key":"News_Content_391",
+		"id":391,
+		"news_title":"京东云赋能苏尼特右旗，“互联网+特色经济”助锡盟发展"
+	},
+	{
+		"summary":"11月22日，在由中国电子信息产业发展研究院指导、赛迪网等主办的“2018中国行业信息化融合发展论坛”上，京东集团副总裁、京东云生态业务负责人刘子豪受邀出席并分享了对人工智能时代，云计算行业未来发展格局的真知灼见。",
+		"image_url":"//img1.jcloudcs.com/cms/d2d7de42-188c-4609-b940-97323d50845d20181123173109.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_392",
+		"jss_key":"News_Content_392",
+		"id":392,
+		"news_title":"京东云刘子豪：生态，开启人工智能的新风口"
 	}
 ]
