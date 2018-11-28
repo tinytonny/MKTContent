@@ -1,22 +1,22 @@
 [
 	{
-		"txt":"{\"instruction\":[{\"explain\":\"帮助中心-产品简介\",\"explainLink\":\"https://docs.jdcloud.com/rds/product-overview\"},{\"explain\":\"帮助中心-操作指南\",\"explainLink\":\"https://docs.jdcloud.com/rds/create-instance\"},{\"explain\":\"帮助中心-最佳实践\",\"explainLink\":\"https://docs.jdcloud.com/rds/connect-instance\"}],\"productName\":\"云数据库 Percona\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://rds-console.jdcloud.com/createDataBase\"}],\"desc\":\"云数据库 Percona 是京东云基于开源的 Percona 5.7 版本构建的稳定可靠的数据库服务。相比传统数据库，云数据库 Percona 易于部署、管理和扩展，默认支持主从热备架构，提供数据备份、故障恢复、监控等全套解决方案，彻底解决数据库运维的烦恼。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/007b0018-4000-40e2-9476-9ab515abe68620181115165625.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|77\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|77\"}",
-		"id":211
+		"txt":"{\"desc\":\"云数据库 Percona 是京东云基于开源的 Percona 5.7 版本构建的稳定可靠的数据库服务。相比传统数据库，云数据库 Percona 易于部署、管理和扩展，默认支持主从热备架构，提供数据备份、故障恢复、监控等全套解决方案，彻底解决数据库运维的烦恼。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/986688c3-0fa6-4f1e-915b-d03bb1567cad20180621175229.jpg\",\"instruction\":\"[{\\\"explain\\\":\\\"帮助中心-产品简介\\\",\\\"explainLink\\\":\\\"https://docs.jdcloud.com/rds/product-overview\\\"},{\\\"explain\\\":\\\"帮助中心-操作指南\\\",\\\"explainLink\\\":\\\"https://docs.jdcloud.com/rds/create-instance\\\"},{\\\"explain\\\":\\\"帮助中心-最佳实践\\\",\\\"explainLink\\\":\\\"https://docs.jdcloud.com/rds/connect-instance\\\"}]\",\"label\":\"[{\\\"TitleName\\\":\\\"立即购买\\\",\\\"TitleUrl\\\":\\\"https://rds-console.jdcloud.com/createDataBase\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|77\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|77\"}",
+		"id":6272
 	},
 	{
 		"txt":"[{\"proGood\":\"快速部署\",\"proName\":\"选择规格后下单，几分钟内即可创建高可用的 Percona 实例。具备完善的监控、告警功能，可立即投入使用，立即创造价值。\"},{\"proGood\":\"高可靠性\",\"proName\":\"拥有完善的数据自动备份机制，每个实例默认每天自动备份一次，同时可根据业务情况手动创建备份，无需担心数据丢失。\"},{\"proGood\":\"高可用性\",\"proName\":\"默认支持主从热备架构，故障自动转移，提供持续性的数据库访问，数据库自动备份和手动备份等功能有效提升数据库可靠性。\"},{\"proGood\":\"弹性扩容\",\"proName\":\"弹性扩容，按需升级，提高资源利用率，降低使用成本；支持添加只读实例，有效满足业务发展对数据库性能的要求。\"},{\"proGood\":\"运维便捷\",\"proName\":\"监控、自动告警功能降低用户数据库运维成本和服务器网络运维成本，且没有设备投入成本。\"}]",
-		"id":212
+		"id":6273
 	},
 	{
 		"txt":"[{\"funcContent\":[{\"funcP\":\"选择规格后下单，几分钟内即可创建高可用的 Percona 实例。具备完善的监控、告警功能，可立即投入使用，立即创造价值。\",\"funcTitle\":\"快速部署\"},{\"funcP\":\"提供数据库实例各项指标的实时监控及自动告警功能，随时随地了解实例动态；降低用户数据库运维成本和服务器网络运维成本。\",\"funcTitle\":\"运维便捷\"}],\"funcName\":\"高易用性\"},{\"funcContent\":[{\"funcP\":\"可按需升级实例的内存、磁盘空间大小，提升业务处理能力，升级过程不影响业务正常访问和使用，实现快速、平滑扩容，满足业务快速发展需要。\",\"funcTitle\":\"弹性扩展\"},{\"funcP\":\"支持只读实例，横向扩展数据库读取能力，每个只读实例拥有独立的链接地址，可由应用端控制压力分配。帮助用户轻松实现读写分离架构，应对业务海量请求压力。\",\"funcTitle\":\"只读实例\"}],\"funcName\":\"高扩展性\"},{\"funcContent\":[{\"funcP\":\"每天在您指定的时间自动全量备份您的 Percona 数据库并保留 7 天；此外支持即时的手动完全备份。备份所占用的存储完全免费。\",\"funcTitle\":\"全量备份\"},{\"funcP\":\"云数据库 Percona 会自动备份过去 7 天的数据库增量部分，以实现基于任意时间点的回滚。\",\"funcTitle\":\"增量备份\"},{\"funcP\":\"支持一键恢复备份数据至当前实例；此外基于增量备份，支持根据七天内任意时间点的数据创建新的数据库实例。\",\"funcTitle\":\"数据恢复\"}],\"funcName\":\"高可靠性\"},{\"funcContent\":[{\"funcP\":\"默认的云数据库 Percona 实例采用的是标准模式，支持切换到高安全模式，具备一定的 SQL 拦截能力，同时也提供了 SQL 审计功能。\",\"funcTitle\":\"安全模式\"}],\"funcName\":\"高安全性\"}]",
-		"id":213
+		"id":6274
 	},
 	{
-		"txt":"[{\"instruction\":\"京东云提供了 LAMP 网站所必须的云主机和云数据库 Percona 产品，便于您的网站部署在京东云上。同时，监控、备份、安全防护等多项辅助运维能力和自身的主备高可用架构，使您可以专注于网站建设。\",\"name\":\"LAMP网站场景\",\"picUrl\":\"//img1.jcloudcs.com/cms/256753a3-51dc-44db-998d-9c57d2e4f14e20180619174319.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}},{\"instruction\":\"应用于读取请求较高，或是需要应对短期内读取流量高峰，可在云数据库 Percona 上创建一个或多个只读实例，每个只读实例拥有独立的链接地址，从而应用端可以实现读取压力均摊。\",\"name\":\"读写分离场景\",\"picUrl\":\"//img1.jcloudcs.com/cms/3b51aa2d-a929-4c01-ab63-ae2a14059a0220180619174324.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]",
-		"id":214
+		"txt":"[{\"instruction\":\"京东云提供了 LAMP 网站所必须的云主机和云数据库 Percona 产品，便于您的网站部署在京东云上。同时，监控、备份、安全防护等多项辅助运维能力和自身的主备高可用架构，使您可以专注于网站建设。\",\"name\":\"LAMP网站场景\",\"picUrl\":\"//img1.jcloudcs.com/cms/256753a3-51dc-44db-998d-9c57d2e4f14e20180619174319.png\",\"selectedProduct\":[]},{\"instruction\":\"应用于读取请求较高，或是需要应对短期内读取流量高峰，可在云数据库 Percona 上创建一个或多个只读实例，每个只读实例拥有独立的链接地址，从而应用端可以实现读取压力均摊。\",\"name\":\"读写分离场景\",\"picUrl\":\"//img1.jcloudcs.com/cms/3b51aa2d-a929-4c01-ab63-ae2a14059a0220180619174324.png\",\"selectedProduct\":[]}]",
+		"id":6275
 	},
 	{
 		"txt":"{\"operatingClasstag\":\"Products|keycount|MiddleContentSec|77\",\"price\":\"//docs.jdcloud.com/rds/price-overview\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|77\"}",
-		"id":215
+		"id":6276
 	}
 ]
