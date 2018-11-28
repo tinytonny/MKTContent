@@ -1,14 +1,14 @@
 [
 	{
-		"txt":"{\"desc\":\"云监控（CloudMonitor）是对您的京东云资源进行监控和报警的服务，展现各项监控指标情况并对指标设置报警，云监控会通过短信、邮件等方式发送报警通知，还提供当前报警状态和报警历史的查看。通过监控，方便客户了解在京东云上的资源使用情况、性能和运行情况，通过报警，客户可以及时作出反应，保障应用程序的稳定运行。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/8ec28cb4-db92-4892-af63-37e62a3e498f20180419121207.jpg\",\"instruction\":\"[]\",\"label\":\"[{\\\"TitleName\\\":\\\"立即使用\\\",\\\"TitleUrl\\\":\\\"//cms-console.jdcloud.com/gz/serverMonitor\\\"}]\",\"middleClstag\":\"Products|keycount|MiddleContentSec|11\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|11\"}",
-		"id":6097
+		"txt":"{\"instruction\":[],\"productName\":\"云监控\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"//cms-console.jdcloud.com/gz/serverMonitor\"}],\"desc\":\"云监控（CloudMonitor）是对您的京东云资源进行监控和报警的服务，展现各项监控指标情况并对指标设置报警，云监控会通过短信、邮件等方式发送报警通知，还提供当前报警状态和报警历史的查看。通过监控，方便客户了解在京东云上的资源使用情况、性能和运行情况，通过报警，客户可以及时作出反应，保障应用程序的稳定运行。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/1992e773-64de-4733-92dd-2fd14fe3f29f20181115172929.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|11\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|11\"}",
+		"id":36
 	},
 	{
-		"txt":"[{\"proGood\":\"实时展现\",\"proName\":\"实时获取您的资源各项监控指标运行的情况，并通过直观的图表展现数据的变化。\"},{\"proGood\":\"迅速报警\",\"proName\":\"根据您设置的报警规则，当资源达到阈值时，会第一时间通过短信、邮件方式告知您，为您的业务保驾护航。\"}]",
-		"id":6098
+		"txt":"[{\"proGood\":\"实时展现\",\"proName\":\"实时获取您的资源各项监控指标运行的情况，并通过直观的图表展现数据的变化。\",\"showShade\":false},{\"proGood\":\"迅速报警\",\"proName\":\"根据您设置的报警规则，当资源达到阈值时，会第一时间通过短信、邮件方式告知您，为您的业务保驾护航。\"}]",
+		"id":37
 	},
 	{
 		"txt":"[{\"funcContent\":[{\"funcP\":\"您购买和使用了云监控支持的京东云服务后，即可方便的在云监控对应的产品页面查看您的产品运行状态、各个指标的使用情况，一目了然。 \",\"funcTitle\":\"您可以查看各资源的各项监控指标的情况\"}],\"funcName\":\"资源监控\"},{\"funcContent\":[{\"funcP\":\"站点监控是一款针对互联网网络状况进行探测的监控类产品。用户可通过站点监控模拟真实用户访问请求，从而得到被监控地址的可用性和响应时间等性能数据。\",\"funcTitle\":\"用户可以通过站点监控模拟真实用户对站点地址进行监控\"}],\"funcName\":\"站点监控\"},{\"funcContent\":[{\"funcP\":\"您根据实际业务需求，灵活设置各资源监控指标的报警规则，当资源消耗达到您的报警阈值后，京东云会迅速通过短信、邮件告知，方便您及时处理。\",\"funcTitle\":\"您可以对各资源的监控指标设置报警规则\"}],\"funcName\":\"报警设置\"},{\"funcContent\":[{\"funcP\":\"用户可以使用京东云平台提供的默认报警模板或自己创建的自定义报警模板，快速为云资源创建报警规则。\",\"funcTitle\":\"用户可以使用报警模板对资源快速创建报警规则\"}],\"funcName\":\"报警模板\"}]",
-		"id":6099
+		"id":38
 	}
 ]
