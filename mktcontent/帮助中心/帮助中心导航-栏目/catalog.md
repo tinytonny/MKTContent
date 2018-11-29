@@ -1071,5 +1071,25 @@
 		"summary":"",
 		"name":"存储网关",
 		"id":3148
+	},
+	{
+		"summary":"",
+		"name":"HTTPDNS",
+		"id":3149
+	},
+	{
+		"summary":"",
+		"name":"解决方案",
+		"id":3150
+	},
+	{
+		"summary":"",
+		"name":"Oracle 上云",
+		"id":3151
+	},
+	{
+		"summary":"",
+		"name":"密钥管理服务",
+		"id":3152
 	}
 ]
