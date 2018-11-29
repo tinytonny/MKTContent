@@ -1358,5 +1358,29 @@
 		"fun_introduce":"应用负载均衡发布升级版",
 		"product_name":"负载均衡",
 		"fun_name":"应用负载均衡发布升级版"
+	},
+	{
+		"product_type":"弹性计算",
+		"fun_description":"在华北-北京、华东-上海后，第三个地域华南-广州正式上线",
+		"id":2068,
+		"fun_introduce":"新增地域华南-广州",
+		"product_name":"原生容器",
+		"fun_name":"在华南-广州正式上线"
+	},
+	{
+		"product_type":"存储和CDN",
+		"fun_description":"增加流名和发布点带宽流量以及丰富按区域运营商详细数据接口，丰富直播数据接口维度，满足客户运营数据统计",
+		"id":2069,
+		"fun_introduce":"增加分区域运营商查询域名流量、直播域名查询带宽流量支持appname和strea",
+		"product_name":"CDN",
+		"fun_name":"CDN直播OpenAPI查询接口优化"
+	},
+	{
+		"product_type":"云安全",
+		"fun_description":"IP高防同时支持对IPV4和IPV6地址的防护。（注意：仅电信线路支持IPV6防护；回源IP暂不支持IPV6地址；已购实例不支持升级到IPV6）",
+		"id":2070,
+		"fun_introduce":"IP高防同时支持对IPV4和IPV6地址的防护。",
+		"product_name":"IP 高防",
+		"fun_name":"支持对IPV6地址的防护"
 	}
 ]
