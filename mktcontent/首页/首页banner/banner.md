@@ -893,5 +893,14 @@
 		"button_title":"More",
 		"main_title":"11.11 Privileges for Enterprises",
 		"backgroud_image":"//img1.jcloudcs.com/cms/6929106a-9914-4a52-a065-5c9369df4e9b20181115215904.png"
+	},
+	{
+		"sub_title":"Enterprise Version：RMB 500/Month, Ultimate Version：RMB 1,000/Month",
+		"image_Url":"//img1.jcloudcs.com/cms/23feeb68-9e4c-43f0-a995-e5cf31f28be920181129150848.png",
+		"name":"Premier Service",
+		"id":1043,
+		"button_title":"More",
+		"main_title":"Premier Service Exclusive for Enterprise Customers",
+		"backgroud_image":"//img1.jcloudcs.com/cms/e6104599-dbec-4866-9ffb-11845133cf1a20181129151803.png"
 	}
 ]
