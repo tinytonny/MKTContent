@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"云托管服务\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/jdccs\"}],\"desc\":\"云托管服务（Cloud Cabinet Service，简称CCS）：京东云提供优质的IDC机柜资源，客户通过租赁京东云机柜，可以实现自有设备托管服务，同时享有IP，带宽等公共资源以及现场运维服务，京东云按照客户需求，可以进行定制化部署，部分托管机房可与京东云公有云业务打通，比如云主机，实现混合云服务。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/a4780149-2976-4585-b4bb-1fd69d22ab7820181115173153.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|93\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|93\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"云托管服务\",\"label\":[{\"TitleName\":\"立即开通\",\"TitleUrl\":\"https://docs.jdcloud.com/cn/cloud-cabinet-service/overview\"}],\"desc\":\"云托管服务（Cloud Cabinet Service，简称CCS）：京东云提供优质的IDC机柜资源，客户通过租赁京东云机柜，可以实现自有设备托管服务，同时享有IP，带宽等公共资源以及现场运维服务，京东云按照客户需求，可以进行定制化部署，部分托管机房可与京东云公有云业务打通，比如云主机，实现混合云服务。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/a4780149-2976-4585-b4bb-1fd69d22ab7820181115173153.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|93\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|93\"}",
 		"id":276
 	},
 	{
@@ -12,7 +12,7 @@
 		"id":278
 	},
 	{
-		"txt":"[{\"instruction\":\"客户将自有设备托管至京东云IDC机房，客户可选择自维或者代维对设备进行运维服务。\",\"name\":\"设备托管\",\"picUrl\":\"//img1.jcloudcs.com/cms/c9249c7a-699d-40d0-8b8b-b30a26c6ed4520180828192358.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}},{\"instruction\":\"客户一部分业务托管至京东云IDC机房中心，另一部分使用京东云公有云服务，在托管区和公有云业务可以通过专线互联打通。\",\"name\":\"公有云互通\",\"picUrl\":\"//img1.jcloudcs.com/cms/cd2c7999-c79a-4f11-84a7-5704cf89144a20180829112133.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]",
+		"txt":"[{\"instruction\":\"客户将自有设备托管至京东云IDC机房，客户可选择自维或者代维对设备进行运维服务。\",\"name\":\"设备托管\",\"picUrl\":\"//img1.jcloudcs.com/cms/c9249c7a-699d-40d0-8b8b-b30a26c6ed4520180828192358.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"客户一部分业务托管至京东云IDC机房中心，另一部分使用京东云公有云服务，在托管区和公有云业务可以通过专线互联打通。\",\"name\":\"公有云互通\",\"picUrl\":\"//img1.jcloudcs.com/cms/cd2c7999-c79a-4f11-84a7-5704cf89144a20180829112133.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false}]",
 		"id":279
 	}
 ]
