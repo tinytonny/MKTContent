@@ -172,6 +172,10 @@
 		"id":79
 	},
 	{
+		"name":"Column-oriented Storage",
+		"id":81
+	},
+	{
 		"name":"Distributed Relational Database DRDS",
 		"id":82
 	},
@@ -250,5 +254,9 @@
 	{
 		"name":"PLUS Smart SMS",
 		"id":1143
+	},
+	{
+		"name":"Key Management Service",
+		"id":1158
 	}
 ]

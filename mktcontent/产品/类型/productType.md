@@ -299,5 +299,16 @@
 		"id":623,
 		"type":"1",
 		"product_name":"Cloud Cabinet Service"
+	},
+	{
+		"product_type":"Domain Name & License",
+		"id":635,
+		"type":"0"
+	},
+	{
+		"product_type":"Domain Name & License",
+		"id":636,
+		"type":"1",
+		"product_name":"JD Cloud DNS"
 	}
 ]

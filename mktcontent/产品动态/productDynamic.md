@@ -1358,5 +1358,29 @@
 		"fun_introduce":"The upgraded version of Application Load Balancer is released",
 		"product_name":"Load Balancer",
 		"fun_name":"The upgraded version of Application Load Balancer is released"
+	},
+	{
+		"product_type":"Elastic Compute",
+		"fun_description":"The service is officially launched in the third region, cn-south-1, after being launched in cn-north-1 and cn-east-2.",
+		"id":2068,
+		"fun_introduce":"Add the Region cn-south-1",
+		"product_name":"Native Container",
+		"fun_name":"Official Launch in cn-south-1"
+	},
+	{
+		"product_type":"Storage and CDN",
+		"fun_description":"Add streaming name and releasing point bandwidth traffic, enrich detailed data interface by regional operators, increase live data interface dimension and meet the customer’s operation statistics requirements.",
+		"id":2069,
+		"fun_introduce":"Add functions as domain name traffic inquiry by region operators, bandwidth traffic query via live domain name and support appname and strea.",
+		"product_name":"CDN",
+		"fun_name":"CDN Live of OpenAPI Query Interface Optimization"
+	},
+	{
+		"product_type":"Cloud Security",
+		"fun_description":"The Anti-DDoS Pro supports protection for addresses of IPV4 and IPV6 both. (Note: IPV6 protection is supported by China Telecom Line only and IPV6 address is not supported by back-to-origin IP temporarily. Upgrade purchased instances to IPV6 is not supported.)",
+		"id":2070,
+		"fun_introduce":"The Anti-DDoS Pro supports protection for addresses of IPV4 and IPV6 both.",
+		"product_name":"Anti-DDoS Pro",
+		"fun_name":"Support to Protection for IPV6 Address"
 	}
 ]
