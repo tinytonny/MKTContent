@@ -25,8 +25,8 @@
 		"id":5
 	},
 	{
-		"name":"Database Solutions",
-		"description":"Effortlessly deploy and utilize a wide selection of databases",
+		"name":"Storage & Distribution",
+		"description":"Simplify Storage and Distribution",
 		"id":6
 	},
 	{
