@@ -790,5 +790,11 @@
 		"description":"The CodeBuild Service provides developers with a container-based automated continuous integration service. It supports multi-language build environment, automatically/manually triggers tasks, builds output support packages/images, views build results and logs.",
 		"id":1328,
 		"button_title":""
+	},
+	{
+		"name":"Column-oriented Storage",
+		"description":"Column-oriented distributed database based on Hadoop, which is 100% compatible with the HBase Protocol and has high performance and auto scaling",
+		"id":1336,
+		"button_title":""
 	}
 ]
