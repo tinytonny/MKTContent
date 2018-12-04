@@ -1443,5 +1443,50 @@
 		"name":"CodePipeline",
 		"description":"CodePipeline is a product with capacities of continuous integration and delivery",
 		"id":3007
+	},
+	{
+		"name":"Log Service",
+		"description":"One-stop log service platform",
+		"id":3011
+	},
+	{
+		"name":"Financial Credit API",
+		"description":"The one-stop financial credit service market for enterprises, institutions and individuals brings together products and services provided by JD and domestic top financial and credit service providers.",
+		"id":3012
+	},
+	{
+		"name":"SaaS Market",
+		"description":"The leading data trading platform in China, with dozens of SaaS applications selected for you",
+		"id":3013
+	},
+	{
+		"name":"Oracle Database on Cloud",
+		"description":"",
+		"id":3014
+	},
+	{
+		"name":"Function Service",
+		"description":"",
+		"id":3019
+	},
+	{
+		"name":"Mobile Development Solution",
+		"description":"",
+		"id":3020
+	},
+	{
+		"name":"Storage Gateway",
+		"description":"Secure, easy-to-use, cost-effective hybrid cloud storage service",
+		"id":3021
+	},
+	{
+		"name":"HTTPDNS",
+		"description":"HTTPDNS effectively resolves domain name hijacking and cross-network access issues",
+		"id":3022
+	},
+	{
+		"name":"Empower Introduction",
+		"description":"",
+		"id":3023
 	}
 ]
