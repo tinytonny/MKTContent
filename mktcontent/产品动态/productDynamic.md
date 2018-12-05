@@ -1253,23 +1253,23 @@
 		"id":2041,
 		"fun_introduce":"Powerful Database Engine with Compatibility to MySQL Protocol",
 		"product_name":"JCS for MariaDB",
-		"fun_name":"Official Launch of MairaDB"
+		"fun_name":"Official Launch of JCS for MariaDB"
 	},
 	{
 		"product_type":"Database",
 		"fun_description":"RDS parameter groups allow the user to customize operation parameters of database instances and make adjustment as needed.",
 		"id":2042,
 		"fun_introduce":"Customized RDS Operation Parameters are Supported",
-		"product_name":"JCS for  MySQL",
-		"fun_name":"Parameter Set"
+		"product_name":"JCS for MySQL",
+		"fun_name":"JCS for MySQL Parameter Set"
 	},
 	{
 		"product_type":"Database",
 		"fun_description":"RDS parameter groups allow the user to customize operation parameters of database instances and make adjustment as needed.",
 		"id":2043,
 		"fun_introduce":"Customized RDS Operation Parameters are Supported",
-		"product_name":"Cloud Database Percona Service",
-		"fun_name":"Parameter Set"
+		"product_name":"JCS for Percona",
+		"fun_name":"JCS for Percona Parameter Set"
 	},
 	{
 		"product_type":"Database",
@@ -1277,7 +1277,7 @@
 		"id":2044,
 		"fun_introduce":"Customized RDS Operation Parameters are Supported",
 		"product_name":"JCS for MariaDB",
-		"fun_name":"Parameter Set"
+		"fun_name":"JCS for MariaDB Parameter Set"
 	},
 	{
 		"product_type":"Elastic Compute",
