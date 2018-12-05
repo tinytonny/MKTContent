@@ -1181,7 +1181,7 @@
 		"id":159,
 		"fun_introduce":"Cloud Database’s backup can perform synchronization regarding the real-time backup in different places",
 		"product_name":"JCS for  MySQL",
-		"fun_name":"Cross-regional backup can be synchronized"
+		"fun_name":"JCS for  MySQL Cross-regional backup can be synchronized"
 	},
 	{
 		"product_type":"Cloud Security",
@@ -1325,7 +1325,7 @@
 		"id":2054,
 		"fun_introduce":"Add password policy management for sub-accounts",
 		"product_name":"IAM",
-		"fun_name":"Add password policy management for sub-accounts"
+		"fun_name":"Add password policy management for sub-accounts to IAM"
 	},
 	{
 		"product_type":"Cloud Security",
@@ -1333,7 +1333,7 @@
 		"id":2055,
 		"fun_introduce":"New Enterprise Version",
 		"product_name":"Situation Awareness",
-		"fun_name":"New Enterprise Version"
+		"fun_name":"Add enterprise version to Situation Awareness"
 	},
 	{
 		"product_type":"Management and Support",
@@ -1341,7 +1341,7 @@
 		"id":2056,
 		"fun_introduce":"New Alarm Template",
 		"product_name":"Monitoring",
-		"fun_name":"New Alarm Template"
+		"fun_name":"Add alarm template to Monitoring"
 	},
 	{
 		"product_type":"Hyper-Converged IDC",
@@ -1349,7 +1349,7 @@
 		"id":2057,
 		"fun_introduce":"New Resource Overview and Visual Cabinet",
 		"product_name":"Cloud Cabinet Service",
-		"fun_name":"New Resource Overview and Visual Cabinet"
+		"fun_name":"Add resource overview and visual cabinet to Cloud Cabinet Service"
 	},
 	{
 		"product_type":"Network",
@@ -1365,7 +1365,7 @@
 		"id":2068,
 		"fun_introduce":"Add the Region cn-south-1",
 		"product_name":"Native Container",
-		"fun_name":"Official Launch in cn-south-1"
+		"fun_name":"Native Container is officially launched in cn-south-1"
 	},
 	{
 		"product_type":"Storage and CDN",
@@ -1381,6 +1381,6 @@
 		"id":2070,
 		"fun_introduce":"The Anti-DDoS Pro supports protection for addresses of IPV4 and IPV6 both.",
 		"product_name":"Anti-DDoS Pro",
-		"fun_name":"Support to Protection for IPV6 Address"
+		"fun_name":"Anti-DDoS Pro supports the protection for IPV6 address"
 	}
 ]
