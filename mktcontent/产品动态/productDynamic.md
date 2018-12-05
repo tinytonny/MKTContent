@@ -1181,7 +1181,7 @@
 		"id":159,
 		"fun_introduce":"云数据库备份进行异地实实时备份同步",
 		"product_name":"云数据库 MySQL",
-		"fun_name":"跨地域备份同步"
+		"fun_name":"云数据库 MySQL 跨地域备份同步"
 	},
 	{
 		"product_type":"云安全",
@@ -1325,7 +1325,7 @@
 		"id":2054,
 		"fun_introduce":"新增子账号密码策略管理",
 		"product_name":"访问控制",
-		"fun_name":"新增子账号密码策略管理"
+		"fun_name":"访问控制新增子账号密码策略管理"
 	},
 	{
 		"product_type":"云安全",
@@ -1333,7 +1333,7 @@
 		"id":2055,
 		"fun_introduce":"新增企业版",
 		"product_name":"态势感知",
-		"fun_name":"新增企业版"
+		"fun_name":"态势感知新增企业版"
 	},
 	{
 		"product_type":"管理与支持",
@@ -1341,7 +1341,7 @@
 		"id":2056,
 		"fun_introduce":"新增报警模板",
 		"product_name":"云监控",
-		"fun_name":"新增报警模板"
+		"fun_name":"云监控新增报警模板"
 	},
 	{
 		"product_type":"超融合数据中心",
@@ -1349,7 +1349,7 @@
 		"id":2057,
 		"fun_introduce":"新增资源概览、机柜可视化",
 		"product_name":"云托管服务",
-		"fun_name":"新增资源概览、机柜可视化"
+		"fun_name":"云托管服务新增资源概览、机柜可视化"
 	},
 	{
 		"product_type":"网络",
@@ -1365,7 +1365,7 @@
 		"id":2068,
 		"fun_introduce":"新增地域华南-广州",
 		"product_name":"原生容器",
-		"fun_name":"在华南-广州正式上线"
+		"fun_name":"原生容器在华南-广州正式上线"
 	},
 	{
 		"product_type":"存储和CDN",
@@ -1381,6 +1381,6 @@
 		"id":2070,
 		"fun_introduce":"IP高防同时支持对IPV4和IPV6地址的防护。",
 		"product_name":"IP 高防",
-		"fun_name":"支持对IPV6地址的防护"
+		"fun_name":"IP高防支持对IPV6地址的防护"
 	}
 ]
