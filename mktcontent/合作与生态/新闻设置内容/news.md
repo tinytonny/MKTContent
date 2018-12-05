@@ -350,5 +350,13 @@
 		"jss_key":"News_Content_392",
 		"id":392,
 		"news_title":"Liu Zihao from JD Cloud: Ecology, the New Eye of a Storm to Open up Artificial Intelligence"
+	},
+	{
+		"summary":"The \"2018 Yuanhong Food Digital Economy and Industry Development Summit\" opened up. Representatives from the government, research institutes, food industry and well-known enterprises gathered in Fuqing.",
+		"image_url":"//img1.jcloudcs.com/cms/e3587c5b-44d7-4be9-af3e-c50a25e98e5420181203144435.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_397",
+		"jss_key":"News_Content_397",
+		"id":397,
+		"news_title":"Cloud empowerment to the Fuqing Food Industry creates a win-win \"digital economy era\"."
 	}
 ]
