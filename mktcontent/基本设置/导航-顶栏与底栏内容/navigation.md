@@ -1470,7 +1470,7 @@
 		"id":3019
 	},
 	{
-		"name":"Mobile Development Solution",
+		"name":"Mobile Cross-platform Development Solution",
 		"description":"",
 		"id":3020
 	},
