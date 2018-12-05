@@ -902,5 +902,14 @@
 		"button_title":"More",
 		"main_title":"Premier Service Exclusive for Enterprise Customers",
 		"backgroud_image":"//img1.jcloudcs.com/cms/e6104599-dbec-4866-9ffb-11845133cf1a20181129151803.png"
+	},
+	{
+		"sub_title":"Compatible with Kubernetes Pod，New product  50%  off for Native Container",
+		"image_Url":"//img1.jcloudcs.com/cms/494d6c5b-f508-47ad-b8fe-3534b50c125720181205153358.png",
+		"dynamic_image":"//img1.jcloudcs.com/cms/8b485c2b-24f0-45dd-9af0-1b0337b6a16a20181205153405.png",
+		"name":"Pod, New Product for Native Container",
+		"id":1045,
+		"button_title":"More",
+		"main_title":"Pod, New Product for Native Container"
 	}
 ]
