@@ -1285,7 +1285,7 @@
 		"id":2049,
 		"fun_introduce":"Open Beta Test of GPU Virtual Machine",
 		"product_name":"GPU Virtual Machines",
-		"fun_name":"Open Beta Test of GPU Virtual Machine"
+		"fun_name":"Open Beta Test of GPU Virtual Machines"
 	},
 	{
 		"product_type":"Cloud Security",
