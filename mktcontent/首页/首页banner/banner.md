@@ -893,5 +893,14 @@
 		"button_title":"查看详情",
 		"main_title":"金牌服务企业用户专享",
 		"backgroud_image":"//img1.jcloudcs.com/cms/e6104599-dbec-4866-9ffb-11845133cf1a20181129151803.png"
+	},
+	{
+		"sub_title":"兼容Kubernetes Pod，原生容器新产品五折促销中",
+		"image_Url":"//img1.jcloudcs.com/cms/494d6c5b-f508-47ad-b8fe-3534b50c125720181205153358.png",
+		"dynamic_image":"//img1.jcloudcs.com/cms/8b485c2b-24f0-45dd-9af0-1b0337b6a16a20181205153405.png",
+		"name":"原生容器Pod开放公测",
+		"id":1045,
+		"button_title":"查看详情",
+		"main_title":"原生容器Pod开放公测"
 	}
 ]
