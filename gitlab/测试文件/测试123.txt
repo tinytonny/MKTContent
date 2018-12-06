@@ -37,7 +37,7 @@ window.gon={};gon.api_version="v4";gon.default_avatar_url="http:\/\/git.jd.com\/
 
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="J6c7qJNqJTPaHhdJ4rDLMInbf1Hlptf5t9OYK9s2N/y/RQHrQCWUN6ETAOesOdvOW6anFRSmLstYY7P39B55Wg==" />
+<meta name="csrf-token" content="lg2Et0ZY7DGYg/oJXRA11M+47bVcTXI8ZHwGL8t6HPBVDFSfnoRCm7r1EYR81azwVnrIaLGej5bsCQ7mvaC3Pw==" />
 <meta content="origin-when-cross-origin" name="referrer">
 <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
 <meta content="#474D57" name="theme-color">
@@ -91,7 +91,7 @@ window.gon={};gon.api_version="v4";gon.default_avatar_url="http:\/\/git.jd.com\/
 </div>
 <div class="login-box tab-pane" id="login-pane" role="tabpanel">
 <div class="login-body">
-<form class="new_user gl-show-field-errors" aria-live="assertive" id="new_user" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="SaOJjT3J4/2KTTM5X/miwE9wOmgOp5QJM5yGko5OzCzRQbPO7oZS+fFAJJcRcLI+nQ3iLP+nbTvcLK1OoWaCig==" /><div class="form-group">
+<form class="new_user gl-show-field-errors" aria-live="assertive" id="new_user" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="eG6vXD+brvyLF6n08lOhUDO/J4AcVx8KLBzXXfBis1G7b39050cAVqlhQnnTljh0qn0CXfGE4qCkad+UhrgYng==" /><div class="form-group">
 <label for="user_login">Username or email</label>
 <input class="form-control top" autofocus="autofocus" autocapitalize="off" autocorrect="off" required="required" title="This field is required." type="text" name="user[login]" id="user_login" />
 </div>
