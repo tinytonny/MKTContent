@@ -594,7 +594,7 @@
 		"button_title":""
 	},
 	{
-		"name":"缓存 Memcached",
+		"name":"云缓存 Memcached",
 		"description":"京东云缓存Memcached是京东云提供基于Memcached协议的高性能、内存级的Key-Value服务。",
 		"id":1267,
 		"button_title":""
