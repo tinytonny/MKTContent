@@ -358,5 +358,13 @@
 		"jss_key":"News_Content_397",
 		"id":397,
 		"news_title":"Cloud empowerment to the Fuqing Food Industry creates a win-win \"digital economy era\"."
+	},
+	{
+		"summary":"JD Cloud announced that it has been recognized again by an international authority in security compliance, and formally obtained the PCI-DSS (Payment Card Industry Data Security Standard) issued by the Payment Card Industry Security Standards Council.",
+		"image_url":"//img1.jcloudcs.com/cms/2345c60b-d7f9-4468-a9d7-3262d58261ac20181204153952.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_398",
+		"jss_key":"News_Content_398",
+		"id":398,
+		"news_title":"JD Cloud is certified by Payment Industry Data Security Standard (PCI-DSS), becoming one of the most qualified cloud service providers"
 	}
 ]
