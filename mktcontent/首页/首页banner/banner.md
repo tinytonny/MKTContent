@@ -95,7 +95,7 @@
         "name":".top Domain Name Promotion",
         "id":28,
         "button_title":"More",
-        "main_title":"Cooperate with TOP Registration Authority for Preempting "Peaked" Domain Name” with ¥7"
+        "main_title":"Cooperate with TOP Registration Authority for Preempting \"Peaked\" Domain Name with ¥7"
     },
     {
         "sub_title":"",
@@ -650,4 +650,4 @@
         "button_title":"More",
         "main_title":"Pod, New Product for Native Container"
     }
-]
+ ]
