@@ -193,7 +193,7 @@
 	},
 	{
 		"id":543,
-		"title":"Service Suspension Notice on RDS in [cn-east-1] and [cn-south-1]"
+		"title":"Service Suspension Notice on RDS in \\[cn-east-1\\] and \\[cn-south-1\\]"
 	},
 	{
 		"id":544,
@@ -205,6 +205,6 @@
 	},
 	{
 		"id":563,
-		"title":"Service Suspension Notice on RDS in [cn-south-1]"
+		"title":"Service Suspension Notice on RDS in \\[cn-south-1\\]"
 	}
 ]
