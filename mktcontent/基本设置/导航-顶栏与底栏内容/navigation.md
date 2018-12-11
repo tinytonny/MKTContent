@@ -1488,5 +1488,45 @@
 		"name":"Empower Introduction",
 		"description":"",
 		"id":3023
+	},
+	{
+		"name":"CodeDeploy",
+		"description":"Integrated multiple deployment types and methods",
+		"id":3025
+	},
+	{
+		"name":"County-level Solution",
+		"description":"",
+		"id":3030
+	},
+	{
+		"name":"County-level Cloud",
+		"description":"",
+		"id":3031
+	},
+	{
+		"name":"Urban Industry Service Cloud Platform",
+		"description":"",
+		"id":3032
+	},
+	{
+		"name":"Medical Cloud",
+		"description":"",
+		"id":3033
+	},
+	{
+		"name":"Data Cloud",
+		"description":"",
+		"id":3034
+	},
+	{
+		"name":"JDC Academy",
+		"description":"",
+		"id":3035
+	},
+	{
+		"name":"JD  Distributed Service Framework",
+		"description":"",
+		"id":3042
 	}
 ]
