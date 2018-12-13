@@ -24,8 +24,24 @@
 		"id":11
 	},
 	{
+		"name":"Data Cloud",
+		"id":14
+	},
+	{
+		"name":"Medical Cloud",
+		"id":15
+	},
+	{
 		"name":"Industry Innovation",
 		"id":20
+	},
+	{
+		"name":"JDC Institute",
+		"id":21
+	},
+	{
+		"name":"Urban Industry Service Cloud Platform",
+		"id":22
 	},
 	{
 		"name":"Biologic Empowerment of JD Cloud Industrial Chain",
@@ -90,5 +106,9 @@
 	{
 		"name":"Mobile Cross-end Development Solution",
 		"id":78
+	},
+	{
+		"name":"County-level Cloud",
+		"id":79
 	}
 ]
