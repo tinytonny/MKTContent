@@ -1261,7 +1261,7 @@
 		"id":2042,
 		"fun_introduce":"支持自定义云数据库 RDS 运行参数",
 		"product_name":"云数据库 MySQL",
-		"fun_name":"参数组"
+		"fun_name":"云数据库 MySQL - 参数组"
 	},
 	{
 		"product_type":"数据库",
@@ -1269,7 +1269,7 @@
 		"id":2043,
 		"fun_introduce":"支持自定义云数据库 RDS 运行参数",
 		"product_name":"云数据库 Percona",
-		"fun_name":"参数组"
+		"fun_name":"云数据库 Percona - 参数组"
 	},
 	{
 		"product_type":"数据库",
@@ -1277,7 +1277,7 @@
 		"id":2044,
 		"fun_introduce":"支持自定义云数据库 RDS 运行参数",
 		"product_name":"云数据库 MariaDB",
-		"fun_name":"参数组"
+		"fun_name":"云数据库 MariaDB - 参数组"
 	},
 	{
 		"product_type":"弹性计算",
