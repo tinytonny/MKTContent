@@ -1498,5 +1498,10 @@
 		"name":"分布式服务框架 JDSF",
 		"description":"",
 		"id":3042
+	},
+	{
+		"name":"互联网金融安全解决方案",
+		"description":"",
+		"id":3045
 	}
 ]
