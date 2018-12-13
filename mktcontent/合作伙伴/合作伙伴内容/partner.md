@@ -169,7 +169,7 @@
 	},
 	{
 		"name":"Beijing Rongchengchuangxin Information Technology Co., Ltd.",
-		"description":"Launched in the New Third Board market in 2015. Rongcheng Innovation will provide professional big data marketing services for more enterprise customers with more standardized services and more transparent operation. It is committed to helping multi-domain customers with big data computing to create corporate brands, accurately positioning the market and improving marketing effectiveness. \n",
+		"description":"Launched in the New Third Board market in 2015, Rongcheng Innovation will provide professional big data marketing services for more enterprise customers with more standardized services and more transparent operation. It is committed to helping multi-domain customers with big data computing to create corporate brands, accurately positioning the market and improving marketing effectiveness. \n",
 		"short_name":"Rongchengchuangxin",
 		"id":23,
 		"partner_label":"Big data and mobile Internet technology and integrated marketing",
@@ -201,7 +201,7 @@
 	},
 	{
 		"name":"LinkTop (China) Co., Ltd.",
-		"description":"NetApp provides customers with data management and cloud storage solutions. Its Data Fabric architecture enables customers to seamlessly realize the management, backup, disaster tolerence and protection of data in VMware and OpenStack technology systems in private, public and hybrid cloud environments.",
+		"description":"NetApp provides customers with data management and cloud storage solutions. Its Data Fabric architecture enables customers to seamlessly realize the management, backup, disaster tolerance and protection of data in VMware and OpenStack technology systems in private, public and hybrid cloud environments.",
 		"short_name":"NetApp China",
 		"id":27,
 		"partner_label":"Data management and cloud storage solution provider",

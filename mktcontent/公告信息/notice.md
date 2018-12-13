@@ -69,7 +69,7 @@
 	},
 	{
 		"id":250,
-		"title":"\\[Vulnerability Warning\\] High risk Vulnerabilities in ECShop  Remote Code Execution"
+		"title":"\\[Vulnerability Warning\\] High risk Vulnerabilities in ECShop Remote Code Execution"
 	},
 	{
 		"id":251,

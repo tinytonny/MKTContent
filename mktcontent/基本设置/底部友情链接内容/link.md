@@ -1,6 +1,6 @@
 [
 	{
-		"name":"JD open platform",
+		"name":"JD Open Platform",
 		"id":11
 	},
 	{

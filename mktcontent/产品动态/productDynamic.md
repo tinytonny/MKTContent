@@ -68,7 +68,7 @@
 		"fun_description":"Obtain the address of download link and perform the operation of download at backup and Binlog page through the console of cloud database. Users can automatically backup the policy by custom settings in order to avoid the time point when the cloud database’s load is high and to execute the automatic backup policy at appropriate time nodes to improve the cloud database’s backup efficiency.",
 		"id":9,
 		"fun_introduce":"Cloud Database’s console provides backup download - BinLog Download and the users can customize the settings of the feature regarding automatic backup policy",
-		"product_name":"JCS for  MySQL",
+		"product_name":"JCS for MySQL",
 		"fun_name":"Backup Download and BinLog Download"
 	},
 	{
@@ -108,7 +108,7 @@
 		"fun_description":"Cloud database is the stable and reliable relational database cloud service provided by JD Cloud. Compared with traditional database, it is easy to deploy, manage and expand. It supports master-slave hot standby architecture by default and provides complete solutions, such as data backup, fault recovery and monitoring, etc., which can completely solve the troubles of database’s operation and maintenance.",
 		"id":14,
 		"fun_introduce":"JD Cloud’s cloud database is officially opened to the public. It can be selected by the users in South China, East China and North China.",
-		"product_name":"JCS for  MySQL",
+		"product_name":"JCS for MySQL",
 		"fun_name":"Cloud Database is officially online"
 	},
 	{
@@ -201,9 +201,9 @@
 	},
 	{
 		"product_type":"Big Data and Management",
-		"fun_description":"Support users to uniformly manage jmr computing resources through console",
+		"fun_description":"Support users to uniformly manage JMR computing resources through console",
 		"id":26,
-		"fun_introduce":"Support users to uniformly manage jmr computing resources through console",
+		"fun_introduce":"Support users to uniformly manage JMR computing resources through console",
 		"product_name":"JMR",
 		"fun_name":"Resource Management"
 	},
@@ -537,11 +537,11 @@
 	},
 	{
 		"product_type":"Database and Storage",
-		"fun_description":"SQL Server service is online and publicly tested. Users can create and manage SQL Server’s instances, databases, accounts & permissions and backups AND can monitor the database in multiple dimensions.",
+		"fun_description":"JCS for SQL Server is online and publicly tested. Users can create and manage JCS for SQL Server’s instances, databases, accounts & permissions and backups AND can monitor the database in multiple dimensions.",
 		"id":75,
 		"fun_introduce":"The users can apply for free open-beta test",
 		"product_name":"Cloud Database JCS for SQL Server",
-		"fun_name":"SQL Server service is online for open-beta test"
+		"fun_name":"JCS for SQL Server is online for open-beta test"
 	},
 	{
 		"product_type":"Computing and Network",
@@ -659,8 +659,8 @@
 		"product_type":"Database and Storage",
 		"fun_description":"Built on the basis of different data centers, the multi-availability zone of JD Cloud is a multi-availability zone which is really and completely isolated from power, network and other physical facilities, and thus can bear the fault at the computer-room level and further improve the high availability and high reliability.",
 		"id":93,
-		"fun_introduce":"Cloud Database, such as MySQL service and SQL Server, etc. support the deployment in different availability zones",
-		"product_name":"JCS for  MySQL",
+		"fun_introduce":"Cloud Database, such as JCS for MySQL service and JCS for SQL Server, support the deployment in different availability zones",
+		"product_name":"JCS for MySQL",
 		"fun_name":"Database’s and storage’s all products support the deployment in different availability zones"
 	},
 	{
@@ -689,10 +689,10 @@
 	},
 	{
 		"product_type":"Database and Storage",
-		"fun_description":"Cloud Redis adjust the settlement cycle to 1 hour according to the configured billing resource",
+		"fun_description":"JCS for Redis adjust the settlement cycle to 1 hour according to the configured billing resource",
 		"id":97,
-		"fun_introduce":"Cloud Redis adjust the settlement cycle to 1 hour according to the configured billing resource",
-		"product_name":"Redis",
+		"fun_introduce":"JCS for Redis adjust the settlement cycle to 1 hour according to the configured billing resource",
+		"product_name":"JCS for Redis",
 		"fun_name":"Settlement interval of the resources whose billing are calculated by configuration is adjusted"
 	},
 	{
@@ -700,7 +700,7 @@
 		"fun_description":"Compared with the traditional data center network, VPC network has the characteristics of high flexibility, good isolation and good scalability. Redis on VPC can further enhance the reliability of the overall business system.",
 		"id":98,
 		"fun_introduce":"The users can deploy cloud-cache instances based on VPC network",
-		"product_name":"Redis",
+		"product_name":"JCS for Redis",
 		"fun_name":"Support VPC Network"
 	},
 	{
@@ -721,7 +721,7 @@
 	},
 	{
 		"product_type":"Computing and Network",
-		"fun_description":"Single NIC multiple IP is widely used in keep alived and secondary virtualization scenarios. Virtual Machines now support allocation/release of auxiliary private IP",
+		"fun_description":"Single NIC multiple IP is widely used in keep alive and secondary virtualization scenarios. Virtual Machines now support allocation/release of auxiliary private IP",
 		"id":101,
 		"fun_introduce":"The Virtual Machines support the allocation/release of the auxiliary Private IP, and the auxiliary Private IP can associate the Elastic IP",
 		"product_name":"Virtual Machines",
@@ -1105,7 +1105,7 @@
 	},
 	{
 		"product_type":"Elastic Compute",
-		"fun_description":"Windows Server operating system supports KMS (Key Management Service) activation, Windows Server Virtual Mac hines legitimate activation is no longer dependent on public network, and it can still be activated when without associating EIP.",
+		"fun_description":"Windows Server operating system supports KMS (Key Management Service) activation, Windows Server Virtual Machines legitimate activation is no longer dependent on public network, and it can still be activated when without associating EIP.",
 		"id":150,
 		"fun_introduce":"All regions gradually launch KMS service activated by genuine Windows Server",
 		"product_name":"Virtual Machines",
@@ -1145,26 +1145,26 @@
 	},
 	{
 		"product_type":"Database",
-		"fun_description":"The Cloud Database Percona is a stable and reliable database service built by JD Cloud on the basis of the open source Percona 5.7 version. Compared with traditional databases, the Cloud Database Percona is easy to deploy, manage and expand. By default, it supports the master-slave hot standby architecture and provides complete solutions for data backup, fault recovery, monitoring and etc. to completely solve the problem in the operation and maintenance of database.",
+		"fun_description":"JCS for Percona is a stable and reliable database service built by JD Cloud on the basis of the open source Percona 5.7 version. Compared with traditional databases, JCS for Percona is easy to deploy, manage and expand. By default, it supports the master-slave hot standby architecture and provides complete solutions for data backup, fault recovery, and monitoring to completely solve the problem in the operation and maintenance of database.",
 		"id":155,
 		"fun_introduce":"Powerful Database Engine with Compatibility to MySQL Protocol",
-		"product_name":"Cloud Database Percona Service",
-		"fun_name":"Percona is officially online"
+		"product_name":"JCS for Percona",
+		"fun_name":"JCS for Percona is officially online"
 	},
 	{
 		"product_type":"Database",
 		"fun_description":"When an instance has a problem with linking number or performance, you can manually restart the instance to try to solve the problem",
 		"id":156,
 		"fun_introduce":"Restart Instance",
-		"product_name":"JCS for  MySQL",
+		"product_name":"JCS for MySQL",
 		"fun_name":"Restart Instance"
 	},
 	{
 		"product_type":"Database",
-		"fun_description":"If it required to connect the local database management software with the MySQL Service, you can open the external network's access of JCS for MySQL",
+		"fun_description":"If it required to connect the local database management software with JCS for MySQL, you can open the external network's access of JCS for MySQL",
 		"id":157,
 		"fun_introduce":"Support outer net’s access regarding Cloud Database",
-		"product_name":"JCS for  MySQL",
+		"product_name":"JCS for MySQL",
 		"fun_name":"Access of External Network"
 	},
 	{
@@ -1172,7 +1172,7 @@
 		"fun_description":"Feature of cloud database list supports the IAM by setting the IP segment. It also supports the IAM of a single IP Address by precise designation. It will be effective immediately after modification",
 		"id":158,
 		"fun_introduce":"Cloud Database’s security access is under control",
-		"product_name":"JCS for  MySQL",
+		"product_name":"JCS for MySQL",
 		"fun_name":"White List"
 	},
 	{
@@ -1180,8 +1180,8 @@
 		"fun_description":"Through cross-regional backup synchronization service, you can continuously back up the data in cloud database to a remote location and create new database instance based on backup data to meet the business scenarios such as remote backup for disaster recovery.",
 		"id":159,
 		"fun_introduce":"Cloud Database’s backup can perform synchronization regarding the real-time backup in different places",
-		"product_name":"JCS for  MySQL",
-		"fun_name":"JCS for  MySQL Cross-regional backup can be synchronized"
+		"product_name":"JCS for MySQL",
+		"fun_name":"JCS for MySQL Cross-regional backup can be synchronized"
 	},
 	{
 		"product_type":"Cloud Security",
@@ -1193,7 +1193,7 @@
 	},
 	{
 		"product_type":"Elastic Compute",
-		"fun_description":"JCS for Kubernetes is officially launched in cn-south-1. The service adopts the management node full hosting mode to provide users with the simple, reliable and powerful container management service. The product is fully compatible with the standards of Kubernetes API, and integrated with JD Cloud network, storage and other plug-ins. JCS for Kubernetes simplifies the deployment and management of Kubernetes, reduces the use threshold of Kubernetes, enhances the reliability of applications, improves the efficiency of development and reduces the cost of resources.",
+		"fun_description":"JCS for Kubernetes is officially launched in cn-south-1. The service adopts the management node full hosting mode to provide users with the simple, reliable and powerful container management service. The product is fully compatible with the standards of Kubernetes API, and integrated with JD Cloud network, storage and other plug-ins. JCS for Kubernetes simplifies the deployment and management of JCS for Kubernetes, reduces the use threshold of JCS for Kubernetes, enhances the reliability of applications, improves the efficiency of development and reduces the cost of resources.",
 		"id":162,
 		"fun_introduce":"JCS for Kubernetes goes online and is opened for beta",
 		"product_name":"JCS for Kubernetes",
@@ -1204,15 +1204,15 @@
 		"fun_description":"Feature of cloud database list supports the IAM by setting the IP segment. It also supports the IAM of a single IP Address by precise designation. It will be effective immediately after modification",
 		"id":163,
 		"fun_introduce":"Cloud Database’s security access is under control",
-		"product_name":"Cloud Database Percona Service",
+		"product_name":"JCS for Percona",
 		"fun_name":"White List"
 	},
 	{
 		"product_type":"Database",
-		"fun_description":"If it required to connect the local database management software with the Percona Service, you can open the external network's access of JCS for Percona.",
+		"fun_description":"If it required to connect the local database management software with JCS for Percona, you can open the external network's access of JCS for Percona.",
 		"id":164,
 		"fun_introduce":"Support outer net’s access regarding Cloud Database",
-		"product_name":"Cloud Database Percona Service",
+		"product_name":"JCS for Percona",
 		"fun_name":"Access of External Network"
 	},
 	{
@@ -1361,7 +1361,7 @@
 	},
 	{
 		"product_type":"Elastic Compute",
-		"fun_description":"The service is officially launched in the third region, cn-south-1, after being launched in cn-north-1 and cn-east-2.",
+		"fun_description":"The service is officially launched in the third region, cn-south-1, after being launched in cn-north-1 and cn-east-2",
 		"id":2068,
 		"fun_introduce":"Add the Region cn-south-1",
 		"product_name":"Native Container",
@@ -1371,7 +1371,7 @@
 		"product_type":"Storage and CDN",
 		"fun_description":"Add streaming name and releasing point bandwidth traffic, enrich detailed data interface by regional operators, increase live data interface dimension and meet the customer’s operation statistics requirements.",
 		"id":2069,
-		"fun_introduce":"Add functions as domain name traffic inquiry by region operators, bandwidth traffic query via live domain name and support appname and strea.",
+		"fun_introduce":"Add functions as domain name traffic inquiry by region operators, bandwidth traffic query via live domain name and support appname and strea",
 		"product_name":"CDN",
 		"fun_name":"CDN Live of OpenAPI Query Interface Optimization"
 	},

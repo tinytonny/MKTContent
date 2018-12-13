@@ -80,19 +80,19 @@
 		"id":38
 	},
 	{
-		"name":"Cross-border e-commerce solution",
+		"name":"Cross-border e-commerce Solution",
 		"id":39
 	},
 	{
-		"name":"Cross-border e-commerce solution",
+		"name":"Cross-border e-commerce Solution",
 		"id":40
 	},
 	{
-		"name":"Bonus Points E-Commerce Solution",
+		"name":"Bonus Points E-commerce Solution",
 		"id":41
 	},
 	{
-		"name":"Security Solution of Government Affairs Cloud",
+		"name":"Government Affairs Cloud Security Solution",
 		"id":68
 	},
 	{

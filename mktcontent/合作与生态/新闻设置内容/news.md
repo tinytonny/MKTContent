@@ -1,6 +1,6 @@
 [
 	{
-		"summary":"To carry out the multi-dimensional cooperation, JD Group has signed the strategic cooperation agreement with the People’ s Government of Guangxi Zhuang Autonomous Region in the fields of E-commerce, intelligent logistics, Internet finance, “Internet +” tax services, emerging technologies and government affairs, etc.",
+		"summary":"To carry out the multi-dimensional cooperation, JD Group has signed the strategic cooperation agreement with the People’ s Government of Guangxi Zhuang Autonomous Region in the fields of E-commerce, intelligent logistics, Internet finance, “Internet +” tax services, emerging technologies, government affairs, etc.",
 		"image_url":"//img1.jcloudcs.com/cms/beed87a3-29f4-4c7c-a73a-e37d015e93ac20180702110614.png",
 		"jss_url":"http://img1.jcloudcs.com/News_Content_107",
 		"jss_key":"News_Content_107",
@@ -56,7 +56,7 @@
 		"news_title":"JD Cloud cooperating with SMART Technology, an educational technology brand subordinate to Foxconn"
 	},
 	{
-		"summary":"“Intelligent Education and See the Future —— JD Cloud Intelligent Education Strategy Press Conference” was successfully convened in Beijing. In this press conference, JD Cloud intelligent education strategy was officially released, indicating that the determination and confidence of JD Cloud in the layout of the intelligent education market in China, with the aim to create the brand-new mode of intelligent education of China and assist the education industry in the rapid development and reform.",
+		"summary":"“Intelligent Education and See the Future—JD Cloud Intelligent Education Strategy Press Conference” was successfully convened in Beijing. In this press conference, JD Cloud intelligent education strategy was officially released, indicating that the determination and confidence of JD Cloud in the layout of the intelligent education market in China, with the aim to create the brand-new mode of intelligent education of China and assist the education industry in the rapid development and reform.",
 		"image_url":"//img1.jcloudcs.com/cms/67cce1ae-7bac-4f38-93b9-ee65b99e36ef20180726194233.jpg",
 		"jss_url":"http://img1.jcloudcs.com/News_Content_114",
 		"jss_key":"News_Content_114",
@@ -160,12 +160,12 @@
 		"news_title":"JD Cloud Debuted at Smart China Expo"
 	},
 	{
-		"summary":" JD Cloud, a full-platform cloud computing integrated service provider under JD Group, announced that it has reached a strategic cooperation agreement regarding Block Chain a few days ago with Monash University——one of the top universities in Australia.",
+		"summary":" JD Cloud, a full-platform cloud computing integrated service provider under JD Group, announced that it has reached a strategic cooperation agreement regarding Block Chain a few days ago with Monash University—one of the top universities in Australia.",
 		"image_url":"//img1.jcloudcs.com/cms/5a79792c-91b5-4616-820e-dd1117a6746220180904140954.png",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_128",
 		"jss_key":"News_Content_128",
 		"id":128,
-		"news_title":" Strategic Cooperation Between JD Cloud and Monash University  to Improve R&D and Application of Block Chain Base Layer Technology"
+		"news_title":" Strategic Cooperation Between JD Cloud and Monash University to Improve R&D and Application of Block Chain Base Layer Technology"
 	},
 	{
 		"summary":" VSTECS (00856.HK) and JD Cloud announce establishment of strategic partnership. The both sides agreed to complement each other's resources and work together to carry forward the application, promotion and development of cloud computing and related businesses in China and overseas markets.",

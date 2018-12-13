@@ -5,7 +5,7 @@
 	},
 	{
 		"summary":"",
-		"name":"Products",
+		"name":"Documentation",
 		"id":2
 	},
 	{
@@ -205,11 +205,11 @@
 	},
 	{
 		"summary":"It describes the deployment of Web services based on the Virtual Machines of JD Cloud and guides the users how to register, log on and deploy a simple Web service.",
-		"name":"Set up a Simple Website",
+		"name":"Set up a simple website",
 		"id":220
 	},
 	{
-		"summary":"It will help you to utilize the Cloud Database to create a WordPress blogging site on the Linux VM of JD Cloud.",
+		"summary":"It will help you to utilize the Cloud Database to create a WordPress blogging site on the Linux Virtual Machines of JD Cloud.",
 		"name":"Set up WordPress Blog",
 		"id":221
 	},
@@ -225,7 +225,7 @@
 	},
 	{
 		"summary":"",
-		"name":"Container Service (old version)",
+		"name":"Container Service (previous version)",
 		"id":224
 	},
 	{
@@ -304,7 +304,7 @@
 		"id":248
 	},
 	{
-		"summary":"It explains how to use Linux VM of JD Cloud to build Discuz in details. Forum",
+		"summary":"It explains how to use Linux Virtual Machines of JD Cloud to build Discuz in details. Forum",
 		"name":"Setting up Discuz! Forum",
 		"id":249
 	},
@@ -365,22 +365,22 @@
 	},
 	{
 		"summary":"",
-		"name":"Modify Login Password",
+		"name":"Modify login password",
 		"id":270
 	},
 	{
 		"summary":"",
-		"name":"Modify Mobile Phone Number",
+		"name":"Modify mobile phone number",
 		"id":271
 	},
 	{
 		"summary":"",
-		"name":"Modify Email Address",
+		"name":"Modify email address",
 		"id":272
 	},
 	{
 		"summary":"",
-		"name":"Find Password",
+		"name":"Find password",
 		"id":273
 	},
 	{
@@ -535,12 +535,12 @@
 	},
 	{
 		"summary":"",
-		"name":"Log in Linux VM",
+		"name":"Log in Linux Virtual Machines",
 		"id":316
 	},
 	{
 		"summary":"",
-		"name":"Log in Windows VM",
+		"name":"Log in Windows Virtual Machines",
 		"id":317
 	},
 	{
@@ -550,7 +550,7 @@
 	},
 	{
 		"summary":"",
-		"name":"Linux System Partitioning, Formatting and Attach Data Disk",
+		"name":"Linux System Partitioning, Formatting and Attaching Data Disk",
 		"id":319
 	},
 	{
@@ -809,7 +809,7 @@
 	},
 	{
 		"summary":"",
-		"name":"Cloud Database Percona Service",
+		"name":"JCS for Percona",
 		"id":394
 	},
 	{

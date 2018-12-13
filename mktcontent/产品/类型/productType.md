@@ -212,7 +212,7 @@
 		"product_type":"Database",
 		"id":47,
 		"type":"1",
-		"product_name":"Cloud Database Percona Service"
+		"product_name":"JCS for Percona"
 	},
 	{
 		"product_type":"Middleware",

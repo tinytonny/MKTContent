@@ -124,7 +124,7 @@
 		"id":63
 	},
 	{
-		"name":"Cloud Resolution DNS",
+		"name":"JD Cloud DNS",
 		"id":64
 	},
 	{
@@ -160,7 +160,7 @@
 		"id":76
 	},
 	{
-		"name":"Cloud Database Percona Service",
+		"name":"JCS for Percona",
 		"id":77
 	},
 	{
