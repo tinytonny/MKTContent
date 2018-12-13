@@ -796,5 +796,11 @@
 		"description":"基于 Hadoop 且100%兼容HBase协议的高性能、可弹性伸缩、面向列的分布式数据库",
 		"id":1336,
 		"button_title":""
+	},
+	{
+		"name":"密钥管理服务",
+		"description":"安全、可控、便捷的密钥托管服务",
+		"id":1338,
+		"button_title":""
 	}
 ]
