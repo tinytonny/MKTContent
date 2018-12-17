@@ -1,6 +1,6 @@
 [
 	{
-		"name":"Documentation",
+		"name":"Products",
 		"description":"",
 		"id":1
 	},
