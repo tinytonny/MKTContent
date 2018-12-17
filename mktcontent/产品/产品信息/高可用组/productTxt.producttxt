@@ -14,5 +14,13 @@
 	{
 		"txt":"{\"operatingClasstag\":\"Products|keycount|MiddleContentSec|76\",\"price\":\"//docs.jdcloud.com/availability-group/billing-overview\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|76\"}",
 		"id":210
+	},
+	{
+		"txt":"[{\"name\":\"什么是高可用组？\",\"link\":\"https://docs.jdcloud.com/cn/availability-group/product-overview\",\"classTag\":\"\"},{\"name\":\"如何理解高可用组的功能？\",\"link\":\"https://docs.jdcloud.com/cn/availability-group/features\",\"classTag\":\"\"},{\"name\":\"高可用组入门指南\",\"link\":\"https://docs.jdcloud.com/cn/availability-group/getting-start\",\"classTag\":\"\"}]",
+		"id":722
+	},
+	{
+		"txt":"[{\"name\":\"高可用Web应用\",\"instruction\":\"将业务不同服务采用不同可用组部署，隔离服务层故障影响。 京东云高可用组将保证Web服务对应的云主机实例分散在物理资源上，数据库服务对应的云主机也分散在不同物理资源上。当某一台Web服务云主机所在物理资源出现故障时，其他Web服务实例以及数据库服务实例不受影响，保证您业务高可用。\",\"recommend\":\"Web服务实例使用一个高可用组，数据库服务实例使用一个高可用组。两个高可用组均跨\",\"selectedProduct\":[{\"name\":\"云主机\",\"url\":\"//www.jdcloud.com/products/virtual-machines\"},{\"name\":\"高可用组\",\"url\":\"//www.jdcloud.com/products/availability-group\"},{\"name\":\"负载均衡\",\"url\":\"//www.jdcloud.com/products/load-balancer\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/ea11e402-8b2e-4108-85e0-bea3a9112cea20181217112926.png\",\"showShade\":false},{\"name\":\"弹性高性能计算应用\",\"instruction\":\"计算请求通过负载均衡到达应用服务器，当您计算量波动时，支持您基于监控指标配置告警伸缩策略，自动触发新增或删除云主机，保障集群计算能力，节省业务部署成本。若可预估计算量波动情况，您可预先规划可用组内云主机数量并配置定时伸缩策略，定时触发新增或删除云主机。\",\"recommend\":\"计算集群实例使用一个高可用组，数据库服务实例使用一个高可用组。两个高可用组均开启\",\"selectedProduct\":[{\"name\":\"云主机\",\"url\":\"//www.jdcloud.com/products/virtual-machines\"},{\"name\":\"高可用组\",\"url\":\"//www.jdcloud.com/products/availability-group\"},{\"name\":\"负载均衡\",\"url\":\"//www.jdcloud.com/products/load-balancer\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/6f219f3a-b3d8-49b0-ba44-b24cdc3060a420181217113017.png\",\"showShade\":false}]",
+		"id":723
 	}
 ]
