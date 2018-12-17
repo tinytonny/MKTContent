@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"operator\":\"yangmu\",\"floorName\":\"banner\",\"name\":\"banner\",\"data\":[{\"title\":\"Oracle Database on Cloud\",\"description\":\"JD Cloud released the Oracle Database on Cloud solution to provide stable, high-efficiency and safe platform support for Enterprise Cloud Access.\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/a54a8ab7-dc7e-4a33-8c8d-54877131c10620181113113248.png\",\"backgroundColor\":\"#1a284f\",\"buttonMetas\":[{\"name\":\"Learn More\",\"link\":\"https://docs.jdcloud.com/cn/oracle-on-cloud/solution-overview\",\"classTag\":\"Not Required Now\"}],\"tagMetas\":[]}]}
+		"txt":"{\"operator\":\"yangmu\",\"floorName\":\"banner\",\"name\":\"banner\",\"data\":[{\"title\":\"Oracle Database on Cloud\",\"description\":\"JD Cloud released the Oracle Database on Cloud solution to provide stable, high-efficiency and safe platform support for Enterprise Cloud Access.\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/a54a8ab7-dc7e-4a33-8c8d-54877131c10620181113113248.png\",\"backgroundColor\":\"#1a284f\",\"buttonMetas\":[{\"name\":\"Learn More\",\"link\":\"https://docs.jdcloud.com/cn/oracle-on-cloud/solution-overview\",\"classTag\":\"Not Required Now\"}],\"tagMetas\":[]}]}",
 		"templet":"11",
 		"id":326,
 		"solution_id":"76"
