@@ -342,5 +342,13 @@
 		"id":592,
 		"partner_label":"Solution Provider",
 		"tableName":"cms_partner"
+	},
+	{
+		"name":"iTonghui Information Technology Co., Ltd.",
+		"description":"iTonghui, incorporated in 2008, is engaged in enterprise transaction networking, from enterprise upstream procurement and downstream channel distribution as well as B2B transaction platform construction, serving nearly ten global and domestic top 500 enterprises, hundreds of listed companies as well as medium and large-sized enterprises, and providing customers with systematic and institutional project implementation as well as after-sales service process.",
+		"short_name":"iTonghui",
+		"id":594,
+		"partner_label":"Solution Provider",
+		"tableName":"cms_partner"
 	}
 ]
