@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"资源编排\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/jdro\",\"classTag\":\"\"}],\"desc\":\"资源编排是一项简化云计算资源管理和运维的服务。\\n\\n服务本身免费，仅收取所使用资源的费用：如云主机等。\",\"iconUrl\":\"\",\"imageUrl\":\"\",\"middleClstag\":\"Products|keycount|MiddleContentSec|1144\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|1144\"}",
+		"id":327
+	},
+	{
+		"txt":"[{\"proGood\":\"快速部署\",\"proName\":\"快速创建及部署云资源，减少了使用资源的复杂性和时间成本。\"},{\"proGood\":\"简单易用\",\"proName\":\"简化云资源的管理，简化云应用的交付。\"},{\"proGood\":\"提供多种编排模板\",\"proName\":\"提供了多种示例模板，用户选择示例模板创建一个资源栈，整个过程您只需要输入几个简单参数即可创建一个应用。\"},{\"proGood\":\"灵活组合多种云资源\",\"proName\":\"您可以根据业务场景灵活组合云资源，以满足业务运营的需求。\"}]",
+		"id":328
+	},
+	{
+		"txt":"[{\"funcContent\":[{\"funcP\":\"示例模板是京东云官方提供的标准化的资源和应用交付方式的参考文本文件，覆盖多个应用场景，帮助降低用户的使用成本。\",\"funcTitle\":\"示例模板\"}],\"funcName\":\"模板\"},{\"funcContent\":[{\"funcP\":\"是一种逻辑集合，该集合用来统一管理一组云资源。\",\"funcTitle\":\"资源栈\"},{\"funcP\":\"对于云资源的创建、更新、删除等操作，都以资源栈为单位来完成。\",\"funcTitle\":\"管理资源栈\"}],\"funcName\":\"资源栈\"}]",
+		"id":329
+	},
+	{
+		"txt":"[{\"instruction\":\"出于提高服务的可用性和容灾能力的目的，大多数的服务一般都会采用多区域的模式部署，通过资源编排的方式，可以帮助用户把一个区域的模块、拓扑关系、配置关系抽象建模成为一个编排模板，在另一个区域部署资源时直接使用已创建的模板文件一键部署即可，方便快捷。\",\"name\":\"跨区域的模板复用\",\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/83af841c-c51c-4d1a-b7ba-6ddc522518e520181121103037.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"资源编排功能，可以简化多套环境部署的过程，节约部署的时间。客户只需将应用系统部署需要的配置、拓扑关系抽象出来，并把抽象出来的编排模板分别创建多个资源栈，进而实现资源的并发创建，提高了部署多套环境的效率。\",\"name\":\"快速复制多套环境\",\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/b32f699b-c095-4fe5-940c-21284bed0cfd20181121103042.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"使用京东云资源编排的功能，用户可以将应用所需的资源、配置信息、拓扑关系进行统一的描述，写入资源编排模板，一键部署整套环境，应用上云更简单。\",\"name\":\"应用一键上云\",\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/e6b5e819-6fea-4bc2-aeb2-c5b3591075fc20181121103046.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false,\"recommend\":\"\"}]",
+		"id":330
+	}
+]
