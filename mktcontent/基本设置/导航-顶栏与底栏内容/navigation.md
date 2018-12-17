@@ -1528,5 +1528,10 @@
 		"name":"JD  Distributed Service Framework",
 		"description":"",
 		"id":3042
+	},
+	{
+		"name":"Internet Finance Security Solution",
+		"description":"",
+		"id":3045
 	}
 ]
