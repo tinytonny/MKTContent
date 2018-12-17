@@ -366,5 +366,45 @@
 		"jss_key":"News_Content_398",
 		"id":398,
 		"news_title":"京东云获支付行业数据安全标准（PCI-DSS）认证  成为资质最全的云服务商之一"
+	},
+	{
+		"summary":"2018年12月7日，2018武陵山(怀化)国际健康产业博览会（以下简称“展会”）在怀化国际会展中心隆重开幕，京东云受邀参加本次盛会。",
+		"image_url":"//img1.jcloudcs.com/cms/2144b5b5-da79-4b0c-95f6-c678a6c30fc720181214141931.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_401",
+		"jss_key":"News_Content_401",
+		"id":401,
+		"news_title":"健康发展云助力 京东云亮相“怀化健博会”"
+	},
+	{
+		"summary":"时值“12.12京东暖暖节”，“沂蒙鲜果 罐誉全球——第一届京东云平邑罐头节”暨京东集团总部内购推介会在京开启。",
+		"image_url":"//img1.jcloudcs.com/cms/0189efbc-88a6-40c5-8c1f-504790482eb020181214161812.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_402",
+		"jss_key":"News_Content_402",
+		"id":402,
+		"news_title":"京东云携手平邑推出罐头节，开辟场景化数字营销新模式"
+	},
+	{
+		"summary":"如何将鲜果品牌从区域“打入”全国？如何借助互联网大数据提升价值？怀化市与京东云的合作，或能带来借鉴与启示。",
+		"image_url":"//img1.jcloudcs.com/cms/d2cb1798-845b-4cee-88c5-cd985904753c20181214194624.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_403",
+		"jss_key":"News_Content_403",
+		"id":403,
+		"news_title":"京东云助力湖南鲜果走向全国"
+	},
+	{
+		"summary":"“京东·仙游——数字经济产业战略合作签约暨新闻发布会”在京举行。",
+		"image_url":"//img1.jcloudcs.com/cms/0478e70b-7e33-49a9-91a2-ead2b928dcfc20181217104622.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_404",
+		"jss_key":"News_Content_404",
+		"id":404,
+		"news_title":"京东云创新驱动 助力仙游数字经济大发展"
+	},
+	{
+		"summary":"在“2018 GOLF金牌运维峰会”上，京东云获评“运维行业2018年度明星产品”殊荣。",
+		"image_url":"//img1.jcloudcs.com/cms/7bb7a554-3230-4a19-9d25-0dd6c8133daa20181217152505.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_405",
+		"jss_key":"News_Content_405",
+		"id":405,
+		"news_title":"京东云翼DevOps荣获“运维行业2018年度明星产品”"
 	}
 ]
