@@ -5,7 +5,7 @@
 	},
 	{
 		"summary":"",
-		"name":"Documentation",
+		"name":"Products",
 		"id":2
 	},
 	{
