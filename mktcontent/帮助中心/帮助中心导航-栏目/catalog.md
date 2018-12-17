@@ -1071,5 +1071,45 @@
 		"summary":"",
 		"name":"Identity Authentication Service",
 		"id":3144
+	},
+	{
+		"summary":"",
+		"name":"Log Service",
+		"id":3146
+	},
+	{
+		"summary":"",
+		"name":"Function Service",
+		"id":3147
+	},
+	{
+		"summary":"",
+		"name":"Storage Gateway",
+		"id":3148
+	},
+	{
+		"summary":"",
+		"name":"HTTPDNS",
+		"id":3149
+	},
+	{
+		"summary":"",
+		"name":"Solutions",
+		"id":3150
+	},
+	{
+		"summary":"",
+		"name":"Oracle on Cloud",
+		"id":3151
+	},
+	{
+		"summary":"",
+		"name":"Key Management Service",
+		"id":3152
+	},
+	{
+		"summary":"",
+		"name":"Contract Management",
+		"id":3156
 	}
 ]
