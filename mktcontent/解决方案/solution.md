@@ -110,5 +110,117 @@
 	{
 		"name":"县域云",
 		"id":79
+	},
+	{
+		"name":"政务云安全解决方案",
+		"id":85
+	},
+	{
+		"name":"Intelligence Industry Cloud",
+		"id":86
+	},
+	{
+		"name":"JD BD Institute",
+		"id":87
+	},
+	{
+		"name":"E-commerce Cloud",
+		"id":88
+	},
+	{
+		"name":"Tourism Cloud",
+		"id":89
+	},
+	{
+		"name":"Agriculture Cloud",
+		"id":90
+	},
+	{
+		"name":"Enterprise Cloud Access",
+		"id":91
+	},
+	{
+		"name":"Data Cloud",
+		"id":92
+	},
+	{
+		"name":"Medical Cloud",
+		"id":93
+	},
+	{
+		"name":"Industry Innovation",
+		"id":94
+	},
+	{
+		"name":"JDC Institute",
+		"id":95
+	},
+	{
+		"name":"Urban Industry Service Cloud Platform",
+		"id":96
+	},
+	{
+		"name":"Biologic Empowerment of JD Cloud Industrial Chain",
+		"id":97
+	},
+	{
+		"name":"Logistics Cloud Solutions",
+		"id":98
+	},
+	{
+		"name":"在线教育培训解决方案",
+		"id":99
+	},
+	{
+		"name":"云端融合防御解决方案",
+		"id":100
+	},
+	{
+		"name":"Hosted Cloud Solutions",
+		"id":101
+	},
+	{
+		"name":"大宗商品电商解决方案",
+		"id":102
+	},
+	{
+		"name":"E-commerce Solutions for Enterprise Procurement",
+		"id":103
+	},
+	{
+		"name":"E-commerce Solutions for Channel Distribution",
+		"id":104
+	},
+	{
+		"name":"无界零售电商解决方案",
+		"id":105
+	},
+	{
+		"name":"零售商城电商解决方案",
+		"id":106
+	},
+	{
+		"name":"跨境电商解决方案",
+		"id":107
+	},
+	{
+		"name":"积分商城解决方案",
+		"id":108
+	},
+	{
+		"name":"JD WorkSpace Private Solutions",
+		"id":109
+	},
+	{
+		"name":"Oracle Migration Access",
+		"id":110
+	},
+	{
+		"name":"Mobile Cross-end Development Solution",
+		"id":111
+	},
+	{
+		"name":"County-level Cloud",
+		"id":112
 	}
 ]
