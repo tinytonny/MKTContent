@@ -1004,7 +1004,7 @@
 	},
 	{
 		"summary":"",
-		"name":"缓存 Memcached",
+		"name":"云缓存 Memcached",
 		"id":3123
 	},
 	{
