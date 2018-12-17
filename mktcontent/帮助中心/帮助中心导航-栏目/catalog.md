@@ -5,7 +5,7 @@
 	},
 	{
 		"summary":"",
-		"name":"Documentation",
+		"name":"Products",
 		"id":2
 	},
 	{
@@ -205,12 +205,12 @@
 	},
 	{
 		"summary":"It describes the deployment of Web services based on the Virtual Machines of JD Cloud and guides the users how to register, log on and deploy a simple Web service.",
-		"name":"Set up a simple website",
+		"name":"Set Up a Simple Website",
 		"id":220
 	},
 	{
 		"summary":"It will help you to utilize the Cloud Database to create a WordPress blogging site on the Linux Virtual Machines of JD Cloud.",
-		"name":"Set up WordPress Blog",
+		"name":"Set Up WordPress Blog",
 		"id":221
 	},
 	{
@@ -365,22 +365,22 @@
 	},
 	{
 		"summary":"",
-		"name":"Modify login password",
+		"name":"Modify Login Password",
 		"id":270
 	},
 	{
 		"summary":"",
-		"name":"Modify mobile phone number",
+		"name":"Modify Mobile Phone Number",
 		"id":271
 	},
 	{
 		"summary":"",
-		"name":"Modify email address",
+		"name":"Modify Email Address",
 		"id":272
 	},
 	{
 		"summary":"",
-		"name":"Find password",
+		"name":"Find Password",
 		"id":273
 	},
 	{
@@ -1071,5 +1071,45 @@
 		"summary":"",
 		"name":"Identity Authentication Service",
 		"id":3144
+	},
+	{
+		"summary":"",
+		"name":"Log Service",
+		"id":3146
+	},
+	{
+		"summary":"",
+		"name":"Function Service",
+		"id":3147
+	},
+	{
+		"summary":"",
+		"name":"Storage Gateway",
+		"id":3148
+	},
+	{
+		"summary":"",
+		"name":"HTTPDNS",
+		"id":3149
+	},
+	{
+		"summary":"",
+		"name":"Solutions",
+		"id":3150
+	},
+	{
+		"summary":"",
+		"name":"Oracle on Cloud",
+		"id":3151
+	},
+	{
+		"summary":"",
+		"name":"Key Management Service",
+		"id":3152
+	},
+	{
+		"summary":"",
+		"name":"Contract Management",
+		"id":3156
 	}
 ]
