@@ -406,5 +406,13 @@
 		"jss_key":"News_Content_405",
 		"id":405,
 		"news_title":"京东云翼DevOps荣获“运维行业2018年度明星产品”"
+	},
+	{
+		"summary":"品友互动主办的2018中国AI营销年度峰会在上海举行。京东集团副总裁、京东云生态业务负责人刘子豪受邀发表题为《数字技术赋能 MarTech让营销焕发新生命力》的演讲。",
+		"image_url":"//img1.jcloudcs.com/cms/64b4e343-d816-4f24-b4db-6b693935398c20181218175517.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_406",
+		"jss_key":"News_Content_406",
+		"id":406,
+		"news_title":"京东云刘子豪：MarTech是CMO实现市场增长的利器"
 	}
 ]
