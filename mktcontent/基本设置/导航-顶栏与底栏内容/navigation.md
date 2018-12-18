@@ -1543,5 +1543,10 @@
 		"name":"JDFusion",
 		"description":"提供公有云、私有云、混合云基础设施资源整合管理",
 		"id":3053
+	},
+	{
+		"name":"合同管理",
+		"description":"//www.jdcloud.com/products/contract-application-process",
+		"id":3054
 	}
 ]
