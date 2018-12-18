@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[{\"explain\":\"帮助中心-产品概述\",\"explainLink\":\"https://docs.jdcloud.com/cn/anti-ddos-basic/product-overview\",\"classTag\":\"\"},{\"explain\":\"帮助中心-入门指南\",\"explainLink\":\"https://docs.jdcloud.com/cn/anti-ddos-basic/anti-ddos-basic-started\",\"classTag\":\"\"},{\"explain\":\"帮助中心-常见问题\",\"explainLink\":\"https://docs.jdcloud.com/cn/anti-ddos-basic/faq\",\"classTag\":\"\"}],\"productName\":\"DDoS 基础防护\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"//antiddos-console.jdcloud.com/gz/ddos\"}],\"desc\":\"DDoS（Anti-DDoS Basic）基础防护是针对DDoS攻击为京东云用户推出的免费服务。\\n可为您抵御基础的DDoS攻击，提供最高2G的防护能力。可根据业务需求设置清洗触发值，使常见的DDoS攻击将无法威胁到您的业务，为您的业务安全保驾护航。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/7aa42828-55d8-454f-acde-108d9f2a12b720181115172130.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|10\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|10\"}",
+		"txt":"{\"instruction\":[{\"explain\":\"帮助中心-常见问题\",\"explainLink\":\"https://docs.jdcloud.com/cn/anti-ddos-basic/faq\",\"classTag\":\"\"}],\"productName\":\"DDoS 基础防护\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"//antiddos-console.jdcloud.com/gz/ddos\"},{\"TitleName\":\"购买DDoS防护包，提升防护能力\",\"TitleUrl\":\"https://www.jdcloud.com/cn/products/anti-ddos-protection-package\",\"classTag\":\"\"}],\"desc\":\"DDoS（Anti-DDoS Basic）基础防护是针对DDoS攻击为京东云用户推出的免费服务。\\n可为您抵御基础的DDoS攻击，提供最高2G的防护能力。可根据业务需求设置清洗触发值，使常见的DDoS攻击将无法威胁到您的业务，为您的业务安全保驾护航。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/7aa42828-55d8-454f-acde-108d9f2a12b720181115172130.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|10\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|10\"}",
 		"id":32
 	},
 	{
@@ -14,5 +14,9 @@
 	{
 		"txt":"{\"operatingClasstag\":\"Products|keycount|MiddleContentSec|10\",\"price\":\"https://docs.jdcloud.com/anti-ddos-basic/billing-overview\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|10\"}",
 		"id":35
+	},
+	{
+		"txt":"[{\"name\":\"帮助中心-产品概述\",\"link\":\"https://docs.jdcloud.com/cn/anti-ddos-basic/product-overview\",\"classTag\":\"\"},{\"name\":\"帮助中心-入门指南\",\"link\":\"https://docs.jdcloud.com/cn/anti-ddos-basic/anti-ddos-basic-started\",\"classTag\":\"\"},{\"name\":\"帮助中心-常见问题\",\"link\":\"https://docs.jdcloud.com/cn/anti-ddos-basic/faq\",\"classTag\":\"\"}]",
+		"id":747
 	}
 ]
