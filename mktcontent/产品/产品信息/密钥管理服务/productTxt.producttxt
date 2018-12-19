@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Key Management Service\",\"label\":[{\"TitleName\":\"Try now\",\"TitleUrl\":\"https://kms-console.jdcloud.com/kms/key\",\"classTag\":\"\"}],\"desc\":\"Key Management Service refers to a safety management product provided by JD Cloud to the users, which uses the hardware security module (HSM) to secure the safety of user's key. The users can use the key in a safe, controllable and convenient way under escrow, and focus on developing scenarios that require encryption and decryption.\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Key Management Service\",\"label\":[{\"TitleName\":\"Try now\",\"TitleUrl\":\"https://kms-console.jdcloud.com/kms/key\",\"classTag\":\"\"}],\"desc\":\"Key Management Service (KMS) is a fully managed service that makes it easy for you to create and control the encryption keys used to encrypt your data.\"}",
 		"id":683
 	},
 	{
