@@ -1548,5 +1548,25 @@
 		"name":"合同管理",
 		"description":"//www.jdcloud.com/products/contract-application-process",
 		"id":3054
+	},
+	{
+		"name":"操作审计",
+		"description":"记录账号对各类 API 调用记录，提供操作记录查询。",
+		"id":3056
+	},
+	{
+		"name":"云通信",
+		"description":"",
+		"id":3057
+	},
+	{
+		"name":"文本短信",
+		"description":"",
+		"id":3058
+	},
+	{
+		"name":"PLUS 智能短信",
+		"description":"",
+		"id":3059
 	}
 ]
