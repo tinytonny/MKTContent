@@ -1,0 +1,37 @@
+[
+	{
+		"db_content":"static_page_db_content_1_cn",
+		"oss_content":"static_page_oss_content_1_cn",
+		"id":1
+	},
+	{
+		"db_content":"<style> </style>",
+		"oss_content":"<div></div>",
+		"id":2
+	},
+	{
+		"db_content":"<style> .jdc-fridend-link .jdc-common-banner{background:url(/static/img/mkt/banner_pc.png) 50% no-repeat}.jdc-fridend-link .jdc-logo-container{padding:60px 0}.jdc-fridend-link .jdc-logo-ul{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;border-top:1px solid #e7e9ed;border-left:1px solid #e7e9ed}.jdc-fridend-link .jdc-logo-li{width:20%;box-sizing:border-box;display:inline-block;border-right:1px solid #e7e9ed;border-bottom:1px solid #e7e9ed;vertical-align:middle}.jdc-fridend-link .jdc-logo-li :hover{box-shadow:0 4px 15px 0 rgba(0,0,0,.1)}.jdc-fridend-link .jdc-logo-li img{width:100%;height:100%;-webkit-transition:all .4s;transition:all .4s}.jdc-fridend-link .jdc-logo-li img:hover{-webkit-transform:scale(1.05);-ms-transform:scale(1.05);transform:scale(1.05)}.jdc-fridend-link .jdc-text-ul{padding:0 0 30px;border-bottom:1px solid #e7e9ed}.jdc-fridend-link .jdc-text-link{font-size:16px;color:#666;line-height:44px;margin-right:10px}.jdc-fridend-link .jdc-text-link:hover{color:#448aff}.jdc-fridend-link .jdc-fridend-mail{margin:30px auto 60px}.jdc-fridend-link .jdc-fridend-mail p{font-size:16px;color:#999;line-height:44px}@media (max-width:768px){.jdc-rwd{min-width:280px}.jdc-fridend-link .jdc-common-banner{background:url(/static/img/mkt/banner_mobel.png) 50% no-repeat}.jdc-fridend-link .jdc-logo-container{padding:30px 20px}.jdc-fridend-link .jdc-text-ul{padding:0 20px 20px;text-align:left}.jdc-fridend-link .jdc-logo-li{width:50%}.jdc-fridend-link .jdc-text-link{font-size:12px;line-height:27px}.jdc-fridend-link .jdc-fridend-mail{margin:20px}.jdc-fridend-link .jdc-fridend-mail p{font-size:12px;color:#999;line-height:22px}}</style>",
+		"oss_content":"static_page_oss_content_3_cn",
+		"id":3
+	},
+	{
+		"db_content":"static_page_db_content_4_cn",
+		"oss_content":"static_page_oss_content_4_cn",
+		"id":4
+	},
+	{
+		"db_content":"static_page_db_content_5_cn",
+		"oss_content":"static_page_oss_content_5_cn",
+		"id":5
+	},
+	{
+		"db_content":"static_page_db_content_6_cn",
+		"oss_content":"static_page_oss_content_6_cn",
+		"id":6
+	},
+	{
+		"db_content":"static_page_db_content_7_cn",
+		"oss_content":"static_page_oss_content_7_cn",
+		"id":7
+	}
+]
