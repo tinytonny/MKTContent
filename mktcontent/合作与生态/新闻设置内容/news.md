@@ -366,5 +366,53 @@
 		"jss_key":"News_Content_398",
 		"id":398,
 		"news_title":"JD Cloud is certified by Payment Industry Data Security Standard (PCI-DSS), becoming one of the most qualified cloud service providers"
+	},
+	{
+		"summary":"On December 7, 2018, the 2018 Wuling Mountain (Huaihua) International Health Industry Expo (hereinafter referred to as the \"Expo\") was solemnly opened in Huaihua International Convention Center and JD Cloud was invited and attended this grand meeting.",
+		"image_url":"//img1.jcloudcs.com/cms/2144b5b5-da79-4b0c-95f6-c678a6c30fc720181214141931.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_401",
+		"jss_key":"News_Content_401",
+		"id":401,
+		"news_title":"Cloud Assistance for Health Development  JD Cloud Attending \"Huaihua Health Expo\""
+	},
+	{
+		"summary":"The \"12.12 JD Warm Winter Festival\", the \"Yimeng Fresh Fruit  Worldwide Can Promotion-The First Pingyi Can Festival of JD Cloud\" and the Internal Purchase and Promotion Meeting of JD Group were launched in Beijing.",
+		"image_url":"//img1.jcloudcs.com/cms/0189efbc-88a6-40c5-8c1f-504790482eb020181214161812.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_402",
+		"jss_key":"News_Content_402",
+		"id":402,
+		"news_title":"JD Cloud launched the tin can festival with Pingyi and created the new mode of scenario-based digital marketing"
+	},
+	{
+		"summary":"How to promote the fresh fruit brand from the regional level to the national level? How to add value by virtual of Internet big data? The cooperation between Huaihua City and JD Cloud may give us reference and revelation.",
+		"image_url":"//img1.jcloudcs.com/cms/d2cb1798-845b-4cee-88c5-cd985904753c20181214194624.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_403",
+		"jss_key":"News_Content_403",
+		"id":403,
+		"news_title":"JD Cloud help the nationwide promotion of Hunan fresh fruit"
+	},
+	{
+		"summary":"\"JD·Xianyou-Digital Economic Industry and Strategic Cooperation Execution and Press Conference\" was held in Beijing.",
+		"image_url":"//img1.jcloudcs.com/cms/0478e70b-7e33-49a9-91a2-ead2b928dcfc20181217104622.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_404",
+		"jss_key":"News_Content_404",
+		"id":404,
+		"news_title":"Innovative Drive of JD Cloud  Assistance to Great Digital Economic Development of Xianyou"
+	},
+	{
+		"summary":"In the \"2018 GOLF Gold Operation and Maintenance Summit\", JD Cloud was granted with the award as the \"Star Product of the Operation and Maintenance Industry 2018\".",
+		"image_url":"//img1.jcloudcs.com/cms/7bb7a554-3230-4a19-9d25-0dd6c8133daa20181217152505.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_405",
+		"jss_key":"News_Content_405",
+		"id":405,
+		"news_title":"DevOps was granted with the award as the \"Star Product of the Operation and Maintenance Industry 2018\""
+	},
+	{
+		"summary":"The Annual China AI Marketing Summit 2018, sponsored by iPinYou, was held in Shanghai. Liu Zihao, the Vice President of JD Group and the Head of JD Cloud Ecology Business were invited and gave the speech, Digital Technical Empowerment  MarTech Rejuvenating Marketing.",
+		"image_url":"//img1.jcloudcs.com/cms/64b4e343-d816-4f24-b4db-6b693935398c20181218175517.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_406",
+		"jss_key":"News_Content_406",
+		"id":406,
+		"news_title":"Liu Zihao of JD Cloud represented that MarTech is the good tool for market growth of CMO"
 	}
 ]

@@ -1,0 +1,35 @@
+<p style=";margin-bottom:0;line-height:24px;background:white">
+<span style="font-size:14px;font-family:&#39;microsoft yahei&#39;,&#39;serif&#39;;color:#373D41">
+On December 10, 2018, upon monitoring ThinkPHP, the Security Team of JD Cloud officially released a security update and disclosed a high risk security vulnerability through which the attacker may execute a remote command at low cost. The affected versions were 5.0 and 5.1.
+<p style=";margin-bottom:0;line-height:24px;background:white"><strong><span style="font-size: 14px;font-family: microsoft yahei;color: rgb(102, 102, 102)">[Vulnerability Details]</span></strong></p>
+<p style=";margin-bottom:0;line-height:24px;background:white"></p>
+As the ThinkPHP frame does not applied strict detection to the controller name, the attacker can execute any malicious code at the server when the mandatory routing is not enabled.
+<p style=";margin-bottom:0;line-height:24px;background:white"><span style="font-size:14px;font-family:&#39;microsoft yahei&#39;,&#39;serif&#39;;color:#373D41">&nbsp;</span></p>
+<p style=";margin-bottom:0;line-height:24px;background:white"><strong><span style="font-size: 14px;font-family: microsoft yahei;color: rgb(102, 102, 102)">[Risk Level]</span></strong></p>
+<p style=";margin-bottom:0;line-height:24px;background:white"><span style="font-size:14px;font-family:&#39;microsoft yahei&#39;,&#39;serif&#39;;color:#373D41">
+Severe
+</span></p>
+<p style=";margin-bottom:0;line-height:24px;background:white"><span style="font-size:14px;font-family:&#39;microsoft yahei&#39;,&#39;serif&#39;;color:#373D41">&nbsp;</span></p>
+<p style=";margin-bottom:0;line-height:24px;background:white"><strong><span style="font-size: 14px;font-family: microsoft yahei;color: rgb(102, 102, 102)">[Influence Range]</span></strong></p>
+<p style=";margin-bottom:0;line-height:24px;background:white"><span style="font-size:14px;font-family:&#39;microsoft yahei&#39;,&#39;serif&#39;;color:#373D41">
+ThinkPHP 5.0 Series &lt; 5.0.23
+</span></p>
+<p style=";margin-bottom:0;line-height:24px;background:white"><span style="font-size:14px;font-family:&#39;microsoft yahei&#39;,&#39;serif&#39;;color:#373D41">
+ThinkPHP 5.1 Series &lt; 5.1.31&nbsp;
+</span></p>
+<p style=";margin-bottom:0;line-height:24px;background:white"><span style="font-size:14px;font-family:&#39;microsoft yahei&#39;,&#39;serif&#39;;color:#373D41">&nbsp;</span></p>
+<p style=";margin-bottom:0;line-height:24px;background:white"><strong><span style="font-size: 14px;font-family: microsoft yahei;color: rgb(102, 102, 102)">[Repair suggestion]</span></strong></p>
+<p style=";margin-bottom:0;line-height:24px;background:white"><span style="font-size:14px;font-family:&#39;microsoft yahei&#39;,&#39;serif&#39;;color:#373D41">
+Upgrade ThinkPHP to a security version &nbsp;
+</span></p>
+<p style=";margin-bottom:0;line-height:24px;background:white"><span style="font-size:14px;font-family:&#39;microsoft yahei&#39;,&#39;serif&#39;;color:#373D41">&nbsp;</span></p>
+<p style=";margin-bottom:0;line-height:24px;background:white"><strong><span style="font-size: 14px;font-family: microsoft yahei;color: rgb(102, 102, 102)">[Mitigation Suggestion]</span></strong></p>
+<p style=";margin-bottom:0;line-height:24px;background:white"><span style="font-size:14px;font-family:&#39;microsoft yahei&#39;,&#39;serif&#39;;color:#373D41">
+If it is unable to update to the latest version now, please enable the mandatory routing and add corresponding undefined routing or add relevant codes by referring to commit.
+</span></p>
+<p style=";margin-bottom:0;line-height:24px;background:white"><span style="font-size:14px;font-family:&#39;microsoft yahei&#39;,&#39;serif&#39;;color:#373D41">&nbsp;</span></p>
+<p style=";margin-bottom:0;line-height:24px;background:white"><strong><span style="font-size: 14px;font-family: microsoft yahei;color: rgb(102, 102, 102)">[Reference Link]</span></strong></p>
+<p style=";margin-bottom:0;line-height:24px;background:white"><span style="font-size:14px;font-family:&#39;microsoft yahei&#39;,&#39;serif&#39;;color:#373D41">
+<a href="https://blog.thinkphp.cn/869075" target="_blank">https://blog.thinkphp.cn/869075</a>
+</span>
+</p>

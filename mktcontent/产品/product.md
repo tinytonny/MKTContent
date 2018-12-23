@@ -256,6 +256,10 @@
 		"id":1143
 	},
 	{
+		"name":"Resource Orchestration",
+		"id":1144
+	},
+	{
 		"name":"Key Management Service",
 		"id":1158
 	}
