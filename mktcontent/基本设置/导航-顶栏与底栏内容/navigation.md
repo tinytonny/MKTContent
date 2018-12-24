@@ -1541,27 +1541,27 @@
 	},
 	{
 		"name":"Website Acceleration",
-		"description":"提供高可用性、安全可靠、秒级加载的静态页面加速服务",
+		"description":"Provide Website Acceleration service of high availability, safety, reliability and second-level load acceleration",
 		"id":3047
 	},
 	{
 		"name":"Video Acceleration",
-		"description":"提供成熟稳定、多场景覆盖的视频点播加速服务",
+		"description":"Provide Video Acceleration service with maturity, stability and multi-scenario coverage",
 		"id":3048
 	},
 	{
 		"name":"Live Acceleration",
-		"description":"提供从推流、转码、分发到播放的一站式直播加速服务",
+		"description":"Provide Live Acceleration service from pushing streaming, transcoding, and distributing to playing",
 		"id":3049
 	},
 	{
 		"name":"Download Acceleration",
-		"description":"提供精准调度，海量空间，流畅承接的下载加速服务",
+		"description":"Provide Download Acceleration service with accurate scheduling and massive space and fluently take over the download acceleration service",
 		"id":3050
 	},
 	{
 		"name":"CDN Edge Computing",
-		"description":"提供开放的运行环境，业务下沉至边缘的计算能力",
+		"description":"Provide CDN Edge Computing service by virtue of open running environment",
 		"id":3051
 	},
 	{
@@ -1571,7 +1571,7 @@
 	},
 	{
 		"name":"JDFusion",
-		"description":"提供公有云、私有云、混合云基础设施资源整合管理",
+		"description":"Provide infrastructure resource integration management over public cloud, private cloud and hybrid cloud",
 		"id":3053
 	},
 	{
@@ -1581,7 +1581,7 @@
 	},
 	{
 		"name":"Audit Trail",
-		"description":"记录账号对各类 API 调用记录，提供操作记录查询。",
+		"description":"Record calling records of various types of APIs by the account and provide operation record query.",
 		"id":3056
 	},
 	{
