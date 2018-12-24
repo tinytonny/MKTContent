@@ -1533,5 +1533,70 @@
 		"name":"Internet Finance Security Solution",
 		"description":"",
 		"id":3045
+	},
+	{
+		"name":"CDN",
+		"description":"",
+		"id":3046
+	},
+	{
+		"name":"Website Acceleration",
+		"description":"提供高可用性、安全可靠、秒级加载的静态页面加速服务",
+		"id":3047
+	},
+	{
+		"name":"Video Acceleration",
+		"description":"提供成熟稳定、多场景覆盖的视频点播加速服务",
+		"id":3048
+	},
+	{
+		"name":"Live Acceleration",
+		"description":"提供从推流、转码、分发到播放的一站式直播加速服务",
+		"id":3049
+	},
+	{
+		"name":"Download Acceleration",
+		"description":"提供精准调度，海量空间，流畅承接的下载加速服务",
+		"id":3050
+	},
+	{
+		"name":"CDN Edge Computing",
+		"description":"提供开放的运行环境，业务下沉至边缘的计算能力",
+		"id":3051
+	},
+	{
+		"name":"Hybrid Cloud",
+		"description":"",
+		"id":3052
+	},
+	{
+		"name":"JDFusion",
+		"description":"提供公有云、私有云、混合云基础设施资源整合管理",
+		"id":3053
+	},
+	{
+		"name":"Contract Management",
+		"description":"//www.jdcloud.com/products/contract-application-process",
+		"id":3054
+	},
+	{
+		"name":"Audit Trail",
+		"description":"记录账号对各类 API 调用记录，提供操作记录查询。",
+		"id":3056
+	},
+	{
+		"name":"Cloud Communication",
+		"description":"",
+		"id":3057
+	},
+	{
+		"name":"Text Message",
+		"description":"",
+		"id":3058
+	},
+	{
+		"name":"PLUS Smart SMS",
+		"description":"",
+		"id":3059
 	}
 ]
