@@ -1116,5 +1116,10 @@
 		"summary":"",
 		"name":"CodeDeploy",
 		"id":3162
+	},
+	{
+		"summary":"",
+		"name":"CodePipeline",
+		"id":3164
 	}
 ]
