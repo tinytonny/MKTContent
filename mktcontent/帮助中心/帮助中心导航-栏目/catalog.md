@@ -1111,5 +1111,10 @@
 		"summary":"",
 		"name":"Contract Management",
 		"id":3156
+	},
+	{
+		"summary":"",
+		"name":"CodeDeploy",
+		"id":3162
 	}
 ]
