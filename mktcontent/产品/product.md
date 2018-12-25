@@ -260,7 +260,15 @@
 		"id":1144
 	},
 	{
+		"name":"Log Service",
+		"id":1157
+	},
+	{
 		"name":"Key Management Service",
 		"id":1158
+	},
+	{
+		"name":"CodeDeploy",
+		"id":1159
 	}
 ]

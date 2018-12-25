@@ -230,5 +230,9 @@
 	{
 		"id":574,
 		"title":"Service Upgrade Notice on Elastic Compute and Network in cn-east-1 and cn-north-1"
+	},
+	{
+		"id":575,
+		"title":"Upgrade Notice on Native Container Instance, Pod and Secrets in cn-south-1 Region"
 	}
 ]

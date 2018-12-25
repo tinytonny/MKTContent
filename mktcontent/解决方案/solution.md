@@ -110,5 +110,9 @@
 	{
 		"name":"County-level Cloud",
 		"id":79
+	},
+	{
+		"name":"Internet Finance Security Solutions",
+		"id":82
 	}
 ]
