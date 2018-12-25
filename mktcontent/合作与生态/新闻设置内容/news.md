@@ -414,5 +414,37 @@
 		"jss_key":"News_Content_406",
 		"id":406,
 		"news_title":"京东云刘子豪：MarTech是CMO实现市场增长的利器"
+	},
+	{
+		"summary":"京东云与天津市统计局战略合作签约仪式在天津举行。",
+		"image_url":"//img1.jcloudcs.com/cms/ee4d7eb4-d8b6-4e3c-aa08-278e3914d8e920181221160936.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_407",
+		"jss_key":"News_Content_407",
+		"id":407,
+		"news_title":"津·云携手 探索统计大数据新领域"
+	},
+	{
+		"summary":"京东云宣布，已与国内知名的游戏平台——9377游戏达成全面合作协议。",
+		"image_url":"//img1.jcloudcs.com/cms/913839dd-73f7-43fa-9314-aec835436dd820181221162603.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_408",
+		"jss_key":"News_Content_408",
+		"id":408,
+		"news_title":"向游戏产业输出技术服务  京东云与9377达成战略合作"
+	},
+	{
+		"summary":"2018安全可控技术应用推进大会”在北京举行，京东云作为受邀企业，旗下“京东云JDStack专有云”产品荣获“2017-2018年度安全可控优秀解决方案”奖项。",
+		"image_url":"//img1.jcloudcs.com/cms/46cf759a-5ef3-4cd9-a0e4-c0f069db053520181221163510.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_409",
+		"jss_key":"News_Content_409",
+		"id":409,
+		"news_title":"京东云JDStack荣获 “安全可控优秀解决方案奖”"
+	},
+	{
+		"summary":"由京东云与十堰市人民政府共同主办的2018中国（十堰）绿松石产业峰会暨开园仪式在十堰市成功举办。",
+		"image_url":"//img1.jcloudcs.com/cms/37517aab-500e-45ee-9f0d-a230309fe34220181224150727.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_410",
+		"jss_key":"News_Content_410",
+		"id":410,
+		"news_title":"京东云对接绿松石，十堰玩转云端上的珠宝时尚"
 	}
 ]
