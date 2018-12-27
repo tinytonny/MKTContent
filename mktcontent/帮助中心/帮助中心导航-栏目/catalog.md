@@ -1131,5 +1131,10 @@
 		"summary":"",
 		"name":"JDFusion",
 		"id":3166
+	},
+	{
+		"summary":"",
+		"name":"JD Distributed Service Framework",
+		"id":3169
 	}
 ]
