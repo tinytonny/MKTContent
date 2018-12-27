@@ -796,5 +796,10 @@
 		"description":"Column-oriented distributed database based on Hadoop, which is 100% compatible with the HBase Protocol and has high performance and auto scaling",
 		"id":1336,
 		"button_title":""
+	},
+	{
+		"name":"Key Management Service",
+		"description":"Make Keys safer, convenient and controllable",
+		"id":1338
 	}
 ]
