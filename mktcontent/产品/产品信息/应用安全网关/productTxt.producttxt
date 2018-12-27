@@ -12,7 +12,7 @@
 		"id":182
 	},
 	{
-		"txt":"[{\"picUrl\":\"//img1.jcloudcs.com/en/c7a75244-9169-43a6-9059-70ff4240947920180413181942.png\",\"buttons\":{\"classTag\":\"\",\"name\":\"\",\"link\":\"\"},\"instruction\":\"Application Security Gateway can associate EIP's Load Balancer and the Load Balancer in VPC for collaborative work. Therefore, it can defend the Internet attack and internal attack from VPC.\",\"selectedProduct\":[],\"name\":\"Defensive Deployment Scheme with High Flexibility\"}]",
+		"txt":"[{\"instruction\":\"Application Security Gateway can associate EIP's Load Balancer and the Load Balancer in VPC for collaborative work. Therefore, it can defend the Internet attack and internal attack from VPC.\",\"name\":\"Defensive Deployment Scheme with High Flexibility\",\"picUrl\":\"//img1.jcloudcs.com/cms/c7a75244-9169-43a6-9059-70ff4240947920180413181942.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]",
 		"id":183
 	},
 	{

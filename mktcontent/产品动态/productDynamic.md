@@ -150,9 +150,9 @@
 		"id":25
 	},
 	{
-		"introduce":"Support users to uniformly manage jmr computing resources through console",
+		"introduce":"Support users to uniformly manage JMR computing resources through console",
 		"name":"Resource Management",
-		"description":"Support users to uniformly manage jmr computing resources through console",
+		"description":"Support users to uniformly manage JMR computing resources through console",
 		"id":26
 	},
 	{
@@ -403,8 +403,8 @@
 	},
 	{
 		"introduce":"The users can apply for free open-beta test",
-		"name":"SQL Server service is online for open-beta test",
-		"description":"SQL Server service is online and publicly tested. Users can create and manage SQL Server’s instances, databases, accounts & permissions and backups AND can monitor the database in multiple dimensions.",
+		"name":"JCS for SQL Server is online for open-beta test",
+		"description":"JCS for SQL Server is online and publicly tested. Users can create and manage JCS for SQL Server’s instances, databases, accounts & permissions and backups AND can monitor the database in multiple dimensions.",
 		"id":75
 	},
 	{
@@ -486,7 +486,7 @@
 		"id":92
 	},
 	{
-		"introduce":"Cloud Database, such as MySQL service and SQL Server, etc. support the deployment in different availability zones",
+		"introduce":"Cloud Database, such as JCS for MySQL service and JCS for SQL Server, support the deployment in different availability zones",
 		"name":"Database’s and storage’s all products support the deployment in different availability zones",
 		"description":"Built on the basis of different data centers, the multi-availability zone of JD Cloud is a multi-availability zone which is really and completely isolated from power, network and other physical facilities, and thus can bear the fault at the computer-room level and further improve the high availability and high reliability.",
 		"id":93
@@ -510,9 +510,9 @@
 		"id":96
 	},
 	{
-		"introduce":"Cloud Redis adjust the settlement cycle to 1 hour according to the configured billing resource",
+		"introduce":"JCS for Redis adjust the settlement cycle to 1 hour according to the configured billing resource",
 		"name":"Settlement interval of the resources whose billing are calculated by configuration is adjusted",
-		"description":"Cloud Redis adjust the settlement cycle to 1 hour according to the configured billing resource",
+		"description":"JCS for Redis adjust the settlement cycle to 1 hour according to the configured billing resource",
 		"id":97
 	},
 	{
@@ -536,7 +536,7 @@
 	{
 		"introduce":"The Virtual Machines support the allocation/release of the auxiliary Private IP, and the auxiliary Private IP can associate the Elastic IP",
 		"name":"The Virtual Machines feature of single network interface with multi-IP is released",
-		"description":"Single NIC multiple IP is widely used in keep alived and secondary virtualization scenarios. Virtual Machines now support allocation/release of auxiliary private IP",
+		"description":"Single NIC multiple IP is widely used in keep alive and secondary virtualization scenarios. Virtual Machines now support allocation/release of auxiliary private IP",
 		"id":101
 	},
 	{
@@ -824,7 +824,7 @@
 	{
 		"introduce":"All regions gradually launch KMS service activated by genuine Windows Server",
 		"name":"WinServer KMS service is online",
-		"description":"Windows Server operating system supports KMS (Key Management Service) activation, Windows Server Virtual Mac hines legitimate activation is no longer dependent on public network, and it can still be activated when without associating EIP.",
+		"description":"Windows Server operating system supports KMS (Key Management Service) activation, Windows Server Virtual Machines legitimate activation is no longer dependent on public network, and it can still be activated when without associating EIP.",
 		"id":150
 	},
 	{
@@ -853,8 +853,8 @@
 	},
 	{
 		"introduce":"Powerful Database Engine with Compatibility to MySQL Protocol",
-		"name":"Percona is officially online",
-		"description":"The Cloud Database Percona is a stable and reliable database service built by JD Cloud on the basis of the open source Percona 5.7 version. Compared with traditional databases, the Cloud Database Percona is easy to deploy, manage and expand. By default, it supports the master-slave hot standby architecture and provides complete solutions for data backup, fault recovery, monitoring and etc. to completely solve the problem in the operation and maintenance of database.",
+		"name":"JCS for Percona is officially online",
+		"description":"JCS for Percona is a stable and reliable database service built by JD Cloud on the basis of the open source Percona 5.7 version. Compared with traditional databases, JCS for Percona is easy to deploy, manage and expand. By default, it supports the master-slave hot standby architecture and provides complete solutions for data backup, fault recovery, and monitoring to completely solve the problem in the operation and maintenance of database.",
 		"id":155
 	},
 	{
@@ -866,7 +866,7 @@
 	{
 		"introduce":"Support outer net’s access regarding Cloud Database",
 		"name":"Access of External Network",
-		"description":"If it required to connect the local database management software with the MySQL Service, you can open the external network's access of JCS for MySQL",
+		"description":"If it required to connect the local database management software with JCS for MySQL, you can open the external network's access of JCS for MySQL",
 		"id":157
 	},
 	{
@@ -877,7 +877,7 @@
 	},
 	{
 		"introduce":"Cloud Database’s backup can perform synchronization regarding the real-time backup in different places",
-		"name":"JCS for  MySQL Cross-regional backup can be synchronized",
+		"name":"JCS for MySQL Cross-regional backup can be synchronized",
 		"description":"Through cross-regional backup synchronization service, you can continuously back up the data in cloud database to a remote location and create new database instance based on backup data to meet the business scenarios such as remote backup for disaster recovery.",
 		"id":159
 	},
@@ -890,7 +890,7 @@
 	{
 		"introduce":"JCS for Kubernetes goes online and is opened for beta",
 		"name":"JCS for Kubernetes goes online and is opened for beta",
-		"description":"JCS for Kubernetes is officially launched in cn-south-1. The service adopts the management node full hosting mode to provide users with the simple, reliable and powerful container management service. The product is fully compatible with the standards of Kubernetes API, and integrated with JD Cloud network, storage and other plug-ins. JCS for Kubernetes simplifies the deployment and management of Kubernetes, reduces the use threshold of Kubernetes, enhances the reliability of applications, improves the efficiency of development and reduces the cost of resources.",
+		"description":"JCS for Kubernetes is officially launched in cn-south-1. The service adopts the management node full hosting mode to provide users with the simple, reliable and powerful container management service. The product is fully compatible with the standards of Kubernetes API, and integrated with JD Cloud network, storage and other plug-ins. JCS for Kubernetes simplifies the deployment and management of JCS for Kubernetes, reduces the use threshold of JCS for Kubernetes, enhances the reliability of applications, improves the efficiency of development and reduces the cost of resources.",
 		"id":162
 	},
 	{
@@ -902,7 +902,7 @@
 	{
 		"introduce":"Support outer net’s access regarding Cloud Database",
 		"name":"Access of External Network",
-		"description":"If it required to connect the local database management software with the Percona Service, you can open the external network's access of JCS for Percona.",
+		"description":"If it required to connect the local database management software with JCS for Percona, you can open the external network's access of JCS for Percona.",
 		"id":164
 	},
 	{
@@ -1016,11 +1016,11 @@
 	{
 		"introduce":"Add the Region cn-south-1",
 		"name":"Native Container is officially launched in cn-south-1",
-		"description":"The service is officially launched in the third region, cn-south-1, after being launched in cn-north-1 and cn-east-2.",
+		"description":"The service is officially launched in the third region, cn-south-1, after being launched in cn-north-1 and cn-east-2",
 		"id":2068
 	},
 	{
-		"introduce":"Add functions as domain name traffic inquiry by region operators, bandwidth traffic query via live domain name and support appname and strea.",
+		"introduce":"Add functions as domain name traffic inquiry by region operators, bandwidth traffic query via live domain name and support appname and strea",
 		"name":"CDN Live of OpenAPI Query Interface Optimization",
 		"description":"Add streaming name and releasing point bandwidth traffic, enrich detailed data interface by regional operators, increase live data interface dimension and meet the customer’s operation statistics requirements.",
 		"id":2069
@@ -1030,5 +1030,71 @@
 		"name":"Anti-DDoS Pro supports the protection for IPV6 address",
 		"description":"The Anti-DDoS Pro supports protection for addresses of IPV4 and IPV6 both. (Note: IPV6 protection is supported by China Telecom Line only and IPV6 address is not supported by back-to-origin IP temporarily. Upgrade purchased instances to IPV6 is not supported.)",
 		"id":2070
+	},
+	{
+		"introduce":"Cloud Disk Used as System Disk in Virtual Machines",
+		"name":"Cloud Disk Used as System Disk in Virtual Machines",
+		"description":"The cloud disk can be used as the system disk of users’ Virtual Machines and the capacity can be set according to the needs, with functions such as increment snapshot and cross-regional reproduction.",
+		"id":2077
+	},
+	{
+		"introduce":"The access to console for deploying JCS for Kubernetes applications is provided",
+		"name":"New Console Dashboard of JCS for Kubernetes",
+		"description":"You can operate through the Console Dashboard to deploy the four frequently-used resources, such as Deployment, Pod, Service and ConfigMap, in JCS for Kubernetes, so as to simplify the deployment processes by users.",
+		"id":2078
+	},
+	{
+		"introduce":"The CodeBuild product completes the Beta and is officially released",
+		"name":"CodeBuild  Official Release",
+		"description":"The CodeBuild service provides developers with a container-based automated continuous integration service. It supports constructing environment in multiple languages, constructing output support package/image, and viewing construction results and logs. Compilation construction implements containerization isolation, supporting customized construction container. It provides upstream basic services for the continuous product integration and improves the R&D efficiency.",
+		"id":2079
+	},
+	{
+		"introduce":"Native Container adds the product type Pod and open three regions: cn-north-1, cn-east-2 and cn-south-1",
+		"name":"Native Container Pod Beta Launches",
+		"description":"It is compatible with Kubernetes Pod definition and it is a container with multiple sharing kernels, networks, file systems encapsulated in one Pod; it provides heath check and is a container configuring container liveness probe and restarting detection failure for Native Container Pod; it supports configuration of readiness probe and reporting detection status in real time; it is compatible with Kubernetes and implement the creation of Kubernetes resource based on Native Container Pod in the JCS for Kubernetes",
+		"id":2080
+	},
+	{
+		"introduce":"CDN Live Rich Remote Authentication Function",
+		"name":"CDN Live Rich Remote Authentication Function",
+		"description":"For the pushing streaming and playing, CDN will pass through the request of the user to the authentication server of the customer to request to check the legality of user identity.",
+		"id":2081
+	},
+	{
+		"introduce":"Anti-DDoS Pro  Add SSL Certificate Management",
+		"name":"Anti-DDoS Pro  Add SSL Certificate Management",
+		"description":"The \"Certificate Management\" menu is added to support unified upload and management of certificates in Anti-DDoS Pro. The domain in the web service forwarding rules can directly refer to the uploaded certificate in Anti-DDoS Pro certificate management thus to solve the problems of necessary individual upload of certificates and repeated operations where there are multiple domains.",
+		"id":2082
+	},
+	{
+		"introduce":"Support customized ports; customize domain back-to-origin host",
+		"name":"Back-to-origin Configuration of CDN Upgrade",
+		"description":"It supports to customize back-to-origin IP and back-to-origin domain when a domain is added; back-to-origin domains can be corresponding to different back-to-origin host",
+		"id":2083
+	},
+	{
+		"introduce":"Anti-DDoS Protection Package  Beta Ends and Officially Released",
+		"name":"Anti-DDoS Protection Package  Official Release",
+		"description":"Anti-DDoS Protection Package is a product that improves Anti-DDoS attack capability for users who deploy businesses in JD Cloud. It has the features that the configuration is simple, EIP is free from switching, the protection capability comes into force upon purchase, and the protection target can be flexibly replaced. It supports smooth upgrade of Anti-DDoS capacity for multiple businesses in JD Cloud and effectively guarantees network security of business.",
+		"id":2084
+	},
+	{
+		"introduce":"Log Service open Beta. Users can apply for joining the Beta",
+		"name":"Log Service  Open Beta",
+		"description":"Log Service is a one-stop log service platform provided by JD Cloud. It provides real-time log collection, log storage, log retrieval, intelligent analysis and other functions to help users solve business operation, workload monitoring, log analysis and other problems through logs.",
+		"id":2085
+	},
+	{
+		"introduce":"CodeDeploy open Beta. Users can apply for joining the Beta",
+		"name":"CodeDeploy  Open Beta",
+		"description":"CodeDeploy is a strong tool with various types and modes of deployment. Using CodeDeploy makes you easily deploy the program package to JD Cloud Virtual Machines. Moreover, CodeDeploy can support multiple deployment policies and configurations in a flexible way and link with products such as Load Balancer and Availability Group to implement the cloud deployment.",
+		"id":2086
+	},
+	{
+		"introduce":"Electronic Contract Management is officially released. Customers can apply for and sign the electronic contract on line.",
+		"name":"Electronic Contract Management  Official Release",
+		"description":"New contract management function is added. Customers can apply for and sign the electronic contract on line. Mange and view contracts at any time in console. It supports on-line application for paper contracts with physical seals thus to simplify the contract signing process and manual operation costs.",
+		"id":2087
 	}
 ]

@@ -1,18 +1,18 @@
 [
 	{
 		"txt":"{\"instruction\":[],\"imageUrl\":\"//img1.jcloudcs.com/cms/c858ab36-d675-445f-94e8-eae42c01364020180419123725.jpg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|71\",\"iconUrl\":\"\",\"label\":[{\"TitleName\":\"Try Now\",\"TitleUrl\":\"https://console.jdcloud.com/host/compute/list?dataCenter=cn-north-1\"}],\"sectionClstag\":\"Products|keycount|SectionBannerSec|71\",\"desc\":\"Through the NAT Gateway, an egress connecting the VPC and the Internet can be built. Users can customize SNAT and configure rules flexibly to realize sharing of the public network bandwidth by multiple instances.\"}",
-		"id":189
+		"id":"189"
 	},
 	{
 		"txt":"[{\"proGood\":\"Resource Saving\",\"proName\":\"Multiple intranet instances can access to the Internet via a public IP, sharing the public network bandwidth.\"},{\"proGood\":\"Simple and User-friendly\",\"proName\":\"The users can create a NAT Gateway by themselves via a Virtual Machine and configure rules flexibly. It is easy to operate..\"},{\"proGood\":\"Cost Saving\",\"proName\":\"Currently, when creating a NAT Gateway via a Virtual Machine, the users only need to pay for the Virtual Machines and EIP cost; the NAT Gateway is free of charge.\"}]",
-		"id":190
+		"id":"190"
 	},
 	{
 		"txt":"[{\"funcContent\":[{\"funcP\":\"Multiple intranet instances can connect to the Internet through a public IP, sharing bandwidth.\",\"funcTitle\":\"Share Public Network Bandwidth through SNAT\"}],\"funcName\":\"Bandwidth Sharing\"},{\"funcContent\":[{\"funcP\":\"Convert a private IP to a public IP to conceal the private network structure. Users can enjoy greater security.\",\"funcTitle\":\"Conceal Private IP through NAT Address Translation \"}],\"funcName\":\"Security Assurance\"},{\"funcContent\":[{\"funcP\":\"The users can configure CIDR of any network segment within the Virtual Private Cloud (not the subnet where the NAT Gateway is located).\",\"funcTitle\":\"Support Fine-grained CIDR to Achieve Flexible Configuration of Gateway Policies\"}],\"funcName\":\"Flexible Configuration\"}]",
-		"id":191
+		"id":"191"
 	},
 	{
-		"txt":"[{\"picUrl\":\"//img1.jcloudcs.com/en/1c798f30-b8ba-438c-9a87-2e981d48877820180413165456.png\",\"instruction\":\"If users have several Virtual Machines demanding Internet access, self-built SNAT can be used to for the Virtual Machines to share IP bandwidth.\",\"selectedProduct\":[],\"name\":\"Access to Public IP shared by Multiple Virtual Machines\",\"langId\":175}]",
-		"id":192
+		"txt":"[{\"instruction\":\"If users have several Virtual Machines demanding Internet access, self-built SNAT can be used to for the Virtual Machines to share IP bandwidth.\",\"langId\":175,\"name\":\"Access to Public IP shared by Multiple Virtual Machines\",\"picUrl\":\"http://jdcloud-portal.oss.cn-north-1.jcloudcs.com/en/1c798f30-b8ba-438c-9a87-2e981d48877820180413165456.png\",\"selectedProduct\":[]}]",
+		"id":"192"
 	}
 ]

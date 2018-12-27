@@ -1,14 +1,14 @@
 [
 	{
 		"txt":"{\"instruction\":[],\"imageUrl\":\"//img1.jcloudcs.com/cms/9a185019-e27f-4113-bff5-ef85e87d271820170525101227.png\",\"middleClstag\":\"Products|keycount|MiddleContentSec|51\",\"iconUrl\":\"\",\"label\":[{\"TitleName\":\"Please wait!\",\"TitleUrl\":\"#\"}],\"sectionClstag\":\"Products|keycount|SectionBannerSec|51\",\"desc\":\"Computing Master is a data analysis service based on user behavior. It supports multiple data access modes for comprehensive and real-time analysis of user behavior data to truly realize the growth of data-driven users and revenue.\"}",
-		"id":125
+		"id":"125"
 	},
 	{
 		"txt":"[{\"proGood\":\"Comprehensive Indexes\",\"proName\":\"It covers various indicators of user behavior and classifies them according to the characteristics of the indicators.\"},{\"proGood\":\"Multiple Dimensions\",\"proName\":\"Besides multi-dimension aggregate data, you can search more fine-grained data.\"},{\"proGood\":\"High Customization\",\"proName\":\"A number of customized settings can be set as needed, including display indicators, funnels and page group rules etc.\"}]",
-		"id":126
+		"id":"126"
 	},
 	{
 		"txt":"[{\"funcContent\":[{\"funcP\":\"Rationally configure tracking events and attributes based on product characteristics, powerful screening, grouping, and aggregation capabilities.\",\"funcTitle\":\"Real-time tracking of user behaviors such as registration, browsing, and payment\"}],\"funcName\":\"Analysis of Event\"},{\"funcContent\":[{\"funcP\":\"Carrying out modeling analysis to active customer status, while supporting retention analysis both for time and non-time dimensions.\",\"funcTitle\":\"Analyze the value retention of users\"}],\"funcName\":\"Analysis of Retention\"},{\"funcContent\":[{\"funcP\":\"Support query to browse each user's attribute information, behavior track and specific operations.\",\"funcTitle\":\"Free query the required user’s behavior details\"}],\"funcName\":\"Self-service Enquiry\"}]",
-		"id":127
+		"id":"127"
 	}
 ]

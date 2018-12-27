@@ -32,10 +32,6 @@
 		"id":15
 	},
 	{
-		"name":"Government Cloud",
-		"id":16
-	},
-	{
 		"name":"Industry Innovation",
 		"id":20
 	},
