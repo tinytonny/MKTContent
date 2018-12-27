@@ -1598,5 +1598,10 @@
 		"name":"PLUS Smart SMS",
 		"description":"",
 		"id":3059
+	},
+	{
+		"name":"JDCloud Brain",
+		"description":"",
+		"id":3062
 	}
 ]
