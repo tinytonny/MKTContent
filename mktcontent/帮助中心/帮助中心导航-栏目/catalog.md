@@ -1106,5 +1106,20 @@
 		"summary":"",
 		"name":"流水线",
 		"id":3164
+	},
+	{
+		"summary":"",
+		"name":"混合云",
+		"id":3165
+	},
+	{
+		"summary":"",
+		"name":"JDFusion",
+		"id":3166
+	},
+	{
+		"summary":"",
+		"name":"分布式服务框架",
+		"id":3169
 	}
 ]
