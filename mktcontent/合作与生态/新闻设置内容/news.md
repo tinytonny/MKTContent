@@ -446,5 +446,13 @@
 		"jss_key":"News_Content_410",
 		"id":410,
 		"news_title":"京东云对接绿松石，十堰玩转云端上的珠宝时尚"
+	},
+	{
+		"summary":"云起鹤壁，数聚中原。12月21日，“2018鹤壁新经济产业发展大会暨京东云（鹤壁）数字经济产业园开园仪式”在鹤壁市举行。",
+		"image_url":"//img1.jcloudcs.com/cms/481f19b2-4ed8-47cd-a40b-765a0f8b5dbe20181224160254.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_411",
+		"jss_key":"News_Content_411",
+		"id":411,
+		"news_title":"京东云（鹤壁）数字经济产业园启动"
 	}
 ]
