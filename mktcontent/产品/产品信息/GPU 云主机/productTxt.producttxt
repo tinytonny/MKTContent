@@ -12,7 +12,7 @@
 		"id":73
 	},
 	{
-		"txt":"[{\"instruction\":\"JD Cloud GPU Virtual Machines is committed to speeding up large-scale artificial intelligence application programs, and providing excellent user experience. It was especially forged to provide extra-large throughput necessary for processing of explosive data bulk. You can build artificial intelligence platforms based on GPU VM for model training or online prediction.\\n\",\"name\":\"AI\",\"picUrl\":\"//img1.jcloudcs.com/cms/57be5a5c-044d-455c-b4b8-58d78f88b68c20181011114058.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"JD Cloud GPU Virtual Machines provides the high-performance computing power required for rendering, enabling online graphics rendering processing, greatly shortening the production cycle and improving overall efficiency.\",\"name\":\"Image Rendering\",\"picUrl\":\"//img1.jcloudcs.com/cms/75131dbe-2ec2-4a75-8f7b-5ffba4507f2620181011114042.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false}]",
+		"txt":"[{\"picUrl\":\"//img1.jcloudcs.com/en/57be5a5c-044d-455c-b4b8-58d78f88b68c20181011114058.png\",\"buttons\":{\"classTag\":\"\",\"name\":\"\",\"link\":\"\"},\"instruction\":\"JD Cloud GPU Virtual Machines is committed to speeding up large-scale artificial intelligence application programs, and providing excellent user experience. It was especially forged to provide extra-large throughput necessary for processing of explosive data bulk. You can build artificial intelligence platforms based on GPU VM for model training or online prediction.\\n\",\"selectedProduct\":[],\"name\":\"AI\",\"showShade\":false},{\"picUrl\":\"//img1.jcloudcs.com/en/75131dbe-2ec2-4a75-8f7b-5ffba4507f2620181011114042.png\",\"buttons\":{\"classTag\":\"\",\"name\":\"\",\"link\":\"\"},\"instruction\":\"JD Cloud GPU Virtual Machines provides the high-performance computing power required for rendering, enabling online graphics rendering processing, greatly shortening the production cycle and improving overall efficiency.\",\"selectedProduct\":[],\"name\":\"Image Rendering\",\"showShade\":false}]",
 		"id":74
 	},
 	{
@@ -20,7 +20,7 @@
 		"id":75
 	},
 	{
-		"txt":"[{\"name\":\"GPU VM Instance Type Family\",\"link\":\"https://docs.jdcloud.com/cn/virtual-machines/instance-type-family#user-content-6\",\"classTag\":\"\"},{\"name\":\"Drive Download and Install\",\"link\":\"https://docs.jdcloud.com/cn/virtual-machines/gpu-vm\",\"classTag\":\"\"},{\"name\":\"How to view local disk data\",\"link\":\"https://docs.jdcloud.com/cn/virtual-machines/identify-local-data-disk\",\"classTag\":\"\"}]",
+		"txt":"[{\"classTag\":\"\",\"name\":\"GPU VM Instance Type Family\",\"link\":\"https://docs.jdcloud.com/en/virtual-machines/instance-type-family#user-content-6\"},{\"classTag\":\"\",\"name\":\"Drive Download and Install\",\"link\":\"https://docs.jdcloud.com/en/virtual-machines/gpu-vm\"},{\"classTag\":\"\",\"name\":\"How to view local disk data\",\"link\":\"https://docs.jdcloud.com/en/virtual-machines/identify-local-data-disk\"}]",
 		"id":721
 	}
 ]
