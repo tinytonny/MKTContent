@@ -1190,7 +1190,7 @@
 		"id":418
 	},
 	{
-		"name":"JD Cloud Industry Innovation Center",
+		"name":"Empower Introduction",
 		"description":"",
 		"id":419
 	},
