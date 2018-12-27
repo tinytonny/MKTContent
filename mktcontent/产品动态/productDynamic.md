@@ -1120,5 +1120,23 @@
 		"name":"分布式关系型数据库DRDS 正式发布",
 		"description":"DRDS是京东云精心自研的数据库中间件产品，可实现海量数据下的自动分库分表，具有高性能，分布式，弹性升级，兼容MySQL等优点，适用于高并发、大规模数据的在线交易，历史数据查询，自动数据分片等业务场景，历经多次618，双十一的考验，已经在京东集团内大规模使用。",
 		"id":2091
+	},
+	{
+		"introduce":"HTTPDNS开放公测，用户可以申请参与公测",
+		"name":"HTTPDNS 开放公测",
+		"description":"采用HTTP协议，替代基于UDP的DNS协议，可以绕过传统Local DNS，能够有效避免Local DNS不可靠导致的域名劫持、生效缓慢、来源IP不准确等问题。",
+		"id":2092
+	},
+	{
+		"introduce":"JDFusion开放公测，用户可以申请参与公测",
+		"name":"JDFusion 开放公测",
+		"description":"JDFusion融合云提供对公有云、私有云、混合云整合管理，提供多种基础设施资源整合，跨平台融合编排，多租户访问，助力企业在异构云平台间快速部署，数据迁移，高效运维，整体提升业务的稳定性、灵活性。",
+		"id":2093
+	},
+	{
+		"introduce":"云搜索 Elasticsearch正式发布",
+		"name":"云搜索 Elasticsearch 正式发布",
+		"description":"京东云搜索Elasticsearch（JCS for Elasticsearch，简称ES）是基于开源Elasticsearch的分布式全文搜索服务，产品提供高可用、易扩展以及近实时的搜索能力，致力于海量数据存储搜索和实时日志分析，旨在为用户提供更稳定、实时、可靠的云搜索服务。",
+		"id":2094
 	}
 ]
