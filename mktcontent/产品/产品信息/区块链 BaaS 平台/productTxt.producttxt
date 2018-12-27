@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"imageUrl\":\"//img1.jcloudcs.com/cms/89055dd5-5eed-44d1-9e56-36aa9bdec19e20180809121801.jpg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|88\",\"iconUrl\":\"\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|88\",\"desc\":\"It provides comprehensive block-chain-as-a-service capability from the enterprise and developer perspective, provides multiple deployment forms which are flexible and easy-to-use, and provides a highly reliable and scalable block chain platform based on the popular kubernetes technology.\"}",
+		"id":254
+	},
+	{
+		"txt":"[{\"proGood\":\"Platform Enabling\",\"proName\":\"Based on the technology accumulation of JD over years, various block chain contract templates and rich open feature interfaces are provided to meet the needs of different enterprises and different scenarios.\"},{\"proGood\":\"Security and Reliability\",\"proName\":\"The enterprise can provide the cluster and storage environments and build the baas platform, and the data are exclusively owned by the enterprise and the data security problem can be solved thoroughly.\"},{\"proGood\":\"Flexible and User-friendly\",\"proName\":\"The one-click deployment feature suitable for developers is provided for easy customization of underlying block chain and sample application; the cross-platform linking feature suitable for enterprise-class linking is provided for the purposes of safety and convenience.\"},{\"proGood\":\"Cross-link Transaction\",\"proName\":\"The transparency management of enterprise certificate can be achieved through the identity chain, and the enterprise node data can be completely trusted after signing and can provide the guarantee for data transaction and opening of interface.\"}]",
+		"id":255
+	},
+	{
+		"txt":"[{\"funcContent\":[{\"funcP\":\"Pre-fabricate multiple sets of templates and configure flexibly. One-click to create customized block chain network, shortening deployment time\",\"funcTitle\":\"Quick Deployment\"},{\"funcP\":\"With the Kubernetes management cluster, it is possible to carry out the monitoring from physical machine, block chain bottom and other multiple dimensions, presetting the threshold value, and automatically giving alarms\",\"funcTitle\":\"Monitoring\"}],\"funcName\":\"Operation and Maintenance\"},{\"funcContent\":[{\"funcP\":\"Enterprise-level block chain network deployment relies on identity chain to provide trusted identity, and it is easy to implement multiple organizations to build block chain network across domains, which is easy to use, secure and trustworthy\",\"funcTitle\":\"Enterprise Networking\"},{\"funcP\":\"Identity authentication system based on block chain for endorsing of all users and block chain nodes and decentralized management of baas network users\",\"funcTitle\":\"Identity Chain\"},{\"funcP\":\"Support underlying of multiple block chain to provide friendly and easy-to-use service components\",\"funcTitle\":\"Multiple Underlying Support\"}],\"funcName\":\"Technical Skills\"},{\"funcContent\":[{\"funcP\":\"Providing app store for developers, the users can log in store to develop their own block chain services\",\"funcTitle\":\"Open Interface\"}],\"funcName\":\"System Integration\"}]",
+		"id":256
+	},
+	{
+		"txt":"[{\"instruction\":\"\",\"langId\":240,\"name\":\"\",\"picUrl\":\"\",\"selectedProduct\":[]},{\"instruction\":\"\",\"langId\":241,\"name\":\"\",\"picUrl\":\"\",\"selectedProduct\":[]}]",
+		"id":257
+	}
+]
