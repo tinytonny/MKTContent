@@ -1495,8 +1495,8 @@
 		"id":3035
 	},
 	{
-		"name":"分布式服务框架 JDSF",
-		"description":"",
+		"name":"分布式服务框架",
+		"description":"分布式服务框架是一个围绕应用和微服务的 PaaS 平台。",
 		"id":3042
 	},
 	{
@@ -1568,5 +1568,10 @@
 		"name":"PLUS 智能短信",
 		"description":"",
 		"id":3059
+	},
+	{
+		"name":"京东云脑",
+		"description":"",
+		"id":3062
 	}
 ]
