@@ -598,7 +598,7 @@
         "sub_title":"Committed to Massive Data Search and Analysis",
         "name":"JCS for Elasticsearch",
         "id":1031,
-        "button_title":"Start Free",
+        "button_title":"Buy Now",
         "main_title":"JCS for Elasticsearch"
     },
     {
