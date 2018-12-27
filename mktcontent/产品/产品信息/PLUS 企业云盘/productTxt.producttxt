@@ -12,7 +12,7 @@
 		"id":264
 	},
 	{
-		"txt":"[{\"instruction\":\"Unified and centralized data management; prevent data assets from losing; application and access right control; detail data report; low construction and maintenance costs;\",\"name\":\"Enterprise Management Demand\",\"picUrl\":\"//img1.jcloudcs.com/cms/b61ef7db-5788-403b-a0c5-19a559e0d1d520180816105149.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"Storage and backup of work results; access anytime, anywhere; quickly sharing information; intelligent and comprehensive search; simple and familiar operation;\",\"name\":\"Employee Application Demand\",\"picUrl\":\"//img1.jcloudcs.com/cms/9e286e2d-0ca9-4b16-ad35-c7f27d189db820180816105227.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false}]",
+		"txt":"[{\"picUrl\":\"//img1.jcloudcs.com/en/b61ef7db-5788-403b-a0c5-19a559e0d1d520180816105149.png\",\"buttons\":{\"classTag\":\"\",\"name\":\"\",\"link\":\"\"},\"instruction\":\"Unified and centralized data management; prevent data assets from losing; application and access right control; detail data report; low construction and maintenance costs;\",\"selectedProduct\":[],\"name\":\"Enterprise Management Demand\",\"showShade\":false},{\"picUrl\":\"//img1.jcloudcs.com/en/9e286e2d-0ca9-4b16-ad35-c7f27d189db820180816105227.png\",\"buttons\":{\"classTag\":\"\",\"name\":\"\",\"link\":\"\"},\"instruction\":\"Storage and backup of work results; access anytime, anywhere; quickly sharing information; intelligent and comprehensive search; simple and familiar operation;\",\"selectedProduct\":[],\"name\":\"Employee Application Demand\",\"showShade\":false}]",
 		"id":265
 	},
 	{
