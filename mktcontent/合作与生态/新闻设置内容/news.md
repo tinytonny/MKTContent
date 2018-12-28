@@ -454,5 +454,37 @@
 		"jss_key":"News_Content_411",
 		"id":411,
 		"news_title":"京东云（鹤壁）数字经济产业园启动"
+	},
+	{
+		"summary":"京东云今日宣布，日前，六间房完成了针对京东云CDN服务协议的全部质量审核，并正式签署了CDN服务采购协议。",
+		"image_url":"//img1.jcloudcs.com/cms/31927608-518f-4497-8ffd-555a30464ce120181227194014.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_412",
+		"jss_key":"News_Content_412",
+		"id":412,
+		"news_title":"技术赋能视频行业   京东云为六间房直播提供CDN服务"
+	},
+	{
+		"summary":"“京东新泰鲁中电商示范基地授牌发布会”在山东省新泰市隆重举行。",
+		"image_url":"//img1.jcloudcs.com/cms/7627ef71-ed37-4229-9484-50676232a0d120181227195144.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_413",
+		"jss_key":"News_Content_413",
+		"id":413,
+		"news_title":"引来“云助力” 新泰电商发展又添“奋进引擎”"
+	},
+	{
+		"summary":"古都西安插上了“数字经济的翅膀”。12月27日，恰逢贯通南北的西安地铁4号线的开通，“京东航天数字经济示范园“正式开园，开园仪式在西安市航天基地东长安街501号举行，这标志着西安大数据产业发展步入新的节点。",
+		"image_url":"//img1.jcloudcs.com/cms/f1110073-7617-4b7e-a57e-f5179018be3a20181227200941.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_414",
+		"jss_key":"News_Content_414",
+		"id":414,
+		"news_title":"京东航天数字经济示范园在西安启动"
+	},
+	{
+		"summary":"云聚产业，甜美怀化。12月27日，“2018怀化数字经济发展促进大会暨京东云（怀化）数字经济产业园开园仪式”在怀化市举行。",
+		"image_url":"//img1.jcloudcs.com/cms/53600cb0-32cc-46fb-b8c0-2b3a9cc5764d20181227204004.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_415",
+		"jss_key":"News_Content_415",
+		"id":415,
+		"news_title":"京东云（怀化）数字经济产业园启动"
 	}
 ]
