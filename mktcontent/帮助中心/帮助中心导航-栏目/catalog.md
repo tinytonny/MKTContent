@@ -1121,5 +1121,15 @@
 		"summary":"",
 		"name":"分布式服务框架",
 		"id":3169
+	},
+	{
+		"summary":"",
+		"name":"JDFusion",
+		"id":3172
+	},
+	{
+		"summary":"",
+		"name":"函数服务",
+		"id":3174
 	}
 ]
