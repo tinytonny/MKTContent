@@ -324,16 +324,16 @@
 		"button_title":"Sign Up Now"
 	},
 	{
-		"name":"The \"Internet +\" Telescope of JD Cloud Won the \"CES 2019 Innovation Award\" ",
-		"description":"An \"Internet +\" Telescope based on the cutting-edge technology of JD Cloud Computing, was included in the list of the CES 2019 Innovation Awards, winning the \"Innovative Product Award\". This \"funny thing\" enabled JD to have a good start at its first participation in CES Exhibition.",
+		"name":"JD Cloud Supports Xianyou County's Digital Economic Boom",
+		"description":"On Dec 15th, Jing Dong and the Xianyou County Government publicly announce the Beijing signing of a strategic collaboration to develop a Digital Economic Center with government endorsed decision making authority in Xianyou.",
 		"id":66,
-		"button_title":"Awards"
+		"button_title":"Strategy Cooperation"
 	},
 	{
-		"name":"JD Cloud Partnered with Synology",
-		"description":"JD Cloud declared its partnership with Synology. Both parties would release brand new solutions considering the trend of smart and secure storage, and create fast, secure, stable, low-cost remote backup, thus enabling users to simultaneously enjoy advantages of local storage performance and remote backup on cloud.",
+		"name":"Yunyi DevOps Honored as the \"Operation Industry's 2018 End of Year Celebrity Product\"",
+		"description":"JD Cloud's Yunyi DevOps was honored as the \"Operation Industry's 2018 End of Year Celebrity Product\" at the 2018 GOLF, the most important end of year convention in the Operations industry, signifying deep industry recognition for JD Cloud's technologies in the Operations front.",
 		"id":68,
-		"button_title":"Strategy Cooperation"
+		"button_title":"Awrads"
 	},
 	{
 		"name":"Virtual Private Cloud",
@@ -456,10 +456,10 @@
 		"button_title":"View Now"
 	},
 	{
-		"name":"JD Cloud CDN Partnered with iQIYI",
-		"description":"iQIYI and JD Cloud officially started their partnership on CDN service. JD Cloud agreed to provide technical service support for VOD product of iQIYI, making iQIYI another key video product service customer of JD Cloud within 1 month after JD Cloud winning the video business of Qihoo 360.",
+		"name":"MarTech is the CMO's Weapon For Market Conquest",
+		"description":"On Dec 18th, Dr. Leslie Liu, JD Group’s Corporate Vice President and Head of the JD Cloud Ecosystem was invited to the 2018 China AI Marketing Summit, hosted by IPinyou, to give the lecture \"Breathing Fire into Marketing through MarTech enabled by Digital Technologies\".",
 		"id":101,
-		"button_title":"Service Cooperation"
+		"button_title":"Speech"
 	},
 	{
 		"name":"Availability Group",
