@@ -1573,5 +1573,10 @@
 		"name":"京东云脑",
 		"description":"",
 		"id":3062
+	},
+	{
+		"name":"AI智慧门店解决方案",
+		"description":"",
+		"id":3063
 	}
 ]
