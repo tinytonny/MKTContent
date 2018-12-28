@@ -591,7 +591,7 @@
 		"sub_title":"致力于海量数据搜索与分析",
 		"name":"云搜索Elasticsearch",
 		"id":1031,
-		"button_title":"免费试用",
+		"button_title":"立即购买",
 		"main_title":"云搜索Elasticsearch"
 	},
 	{
