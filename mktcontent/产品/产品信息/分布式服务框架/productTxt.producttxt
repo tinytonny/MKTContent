@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"分布式服务框架 JDSF\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/jdsf\",\"classTag\":\"\"}],\"desc\":\"分布式服务框架（JDCloud Distributed Service Framework) 是一个围绕应用和微服务的 PaaS 平台。\"}",
+		"id":707
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"高可用全托管\",\"proName\":\"京东云分布式服务框架依托京东多可用区部署，服务跨可用区分布式部署。用户开通服务后，无需任何运维操作，即可享受跨机房的高可用性。\"},{\"showShade\":false,\"proGood\":\"调用可观察\",\"proName\":\"微服务调用图谱通过提供丰富的调用堆栈分析，使我们既能从宏观上观察业务关系及调用链整体特质，又能从微观上审视调用链上各环节的细节，结合多种分析手段，帮助用户全面掌握服务的调用情况。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"一站式方案\",\"proName\":\"服务框架与弹性部署，日志分析等系统深度集成，用户可以更加容易地处理服务的整个生命周期中的各种运维需求。\"}]",
+		"id":708
+	},
+	{
+		"txt":"[{\"funcName\":\"服务生命周期管理\",\"funcContent\":[{\"funcTitle\":\"服务生命周期管理\",\"funcP\":\"支持服务的部署、注册、发现、调用、鉴权、流控、日志等功能，基于这些功能可以更灵活的控制服务的整个服务过程。\"}]},{\"funcName\":\"服务监控\",\"funcContent\":[{\"funcTitle\":\"数据监控和调用量监控\",\"funcP\":\"数据监控和调用量监控相结合，让用户可以方便地了解各服务各个维度的调用数据，以及服务之间的相互调用关系和调用状况。\"}]},{\"funcName\":\"多框架兼容\",\"funcContent\":[{\"funcTitle\":\"拥抱开源\",\"funcP\":\"服务框架一期支持Spring Cloud框架，后期还会支持服务网格（Service Mesh）。\"}]}]",
+		"id":709
+	},
+	{
+		"txt":"[{\"name\":\"构建微服务系统\",\"instruction\":\"基于京东云分布式服务框架，可以很容易地将自身业务迁移到微服务框架上。服务框架提供的功能，使用户不用再关注服务框架实现和运维，可以完全专注在业务的设计和拆分上。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/2ce12a1d-d546-4586-8737-f443d45df9bf20181211120357.png\",\"showShade\":false},{\"name\":\"调用关系管理\",\"instruction\":\"对于大型分布式系统而言，梳理调用关系以及管理调用权限往往是非常复杂的。京东云分布式服务框架内置的调用链分析功能和服务鉴权机制，可以有效的帮助用户管理服务调用过程。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/13ecf7f7-647a-4994-bc14-50396ba37dbc20181211120424.png\",\"showShade\":false}]",
+		"id":710
+	}
+]
