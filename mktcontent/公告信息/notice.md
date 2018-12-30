@@ -234,5 +234,29 @@
 	{
 		"id":575,
 		"title":"Upgrade Notice on Native Container Instance, Pod and Secrets in cn-south-1 Region"
+	},
+	{
+		"id":579,
+		"title":"Official Launch of JD Cloud JCS for Elasticsearch"
+	},
+	{
+		"id":580,
+		"title":"Announcement on End of Beta and Official Launch of JCS for Memcached"
+	},
+	{
+		"id":581,
+		"title":"Announcement on Update of JD Cloud Privacy Policy"
+	},
+	{
+		"id":582,
+		"title":"Upgrade Notice on Elastic Compute and Network Service in cn-north-1 Region"
+	},
+	{
+		"id":583,
+		"title":"Upgrade Notice on Native Container Instance, Pod and Secrets in cn-east-2 Region"
+	},
+	{
+		"id":584,
+		"title":"Notice on Strengthening Compliance Supervision of Internet Service"
 	}
 ]

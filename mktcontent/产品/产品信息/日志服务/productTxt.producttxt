@@ -14,5 +14,9 @@
 	{
 		"txt":"[{\"name\":\"Background Operation and Maintenance Troubleshooting\",\"instruction\":\"The Log Service stores the system logs of the cloud products to the JD Cloud platform through the built-in collection plug-in, and automatically establishes full-text index and key value index. When processing background operation and maintenance troubleshooting, you can quickly find the problem log through full-text retrieval and key value retrieval, locate the cause of the problem, and improve the efficiency and accuracy of operation and maintenance.\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/cec7bf36-cf09-4b78-b1cc-e14618bbe2f920181127172205.png\",\"showShade\":false}]",
 		"id":679
+	},
+	{
+		"txt":"[{\"name\":\"1. How to configure log collection, do you need to install plug-ins?\",\"link\":\"https://docs.jdcloud.com/logservice/faq\",\"classTag\":\"\"},{\"name\":\"2. After deleting the resource, can you still view the log data of the resource?\",\"link\":\"https://docs.jdcloud.com/logservice/faq\",\"classTag\":\"\"},{\"name\":\"3. After deleting the log subject, can the log data still be viewed?\",\"link\":\"https://docs.jdcloud.com/logservice/faq\",\"classTag\":\"\"}]",
+		"id":771
 	}
 ]

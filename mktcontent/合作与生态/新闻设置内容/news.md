@@ -414,5 +414,37 @@
 		"jss_key":"News_Content_406",
 		"id":406,
 		"news_title":"Liu Zihao of JD Cloud represented that MarTech is the good tool for market growth of CMO"
+	},
+	{
+		"summary":"The Strategic Cooperation Signing Ceremony between JD Cloud and Tianjin Municipal Bureau of Statistics was held in Tianjin.",
+		"image_url":"//img1.jcloudcs.com/cms/ee4d7eb4-d8b6-4e3c-aa08-278e3914d8e920181221160936.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_407",
+		"jss_key":"News_Content_407",
+		"id":407,
+		"news_title":"Tianjin & JD Cloud Work Together to Explore Frontier of Statistical Big Data"
+	},
+	{
+		"summary":"JD Cloud announced that it has reached a comprehensive cooperation agreement with Game 9377, a well-known domestic game platform.",
+		"image_url":"//img1.jcloudcs.com/cms/913839dd-73f7-43fa-9314-aec835436dd820181221162603.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_408",
+		"jss_key":"News_Content_408",
+		"id":408,
+		"news_title":"Export Technical Service to Game Industry    JD Cloud Reached Strategic Cooperation with Game 9377"
+	},
+	{
+		"summary":"JD Cloud was invited to the 2018 Secure and Controllable Technology Application Promotion Conference which was held in Beijing. The “JD Cloud JDStack Proprietary Cloud” product of JD Cloud won the Award of “2017-2018 Excellent Solutions of Secure and Controllable Technology”.",
+		"image_url":"//img1.jcloudcs.com/cms/46cf759a-5ef3-4cd9-a0e4-c0f069db053520181221163510.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_409",
+		"jss_key":"News_Content_409",
+		"id":409,
+		"news_title":"JD Cloud JDStack won the “Excellent Solutions of Secure and Controllable Technology Award”"
+	},
+	{
+		"summary":"Sponsored by JD Cloud and Shiyan Municipal People's Government, the 2018 China (Shiyan) Turquoise Industry Summit and Opening Ceremony were held in Shiyan City.",
+		"image_url":"//img1.jcloudcs.com/cms/37517aab-500e-45ee-9f0d-a230309fe34220181224150727.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_410",
+		"jss_key":"News_Content_410",
+		"id":410,
+		"news_title":"JD Cloud joins turquoise industry and Shiyan excels in jewelry fashion on cloud"
 	}
 ]

@@ -1010,13 +1010,13 @@
 	{
 		"introduce":"The upgraded version of Application Load Balancer is released",
 		"name":"The upgraded version of Application Load Balancer is released",
-		"description":"1. The name of Load Balancer is changed to be Application Load Balancer\n2, Application Load Balancer supports TLS listening\n3, and LB Monitoring items are added (input traffic rate, output traffic rate, number of input bytes, number of output bytes, and number of total bytes)",
+		"description":"1. The name of Load Balancer is changed to be Application Load Balancer; 2, Application Load Balancer supports TLS listening; 3, and LB Monitoring items are added (input traffic rate, output traffic rate, number of input bytes, number of output bytes, and number of total bytes).",
 		"id":2067
 	},
 	{
 		"introduce":"Add the Region cn-south-1",
 		"name":"Native Container is officially launched in cn-south-1",
-		"description":"The service is officially launched in the third region, cn-south-1, after being launched in cn-north-1 and cn-east-2",
+		"description":"The service is officially launched in the third region, cn-south-1, after being launched in cn-north-1 and cn-east-2.",
 		"id":2068
 	},
 	{
@@ -1070,7 +1070,7 @@
 	{
 		"introduce":"Support customized ports; customize domain back-to-origin host",
 		"name":"Back-to-origin Configuration of CDN Upgrade",
-		"description":"It supports to customize back-to-origin IP and back-to-origin domain when a domain is added; back-to-origin domains can be corresponding to different back-to-origin host",
+		"description":"It supports to customize back-to-origin IP and back-to-origin domain when a domain is added; back-to-origin domains can be corresponding to different back-to-origin host.",
 		"id":2083
 	},
 	{
@@ -1096,5 +1096,29 @@
 		"name":"Electronic Contract Management  Official Release",
 		"description":"New contract management function is added. Customers can apply for and sign the electronic contract on line. Mange and view contracts at any time in console. It supports on-line application for paper contracts with physical seals thus to simplify the contract signing process and manual operation costs.",
 		"id":2087
+	},
+	{
+		"introduce":"Resource Orchestration opens Beta application. Users can apply for joining the Beta",
+		"name":"Resource Orchestration   Open Beta",
+		"description":"The Resource Orchestration is the service simplifying the cloud computing resource management, operation and maintenance. The service itself is free, and only the charge for resources used is collected, such as Virtual Machines.",
+		"id":2088
+	},
+	{
+		"introduce":"The created machine SSH Key Pair can be deleted",
+		"name":"New Key Deletion Function",
+		"description":"SSH Public Key created or imported through console can be deleted. The deletion will not affect SSH login of the Virtual Machines used the key. However, if this key has been cited by an instance template, the deletion will lead to unavailability of the template; at the same time, fingerprint information of public key will be added to the key details.",
+		"id":2089
+	},
+	{
+		"introduce":"Encryption Cloud Disk Service is supported by Virtual Machines of Generation II Instance Type",
+		"name":"Encryption Cloud Disk Service can be attached to Virtual Machines (in Beta)",
+		"description":"It supports to create and attach encryption Cloud Disk Service at the time of Generation II Instance Type VM instance Creation (the encryption attribute can be specified at the time of creating a null disk; if it is created from snapshot, the encryption attribute is inherited from the snapshot); the encryption Cloud Disk Service can be attached to a Generation II Instance Type Virtual Machines that have been created. You can open ticket to apply for Beta qualifications.",
+		"id":2090
+	},
+	{
+		"introduce":"Distributed Relational Database Service DRDS is officially released",
+		"name":"Distributed Relational Database Service DRDS   Official Release",
+		"description":"DRDS is the database middleware product elaborately developed by JD Cloud itself, which implements automatic database and table sharding under mass data. It has advantages such as high performance, distribution, elastic upgrade, being compatible with MySQL, etc. It is applicable to high concurrency, online transaction with mass data, historical data search, automatic data sharding and other business scenarios, having experienced the test of \"618\" and \"Double 11\" shopping festivals and been used on a large scale in JD Group.",
+		"id":2091
 	}
 ]
