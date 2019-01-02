@@ -637,7 +637,7 @@
 		"main_title":"11.11 Privileges for Enterprises"
 	},
 	{
-		"sub_title":"Enterprise Version：RMB 500/Month, Ultimate Version：RMB 1,000/Month",
+		"sub_title":"Providing Enterprise Version and Ultimate Version",
 		"name":"Premier Service",
 		"id":1043,
 		"button_title":"More",
