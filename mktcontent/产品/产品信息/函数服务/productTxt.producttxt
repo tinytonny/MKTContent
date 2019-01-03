@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"函数服务\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/function\",\"classTag\":\"\"}],\"desc\":\"函数服务是一项事件驱动的Serverless计算服务。\"}",
+		"id":716
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"事件触发\",\"proName\":\"函数由事件触发，集成京东云OSS、API网关事件源服务，满足不同应用场景需求，快速构建应用与服务。\"},{\"showShade\":false,\"proGood\":\"无需运维\",\"proName\":\"只需关心业务代码，无需配置和管理服务器等基础设施，极大降低运维成本。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"弹性伸缩\",\"proName\":\"根据请求并发数实时自动调度资源运行函数，轻松应对业务高峰低谷。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"按需付费\",\"proName\":\"根据代码调用次数和运行时间计费，时长计量粒度低至百毫秒级别。\"}]",
+		"id":717
+	},
+	{
+		"txt":"[{\"funcName\":\"事件触发\",\"funcContent\":[{\"funcTitle\":\"支持多种触发方式\",\"funcP\":\"通过关联事件源服务触发函数执行，通过API和SDK亦可直接调用函数。\"}]},{\"funcName\":\"函数管理\",\"funcContent\":[{\"funcTitle\":\"提供控制台管理函数\",\"funcP\":\"通过控制台可简单快速管理函数，函数代码支持在线编辑及本地上传，满足用户多种代码管理需求。\"}]},{\"funcName\":\"配置灵活\",\"funcContent\":[{\"funcTitle\":\"支持多种函数内存规格\",\"funcP\":\"提供128MB-1GB多种规格的函数运行内存选择，轻松匹配不同业务需求。\"}]},{\"funcName\":\"监控与日志\",\"funcContent\":[{\"funcTitle\":\"提供丰富函数指标监控及日志记录\",\"funcP\":\"监控函数运行状态和运行日志，方便用户查看函数执行情况。\"}]}]",
+		"id":718
+	},
+	{
+		"txt":"[{\"name\":\"多媒体内容分析处理\",\"instruction\":\"通过对象存储上传事件可以触发多个函数，完成实时图片或文件筛选、转存、创建缩略图、转换视频编码等处理分析。通过事件触发机制，您能够快速部署复杂的应用与服务，构建一个弹性、可靠的后端系统。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/e7606a22-58f4-4edc-a4ac-b84403be5c2120181214140628.png\",\"showShade\":false},{\"name\":\"Serverless后端服务\",\"instruction\":\"通过函数服务和API网关构建后端，以验证和处理 API 请求。采用函数服务构建可灵活拓展架构，轻松创造丰富、个性化的应用程序体验。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/41c27479-f691-4612-815a-873aa642882820181214141011.png\",\"showShade\":false}]",
+		"id":719
+	}
+]
