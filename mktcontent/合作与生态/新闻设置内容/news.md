@@ -486,5 +486,29 @@
 		"jss_key":"News_Content_415",
 		"id":415,
 		"news_title":"京东云（怀化）数字经济产业园启动"
+	},
+	{
+		"summary":"2018年12月27日，北京。新智认知数字科技与京东云宣布建立战略合作伙伴关系。未来，双方将在云计算、智能政务、智能能源和智能企业等多个领域开展深度合作，共同拓展市场并提升技术服务能力。",
+		"image_url":"//img1.jcloudcs.com/cms/eff71064-fb1c-4391-86ce-a3c8471478c920181229113246.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_422",
+		"jss_key":"News_Content_422",
+		"id":422,
+		"news_title":"京东云与新智认知达成战略合作 共同拓展智能政务能源等领域市场"
+	},
+	{
+		"summary":"12月26日，备受关注的“京东·2018大学生电商创业大赛（滁州赛区）总决赛暨颁奖典礼”在滁州举行。历经三个多月的初筛、初赛、复赛一系列激烈角逐，20个优秀团队脱颖而出，呈现了一场创新创业的实战“盛宴”。",
+		"image_url":"//img1.jcloudcs.com/cms/3a51de5e-c645-4c12-ba0a-00fb9ba743a520181229154315.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_423",
+		"jss_key":"News_Content_423",
+		"id":423,
+		"news_title":"云端青春，京东云为滁州市数字化创新人才搭建圆梦舞台"
+	},
+	{
+		"summary":"近日，由清华大学临床医学院和数据科学研究院等主办的 “首届中国心电智能大赛”正式启动。京东云依托京东集团的资源、大数据和技术优势为此次大赛提供唯一云端支持，助推AI技术在心电领域的落地和深入应用。",
+		"image_url":"//img1.jcloudcs.com/cms/38fe8acc-cc16-4ea8-8df6-48e27415d3cd20190102163322.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_424",
+		"jss_key":"News_Content_424",
+		"id":424,
+		"news_title":"京东云携手清华 助推心电领域AI应用"
 	}
 ]
