@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Storage Gateway\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/storagegateway\",\"classTag\":\"\"}],\"desc\":\"JD Cloud Storage Gateway takes Object Storage Service as its backend storage to help enterprises realize the seamless joint between local storage and cloud storage. It supports NFS standard storage protocol and provides low latency performance through local cache, which can offer mass cloud storage with the access rate comparable to that of local performance after deployment of Storage Gateway.\"}",
+		"id":763
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Flexible Deployment\",\"proName\":\"Support one-click deployment on the Virtual Machines; provide NFS standard file storage protocol, which is applicable to the access of different businesses.\"},{\"showShade\":false,\"proGood\":\"Install-and-play\",\"proName\":\"If you want to use Storage Gateway, you only need to install-and-play without secondary development to attach OSS as local NFS storage.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Mass Storage\",\"proName\":\"Storage Gateway provides mass data storage capability with OSS as the backend, and balances access latency through cache mechanism.\"}]",
+		"id":764
+	},
+	{
+		"txt":"[{\"funcName\":\"Protocol Conversion\",\"funcContent\":[{\"funcTitle\":\"Support NFS Protocol to Access OSS Without Interface\",\"funcP\":\"Though Object Storage Service (OSS) provides high reliable, high expansive and low cost storage service, local applications of traditional enterprises can only use OSS by interface adaption (RESTful API) frequently. With Storage Gateway, you can use OSS just like read-write your local disks (through NFS).\"}]},{\"funcName\":\"Accelerate your access\",\"funcContent\":[{\"funcTitle\":\"Support Local Cache and Accelerates Reading and Writing of Files\",\"funcP\":\"Storage Gateway has the built-in local cache that caches frequently accessed hot data locally and synchronizes the data to cloud in an asynchronous way. The speed read and write OSS through Storage Gateway usually is superior to that of directly accessing OSS.\"}]}]",
+		"id":765
+	},
+	{
+		"txt":"[{\"name\":\"File Sharing and Backup\",\"instruction\":\"Support file sharing between multiple Virtual Machines, e.g., server A stores its log on the gateway for subsequent processing and analysis, server B also stores its application data on the gateway to implement the statelessness of the Virtual Machine itself and Storage Gateway will asynchronously back up the data to OSS finally for implement data high reliability of data.\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/9963934e-3dbf-4bb6-bdca-b81c8f5f812420181221143307.png\",\"showShade\":false},{\"name\":\"Data Processing and Distribution\",\"instruction\":\"Storage Gateway will finally store files on Object Storage Service (OSS), OSS provides data processing and distribution capability for files, which can relieve the pressure of resource servers and offer expansive and reliable storage for the static resources by utilizing unlimited capacity and high frequent read and write characteristic.\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/b68081c5-7b32-4aa5-a6c0-d34438a7463420181221143328.png\",\"showShade\":false}]",
+		"id":766
+	}
+]

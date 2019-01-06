@@ -260,6 +260,10 @@
 		"id":1144
 	},
 	{
+		"name":"CodePipeline",
+		"id":1156
+	},
+	{
 		"name":"Log Service",
 		"id":1157
 	},
@@ -270,5 +274,25 @@
 	{
 		"name":"CodeDeploy",
 		"id":1159
+	},
+	{
+		"name":"JD Distributed Service Framework",
+		"id":1161
+	},
+	{
+		"name":"HTTPDNS",
+		"id":1162
+	},
+	{
+		"name":"Function Service",
+		"id":1163
+	},
+	{
+		"name":"JDFusion",
+		"id":1165
+	},
+	{
+		"name":"Storage Gateway",
+		"id":1176
 	}
 ]

@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"JCS for Elasticsearch\",\"label\":[{\"TitleName\":\"Apply for Beta Test\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/es\"}],\"desc\":\"JCS for Elasticsearch (ES for short) is a distributed full-text search service based on the open-source Elasticsearch. This product provide the high-availability, easy-expandability and near-real time search capacity, devotes to mass data storage and search and real-time log analysis, and aims to provide more stable, real-time and reliable cloud search service to users.\",\"iconUrl\":\" \",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/319efdc8-c70c-4fd2-9624-3968c6eabf2120181115173541.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|98\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|98\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"JCS for Elasticsearch\",\"label\":[{\"TitleName\":\"Buy Now\",\"TitleUrl\":\"https://es-console.jdcloud.com/clusters\"}],\"desc\":\"JCS for Elasticsearch (ES for short) is a distributed full-text search service based on the open-source Elasticsearch. This product provide the high-availability, easy-expandability and near-real time search capacity, devotes to mass data storage and search and real-time log analysis, and aims to provide more stable, real-time and reliable cloud search service to users.\",\"iconUrl\":\" \",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/319efdc8-c70c-4fd2-9624-3968c6eabf2120181115173541.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|98\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|98\"}",
 		"id":293
 	},
 	{
@@ -14,5 +14,13 @@
 	{
 		"txt":"[{\"instruction\":\"JCS for Elasticsearch can collect a large number of unstructured, semi-structured and structured logs. It loads the capture and preprocessing log data into JCS for Elasticsearch, and combines with Kibana for full-text search, statistics & analysis and multi-dimensional chart display, so as to get valuable information about users and applications.\\n\\n\",\"name\":\" Log Analysis\",\"picUrl\":\"//img1.jcloudcs.com/cms/42787925-b44a-4e34-bab5-a2a8965b216720180920100715.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"Application/site search provides an efficient way for users to obtain key information. Users can complete the quick retrieval of full-text contents of e-commerce products and mobile applications, etc. It supports the creation of advanced search and screening conditions; classifies and counts the eligible products at the same time; highlights the contents being searched; and provides near real-time indexing and accurate positioning from data loading to the completion of retrieval.\\n\\n\",\"name\":\" Application/Site Search\",\"picUrl\":\"//img1.jcloudcs.com/cms/978f8a40-d766-4062-b6b7-7198618c888220180920100732.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"The JCS for Elasticsearch supports the complex filter, aggregation and statistics functions for user’s real-time access and click flow, helps customers to apply multi-dimensional monitoring on resource running status and performance via JD Cloud, and realizes the full hosting service for data, including real-time search, monitoring and alarm.\",\"name\":\"Intelligent Monitoring\",\"picUrl\":\"//img1.jcloudcs.com/cms/c17fd76e-bfc9-4108-9fea-c813ef65c38120180920100739.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false}]",
 		"id":296
+	},
+	{
+		"txt":"[{\"name\":\"What is JCS for Elasticsearch\",\"link\":\"https://docs.jdcloud.com/jcs-for-elasticsearch/product-overview\",\"classTag\":\"\"},{\"name\":\"What Are the Application Scenarios of JCS for Elasticsearch\",\"link\":\"https://docs.jdcloud.com/jcs-for-elasticsearch/applicaton-scenarios\",\"classTag\":\"\"},{\"name\":\"How to Bill the JCS for Elasticsearch\",\"link\":\"https://docs.jdcloud.com/jcs-for-elasticsearch/billing-rules\",\"classTag\":\"\"}]",
+		"id":773
+	},
+	{
+		"txt":"{\"price\":\"https://docs.jdcloud.com/jcs-for-elasticsearch/price-overview\",\"sectionClstag\":\"\",\"operatingClasstag\":\"\"}",
+		"id":774
 	}
 ]

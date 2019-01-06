@@ -108,5 +108,30 @@
 		"description":"Homeward Journey - JD Cloud City Story   Xi’an",
 		"id":26,
 		"title":"Homeward Journey - JD Cloud City Story   Xi’an"
+	},
+	{
+		"description":"Cloud Talk 08: Combine AI with Enterprise Service to Let Urban Industry Service Cloud Platform Help Enterprises Implement “Cloud Cultivation”",
+		"id":27,
+		"title":"Cloud Talk 08: Combine AI with Enterprise Service to Let Urban Industry Service Cloud Platform Help Enterprises Implement “Cloud Cultivation”"
+	},
+	{
+		"description":"Cloud Talk 09: E-commerce Cloud SaaS+PaaS Dual Mode Supports Modular Selection and Deep Customization of E-commerce Platform",
+		"id":28,
+		"title":"Cloud Talk 09: E-commerce Cloud SaaS+PaaS Dual Mode Supports Modular Selection and Deep Customization of E-commerce Platform"
+	},
+	{
+		"description":"Cloud Talk 08: Combine AI with Enterprise Service to Let Urban Industry Service Cloud Platform Help Enterprises Implement “Cloud Cultivation”",
+		"id":29,
+		"title":"Cloud Talk 08: Combine AI with Enterprise Service to Let Urban Industry Service Cloud Platform Help Enterprises Implement “Cloud Cultivation”"
+	},
+	{
+		"description":"Cloud Talk 09: E-commerce Cloud SaaS+PaaS Dual Mode Supports Modular Selection and Deep Customization of E-commerce Platform",
+		"id":30,
+		"title":"Cloud Talk 09: E-commerce Cloud SaaS+PaaS Dual Mode Supports Modular Selection and Deep Customization of E-commerce Platform"
+	},
+	{
+		"description":"Cloud Talk 08: Combine AI with Enterprise Service to Let Urban Industry Service Cloud Platform Help Enterprises Implement “Cloud Cultivation”",
+		"id":31,
+		"title":"Cloud Talk 08"
 	}
 ]

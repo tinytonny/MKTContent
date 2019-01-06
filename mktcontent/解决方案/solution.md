@@ -32,6 +32,10 @@
 		"id":15
 	},
 	{
+		"name":"JD Cloud Brain",
+		"id":16
+	},
+	{
 		"name":"Industry Innovation",
 		"id":20
 	},
@@ -114,5 +118,9 @@
 	{
 		"name":"Internet Finance Security Solutions",
 		"id":82
+	},
+	{
+		"name":"AI Smart Retail Store Solutions",
+		"id":85
 	}
 ]

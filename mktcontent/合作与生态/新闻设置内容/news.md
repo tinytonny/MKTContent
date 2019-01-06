@@ -446,5 +446,45 @@
 		"jss_key":"News_Content_410",
 		"id":410,
 		"news_title":"JD Cloud joins turquoise industry and Shiyan excels in jewelry fashion on cloud"
+	},
+	{
+		"summary":"Starting from Hebi; Gathering in Central China. On December 21, “2018 Hebi New Economic Industry Development Summit and JD Cloud (Hebi) Digital Economy Industrial Park Opening Ceremony” was held in Hebi City.",
+		"image_url":"//img1.jcloudcs.com/cms/481f19b2-4ed8-47cd-a40b-765a0f8b5dbe20181224160254.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_411",
+		"jss_key":"News_Content_411",
+		"id":411,
+		"news_title":"Opening of JD Cloud (Hebi) Digital Economy Industrial Park"
+	},
+	{
+		"summary":"Today, JD Cloud announced that the 6Rooms finished all quality reviews to JD Cloud’s CDN service agreement and officially executed the CDN Service Purchase Agreement.",
+		"image_url":"//img1.jcloudcs.com/cms/31927608-518f-4497-8ffd-555a30464ce120181227194014.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_412",
+		"jss_key":"News_Content_412",
+		"id":412,
+		"news_title":"Technical Empowerment Video Industry   JD Cloud Provides 6Rooms Live with CDN Service"
+	},
+	{
+		"summary":"\"JD Xintai Luzhong E-commerce Demonstration Base Licensing Ceremony\" Held in Xintai City, Shandong Province",
+		"image_url":"//img1.jcloudcs.com/cms/7627ef71-ed37-4229-9484-50676232a0d120181227195144.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_413",
+		"jss_key":"News_Content_413",
+		"id":413,
+		"news_title":"Ushering in \"Cloud Support\", Xintai E-commerce Development Has a \"Powerful Engine\""
+	},
+	{
+		"summary":"The ancient capital Xi’an puts \"on wings of digital economy\". On December 27, with the opening of Xi'an Metro Line 4 running north and south, \"JD Aerospace Digital Economy Demonstration Park\" formally opened. The opening ceremony was held at No.501, Chang’an Street East, Aerospace Base, Xi’an City, which marks a new milestone of Xi’an big data industry development.",
+		"image_url":"//img1.jcloudcs.com/cms/f1110073-7617-4b7e-a57e-f5179018be3a20181227200941.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_414",
+		"jss_key":"News_Content_414",
+		"id":414,
+		"news_title":"Opening of JD Aerospace Digital Economy Demonstration Park in Xi’an"
+	},
+	{
+		"summary":"The industry gathers here in sweet Huaihua. On December 27, \"2018 Huaihua Digital Economic Development Promotion Summit and JD Cloud (Huaihua) Digital Economy Industrial Park Opening Ceremony\" was held in Huaihua City.",
+		"image_url":"//img1.jcloudcs.com/cms/53600cb0-32cc-46fb-b8c0-2b3a9cc5764d20181227204004.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_415",
+		"jss_key":"News_Content_415",
+		"id":415,
+		"news_title":"Opening of JD Cloud (Huaihua) Digital Economy Industrial Park"
 	}
 ]

@@ -1120,5 +1120,59 @@
 		"name":"Distributed Relational Database Service DRDS   Official Release",
 		"description":"DRDS is the database middleware product elaborately developed by JD Cloud itself, which implements automatic database and table sharding under mass data. It has advantages such as high performance, distribution, elastic upgrade, being compatible with MySQL, etc. It is applicable to high concurrency, online transaction with mass data, historical data search, automatic data sharding and other business scenarios, having experienced the test of \"618\" and \"Double 11\" shopping festivals and been used on a large scale in JD Group.",
 		"id":2091
+	},
+	{
+		"introduce":"HTTPDNS open beta. Users can apply for joining the beta",
+		"name":"HTTPDNS  Open Beta",
+		"description":"It applies HTTP protocol, substituting the DNS protocol based on UDP, which can bypass the traditional Local DNS, and effectively avoid domain hijacking, slow validation, inaccurate source IP and other problems caused by the unreliability of Local DNS.",
+		"id":2092
+	},
+	{
+		"introduce":"JDFusion open beta. Users can apply for joining the beta",
+		"name":"JDFusion  Open Beta",
+		"description":"JDFusion provides an integrated management for public cloud, private cloud and Hybrid Cloud, and provides an integration of multiple infrastructure resources, cross-platform fusion orchestration and multi-tenant access, in order to help the enterprise quickly deploy among heterogeneous cloud platforms, migrate data, efficiently carry out operation and maintenance, and fully improve the stability and flexibility of business.",
+		"id":2093
+	},
+	{
+		"introduce":"Official Release of JCS for Elasticsearch",
+		"name":"Official Release of JCS for Elasticsearch",
+		"description":"JCS for Elasticsearch (ES for short) is a distributed full-text search service based on the open-source Elasticsearch. This product provide the high-availability, easy-expandability and near-real time search capacity, devotes to mass data storage and search and real-time log analysis, and aims to provide more stable, real-time and reliable cloud search service to users.",
+		"id":2094
+	},
+	{
+		"introduce":"Storage Gateway open beta. Users can apply for joining the beta",
+		"name":"Storage Gateway  Open Beta",
+		"description":"JD Cloud Storage Gateway takes Object Storage Service as its backend storage to help enterprises realize the seamless joint between local storage and cloud storage. It supports NFS standard storage protocol and provides low latency performance through local cache, which can offer mass cloud storage with the access rate comparable to that of local performance after deployment of Storage Gateway.",
+		"id":2095
+	},
+	{
+		"introduce":"Official Release of JCS for Memcached",
+		"name":"Official Release of JCS for Memcached",
+		"description":"The JCS for Memcached is a memory-level Key-Value service provided by JD Cloud based on high performance of Memcached protocol, which is suitable for high-speed caching scenarios. It provides a full set of services, including ready-to-use, rapid deployment, and easy operation and maintenance, greatly relieving pressure to backend memory and improving response speed of websites or applications.",
+		"id":2096
+	},
+	{
+		"introduce":"CodePipeline open beta. Users can apply for joining the beta",
+		"name":"CodePipeline  Open Beta",
+		"description":"JD Cloud CodePipeline is a product that can provide continuous integration and delivery capacities. The visual and customized automatic delivery CodePipeline ensures the uniformity and stability at different stages of product release.",
+		"id":2097
+	},
+	{
+		"introduce":"Official Release of JD WorkSpaces",
+		"name":"Official Release of JD WorkSpaces",
+		"description":"WorkSpace is a secure and convenient cloud-based virtual Windows desktop service provided by JD Cloud. Users can access the office environment anytime and anywhere without purchasing, deploying, operating and maintaining physical infrastructure. WorkSpace provides users with superior experience by creating a safer and more convenient IT office system boosting high performance, low cost, and high efficiency.",
+		"id":2098
+	},
+	{
+		"introduce":"Via back-to-origin setting, the back-to-origin reading is applied to the data getting request via the image method, to meet your hot migration demand of data.",
+		"name":"Support Image Back-to-origin Setting",
+		"description":"The image back-to-origin is mainly used for seamlessly migrating data to JD Cloud OSS. In other words, if the service is running in the self-built origin server or other cloud products, when it needs to migrate such service to JD Cloud OSS without interrupting the service, the migration can be implemented by using the image back-to-origin function.",
+		"id":2099
+	},
+	{
+		"introduce":"Official Release of IAM",
+		"name":"Official Release of IAM",
+		"description":"Identity and Access Management (IAM) is a user identity management and resource access control service provided by JD Cloud, assigning the minimum permission to users as needed to guarantee the enterprise information security.",
+		"id":2100
 	}
 ]

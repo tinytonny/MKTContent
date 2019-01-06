@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"JD Distributed Service Framework\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/jdsf\",\"classTag\":\"\"}],\"desc\":\"JD Distributed Service Framework is a PaaS platform focusing on applications and microservices.\"}",
+		"id":707
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"High-availability Complete Hosting\",\"proName\":\"JD Distributed Service Framework relies on JD multiple availability zone deployment to serve cross-availability zone distributed deployment. After enabling the service, users may enjoy cross-machine room high availability without any operation and maintenance.\"},{\"showShade\":false,\"proGood\":\"Calling Observable\",\"proName\":\"By providing rich calling stack analysis, microservice calling atlas allows us to observe business relationship and overall calling chain characteristics at a macro level, and allows us to view the details of steps on the calling chain at a micro level. Also, in combination with various analysis means, it helps users comprehensively master the calling of services.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"One-stop Scheme\",\"proName\":\"With the deep integration of service framework and elastic deployment, log analysis and other systems, users can more easily process the operation and maintenance demands during the entire life cycle of services.\"}]",
+		"id":708
+	},
+	{
+		"txt":"[{\"funcName\":\"Service Life Cycle Management\",\"funcContent\":[{\"funcTitle\":\"Service Life Cycle Management\",\"funcP\":\"It supports the deployment, registration, discovery, calling, authentication, traffic control, log and other functions of services, and based on these functions, the entire service process can be controlled more flexibly.\"}]},{\"funcName\":\"Service Monitoring\",\"funcContent\":[{\"funcTitle\":\"Data Monitoring and Calling Amount Monitoring\",\"funcP\":\"The combination of data monitoring and calling amount monitoring makes it more convenient for users to get to know the calling data of all dimensions of services as well as the calling relationship and conditions among services.\"}]},{\"funcName\":\"Multi-framework Compatibility\",\"funcContent\":[{\"funcTitle\":\"Embrace Open Sources\",\"funcP\":\"Phase I of service framework supports Spring Cloud framework and later it will support Service Mesh.\"}]}]",
+		"id":709
+	},
+	{
+		"txt":"[{\"name\":\"Construct Microservice System\",\"instruction\":\"Based on JD Distributed Service Framework it can easily migrate its business to the microservice framework. The functions provided by the service framework allow users to no longer concern about the implementation, operation and maintenance of service framework, and to completely focus on the design and splitting of business.\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/2ce12a1d-d546-4586-8737-f443d45df9bf20181211120357.png\",\"showShade\":false},{\"name\":\"Calling Relationship Management\",\"instruction\":\"To a large-sized distributed system, the organization of calling relationship and management of calling permission are very complicated. The built-in calling chain analysis function and service authentication mechanism of JD Distributed Service Framework can effectively help users manage the service calling process.\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/13ecf7f7-647a-4994-bc14-50396ba37dbc20181211120424.png\",\"showShade\":false}]",
+		"id":710
+	}
+]

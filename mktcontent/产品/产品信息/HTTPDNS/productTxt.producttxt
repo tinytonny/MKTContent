@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[{\"explain\":\"Three million free traffic package for HTTPDNS is provided for you.\",\"explainLink\":\"https://httpdns-front.jdcloud.com\",\"classTag\":\"\"}],\"productName\":\"HTTPDNS\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://httpdns-front.jdcloud.com\",\"classTag\":\"\"}],\"desc\":\"It applies HTTP protocol, substituting the DNS protocol based on UDP, which can bypass the traditional Local DNS, and effectively avoid domain hijacking, slow validation, inaccurate source IP and other problems caused by the unreliability of Local DNS.\"}",
+		"id":711
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"High-speed Access\",\"proName\":\"Access nodes cover major operators nationwide, Southeast Asia and North America, with accurate resolution and fast access\"},{\"showShade\":false,\"proGood\":\"Secure Access\",\"proName\":\"Bypass Local DNS of operators, no hijacking, prevent DNS from pollution and interception \"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Precise Scheduling\",\"proName\":\"Identify source requests accurately to guide access to the most accurate node \"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Load Balancer\",\"proName\":\"One IP for cluster disaster tolerance in three places, automatically conduct failover at second level, service can provide SLA of 99% or above \"}]",
+		"id":712
+	},
+	{
+		"txt":"[{\"funcName\":\"Domain Resolution\",\"funcContent\":[{\"funcTitle\":\"Domain Support of Whole Network\",\"funcP\":\"HTTPDNS supports the resolution of domains in the whole network, including JD Cloud registered domains and any domain registered on any third-party platform.\"}]},{\"funcName\":\"Accurate Resolution\",\"funcContent\":[{\"funcTitle\":\"Avoid Domain Hijacking\",\"funcP\":\"HTTP DNS supports client IP being carried directly in packet, can ensure the resolution based on real client IP, and can make sure the requests accessing to the best nodes of resolution configuration in combination with its IP database.\"}]},{\"funcName\":\"Access Domain Management\",\"funcContent\":[{\"funcTitle\":\"Access Domain Management\",\"funcP\":\"HTTP DNS provides access domain management function, and supports the addition and deletion of accessing domains. Domains must be added to the accessing domain list before the normal HTTP DNS resolution.\"}]},{\"funcName\":\"Resolution Report\",\"funcContent\":[{\"funcTitle\":\"Resolution Report\",\"funcP\":\"HTTP DNS provides history resolution report search function. Users can view the total volume of domain resolution and the resolution volume of each domain under their accounts based on different time span and granularity.\"}]}]",
+		"id":713
+	},
+	{
+		"txt":"[{\"name\":\"Mobile Resolution\",\"instruction\":\"HttpDNS replaces the default domain resolution mode of mobile APPs and workspace applications with domain resolution via Http protocol to avoid the user network access exceptions caused by the Operator’s Local DNS service exceptions.\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"Virtual Machines\",\"url\":\"//www.jdcloud.com/products/virtual-machines\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/82da57bc-f612-479d-8e3f-519d3ced3f8e20181211165105.png\",\"showShade\":false}]",
+		"id":714
+	}
+]
