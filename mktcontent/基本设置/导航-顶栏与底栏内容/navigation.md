@@ -1603,5 +1603,10 @@
 		"name":"JDCloud Brain",
 		"description":"",
 		"id":3062
+	},
+	{
+		"name":"AI Store Solution",
+		"description":"",
+		"id":3063
 	}
 ]
