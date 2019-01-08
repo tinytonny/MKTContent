@@ -518,5 +518,13 @@
 		"jss_key":"News_Content_425",
 		"id":425,
 		"news_title":"赋能 集聚 共赢 湘潭打造数字经济“引擎”"
+	},
+	{
+		"summary":"2018年，国家税务总局提出升级“金税三期工程”与“互联网+税务”行动计划，推动了电子发票的发展。",
+		"image_url":"//img1.jcloudcs.com/cms/dcbae68f-16aa-4443-903d-7435990574e320190108141142.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_438",
+		"jss_key":"News_Content_438",
+		"id":438,
+		"news_title":"京东云&大象慧云，数字化转型打造“互联网+税务”品牌"
 	}
 ]
