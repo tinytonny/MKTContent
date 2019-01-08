@@ -510,5 +510,13 @@
 		"jss_key":"News_Content_424",
 		"id":424,
 		"news_title":"京东云携手清华 助推心电领域AI应用"
+	},
+	{
+		"summary":"京东湘潭电商产业园开园大会暨东路演”在湖南省湘潭市隆重举行。",
+		"image_url":"//img1.jcloudcs.com/cms/31b7392f-a24a-4fbd-a67f-a8656eabdac320190104153228.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_425",
+		"jss_key":"News_Content_425",
+		"id":425,
+		"news_title":"赋能 集聚 共赢 湘潭打造数字经济“引擎”"
 	}
 ]
