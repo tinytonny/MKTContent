@@ -526,5 +526,13 @@
 		"jss_key":"News_Content_438",
 		"id":438,
 		"news_title":"京东云&大象慧云，数字化转型打造“互联网+税务”品牌"
+	},
+	{
+		"summary":"1月8日上午，潮州市人民政府和京东集团“互联网+”新经济发展战略合作框架协议签约仪式在潮州迎宾馆红棉楼举行。",
+		"image_url":"//img1.jcloudcs.com/cms/404da0f7-1c5d-4123-947d-0d5660eb0ca020190108165507.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_439",
+		"jss_key":"News_Content_439",
+		"id":439,
+		"news_title":"京东与潮州达成战略合作，共建“互联网+”新经济生态"
 	}
 ]
