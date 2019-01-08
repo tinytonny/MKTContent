@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"资源编排\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/jdro\",\"classTag\":\"\"}],\"desc\":\"资源编排是一项简化云计算资源管理和运维的服务。\\n\\n服务本身免费，仅收取所使用资源的费用：如云主机等。\",\"iconUrl\":\"\",\"imageUrl\":\"\",\"middleClstag\":\"Products|keycount|MiddleContentSec|1144\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|1144\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"资源编排\",\"label\":[],\"desc\":\"资源编排是一项简化云计算资源管理和运维的服务。\\n\\n服务本身免费，仅收取所使用资源的费用：如云主机等。\",\"iconUrl\":\"\",\"imageUrl\":\"\",\"middleClstag\":\"Products|keycount|MiddleContentSec|1144\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|1144\"}",
 		"id":327
 	},
 	{
