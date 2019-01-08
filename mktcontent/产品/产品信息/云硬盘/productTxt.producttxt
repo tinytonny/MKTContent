@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"云硬盘\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"//console.jdcloud.com/host/disk/create?dataCenter=bj_02\"}],\"desc\":\"云硬盘是京东云为云主机提供的低时延、持久性、高可靠的数据块级存储。云硬盘内的数据以多重实时副本的方式存储，避免因组件故障导致数据不可用，同时为您提供高可用数据存储服务。云硬盘容量可弹性扩展，您可以在几分钟内以低廉的价格扩充数据存储空间，并实现数据的持久化存储。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/3e2a6313-e9c3-4cbc-b3a1-47d68007388920181115163434.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|5\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|5\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"云硬盘\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"//console.jdcloud.com/host/disk/create?dataCenter=bj_02\"}],\"desc\":\"云硬盘是京东云为云主机提供的低时延、持久性、高可用块存储。云硬盘的数据以三副本方式存储，避免因组件故障导致数据不可用，同时提供高可靠数据存储服务。云硬盘容量可弹性扩展，同时支持快照和自定义镜像功能。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/3e2a6313-e9c3-4cbc-b3a1-47d68007388920181115163434.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|5\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|5\"}",
 		"id":7
 	},
 	{
