@@ -486,5 +486,29 @@
 		"jss_key":"News_Content_415",
 		"id":415,
 		"news_title":"Opening of JD Cloud (Huaihua) Digital Economy Industrial Park"
+	},
+	{
+		"summary":"December 27, 2018, Beijing. ENC Digital Technology Co., Ltd. and JD Cloud announced the establishment of strategic partnership between them. In the future, the parties will carry out deep cooperation in cloud computing, intelligent government affairs, intelligent energy, intelligent enterprise and other fields to jointly expand the market and improve technical service capability.",
+		"image_url":"//img1.jcloudcs.com/cms/eff71064-fb1c-4391-86ce-a3c8471478c920181229113246.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_422",
+		"jss_key":"News_Content_422",
+		"id":422,
+		"news_title":"JD Cloud and ENC Enter into Strategic Cooperation and Jointly Expand the Markets of Intelligent Government Affairs, Energy and Other Fields"
+	},
+	{
+		"summary":"On December 26, the high-profile \"Final and Award Ceremony of Undergraduate E-commerce Startup Championship 2018 of JD (Chuzhou Division)\" was held in Chuzhou. After three months of preliminary screening, preliminary contest and quarter-final, a series of fierce competition, 20 excellent teams stood out, presenting an actual \"feast\" of innovative entrepreneurship.",
+		"image_url":"//img1.jcloudcs.com/cms/3a51de5e-c645-4c12-ba0a-00fb9ba743a520181229154315.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_423",
+		"jss_key":"News_Content_423",
+		"id":423,
+		"news_title":"Cloud Youth, JD Cloud Constructs a Stage for Dream for Digital Innovative Talents in Chuzhou"
+	},
+	{
+		"summary":"Recently, the \"First Session of China ECG Intelligence Competition\" sponsored by School of Clinical Medicine of Tsinghua University, Institute of Data Science, etc. was formally commenced. JD Cloud relies on the resources, big data and technical advantages of JD Group to provide the exclusive cloud support for the Competition to drive the implementation and deep application of AI technology in ECG field.",
+		"image_url":"//img1.jcloudcs.com/cms/38fe8acc-cc16-4ea8-8df6-48e27415d3cd20190102163322.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_424",
+		"jss_key":"News_Content_424",
+		"id":424,
+		"news_title":"JD Cloud Work with Tsinghua to Facilitate AI Application in ECG Field"
 	}
 ]

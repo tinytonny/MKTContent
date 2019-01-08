@@ -1174,5 +1174,35 @@
 		"name":"Official Release of IAM",
 		"description":"Identity and Access Management (IAM) is a user identity management and resource access control service provided by JD Cloud, assigning the minimum permission to users as needed to guarantee the enterprise information security.",
 		"id":2100
+	},
+	{
+		"introduce":"Function Service open beta. Users can apply for joining the open beta",
+		"name":"Function Service  Open Beta",
+		"description":"Function Service is an event-driven Serverless computing service.",
+		"id":2112
+	},
+	{
+		"introduce":"JD Distributed Service Framework Open Beta. Users can apply for joining the beta",
+		"name":"JD Distributed Service Framework  Open Beta",
+		"description":"JD Distributed Service Framework is a PaaS platform focusing on applications and microservices.",
+		"id":2113
+	},
+	{
+		"introduce":"Supporting Transparent Data Encryption (TDE)",
+		"name":"Supporting Transparent Data Encryption (TDE)",
+		"description":"TDE will automatically encrypt such data before writing them into a memory and automatically decrypt such data when reading them from the memory. The database file is encrypted in the page level. The page in the encrypted database will be encrypted before being wrote into a disk, but will be decrypted when being read into a memory.",
+		"id":2114
+	},
+	{
+		"introduce":"2012, 2014 and 2016 Standard Versions are added as Database Version",
+		"name":"2012, 2014 and 2016 Standard Versions are added as Database Version",
+		"description":"2012, 2014 and 2016 standard versions are added as database version. Standard versions also support primary and backup instances and standalone instances",
+		"id":2115
+	},
+	{
+		"introduce":"Cloud Physical Server  Launch New Category GPUⅢ",
+		"name":"Cloud Physical Server  Launch New Category GPUⅢ",
+		"description":"cn-north-1 launches V100*4 New Category GPUⅢ",
+		"id":2116
 	}
 ]
