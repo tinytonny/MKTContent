@@ -510,5 +510,13 @@
 		"jss_key":"News_Content_424",
 		"id":424,
 		"news_title":"JD Cloud Work with Tsinghua to Facilitate AI Application in ECG Field"
+	},
+	{
+		"summary":"\"JD Xiangtan E-commerce Industrial Park Opening Ceremony and JD Road Show\" was held in Xiangtan City, Hu’nan Province.",
+		"image_url":"//img1.jcloudcs.com/cms/31b7392f-a24a-4fbd-a67f-a8656eabdac320190104153228.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_425",
+		"jss_key":"News_Content_425",
+		"id":425,
+		"news_title":"Empowerment  Agglomeration  Win-win  Xiangtan Creates Digital Economy \"Engine\""
 	}
 ]
