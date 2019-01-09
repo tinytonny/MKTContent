@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"分布式服务框架 JDSF\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/jdsf\",\"classTag\":\"\"}],\"desc\":\"分布式服务框架（JDCloud Distributed Service Framework) 是一个围绕应用和微服务的 PaaS 平台。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"分布式服务框架\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/jdsf\",\"classTag\":\"\"}],\"desc\":\"分布式服务框架（JDCloud Distributed Service Framework) 是一个围绕应用和微服务的 PaaS 平台。\"}",
 		"id":707
 	},
 	{
