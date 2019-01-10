@@ -8,11 +8,11 @@
 		"id":712
 	},
 	{
-		"txt":"[{\"funcName\":\"域名解析\",\"funcContent\":[{\"funcTitle\":\"全网域名支持\",\"funcP\":\"HTTPDNS支持全网域名的解析，包括京东云注册域名、任意第三方平台注册域名。\"}]},{\"funcName\":\"精准解析\",\"funcContent\":[{\"funcTitle\":\"避免域名劫持\",\"funcP\":\"HTTP DNS支持直接在报文中携带客户端IP，可以确保解析基于真实客户端IP，结合自有IP库，能够确保请求访问到解析配置的最优节点。\"}]},{\"funcName\":\"接入域名管理\",\"funcContent\":[{\"funcTitle\":\"接入域名管理\",\"funcP\":\"HTTP DNS提供接入域名管理功能，支持增加删除接入域名，域名添加到接入域名列表后才能正常进行HTTP DNS解析。\"}]},{\"funcName\":\"解析报表\",\"funcContent\":[{\"funcTitle\":\"解析报表\",\"funcP\":\"HTTP DNS提供历史解析报表查询功能，用户可以按照不同的时间跨度和粒度，查看账户下域名解析总量以及每个域名的解析量。\"}]}]",
+		"txt":"[{\"funcName\":\"域名解析\",\"funcContent\":[{\"funcTitle\":\"全网域名支持\",\"funcP\":\"HTTPDNS支持全网域名的解析，包括京东云注册域名、任意第三方平台注册域名。\"}]},{\"funcName\":\"精准解析\",\"funcContent\":[{\"funcTitle\":\"避免域名劫持\",\"funcP\":\"HTTPDNS支持直接在报文中携带客户端IP，可以确保解析基于真实客户端IP，结合自有IP库，能够确保请求访问到解析配置的最优节点。\"}]},{\"funcName\":\"接入域名管理\",\"funcContent\":[{\"funcTitle\":\"接入域名管理\",\"funcP\":\"HTTPDNS提供接入域名管理功能，支持增加删除接入域名，域名添加到接入域名列表后才能正常进行HTTPDNS解析。\"}]},{\"funcName\":\"解析报表\",\"funcContent\":[{\"funcTitle\":\"解析报表\",\"funcP\":\"HTTPDNS提供历史解析报表查询功能，用户可以按照不同的时间跨度和粒度，查看账户下域名解析总量以及每个域名的解析量。\"}]}]",
 		"id":713
 	},
 	{
-		"txt":"[{\"name\":\"移动解析\",\"instruction\":\"HttpDNS是通过将移动APP及桌面应用的默认域名解析方式，替换为通过Http协议进行域名解析，以规避由运营商Local DNS服务异常所导致的用户网络接入异常。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"云主机\",\"url\":\"//www.jdcloud.com/products/virtual-machines\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/82da57bc-f612-479d-8e3f-519d3ced3f8e20181211165105.png\",\"showShade\":false}]",
+		"txt":"[{\"name\":\"移动解析\",\"instruction\":\"HTTPDNS是通过将移动APP及桌面应用的默认域名解析方式，替换为通过\\bHTTP协议进行域名解析，以规避由运营商Local DNS服务异常所导致的用户网络接入异常。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"云主机\",\"url\":\"//www.jdcloud.com/products/virtual-machines\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/82da57bc-f612-479d-8e3f-519d3ced3f8e20181211165105.png\",\"showShade\":false}]",
 		"id":714
 	}
 ]
