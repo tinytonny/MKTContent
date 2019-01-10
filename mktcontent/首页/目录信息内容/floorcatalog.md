@@ -802,5 +802,41 @@
 		"description":"安全、可控、便捷的密钥托管服务",
 		"id":1338,
 		"button_title":""
+	},
+	{
+		"name":"函数服务",
+		"description":"函数服务是一项事件驱动的全托管计算服务。",
+		"id":1340,
+		"button_title":"立即查看"
+	},
+	{
+		"name":"资源编排",
+		"description":"资源编排是一项简化云计算资源管理和运维的服务。",
+		"id":1341,
+		"button_title":"立即查看"
+	},
+	{
+		"name":"日志服务",
+		"description":"一站式日志服务平台",
+		"id":1342,
+		"button_title":"立即查看"
+	},
+	{
+		"name":"分布式服务框架",
+		"description":"分布式服务框架是一个围绕应用和微服务的 PaaS 平台。",
+		"id":1346,
+		"button_title":"立即查看"
+	},
+	{
+		"name":"云部署",
+		"description":"集多种部署类型、部署方式于一身的部署工具。",
+		"id":1348,
+		"button_title":"立即查看"
+	},
+	{
+		"name":"流水线",
+		"description":"京东云CodePipeline是一款提供持续集成、持续交付能力的产品",
+		"id":1349,
+		"button_title":"立即查看"
 	}
 ]
