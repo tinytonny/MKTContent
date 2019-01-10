@@ -521,7 +521,7 @@
 	},
 	{
 		"summary":"2018年，国家税务总局提出升级“金税三期工程”与“互联网+税务”行动计划，推动了电子发票的发展。",
-		"image_url":"//img1.jcloudcs.com/cms/dcbae68f-16aa-4443-903d-7435990574e320190108141142.jpg",
+		"image_url":"//img1.jcloudcs.com/cms/7b4759f8-2244-42a3-bc72-f3b1bd54dfd920190110174650.png",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_438",
 		"jss_key":"News_Content_438",
 		"id":438,
@@ -534,5 +534,13 @@
 		"jss_key":"News_Content_439",
 		"id":439,
 		"news_title":"京东与潮州达成战略合作，共建“互联网+”新经济生态"
+	},
+	{
+		"summary":"京东云旗下应用安全网关（VPC-WAF）产品在赛可达实验室（SKD Labs）主办的“2018年度赛可达优秀产品奖（SKD AWARDS）”颁奖盛典上荣获“2018年度赛可达优秀产品奖”。",
+		"image_url":"//img1.jcloudcs.com/cms/a92d0c70-be57-4f85-81d8-3f70c7a42fc820190109154015.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_440",
+		"jss_key":"News_Content_440",
+		"id":440,
+		"news_title":"新年开门红：京东云应用安全网关荣获2018年度“赛可达优秀产品奖”"
 	}
 ]
