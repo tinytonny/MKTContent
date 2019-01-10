@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"productName\":\"操作审计\",\"desc\":\"操作审计（Audit Trail）是京东云提供的一项服务，用户可通过操作审计保存的所有操作记录，实现精确追踪、还原用户行为审计，对于安全分析，资源变更追查，合规审查有非常重要的作用。\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/audittrail\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":793
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"高效推送\",\"proName\":\"Audit Trail通过高可用数据处理管道进行事件收集、处理和传送。\"},{\"showShade\":false,\"proGood\":\"精准记录\",\"proName\":\"清晰记录用户操作信息，通过使用Audit Trail来查看、搜索、下载、分析账户活动。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"实施可靠\",\"proName\":\"用户能够及时了解操作事件情况，通过查看Audit Trail及时了解账号的操作行为，并将遇到的问题及时处理或反馈。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"安全合规\",\"proName\":\"通过实时有效的记录京东云账号内的所有操作行为，为问题、故障事件定位，确保在京东云上运行的业务安全合规。\"}]",
+		"id":794
+	},
+	{
+		"txt":"[{\"funcName\":\"操作记录\",\"funcContent\":[{\"funcTitle\":\"开箱即用\",\"funcP\":\"操作审计功能无需配置即可收集最近九十的操作记录，并且在控制台操作审计页面可查看最近九十天的操作记录。\"}]},{\"funcName\":\"事件列表\",\"funcContent\":[{\"funcTitle\":\"操作记录列表\",\"funcP\":\"用户可以通过控制台查看操作事件列表，并且支持从事件名称、产品类型、事件时间、操作账号等维度来查询操作事件。\"}]},{\"funcName\":\"记录详情\",\"funcContent\":[{\"funcTitle\":\"操作记录详情\",\"funcP\":\"用户可以获取单个操作记录详情，包括访问密钥、地域、错误码、事件源、事件 ID、请求 ID、ip地址。\"}]}]",
+		"id":795
+	}
+]
