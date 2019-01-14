@@ -12,7 +12,7 @@
 		"id":713
 	},
 	{
-		"txt":"[{\"name\":\"Mobile Resolution\",\"instruction\":\"HttpDNS replaces the default domain resolution mode of mobile APPs and workspace applications with domain resolution via Http protocol to avoid the user network access exceptions caused by the Operator’s Local DNS service exceptions.\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"Virtual Machines\",\"url\":\"//www.jdcloud.com/products/virtual-machines\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/82da57bc-f612-479d-8e3f-519d3ced3f8e20181211165105.png\",\"showShade\":false}]",
+		"txt":"[{\"name\":\"Mobile Resolution\",\"instruction\":\"HTTPDNS replaces the default domain resolution mode of mobile APPs and workspace applications with domain resolution via \\bHTTP protocol to avoid the user network access exceptions caused by the Operator's Local DNS service exceptions.\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"Virtual Machines\",\"url\":\"//www.jdcloud.com/products/virtual-machines\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/82da57bc-f612-479d-8e3f-519d3ced3f8e20181211165105.png\",\"showShade\":false}]",
 		"id":714
 	}
 ]
