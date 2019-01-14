@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"分布式服务框架\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/jdsf\",\"classTag\":\"\"}],\"desc\":\"分布式服务框架（JDCloud Distributed Service Framework) 是一个围绕应用和微服务的 PaaS 平台。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"分布式服务框架\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/jdsf\",\"classTag\":\"\"}],\"desc\":\"分布式服务框架是一个提供了注册中心、配置管理、调用链分析等功能的微服务框架，方便用户实施Spring Cloud等微服务架构。\"}",
 		"id":707
 	},
 	{
@@ -12,7 +12,7 @@
 		"id":709
 	},
 	{
-		"txt":"[{\"name\":\"构建微服务系统\",\"instruction\":\"基于京东云分布式服务框架，可以很容易地将自身业务迁移到微服务框架上。服务框架提供的功能，使用户不用再关注服务框架实现和运维，可以完全专注在业务的设计和拆分上。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/2ce12a1d-d546-4586-8737-f443d45df9bf20181211120357.png\",\"showShade\":false},{\"name\":\"调用关系管理\",\"instruction\":\"对于大型分布式系统而言，梳理调用关系以及管理调用权限往往是非常复杂的。京东云分布式服务框架内置的调用链分析功能和服务鉴权机制，可以有效的帮助用户管理服务调用过程。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/13ecf7f7-647a-4994-bc14-50396ba37dbc20181211120424.png\",\"showShade\":false}]",
+		"txt":"[{\"name\":\"构建微服务系统\",\"instruction\":\"基于京东云分布式服务框架，可以很容易地将自身业务迁移到微服务框架上。服务框架提供的功能，使用户不用再关注服务框架实现和运维，可以完全专注在业务的设计和拆分上。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/b38bfd1a-1493-4d79-8fe9-478daf06e74420190111130242.png\",\"showShade\":false},{\"name\":\"调用关系管理\",\"instruction\":\"对于大型分布式系统而言，梳理调用关系以及管理调用权限往往是非常复杂的。京东云分布式服务框架内置的调用链分析功能和服务鉴权机制，可以有效的帮助用户管理服务调用过程。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/4deebbda-c9be-4cdd-863b-e9a9adbc409f20190111130251.png\",\"showShade\":false}]",
 		"id":710
 	}
 ]
