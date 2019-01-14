@@ -542,5 +542,13 @@
 		"jss_key":"News_Content_440",
 		"id":440,
 		"news_title":"新年开门红：京东云应用安全网关荣获2018年度“赛可达优秀产品奖”"
+	},
+	{
+		"summary":"“2019爱分析·中国科技创新大会”，京东云综合评分跻身榜单十强，在云计算厂商中位列前三，交出了一份亮眼的成绩单。",
+		"image_url":"//img1.jcloudcs.com/cms/f13ff47d-6659-4538-97ef-2fceb7fc6c3820190111140906.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_442",
+		"jss_key":"News_Content_442",
+		"id":442,
+		"news_title":"京东云跻身中国科技创新企业榜单前十强"
 	}
 ]
