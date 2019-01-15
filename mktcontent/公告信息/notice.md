@@ -273,6 +273,6 @@
 	},
 	{
 		"id":592,
-		"title":"Cloud Disk Service with new specifications has been put into service in Shanghai region"
+		"title":"JD Cloud Offered New Type of Cloud Disk Service in cn-east-2"
 	}
 ]
