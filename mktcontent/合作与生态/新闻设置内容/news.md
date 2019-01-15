@@ -518,5 +518,29 @@
 		"jss_key":"News_Content_425",
 		"id":425,
 		"news_title":"Empowerment  Agglomeration  Win-win  Xiangtan Creates Digital Economy \"Engine\""
+	},
+	{
+		"summary":"In 2018, State Taxation Administration of PRC put forward the action plan of upgrading \"The Third Golden Tax Project\" and \"Internet + Taxation\", which has promoted the development of electronic invoice.",
+		"image_url":"//img1.jcloudcs.com/cms/7b4759f8-2244-42a3-bc72-f3b1bd54dfd920190110174650.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_438",
+		"jss_key":"News_Content_438",
+		"id":438,
+		"news_title":"Build \"Internet + Taxation\" brand by JD Cloud & Ele-Cloud, digital transformation"
+	},
+	{
+		"summary":"On the morning of January 8, the signing ceremony of \"Internet +\" New Economy Strategic Cooperation Framework Agreement between Chaozhou People's Government and JD Group was held in the Hongmian Building of Chaozhou Hotel.",
+		"image_url":"//img1.jcloudcs.com/cms/404da0f7-1c5d-4123-947d-0d5660eb0ca020190108165507.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_439",
+		"jss_key":"News_Content_439",
+		"id":439,
+		"news_title":"JD and Chaozhou have reached a strategic cooperation to jointly build the \"Internet +\" new economic ecology"
+	},
+	{
+		"summary":"The Application Security Gateway product (VPC-WAF) of JD Cloud won \"2018 SKD Excellent Product Award\" at \"SKD AWARDS 2018\" held by SKD Labs.",
+		"image_url":"//img1.jcloudcs.com/cms/a92d0c70-be57-4f85-81d8-3f70c7a42fc820190109154015.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_440",
+		"jss_key":"News_Content_440",
+		"id":440,
+		"news_title":"A great beginning of new VPC-WAF won 2018 \"SKD Excellent Product Award\""
 	}
 ]

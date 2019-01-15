@@ -350,5 +350,13 @@
 		"id":594,
 		"partner_label":"Solution Provider",
 		"tableName":"cms_partner"
+	},
+	{
+		"name":"Beijing Ntalker Technology Corporation",
+		"description":"Xiaoneng was founded in 2007, which belongs to Beijing Ntalker Technology Corporation. As a service provider of smart cloud customer service solution, it is always the pioneer and advocate in customer service field. Since Xiaoneng Smart Customer Service formally released in 2011, it has cooperated with top enterprises in each industry to release solutions of 9 major industries and become their long-term strategic partner.",
+		"short_name":"Xiaoneng",
+		"id":597,
+		"partner_label":"Sales Agent",
+		"tableName":"cms_partner"
 	}
 ]

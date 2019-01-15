@@ -270,5 +270,9 @@
 	{
 		"id":587,
 		"title":"Notice on Upgrade and Service Suspension of Transaction System"
+	},
+	{
+		"id":592,
+		"title":"Cloud Disk Service with new specifications has been put into service in Shanghai region"
 	}
 ]

@@ -294,5 +294,9 @@
 	{
 		"name":"Storage Gateway",
 		"id":1176
+	},
+	{
+		"name":"Audit Trail",
+		"id":1181
 	}
 ]

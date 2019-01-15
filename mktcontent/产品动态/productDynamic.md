@@ -1178,13 +1178,13 @@
 	{
 		"introduce":"Function Service open beta. Users can apply for joining the open beta",
 		"name":"Function Service  Open Beta",
-		"description":"Function Service is an event-driven Serverless computing service.",
+		"description":"Function Service is a serverless computing service driven by events, which meets demands of multiple application scenarios, and rapidly constructs applications and services. Users only need to concern business codes other than configure and manage server and other infrastructures, which greatly reduces the operation and maintenance cost. Function Service automatically schedules resource to run functions in real time according to the counts of concurrent requests to easily address business peak and trough.",
 		"id":2112
 	},
 	{
 		"introduce":"JD Distributed Service Framework Open Beta. Users can apply for joining the beta",
 		"name":"JD Distributed Service Framework  Open Beta",
-		"description":"JD Distributed Service Framework is a PaaS platform focusing on applications and microservices.",
+		"description":"JD Distributed Service Framework provides hosted Registration Center and Configuration Center and Calling Chain Analysis Service for users to conveniently implement Spring Cloud and other Microservice Architectures.",
 		"id":2113
 	},
 	{

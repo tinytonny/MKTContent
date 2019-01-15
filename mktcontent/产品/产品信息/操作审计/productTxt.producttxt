@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"productName\":\"Audit Trail\",\"desc\":\"Audit Trail is a service provided by JD Cloud that enables users to implement accurate tracking, restore user behavior audit by all operation records saved by Audit Trail, which plays a very important role in security analysis, resource change trail and compliance review.\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/audittrail\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":793
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Efficient Push\",\"proName\":\"Audit Trail collects, processes and transmits events through available data processing pipeline.\"},{\"showShade\":false,\"proGood\":\"Accurate Record\",\"proName\":\"Clearly record user operation information, view, search, download and analyze account activities by using Audit Trail.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Reliable Implement\",\"proName\":\"Users can timely understand about operation events, i.e., they can timely understand operation behaviors of accounts by viewing Audit Trail and immediately treat or feed the problems they encountered back.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Security Compliance\",\"proName\":\"Position problems, fault events by effectively recording all operation behaviors in JD Cloud accounts in real time to ensure the security compliance of businesses running on JD Cloud.\"}]",
+		"id":794
+	},
+	{
+		"txt":"[{\"funcName\":\"Operation Record\",\"funcContent\":[{\"funcTitle\":\"Out-of-the-box Use\",\"funcP\":\"Operation records of last ninety days can be collected through Audit Trail function without configuration and viewed on page of Console Audit Trail.\"}]},{\"funcName\":\"Event List\",\"funcContent\":[{\"funcTitle\":\"Operation Record List\",\"funcP\":\"Users can view operation even list through console, supporting to search operation events from dimensions of event name, product type, event time, operation accounts, etc.\"}]},{\"funcName\":\"Record Details\",\"funcContent\":[{\"funcTitle\":\"Operation Record Details\",\"funcP\":\"Users can obtain single operation record details, including access key, region, error code, event source, event ID, request ID and IP address.\"}]}]",
+		"id":795
+	}
+]

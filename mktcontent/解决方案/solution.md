@@ -100,7 +100,7 @@
 		"id":68
 	},
 	{
-		"name":"JD WorkSpace Private Solutions",
+		"name":"JD WorkSpace Solution",
 		"id":72
 	},
 	{

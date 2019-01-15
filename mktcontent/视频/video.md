@@ -133,5 +133,15 @@
 		"description":"Cloud Talk 08: Combine AI with Enterprise Service to Let Urban Industry Service Cloud Platform Help Enterprises Implement “Cloud Cultivation”",
 		"id":31,
 		"title":"Cloud Talk 08"
+	},
+	{
+		"description":"Seen or not Seen -- JD Cloud City Story - Suqian",
+		"id":59,
+		"title":"Seen or not Seen -- JD Cloud City Story - Suqian"
+	},
+	{
+		"description":"Seen or not Seen -- JD Cloud City Story - Suqian",
+		"id":60,
+		"title":"Seen or not Seen -- JD Cloud City Story - Suqian"
 	}
 ]
