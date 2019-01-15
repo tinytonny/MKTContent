@@ -310,11 +310,6 @@
 		"id":159
 	},
 	{
-		"name":"创业扶持",
-		"description":"",
-		"id":160
-	},
-	{
 		"name":"云数据库 SQL Server",
 		"description":"功能强大，稳定可靠的数据管理平台",
 		"id":161
@@ -1578,5 +1573,10 @@
 		"name":"AI智慧门店解决方案",
 		"description":"",
 		"id":3063
+	},
+	{
+		"name":"队列服务",
+		"description":"基于serverless架构的全托管消息队列服务",
+		"id":3079
 	}
 ]
