@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"容器镜像仓库\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/containerregistry\"}],\"desc\":\"容器镜像仓库是全托管的容器镜像存储、分发平台，提供安全、可靠的镜像服务，与京东云原生容器、Kubernetes集群服务无缝集成，为基于容器的应用提供一站式部署服务。\\n\\n公测期间，一折促销中，欢迎使用\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/fb2ee315-72e2-4057-b250-9907cbc6985e20181115163317.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|96\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|96\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"容器镜像仓库\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://cns-console.jdcloud.com/host/containerregistry/list\"}],\"desc\":\"容器镜像仓库是全托管的容器镜像存储、分发平台，提供安全、可靠的镜像服务，与京东云原生容器、Kubernetes集群服务无缝集成，为基于容器的应用提供一站式部署服务。\\n\\n一折促销中，欢迎使用\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/fb2ee315-72e2-4057-b250-9907cbc6985e20181115163317.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|96\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|96\"}",
 		"id":287
 	},
 	{
