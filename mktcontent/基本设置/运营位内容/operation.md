@@ -36,7 +36,7 @@
 	},
 	{
 		"name":"容器镜像仓库",
-		"description":"一折公测中",
+		"description":"一折促销中",
 		"id":8
 	}
 ]
