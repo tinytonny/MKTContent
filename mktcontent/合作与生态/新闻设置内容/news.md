@@ -550,5 +550,13 @@
 		"jss_key":"News_Content_442",
 		"id":442,
 		"news_title":"京东云跻身中国科技创新企业榜单前十强"
+	},
+	{
+		"summary":"云聚南京，智汇麒麟。京东云智能产业华东区域总部签约揭牌仪式暨京东云产业创新云发布会”在南京市盛大开幕。",
+		"image_url":"//img1.jcloudcs.com/cms/664f4be1-99ac-426b-9081-64a7394171c920190116195159.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_443",
+		"jss_key":"News_Content_443",
+		"id":443,
+		"news_title":"“京东云智能产业华东区域总部”落户南京"
 	}
 ]
