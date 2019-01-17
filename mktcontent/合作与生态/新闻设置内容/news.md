@@ -542,5 +542,21 @@
 		"jss_key":"News_Content_440",
 		"id":440,
 		"news_title":"A great beginning of new VPC-WAF won 2018 \"SKD Excellent Product Award\""
+	},
+	{
+		"summary":"At the 2019 Ifenxi Technology Innovation Conference, JD Cloud ranks among the top ten by virtue of its comprehensive score, in the top three among cloud computing manufacturers, making a remarkable achievement.",
+		"image_url":"//img1.jcloudcs.com/cms/f13ff47d-6659-4538-97ef-2fceb7fc6c3820190111140906.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_442",
+		"jss_key":"News_Content_442",
+		"id":442,
+		"news_title":"JD Cloud is among top ten on the list of China’s Scientific and Technological Innovation-oriented Enterprise"
+	},
+	{
+		"summary":"The Signing & Opening Ceremony for the East China headquarters of JD Cloud Intelligence Industry and JD Cloud Industrial Innovation Cloud Press Conference was held in Nanjing.",
+		"image_url":"//img1.jcloudcs.com/cms/664f4be1-99ac-426b-9081-64a7394171c920190116195159.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_443",
+		"jss_key":"News_Content_443",
+		"id":443,
+		"news_title":"The East China headquarters of JD Cloud Intelligence Industry Cloud was established in Nanjing."
 	}
 ]
