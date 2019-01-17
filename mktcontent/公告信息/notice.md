@@ -286,5 +286,9 @@
 	{
 		"id":604,
 		"title":"华东-上海地域Kubernetes集群升级通知"
+	},
+	{
+		"id":605,
+		"title":"华北-北京地域Kubernetes集群升级通知"
 	}
 ]
