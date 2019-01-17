@@ -36,7 +36,7 @@
 	},
 	{
 		"name":"Container Registry",
-		"description":"90% off during the beta period",
+		"description":"90% off now",
 		"id":8
 	}
 ]
