@@ -1204,5 +1204,11 @@
 		"name":"Cloud Physical Server  Launch New Category GPUⅢ",
 		"description":"cn-north-1 launches V100*4 New Category GPUⅢ",
 		"id":2116
+	},
+	{
+		"introduce":"Audit Trail Open Beta",
+		"name":"Audit Trail Open Beta",
+		"description":"Audit Trail is a service provided by JD Cloud that enables users to implement accurate tracking, and restore user behavior audit by all operation records saved by Audit Trail, which plays a very important role in security analysis, resource change trail and compliance review.",
+		"id":2135
 	}
 ]

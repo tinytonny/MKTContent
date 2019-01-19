@@ -274,5 +274,13 @@
 	{
 		"id":592,
 		"title":"JD Cloud Offered New Type of Cloud Disk Service in cn-east-2"
+	},
+	{
+		"id":602,
+		"title":"BGP Export Migration Notice in South China Region"
+	},
+	{
+		"id":603,
+		"title":"JD Cloud launched Cloud Disk Service of new specifications in Suqian and Guangzhou on February 28"
 	}
 ]

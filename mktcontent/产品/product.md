@@ -252,6 +252,10 @@
 		"id":1122
 	},
 	{
+		"name":"Directory Service",
+		"id":1137
+	},
+	{
 		"name":"PLUS Smart SMS",
 		"id":1143
 	},

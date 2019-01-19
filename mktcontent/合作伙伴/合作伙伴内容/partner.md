@@ -272,14 +272,6 @@
 		"tableName":"cms_partner"
 	},
 	{
-		"name":"Beijing Weifuyou Scientific and Technologic Development Co., Ltd.",
-		"description":"Weifuyou-18 years of ERP and distribution retail storefront system, 9 years of E-commerce management software system, 5 years of omni-channel medium-sized system, 3 years of intelligent mobile new retail implementation capability, successfully provides omni-channel system construction for Haier, Peacebird, New Hope, Evergrande, Aimer, Erdos, Quanyou, Deli and other enterprises.",
-		"short_name":"Beijing Weifuyou",
-		"id":44,
-		"partner_label":"18-year ERP and distribution & retail storefront system",
-		"tableName":"cms_partner"
-	},
-	{
 		"name":"Shanghai Qianjiang Cloud Technology Co., Ltd.",
 		"description":"Shanghai QianJiang Network Technology Co., Ltd. is China's leading enterprise Internet new business platform service provider, which provides e-commerce applications and PaaS services, helps companies redefine enterprise IT architecture, supports enterprises to customize e-commerce application solutions on demand, and helps enterprises Internet and empowers companies to digitize new businesses.",
 		"short_name":"Qianjiang Cloud",
@@ -356,6 +348,134 @@
 		"description":"Xiaoneng was founded in 2007, which belongs to Beijing Ntalker Technology Corporation. As a service provider of smart cloud customer service solution, it is always the pioneer and advocate in customer service field. Since Xiaoneng Smart Customer Service formally released in 2011, it has cooperated with top enterprises in each industry to release solutions of 9 major industries and become their long-term strategic partner.",
 		"short_name":"Xiaoneng",
 		"id":597,
+		"partner_label":"Sales Agent",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Ele-Cloud Information Technology Co., Ltd.",
+		"description":"Ele-Cloud Information Technology Co., Ltd. is an innovative Internet science and technology company focusing on the integration of taxation big data development & application, taxation information business and \"Internet + taxation\". Established in 2016, it has helped various customers implement safe, convenient and fast, stable and active taxation information services.",
+		"short_name":"Ele-Cloud",
+		"id":598,
+		"partner_label":"Solution Provider",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Beijing Deya Fenghua Information Technology Co., Ltd.",
+		"description":"Found in 2004, DEYA TECH is the earliest manufacturer supplying Enterprise Cloud BOX in China. HOLA enterprise content management system helps enterprises conduct centralized management of technical documents, project documents, and market data so as to implement sort management, safe sharing, controlled distribution, quick retrieval and version management of documents.",
+		"short_name":"Deya",
+		"id":599,
+		"partner_label":"Solution Provider",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Hunan Jubaopen Network Technology Co., Ltd.",
+		"description":"As a professional e-commerce software provider at home, the company provides enterprises with multi-user online store system, omni-channel retail online store system, new retail group purchase system for community, WeChat distribution online store system and on-line & off-line integrated new retail store management system as well as online store e-commerce software and marketing tools and related value-added services.",
+		"short_name":"Jubaopen",
+		"id":600,
+		"partner_label":"Solution Provider",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Shenzhen Kemai Technology Co., Ltd.",
+		"description":"Kemai is one of the early domestic developers of business software management systems and is a high-tech enterprise with its original products. The company has abundant experience of product development and project implementation in the field of business management software since it has devoted itself to retailing for 18 years. It obtained the first-batch national high-tech enterprise certification, 5 national patents and 52 software copyright patents.",
+		"short_name":"Kemai",
+		"id":601,
+		"partner_label":"Solution Provider",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"ChinaMainCloud (Beijing) Network Technology Co., Ltd.",
+		"description":"ChinaMainCloud (Beijing) Network Technology Co., Ltd. is a leading domestic network contents integrated operating service provider, providing customers with five excellent services including cloud distribution, cloud storage, cloud security, cloud computing center and data analysis. It has become the integrated service provider and strategic partner of over 200 Internet technology giants in the field of cloud computing.",
+		"short_name":"ChinaMainCloud",
+		"id":602,
+		"partner_label":"Solution Provider",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Suzhou Yinengtong Information Technology Co., Ltd.",
+		"description":"Suzhou Yinengtong Information Technology Co., Ltd. is a high-tech company concentrating on artificial intelligence (AI). With the cutting-edge Chinese Natural Language Processing technology in China, the company devotes itself to bringing revolutionary improvement to efficiency of communication between enterprises and consumers and efficiency of customer service and sales with AI technologies.",
+		"short_name":"Yinengtong",
+		"id":603,
+		"partner_label":"Solution Provider",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Beijing Weifuyou Scientific and Technologic Development Co., Ltd.",
+		"description":"Beijing Weifuyou is the most competitive domestic retail ERP software management developer, supplier and solution provider in e-commerce times at present, and also one of the pioneers and leading manufacturers in the Chinese retail ERP management software industry. The company owns 76 software copyright patents and provides services for more than 1,000 large and medium enterprise customers.",
+		"short_name":"Beijing Weifuyou",
+		"id":604,
+		"partner_label":"Sales Agent",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Wuhan MyE Information Technology Co., Ltd.",
+		"description":"Found in 2013, MyE Technology has been devoting itself to investment and operation of cloud computing infrastructure, research and development of technology and professional operation and maintenance so as to provide customers in the industry with safe, reliable, flexible and customized cloud service products and solutions and facilitate cloudization of enterprise IT architecture. The company is a professional cloud service provider in Central China.",
+		"short_name":"MyE Technology",
+		"id":605,
+		"partner_label":"Solution Provider",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Changsha Xishang Network Technology Co., Ltd.",
+		"description":"Xishang Network Technology (http://www.jubaozan.com) was established in 2014. Xishang Network Technology - Jubaozan specializes in offering one-stop social new retail marketing and member management solutions to traditional e-commerce and enterprises in order to help enterprises rapidly expand channels and increase sales and building their own member new retail platform. The company's selected merchants include Yanjinpuzi, Xiongbenjia, and Jiajia Soy Sauce.",
+		"short_name":"Xishang Network",
+		"id":606,
+		"partner_label":"Solutions",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Guangdong UnitedData Holding Group Co., Ltd.",
+		"description":"Being a professional data eco-environment operator, Guangdong UnitedData Holding Group Co., Ltd. specializes in industrial whole life cycle management services for data centers, with its scope of business covering planning and design, operation and maintenance, cloud computing and value-added services of data center. The company is an industry leader in aspect of asset management and technology research and development of data center. ",
+		"short_name":"UnitedData",
+		"id":607,
+		"partner_label":"Sales Agent",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"CloudXink.com",
+		"description":"CloudXink is the leading innovator of brand and advertisement research in China. By combining traditional research modules and Internet technologies, the company develops automated cloud products. By connecting and cooperating with partners in respect of data, technology and methodology, it provides precise marketing ROI evaluation and optimization solutions for the market.",
+		"short_name":"CloudXink",
+		"id":608,
+		"partner_label":"Solution Provider",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Jiangsu Cudatec Technology Co., Ltd.",
+		"description":"Cudatec is a high-tech enterprise specializing in 3D visual computing cloud technology research, development and application, owning diversified derivative products in fields of movie and TV cartoon, game, and AR/VR. Xrender (product) is the only cloud rendering platform embracing public cloud in an all-round way in the world, aiming at providing global users with high-efficiency and low-cost solutions by cooperating with public cloud.",
+		"short_name":"Cudatec",
+		"id":609,
+		"partner_label":"Solution Provider",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"CNISPGROUP Technology Co., Ltd.",
+		"description":"As a cloud infrastructure service provider, CNISPGROUP Technology Co., Ltd. owns several professional accreditations and service qualifications, such as value-added telecommunications business license for entire network. By optimizing operator contents and data resources, CNISPGROUP satisfy customers’ differentiated demands and has provided services for a large number of famous domestic enterprises at present.",
+		"short_name":"CNISPGROUP Technology Co., Ltd.",
+		"id":610,
+		"partner_label":"Solution Provider",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Zhongxun Runda (Beijing) Technology Co., Ltd.",
+		"description":"As a professional intelligent communication service provider, Zhongxun Runda (Beijing) Technology Co., Ltd. provides mobile manufacturers with big data and artificial intelligence (AI) solutions through system address list. Its main products include: Intelligent Address List, and Intelligent Marketing Platform. The company devotes itself to providing valuable services for more people.",
+		"short_name":"Zhongxun Runda",
+		"id":611,
+		"partner_label":"Solution Provider",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Zhongyunxin Technology Co., Ltd.",
+		"description":"Established in 2018, Zhongyunxin Technology Co., Ltd. is a scientific and technological innovation-oriented enterprise controlled by CITIC Private Equity Funds Management Co., Ltd., providing multiple one-stop services such as hosted data center, data disaster recovery, cloud computing, big data, business continuity and IT outsourcing for customers.",
+		"short_name":"Zhongyunxin",
+		"id":612,
+		"partner_label":"Solution Provider",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Anhui Ruilian Information Technology Co., Ltd.",
+		"description":"Ruilian Information Technology is a system integrator providing computer information application for small and medium enterprises. The company aims at offering customized informatization construction schemes at the premise of controlling costs and increase benefits for enterprises and providing enterprise virtualization, big data integration, deep security control and other businesses for high-end users.",
+		"short_name":"Ruilian Information",
+		"id":613,
 		"partner_label":"Sales Agent",
 		"tableName":"cms_partner"
 	}

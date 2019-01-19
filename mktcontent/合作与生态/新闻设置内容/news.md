@@ -542,5 +542,13 @@
 		"jss_key":"News_Content_440",
 		"id":440,
 		"news_title":"A great beginning of new VPC-WAF won 2018 \"SKD Excellent Product Award\""
+	},
+	{
+		"summary":"On the “2019 Ifenxi Technology Innovation Conference”, the comprehensive score of JD Cloud ranks among the top 10, in the top three among cloud computing manufacturers, giving out an impressive transcript.",
+		"image_url":"//img1.jcloudcs.com/cms/f13ff47d-6659-4538-97ef-2fceb7fc6c3820190111140906.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_442",
+		"jss_key":"News_Content_442",
+		"id":442,
+		"news_title":"JD Cloud is among top ten on the list of China’s Scientific and Technological Innovation-oriented Enterprise"
 	}
 ]
