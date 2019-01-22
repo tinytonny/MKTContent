@@ -1171,7 +1171,7 @@
 	},
 	{
 		"name":"JD City",
-		"description":"",
+		"description":"JD City",
 		"id":415
 	},
 	{
