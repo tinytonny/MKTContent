@@ -642,5 +642,12 @@
 		"id":1045,
 		"button_title":"查看详情",
 		"main_title":"原生容器Pod开放公测"
+	},
+	{
+		"sub_title":"",
+		"name":"智能城市白皮书",
+		"id":1047,
+		"button_title":"",
+		"main_title":""
 	}
 ]
