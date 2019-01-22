@@ -558,5 +558,21 @@
 		"jss_key":"News_Content_443",
 		"id":443,
 		"news_title":"“京东云智能产业华东区域总部”落户南京"
+	},
+	{
+		"summary":"京东云发布《京东云智能城市白皮书（2019）》，宣布开启“智能城市合伙人”模式。",
+		"image_url":"//img1.jcloudcs.com/cms/512d9594-ca95-4a41-bfd3-3169d727fc0920190117164720.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_444",
+		"jss_key":"News_Content_444",
+		"id":444,
+		"news_title":"京东云发布智能城市白皮书  让城市生活更简单美好"
+	},
+	{
+		"summary":"京东云近日正式推出了《京东云游戏白皮书》，从行业背景、技术支撑、服务保障、游戏生态等多个维度，全方位展现了京东云赋能游戏行业的综合实力。",
+		"image_url":"//img1.jcloudcs.com/cms/606286d9-2572-4cc2-b316-bc9f8a6417ca20190122115432.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_448",
+		"jss_key":"News_Content_448",
+		"id":448,
+		"news_title":"厚积薄发推出“游戏白皮书”京东云全面进军游戏行业"
 	}
 ]
