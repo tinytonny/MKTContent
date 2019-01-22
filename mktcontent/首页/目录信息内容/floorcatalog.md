@@ -456,7 +456,7 @@
 		"button_title":"View Now"
 	},
 	{
-		"name":"Ele-Cloud and JD Cloud Co-Develop One Stop Digital Tax",
+		"name":"Ele-Cloud and JD Cloud Co-Develop One Stop Digital Tax Services Platform",
 		"description":"Ele-Cloud and JD Cloud join resources to achieve a single goal: digitalizing tax services to offer more secure, convenient and reliable taxpayer experiences. The two sides will jointly develop a one-stop platform that leverages Big Data and provides various digital tax services over the internet.",
 		"id":101,
 		"button_title":"Strategic Cooperation"
