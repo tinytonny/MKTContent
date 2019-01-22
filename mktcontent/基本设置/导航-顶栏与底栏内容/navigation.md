@@ -1613,5 +1613,10 @@
 		"name":"Queue Service",
 		"description":"Fully managed message queue service based on serverless architecture",
 		"id":3079
+	},
+	{
+		"name":"Hybrid Cloud Security Solution",
+		"description":"Hybrid Cloud Security Solution",
+		"id":3087
 	}
 ]
