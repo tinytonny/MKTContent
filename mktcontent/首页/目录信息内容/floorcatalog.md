@@ -324,16 +324,16 @@
 		"button_title":"Sign Up Now"
 	},
 	{
-		"name":"JD Cloud Supports Xianyou County's Digital Economic Boom",
-		"description":"On Dec 15th, Jing Dong and the Xianyou County Government publicly announce the Beijing signing of a strategic collaboration to develop a Digital Economic Center with government endorsed decision making authority in Xianyou.",
+		"name":"JD Cloud releases \"Intelligent Cities with JD Cloud\" White Paper",
+		"description":"JD Cloud releases its \"Intelligent Cities with JD Cloud\" white paper, promoting a new model of multi-party collaboration towards urban intelligence. The whitepaper reveals JD Cloud's unique perspective on the implications of the cognitive awakening of our cities and outlines a set of processes and methodologies for successfully making the shift. ",
 		"id":66,
-		"button_title":"Strategy Cooperation"
+		"button_title":"White Paper"
 	},
 	{
-		"name":"Yunyi DevOps Honored as the \"Operation Industry's 2018 End of Year Celebrity Product\"",
-		"description":"JD Cloud's Yunyi DevOps was honored as the \"Operation Industry's 2018 End of Year Celebrity Product\" at the 2018 GOLF, the most important end of year convention in the Operations industry, signifying deep industry recognition for JD Cloud's technologies in the Operations front.",
+		"name":"JD Cloud Deploys Smart Industrial Hub in Nanjing",
+		"description":"JD Cloud has chosen Nanjing as the site for the headquarters of its Smart Industry operations in the East China region, at a time when the region's economy is rife with opportunities for digitalization. The HQ will serve as a hub orchestrating the upgrade of the city's traditional industries and will expand outwards through the Yangtze River Delta and into the rest of the East China region, helping the industries in the area succeed in the \"new economy\".",
 		"id":68,
-		"button_title":"Awrads"
+		"button_title":"Strategic Cooperation"
 	},
 	{
 		"name":"Virtual Private Cloud",
@@ -456,10 +456,10 @@
 		"button_title":"View Now"
 	},
 	{
-		"name":"MarTech is the CMO's Weapon For Market Conquest",
-		"description":"On Dec 18th, Dr. Leslie Liu, JD Group’s Corporate Vice President and Head of the JD Cloud Ecosystem was invited to the 2018 China AI Marketing Summit, hosted by IPinyou, to give the lecture \"Breathing Fire into Marketing through MarTech enabled by Digital Technologies\".",
+		"name":"Ele-Cloud and JD Cloud Co-Develop One Stop Digital Tax",
+		"description":"Ele-Cloud and JD Cloud join resources to achieve a single goal: digitalizing tax services to offer more secure, convenient and reliable taxpayer experiences. The two sides will jointly develop a one-stop platform that leverages Big Data and provides various digital tax services over the internet.",
 		"id":101,
-		"button_title":"Speech"
+		"button_title":"Strategic Cooperation"
 	},
 	{
 		"name":"Availability Group",
