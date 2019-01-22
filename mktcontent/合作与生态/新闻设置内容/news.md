@@ -550,5 +550,13 @@
 		"jss_key":"News_Content_442",
 		"id":442,
 		"news_title":"JD Cloud is among top ten on the list of China’s Scientific and Technological Innovation-oriented Enterprise"
+	},
+	{
+		"summary":"Cloud in Nanjing, Wisdom of Chilin. The \"Signing & Opening Ceremony for the East China headquarters of JD Cloud Intelligence Industry and JD Cloud Industrial Innovation Cloud Press Conference\" was held in Nanjing.",
+		"image_url":"//img1.jcloudcs.com/cms/664f4be1-99ac-426b-9081-64a7394171c920190116195159.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_443",
+		"jss_key":"News_Content_443",
+		"id":443,
+		"news_title":"\"The East China headquarters of JD Cloud Intelligence Industry\" was established in Nanjing."
 	}
 ]

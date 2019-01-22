@@ -282,5 +282,13 @@
 	{
 		"id":603,
 		"title":"JD Cloud launched Cloud Disk Service of new specifications in Suqian and Guangzhou on February 28"
+	},
+	{
+		"id":604,
+		"title":"Upgrade Notice for JCS for Kubernetes Clusters in cn-east-2 Region"
+	},
+	{
+		"id":605,
+		"title":"Upgrade Notice for JCS for Kubernetes Clusters in cn-north-1 Region"
 	}
 ]

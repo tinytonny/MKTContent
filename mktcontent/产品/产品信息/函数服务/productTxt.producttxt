@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Function Service\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/function\",\"classTag\":\"\"}],\"desc\":\"Function Service is an event-driven Serverless computing service.\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Function Service\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/function\",\"classTag\":\"\"}],\"desc\":\"Function Service is an event-driven Serverless computing service. With Function Service platform, users can elastically, reliably run business codes, rapidly construct applications and services without configuring and managing infrastructures such as servers, and only need to pay the resources that the codes actually consume.\"}",
 		"id":716
 	},
 	{
