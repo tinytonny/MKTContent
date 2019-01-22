@@ -574,5 +574,13 @@
 		"jss_key":"News_Content_448",
 		"id":448,
 		"news_title":"厚积薄发推出“游戏白皮书”京东云全面进军游戏行业"
+	},
+	{
+		"summary":"京东云宣布已经完成包括云主机，原生容器，数据库，负载均衡，IP高防等数十个产品和服务的IPv4/IPv6双栈改造，且已经为京东商城服务提供IPv6支持。",
+		"image_url":"//img1.jcloudcs.com/cms/ca3a49af-8794-44e3-98c0-310ff6ed4a5c20190122153426.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_449",
+		"jss_key":"News_Content_449",
+		"id":449,
+		"news_title":"云服务能力再升级，京东云产品全面支持IPv6"
 	}
 ]
