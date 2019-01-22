@@ -1608,5 +1608,10 @@
 		"name":"AI Store Solution",
 		"description":"",
 		"id":3063
+	},
+	{
+		"name":"Queue Service",
+		"description":"Fully managed message queue service based on serverless architecture",
+		"id":3079
 	}
 ]
