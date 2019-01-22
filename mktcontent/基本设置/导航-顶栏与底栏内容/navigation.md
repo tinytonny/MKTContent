@@ -1265,7 +1265,7 @@
 		"id":434
 	},
 	{
-		"name":"JD WorkSpace",
+		"name":"JD WorkSpaces",
 		"description":"Cloud-based Virtual Desktop Service for Remote Accessing Your Office Platform",
 		"id":435
 	},
