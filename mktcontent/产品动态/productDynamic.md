@@ -1222,5 +1222,11 @@
 		"name":"容器镜像仓库 正式发布",
 		"description":"容器镜像仓库是全托管的容器镜像存储、分发平台，提供安全、可靠的镜像服务，与京东云原生容器、Kubernetes集群服务无缝集成，为基于容器的应用提供一站式部署服务。",
 		"id":2137
+	},
+	{
+		"introduce":"云数据库 SQL Server支持SQL Server Web版",
+		"name":"支持SQL Server Web版",
+		"description":"支持SQL Server Web版本。 目前京东云RDS SQL Server云数据已全线支持企业版，标准版和Web版，可满足用户各种数据库场景的需求。",
+		"id":2139
 	}
 ]
