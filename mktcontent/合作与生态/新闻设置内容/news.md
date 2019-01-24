@@ -558,5 +558,29 @@
 		"jss_key":"News_Content_443",
 		"id":443,
 		"news_title":"\"The East China headquarters of JD Cloud Intelligence Industry\" was established in Nanjing."
+	},
+	{
+		"summary":"JD Cloud released the White Paper of JD Cloud Smart City (2019) to declare launch of the \"Smart City Partner\" mode.",
+		"image_url":"//img1.jcloudcs.com/cms/512d9594-ca95-4a41-bfd3-3169d727fc0920190117164720.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_444",
+		"jss_key":"News_Content_444",
+		"id":444,
+		"news_title":"JD Cloud released the White Paper of JD Cloud Smart City to make city life simpler and better"
+	},
+	{
+		"summary":"JD Cloud officially launched the White Paper of JD Cloud Games recently to give an all-around display of the comprehensive strength of game industry empowered by JD Cloud in multiple dimensions such as industry background, technical support, SLA, and game ecology.",
+		"image_url":"//img1.jcloudcs.com/cms/606286d9-2572-4cc2-b316-bc9f8a6417ca20190122115432.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_448",
+		"jss_key":"News_Content_448",
+		"id":448,
+		"news_title":"Launch of the White Paper of JD Games after adequate preparation marks JD Cloud’s entry into the gaming industry in an all-round way"
+	},
+	{
+		"summary":"JD Cloud announced that it had completed the IPv4/IPv6 dual-stack reconstruction for dozens of products and services including Virtual Machines, Native Container, Database, Load Balancer and Anti-DDoS Pro and had provided JD Mall services with IPv6 support.",
+		"image_url":"//img1.jcloudcs.com/cms/ca3a49af-8794-44e3-98c0-310ff6ed4a5c20190122153426.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_449",
+		"jss_key":"News_Content_449",
+		"id":449,
+		"news_title":"Products of JD Cloud fully support IPv6 with another upgrade of Cloud service capability"
 	}
 ]

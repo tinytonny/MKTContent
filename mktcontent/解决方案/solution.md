@@ -122,5 +122,9 @@
 	{
 		"name":"AI Smart Retail Store Solutions",
 		"id":85
+	},
+	{
+		"name":"AR Makeup Try-ons Solutions",
+		"id":88
 	}
 ]

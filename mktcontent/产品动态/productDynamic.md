@@ -1210,5 +1210,17 @@
 		"name":"Audit Trail Open Beta",
 		"description":"Audit Trail is a service provided by JD Cloud that enables users to implement accurate tracking, and restore user behavior audit by all operation records saved by Audit Trail, which plays a very important role in security analysis, resource change trail and compliance review.",
 		"id":2135
+	},
+	{
+		"introduce":"Official Release of JCS for Kubernetes",
+		"name":"Official Release of JCS for Kubernetes",
+		"description":"By adopting the fully-hosted management node, JCS for Kubernetes offers simple, easy-to-use, high-reliable and powerful container management service to users. This product is absolutely compatible with Kubernetes API and integrates networks, memories and other plug-ins of JD Cloud.",
+		"id":2136
+	},
+	{
+		"introduce":"Official Release of Container Registry",
+		"name":"Official Release of Container Registry",
+		"description":"The container registry is a fully hosted docker image storage and distribution platform that provides secure and reliable image services, seamlessly integrating with JD Cloud Native Container and JCS for Kubernetes to provide one-stop deployment services for container application.",
+		"id":2137
 	}
 ]
