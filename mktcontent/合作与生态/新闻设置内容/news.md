@@ -582,5 +582,21 @@
 		"jss_key":"News_Content_449",
 		"id":449,
 		"news_title":"云服务能力再升级，京东云产品全面支持IPv6"
+	},
+	{
+		"summary":"京东云与北京市经济和信息化局在北京城市副中心成功签订“北京大数据行动计划社会机构数据合作框架协议”。",
+		"image_url":"//img1.jcloudcs.com/cms/b073dca5-a3d3-44fa-95f7-60573e09fb2920190123152602.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_452",
+		"jss_key":"News_Content_452",
+		"id":452,
+		"news_title":"京东云筑梦北京建设世界级数字生态城市"
+	},
+	{
+		"summary":"携手京东云，聚焦新经济。1月23日，“大同京东云新经济展示中心启动仪式”在大同成功举行。",
+		"image_url":"//img1.jcloudcs.com/cms/04f5ed0e-2e69-4b98-9a31-fd0b6241f65f20190123170834.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_453",
+		"jss_key":"News_Content_453",
+		"id":453,
+		"news_title":"“大同京东云新经济展示中心”启动"
 	}
 ]
