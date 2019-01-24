@@ -1146,5 +1146,40 @@
 		"summary":"",
 		"name":"消息队列 JCQ",
 		"id":3181
+	},
+	{
+		"summary":"",
+		"name":"视频直播",
+		"id":3183
+	},
+	{
+		"summary":"",
+		"name":"JDSystem360 一体机",
+		"id":3185
+	},
+	{
+		"summary":"",
+		"name":"云通讯",
+		"id":3186
+	},
+	{
+		"summary":"",
+		"name":"文本短信",
+		"id":3187
+	},
+	{
+		"summary":"",
+		"name":"域名诊断",
+		"id":3188
+	},
+	{
+		"summary":"",
+		"name":"队列服务",
+		"id":3189
+	},
+	{
+		"summary":"",
+		"name":"通知服务",
+		"id":3190
 	}
 ]
