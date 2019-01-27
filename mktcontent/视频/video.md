@@ -143,5 +143,75 @@
 		"description":"Seen or not Seen -- JD Cloud City Story - Suqian",
 		"id":60,
 		"title":"Seen or not Seen -- JD Cloud City Story - Suqian"
+	},
+	{
+		"description":"New Economy Exhibition Center - Changzhou - 1",
+		"id":63,
+		"title":"Wind Section - Cooperation"
+	},
+	{
+		"description":"New Economy Exhibition Center - Changzhou - 2",
+		"id":64,
+		"title":"Cloud Section - Nationwide Strategic Layout of JD Cloud - Changzhou"
+	},
+	{
+		"description":"New Economy Exhibition Center - Changzhou - 3",
+		"id":65,
+		"title":"Cloud Section - Nationwide Strategic Layout of JD Cloud - Tongliang"
+	},
+	{
+		"description":"New Economy Exhibition Center - Changzhou - 4",
+		"id":66,
+		"title":"Cloud Section - Nationwide Strategic Layout of JD Cloud - Zhaoqing"
+	},
+	{
+		"description":"New Economy Exhibition Center - Changzhou - 5",
+		"id":67,
+		"title":"Pursuit Section - New Economy of Changzhou"
+	},
+	{
+		"description":"New Economy Exhibition Center - Changzhou - 6",
+		"id":68,
+		"title":"Pursuit Section - Sci-tech Product Exhibition Area - Brand"
+	},
+	{
+		"description":"New Economy Exhibition Center - Changzhou - 7",
+		"id":69,
+		"title":"Pursuit Section - Sci-tech Product Exhibition Area - E-commerce"
+	},
+	{
+		"description":"New Economy Exhibition Center - Changzhou - 8",
+		"id":70,
+		"title":"Pursuit Section - Sci-tech Product Exhibition Area - Finance"
+	},
+	{
+		"description":"New Economy Exhibition Center - Changzhou - 9",
+		"id":71,
+		"title":"Pursuit Section - Sci-tech Product Exhibition Area - Logistics"
+	},
+	{
+		"description":"New Economy Exhibition Center - Changzhou - 10",
+		"id":72,
+		"title":"Pursuit Section - Sci-tech Product Exhibition Area - Technology"
+	},
+	{
+		"description":"New Economy Exhibition Center - Changzhou - 11",
+		"id":73,
+		"title":"Pursuit Section - Sci-tech Product Exhibition Area - Unmanned Aerial Vehicle"
+	},
+	{
+		"description":"New Economy Exhibition Center - Changzhou - 12",
+		"id":74,
+		"title":"Pursuit Section - Sci-tech Product Exhibition Area - Robot"
+	},
+	{
+		"description":"New Economy Exhibition Center - Changzhou - 13",
+		"id":75,
+		"title":"Pursuit Section - Sci-tech Product Exhibition Area - No. 1 of Asia"
+	},
+	{
+		"description":"New Economy Exhibition Center - Changzhou - 14",
+		"id":76,
+		"title":"Dream Section - Interactive Area of Signature and Message Leaving - Tianning Image"
 	}
 ]

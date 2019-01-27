@@ -1222,5 +1222,11 @@
 		"name":"Official Release of Container Registry",
 		"description":"The container registry is a fully hosted docker image storage and distribution platform that provides secure and reliable image services, seamlessly integrating with JD Cloud Native Container and JCS for Kubernetes to provide one-stop deployment services for container application.",
 		"id":2137
+	},
+	{
+		"introduce":"JCS for SQL Server supports SQL Server Web version",
+		"name":"Support SQL Server Web version",
+		"description":"Support SQL Server Web version. At present, JCS for SQL Server Service of JD Cloud RDS has fully supported enterprise version, standard version and Web version, which can meet users' requirements of various database scenarios.",
+		"id":2139
 	}
 ]

@@ -582,5 +582,21 @@
 		"jss_key":"News_Content_449",
 		"id":449,
 		"news_title":"Products of JD Cloud fully support IPv6 with another upgrade of Cloud service capability"
+	},
+	{
+		"summary":"JD Cloud and Beijing Municipal Bureau of Economy and Information Technology successfully signed Beijing Big Data Action Plan of Social Institution Data Cooperation Framework Agreement at City Sub-center of Beijing.",
+		"image_url":"//img1.jcloudcs.com/cms/b073dca5-a3d3-44fa-95f7-60573e09fb2920190123152602.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_452",
+		"jss_key":"News_Content_452",
+		"id":452,
+		"news_title":"JD Cloud is going to realize its dream of constructing a global level digital ecology city in Beijing"
+	},
+	{
+		"summary":"Cooperate with JD Cloud to focus on new economy. On January 23, \"Launching Ceremony of Da Tong and JD Cloud New Economy Exhibition Center\" was successfully held in Da Tong.",
+		"image_url":"//img1.jcloudcs.com/cms/04f5ed0e-2e69-4b98-9a31-fd0b6241f65f20190123170834.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_453",
+		"jss_key":"News_Content_453",
+		"id":453,
+		"news_title":"\"Da Tong and JD Cloud New Economy Exhibition Center\" launched"
 	}
 ]

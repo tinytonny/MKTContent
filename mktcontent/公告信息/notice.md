@@ -290,5 +290,13 @@
 	{
 		"id":605,
 		"title":"Upgrade Notice for JCS for Kubernetes Clusters in cn-north-1 Region"
+	},
+	{
+		"id":611,
+		"title":"2019 Spring Festival Holiday Service Announcement"
+	},
+	{
+		"id":612,
+		"title":"JCS for Redis 4.0 Beta Announcement"
 	}
 ]
