@@ -12,7 +12,7 @@
 		"solution_id":"88"
 	},
 	{
-		"txt":"{\"operator\":\"bjlihuaning\",\"floorName\":\"合作流程\",\"name\":\"newTab-2\",\"data\":[{\"progress\":[{\"name\":\"填写申请表\"},{\"name\":\"沟通合作方案\"},{\"name\":\"设备试用与展出\"},{\"name\":\"用户体验反馈\"}],\"buttons\":{\"name\":\"合作申请表\",\"link\":\"https://3.cn/zQrKpa9\",\"classTag\":\"\"}}]}",
+		"txt":"{\"operator\":\"bjlihuaning\",\"floorName\":\"合作流程\",\"name\":\"newTab-2\",\"data\":[{\"progress\":[{\"name\":\"填写申请表\"},{\"name\":\"沟通合作方案\"},{\"name\":\"设备试用与展出\"},{\"name\":\"用户体验反馈\"}],\"buttons\":{\"name\":\"合作申请表\",\"link\":\"https://answer.jd.com/answer/khFXssKFSMdM/1612150.htm\",\"classTag\":\"\"}}]}",
 		"templet":"61",
 		"id":403,
 		"solution_id":"88"
