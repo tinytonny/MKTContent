@@ -12,7 +12,7 @@
 		"solution_id":"88"
 	},
 	{
-		"txt":"{\"operator\":\"bjlihuaning\",\"floorName\":\"Cooperation Processes\",\"name\":\"newTab-2\",\"data\":[{\"progress\":[{\"name\":\"Fill in the Application Form\"},{\"name\":\"Communicating Cooperation Scheme\"},{\"name\":\"Trying out and Displaying Devices\"},{\"name\":\"User Experience Feedback\"}],\"buttons\":{\"name\":\"Cooperation Application Form\",\"link\":\"https://3.cn/zQrKpa9\",\"classTag\":\"\"}}]}",
+		"txt":"{\"operator\":\"bjlihuaning\",\"floorName\":\"Cooperation Processes\",\"name\":\"newTab-2\",\"data\":[{\"progress\":[{\"name\":\"Fill in the Application Form\"},{\"name\":\"Communicating Cooperation Scheme\"},{\"name\":\"Trying out and Displaying Devices\"},{\"name\":\"User Experience Feedback\"}],\"buttons\":{\"name\":\"Cooperation Application Form\",\"link\":\"https://answer.jd.com/answer/khFXssKFSMdM/1612150.html\",\"classTag\":\"\"}}]}",
 		"templet":"61",
 		"id":403,
 		"solution_id":"88"
