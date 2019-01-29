@@ -573,7 +573,7 @@
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_448",
 		"jss_key":"News_Content_448",
 		"id":448,
-		"news_title":"Launch of the White Paper of JD Games after adequate preparation marks JD Cloud’s entry into the gaming industry in an all-round way"
+		"news_title":"Well-prepared JD Cloud fully embraces the gaming industry"
 	},
 	{
 		"summary":"JD Cloud announced that it had completed the IPv4/IPv6 dual-stack reconstruction for dozens of products and services including Virtual Machines, Native Container, Database, Load Balancer and Anti-DDoS Pro and had provided JD Mall services with IPv6 support.",
