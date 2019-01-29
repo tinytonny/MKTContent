@@ -649,5 +649,40 @@
 		"id":1045,
 		"button_title":"More",
 		"main_title":"Pod, New Product for Native Container"
+	},
+	{
+		"sub_title":"Enterprise Version and Ultimate Version",
+		"name":"New Premier Service",
+		"id":1048,
+		"button_title":"More",
+		"main_title":"Premier Service"
+	},
+	{
+		"sub_title":"Manage Your Resources Anytime and Anywhere",
+		"name":"JD Cloud APP-Official Release for Android",
+		"id":1050,
+		"button_title":"Download Now",
+		"main_title":"JD Cloud APP Official Release for Android"
+	},
+	{
+		"sub_title":"Microservice Architecture Including Registry, Configuration Center and Analysis Service etc.",
+		"name":"JD Distributed Service Framework",
+		"id":1051,
+		"button_title":"Try Now",
+		"main_title":"JD Distributed Service Framework"
+	},
+	{
+		"sub_title":"Event-driven Serverless Computing Service",
+		"name":"Function Service",
+		"id":1052,
+		"button_title":"Try Now",
+		"main_title":"Function Service"
+	},
+	{
+		"sub_title":"",
+		"name":"NewYear",
+		"id":1053,
+		"button_title":"",
+		"main_title":""
 	}
 ]
