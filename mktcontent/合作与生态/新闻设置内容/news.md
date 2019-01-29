@@ -598,5 +598,29 @@
 		"jss_key":"News_Content_453",
 		"id":453,
 		"news_title":"“大同京东云新经济展示中心”启动"
+	},
+	{
+		"summary":"京东云宣布，在云安全方面再次得到国际专业权威认可，正式取得了“CSA STAR云安全认证” 金牌与“C STAR云计算安全评估认证”。",
+		"image_url":"//img1.jcloudcs.com/cms/5dbf94ff-443c-4a94-8b2b-1abe55ab675220190124145655.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_454",
+		"jss_key":"News_Content_454",
+		"id":454,
+		"news_title":"用实力打造“安全可靠云”，京东云再拿两大国际认证"
+	},
+	{
+		"summary":"京东云宣布，京东云云数据库 RDS 在所有地域正式支持 MySQL 8.0版本。",
+		"image_url":"//img1.jcloudcs.com/cms/d290dfc3-1195-496e-a0c9-578a436f024720190125152129.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_455",
+		"jss_key":"News_Content_455",
+		"id":455,
+		"news_title":"首发！京东云率先支持MySQL 8.0版本"
+	},
+	{
+		"summary":"京东云与国内领先的AR企业亮亮视野签署Matrix合作协议，双方将联手打造“京东云睿眸” 技术服务平台。",
+		"image_url":"//img1.jcloudcs.com/cms/18c641ac-b334-4331-90fd-05b8a6d4e79120190125153725.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_456",
+		"jss_key":"News_Content_456",
+		"id":456,
+		"news_title":"京东云生态版图延伸至AR/VR领域 添靓丽一笔"
 	}
 ]
