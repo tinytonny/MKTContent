@@ -649,5 +649,47 @@
 		"id":1047,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"提供企业版与旗舰版",
+		"name":"新版金牌服务",
+		"id":1048,
+		"button_title":"查看详情",
+		"main_title":"金牌服务企业用户专享"
+	},
+	{
+		"sub_title":"",
+		"name":"新版智能白皮书",
+		"id":1049,
+		"button_title":"",
+		"main_title":""
+	},
+	{
+		"sub_title":"提供随时随地的资源管理及运维服务",
+		"name":"移动APP 上线",
+		"id":1050,
+		"button_title":"立即下载",
+		"main_title":"京东云移动App-安卓版  正式发布"
+	},
+	{
+		"sub_title":"含注册中心、配置中心、调用链分析等功能的微服务框架",
+		"name":"分布式服务框架 公测",
+		"id":1051,
+		"button_title":"立即申请",
+		"main_title":"分布式服务框架 开放公测"
+	},
+	{
+		"sub_title":"事件驱动的Serverless计算服务",
+		"name":"函数服务 公测",
+		"id":1052,
+		"button_title":"立即申请",
+		"main_title":"函数服务 开放公测"
+	},
+	{
+		"sub_title":"",
+		"name":"拜年",
+		"id":1053,
+		"button_title":"",
+		"main_title":""
 	}
 ]
