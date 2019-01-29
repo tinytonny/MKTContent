@@ -1156,5 +1156,45 @@
 		"summary":"",
 		"name":"Audit Trail",
 		"id":3178
+	},
+	{
+		"summary":"",
+		"name":"Message Queue",
+		"id":3181
+	},
+	{
+		"summary":"",
+		"name":"Live Video",
+		"id":3183
+	},
+	{
+		"summary":"",
+		"name":"JDSystem360",
+		"id":3185
+	},
+	{
+		"summary":"",
+		"name":"Cloud Communication",
+		"id":3186
+	},
+	{
+		"summary":"",
+		"name":"Text Message",
+		"id":3187
+	},
+	{
+		"summary":"",
+		"name":"Domain Diagnosis",
+		"id":3188
+	},
+	{
+		"summary":"",
+		"name":"Queue Service",
+		"id":3189
+	},
+	{
+		"summary":"",
+		"name":"Notification Service",
+		"id":3190
 	}
 ]
