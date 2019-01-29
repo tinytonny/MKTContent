@@ -1,0 +1,22 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"视频点播\",\"label\":[{\"TitleName\":\"立即开通\",\"TitleUrl\":\"https://docs.jdcloud.com/video-on-demand/service-provisioning\",\"classTag\":\"\"}],\"desc\":\"视频点播服务是基于京东云强有力的基础服务能力，开发的集视频上传、媒资管理、视频处理、分发播放等功能于一体的一站式视频点播服务，可满足电商、教育、泛娱乐、视频网站各垂直行业全流程业务场景。\",\"iconUrl\":\"\",\"imageUrl\":\"\",\"middleClstag\":\"Products|keycount|MiddleContentSec|1152\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|1152\"}",
+		"id":334
+	},
+	{
+		"txt":"[{\"proGood\":\"快速接入\",\"proName\":\"提供上传、管理、分发一站式服务，具有控制台和开放API多种接入方式，专人协助，减少开发对接成本\\n\"},{\"proGood\":\"专业能力\",\"proName\":\"多文件多格式多功能，支持常见文件格式、编码格式，提供视频转码、截图、水印等多种功能\"},{\"proGood\":\"安全可靠\\n\",\"proName\":\"支持防盗链、播放鉴权等多种安全机制，充分保障视频内容和播放安全\\n\"},{\"proGood\":\"极速分发\",\"proName\":\"iOS、Android播放器标准SDK接入，链路优化，提供快速、稳定、流畅、全新的视频体验\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"24小时专家客服\",\"proName\":\"提供7*24小时专家客服，随时处理客户问题，保证业务连续\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"智能灵活\",\"proName\":\"支持客户自定义转码、水印等各种模板，配置工作流按需组合，满足客户各种业务场景需求\"}]",
+		"id":335
+	},
+	{
+		"txt":"[{\"funcName\":\"视频上传\",\"funcContent\":[{\"funcTitle\":\"多文件多格式支持\",\"funcP\":\"支持市面上大部分主流编码格式和文件格式输入，支持H.264、H.265编码格式和MP4、FLV等多种文件格式输出\"},{\"funcTitle\":\"多方式上传\",\"funcP\":\"提供控制台、API、SDK等多种上传方式，支持断点续传，满足客户多种业务场景下的上传需求\"}]},{\"funcName\":\"媒资管理\",\"funcContent\":[{\"funcTitle\":\"视频分类\",\"funcP\":\"可自定义分类类型，如综艺、体育、娱乐等，对视频进行多级分类，更好的管理视频文件\"},{\"funcTitle\":\"视频标签\",\"funcP\":\"可自定义标签类型，对视频进行标签管理，能更快的查找和推荐视频\"},{\"funcTitle\":\"视频搜索\",\"funcP\":\"对已经上传的视频文件，支持分类、标签，状态筛选，多维度查找，方便搜索管理\"},{\"funcTitle\":\"视频封面\",\"funcP\":\"支持自动截取和自定义上传图片作为封面，可以更加清晰美观的展示视频文件\"},{\"funcTitle\":\"视频描述\",\"funcP\":\"可对视频内容和相关信息做详细描述，更准确的识别视频内容\"},{\"funcTitle\":\"视频预览\",\"funcP\":\"可对视频不同成品格式进行预览，查看视频处理效果\"}]},{\"funcName\":\"视频处理\",\"funcContent\":[{\"funcTitle\":\"自定义转码\",\"funcP\":\"支持自定义转码模板，每个源视频都可以指定一个或多个转码模板输出不同的转码内容\"},{\"funcTitle\":\"水印叠加\",\"funcP\":\"可在任意位置叠加PNG格式的水印，作为视频台标、角标、节目标识使用\"}]},{\"funcName\":\"视频播放\",\"funcContent\":[{\"funcTitle\":\"多终端支持\",\"funcP\":\"提供iOS、Android移动端标准播放器SDK，满足客户多终端播放需求\"},{\"funcTitle\":\"全网加速\",\"funcP\":\"全网分发加速，最优节点选择，保证客户流畅、稳定、低延迟的视听效果\"}]},{\"funcName\":\"数据统计\",\"funcContent\":[{\"funcTitle\":\"数据统计分析\",\"funcP\":\"详细的业务统计数据图表化显示，支持各种条件查询\"}]},{\"funcName\":\"播出安全\",\"funcContent\":[{\"funcTitle\":\"播出安全\",\"funcP\":\"支持防盗链、播放鉴权等功能，保证播出内容安全\"}]}]",
+		"id":336
+	},
+	{
+		"txt":"{\"operatingClasstag\":\"Products|keycount|MiddleContentSec|1152\",\"price\":\"//docs.jdcloud.com/video-on-demand/price-overview\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|1152\"}",
+		"id":337
+	},
+	{
+		"txt":"[{\"name\":\"视频网站\",\"instruction\":\"多种文件格式支持，转码效率高，可配置的自定义转码模板，满足视频网站类用户，视频文件量大，多终端播放的需求。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/4789330c-753a-4f7c-88b6-df70e1a9835520181212162507.png\",\"showShade\":false},{\"name\":\"在线教育\",\"instruction\":\"通过视频水印、视频加密、播放鉴权、防盗链等功能，满足在线教育类用户对于课件视频版权、内容安全方面的需求。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/64309c82-6ac6-4c48-a7d3-450f1663041b20181212175752.png\",\"showShade\":false},{\"name\":\"广电传媒\",\"instruction\":\"提供视频分类、标签、台标叠加、音频响度控制等功能，满足广电传媒专业类客户视频媒资管理、版权、音频统一等需求。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/ae3908c4-e01c-4a0e-b032-1ff4cb2fe29720181212175812.png\",\"showShade\":false}]",
+		"id":715
+	}
+]
