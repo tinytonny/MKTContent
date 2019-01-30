@@ -16,7 +16,7 @@
 		"id":35
 	},
 	{
-		"txt":"[{\"name\":\"Help Center-Product Overview\",\"link\":\"https://docs.jdcloud.com/cn/anti-ddos-basic/product-overview\",\"classTag\":\"\"},{\"name\":\"Help Center-Getting Started\",\"link\":\"https://docs.jdcloud.com/cn/anti-ddos-basic/anti-ddos-basic-started\",\"classTag\":\"\"},{\"name\":\"Help Center-FAQ\",\"link\":\"https://docs.jdcloud.com/cn/anti-ddos-basic/faq\",\"classTag\":\"\"}]",
+		"txt":"[{\"name\":\"Help Center-Product Overview\",\"link\":\"https://docs.jdcloud.com/en/anti-ddos-basic/product-overview\",\"classTag\":\"\"},{\"name\":\"Help Center-Getting Started\",\"link\":\"https://docs.jdcloud.com/en/anti-ddos-basic/anti-ddos-basic-started\",\"classTag\":\"\"},{\"name\":\"Help Center-FAQ\",\"link\":\"https://docs.jdcloud.com/en/anti-ddos-basic/faq\",\"classTag\":\"\"}]",
 		"id":747
 	}
 ]
