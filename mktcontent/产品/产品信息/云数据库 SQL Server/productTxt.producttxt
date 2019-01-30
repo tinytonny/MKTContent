@@ -20,7 +20,7 @@
 		"id":148
 	},
 	{
-		"txt":"[{\"name\":\"FAQ\",\"link\":\"https://docs.jdcloud.com/cn/rds/faq\",\"classTag\":\"\"},{\"name\":\"Connection Method Without Enabling Internet\",\"link\":\"https://docs.jdcloud.com/cn/rds/client-connect-sqlserver\",\"classTag\":\"\"},{\"name\":\"Precautions for Connection to Virtual Machines\",\"link\":\"https://docs.jdcloud.com/cn/rds/host-connect-sqlserver\",\"classTag\":\"\"}]",
+		"txt":"[{\"name\":\"FAQ\",\"link\":\"https://docs.jdcloud.com/en/rds/faq\",\"classTag\":\"\"},{\"name\":\"Connection Method Without Enabling Internet\",\"link\":\"https://docs.jdcloud.com/en/rds/client-connect-sqlserver\",\"classTag\":\"\"},{\"name\":\"Precautions for Connection to Virtual Machines\",\"link\":\"https://docs.jdcloud.com/en/rds/host-connect-sqlserver\",\"classTag\":\"\"}]",
 		"id":682
 	}
 ]
