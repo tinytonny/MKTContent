@@ -20,7 +20,7 @@
 		"id":75
 	},
 	{
-		"txt":"[{\"name\":\"GPU VM Instance Type Family\",\"link\":\"https://docs.jdcloud.com/cn/virtual-machines/instance-type-family#user-content-6\",\"classTag\":\"\"},{\"name\":\"Drive Download and Install\",\"link\":\"https://docs.jdcloud.com/cn/virtual-machines/gpu-vm\",\"classTag\":\"\"},{\"name\":\"How to view local disk data\",\"link\":\"https://docs.jdcloud.com/cn/virtual-machines/identify-local-data-disk\",\"classTag\":\"\"}]",
+		"txt":"[{\"name\":\"GPU VM Instance Type Family\",\"link\":\"https://docs.jdcloud.com/en/virtual-machines/instance-type-family#user-content-6\",\"classTag\":\"\"},{\"name\":\"Drive Download and Install\",\"link\":\"https://docs.jdcloud.com/en/virtual-machines/gpu-vm\",\"classTag\":\"\"},{\"name\":\"How to view local disk data\",\"link\":\"https://docs.jdcloud.com/en/virtual-machines/identify-local-data-disk\",\"classTag\":\"\"}]",
 		"id":721
 	}
 ]
