@@ -20,7 +20,7 @@
 		"id":21
 	},
 	{
-		"txt":"[{\"name\":\"Product Overview\",\"link\":\"https://docs.jdcloud.com/cn/rds/product-overview\",\"classTag\":\"\"},{\"name\":\"Migration from Local MySQL to JCS for MySQL\",\"link\":\"https://docs.jdcloud.com/cn/rds/local-to-mysql\",\"classTag\":\"\"},{\"name\":\"Open API Document\",\"link\":\"https://docs.jdcloud.com/cn/rds/api/overview?content=API\",\"classTag\":\"\"},{\"name\":\"Restrictions for JCS for MySQL\",\"link\":\"https://docs.jdcloud.com/cn/rds/mysql-restrictions\",\"classTag\":\"\"},{\"name\":\"Remote Data Backup Synchronization of JCS for MySQL\",\"link\":\"https://docs.jdcloud.com/cn/rds/create-cross-region-synchronization-service\",\"classTag\":\"\"},{\"name\":\"Parameter Set for JCS for MySQL\",\"link\":\"https://docs.jdcloud.com/cn/rds/creat-parameter-group\",\"classTag\":\"\"}]",
+		"txt":"[{\"name\":\"Product Overview\",\"link\":\"https://docs.jdcloud.com/en/rds/product-overview\",\"classTag\":\"\"},{\"name\":\"Migration from Local MySQL to JCS for MySQL\",\"link\":\"https://docs.jdcloud.com/en/rds/local-to-mysql\",\"classTag\":\"\"},{\"name\":\"Open API Document\",\"link\":\"https://docs.jdcloud.com/en/rds/api/overview?content=API\",\"classTag\":\"\"},{\"name\":\"Restrictions for JCS for MySQL\",\"link\":\"https://docs.jdcloud.com/en/rds/mysql-restrictions\",\"classTag\":\"\"},{\"name\":\"Remote Data Backup Synchronization of JCS for MySQL\",\"link\":\"https://docs.jdcloud.com/en/rds/create-cross-region-synchronization-service\",\"classTag\":\"\"},{\"name\":\"Parameter Set for JCS for MySQL\",\"link\":\"https://docs.jdcloud.com/en/rds/creat-parameter-group\",\"classTag\":\"\"}]",
 		"id":687
 	}
 ]
