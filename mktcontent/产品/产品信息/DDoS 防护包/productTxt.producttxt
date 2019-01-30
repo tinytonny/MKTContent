@@ -16,7 +16,7 @@
 		"id":300
 	},
 	{
-		"txt":"[{\"name\":\"Product Overview\",\"link\":\"https://docs.jdcloud.com/cn/anti-ddos-protection-package/product-overview\",\"classTag\":\"\"},{\"name\":\"Getting Started\",\"link\":\"https://docs.jdcloud.com/cn/anti-ddos-protection-package/create-instance\",\"classTag\":\"\"},{\"name\":\"FAQ\",\"link\":\"https://docs.jdcloud.com/cn/anti-ddos-protection-package/faq\",\"classTag\":\"\"}]",
+		"txt":"[{\"name\":\"Product Overview\",\"link\":\"https://docs.jdcloud.com/en/anti-ddos-protection-package/product-overview\",\"classTag\":\"\"},{\"name\":\"Getting Started\",\"link\":\"https://docs.jdcloud.com/en/anti-ddos-protection-package/create-instance\",\"classTag\":\"\"},{\"name\":\"FAQ\",\"link\":\"https://docs.jdcloud.com/en/anti-ddos-protection-package/faq\",\"classTag\":\"\"}]",
 		"id":746
 	}
 ]
