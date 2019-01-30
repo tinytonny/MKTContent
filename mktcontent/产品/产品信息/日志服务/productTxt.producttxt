@@ -16,7 +16,7 @@
 		"id":679
 	},
 	{
-		"txt":"[{\"name\":\"1. How to configure log collection, do you need to install plug-ins?\",\"link\":\"https://docs.jdcloud.com/logservice/faq\",\"classTag\":\"\"},{\"name\":\"2. After deleting the resource, can you still view the log data of the resource?\",\"link\":\"https://docs.jdcloud.com/logservice/faq\",\"classTag\":\"\"},{\"name\":\"3. After deleting the log subject, can the log data still be viewed?\",\"link\":\"https://docs.jdcloud.com/logservice/faq\",\"classTag\":\"\"}]",
+		"txt":"[{\"name\":\"1. How to configure log collection, do you need to install plug-ins?\",\"link\":\"https://docs.jdcloud.com/en/logservice/faq\",\"classTag\":\"\"},{\"name\":\"2. After deleting the resource, can you still view the log data of the resource?\",\"link\":\"https://docs.jdcloud.com/en/logservice/faq\",\"classTag\":\"\"},{\"name\":\"3. After deleting the log subject, can the log data still be viewed?\",\"link\":\"https://docs.jdcloud.com/en/logservice/faq\",\"classTag\":\"\"}]",
 		"id":771
 	}
 ]
