@@ -20,7 +20,7 @@
 		"id":244
 	},
 	{
-		"txt":"[{\"name\":\"What is Message Queue?\",\"link\":\"https://docs.jdcloud.com/message-queue/product-overview\",\"classTag\":\"\"},{\"name\":\"What are the application scenarios of Message Queue?\",\"link\":\"https://docs.jdcloud.com/message-queue/application-scenarios\",\"classTag\":\"\"},{\"name\":\"How is the Message Queue billed?\",\"link\":\"https://docs.jdcloud.com/message-queue/price-overview\",\"classTag\":\"\"}]",
+		"txt":"[{\"name\":\"What is Message Queue?\",\"link\":\"https://docs.jdcloud.com/en/message-queue/product-overview\",\"classTag\":\"\"},{\"name\":\"What are the application scenarios of Message Queue?\",\"link\":\"https://docs.jdcloud.com/en/message-queue/application-scenarios\",\"classTag\":\"\"},{\"name\":\"How is the Message Queue billed?\",\"link\":\"https://docs.jdcloud.com/en/message-queue/price-overview\",\"classTag\":\"\"}]",
 		"id":772
 	}
 ]
