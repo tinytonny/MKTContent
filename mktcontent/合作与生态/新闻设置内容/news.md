@@ -598,5 +598,29 @@
 		"jss_key":"News_Content_453",
 		"id":453,
 		"news_title":"\"Da Tong and JD Cloud New Economy Exhibition Center\" launched"
+	},
+	{
+		"summary":"JD Cloud announced that its cloud security has been recognized by international professional authorities again by formally being awarded \"CSA STAR Cloud Security Certificate\" gold medal and \"C STAR Cloud Computing Security Evaluation Certificate\".",
+		"image_url":"//img1.jcloudcs.com/cms/5dbf94ff-443c-4a94-8b2b-1abe55ab675220190124145655.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_454",
+		"jss_key":"News_Content_454",
+		"id":454,
+		"news_title":"JD Cloud won two major international certificates by virtue of building \"secure and reliable cloud\" with its strength"
+	},
+	{
+		"summary":"JD Cloud announced that JD Cloud RDS formally supported MySQL version 8.0 in all regions.",
+		"image_url":"//img1.jcloudcs.com/cms/d290dfc3-1195-496e-a0c9-578a436f024720190125152129.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_455",
+		"jss_key":"News_Content_455",
+		"id":455,
+		"news_title":"Initial Release! JD Cloud takes the lead in supporting MySQL Version 8.0"
+	},
+	{
+		"summary":"JD Cloud and nationwide leading AR enterprise LLVision entered into an agreement on Matrix cooperation, both parties will jointly create \"JD Cloud Wise Eye\" technical service platform.",
+		"image_url":"//img1.jcloudcs.com/cms/18c641ac-b334-4331-90fd-05b8a6d4e79120190125153725.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_456",
+		"jss_key":"News_Content_456",
+		"id":456,
+		"news_title":"The domain of JD Cloud Ecology has expanded to AR/VR field with highlight"
 	}
 ]

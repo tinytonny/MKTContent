@@ -1228,5 +1228,29 @@
 		"name":"Support SQL Server Web version",
 		"description":"Support SQL Server Web version. At present, JCS for SQL Server Service of JD Cloud RDS has fully supported enterprise version, standard version and Web version, which can meet users' requirements of various database scenarios.",
 		"id":2139
+	},
+	{
+		"introduce":"Security and compliance have been improved greatly, supporting advanced edition purchase",
+		"name":"Application security gateway version 2.2 has been released",
+		"description":"Security has been improved, which threat information linkage is supported to mark attack source in real time and support region block, and enhanced customized rules can support 12 kinds of condition filtering; enhanced compliance supports HTTP RFC2616 compliance check to meet protective needs for government customers; support leak-proof for sensitive information and service return code replacement; support full log search to view attacking load.",
+		"id":2140
+	},
+	{
+		"introduce":"3 new operative protections have been added to MFA verification",
+		"name":"3 new operative protections have been added to MFA verification",
+		"description":"New protections to MFA have been added to the following operations: 1. Cloud on Single Database import; 2. backup recovery; 3. single database cross-instance recovery",
+		"id":2141
+	},
+	{
+		"introduce":"Add new migration tool",
+		"name":"Add new migration tool",
+		"description":"Support multi-data source migration such as local files, OSS of other cloud vendors and url file list, which depends on Linux system",
+		"id":2142
+	},
+	{
+		"introduce":"JCS for MySQL supports version 8.0",
+		"name":"JCS for MySQL supports version 8.0",
+		"description":"JCS for MySQL supports version 8.0, which compared to MySQL 5.6 and 5.7, it supports a number of new features as well as major updates and optimizations to existing features, along with significant performance improvements",
+		"id":2143
 	}
 ]

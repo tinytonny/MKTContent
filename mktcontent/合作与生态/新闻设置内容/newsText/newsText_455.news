@@ -1,0 +1,49 @@
+<p style="text-indent: 2em;">On January 25, JD Cloud announced that JD Cloud RDS formally supported MySQL version 8.0 in all regions. MySQL 8.0 is the latest version of the MySQL community, which compared to MySQL 5.7, it has supported more new features, significantly updated and optimized the existing features, and significantly improved performance. The initial release of MySQL version 8.0 by JD Cloud this time not only proves the R&D strength and innovation capability of JD Cloud technology team, but also shows that JD Cloud hopes to reward users through more high-quality cloud computing services and help users use new technologies to innovate and implement more business values.</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">Major benefits and features of MySQL version 8.0 include:</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>Document Storage</strong></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">This new feature supported by MySQL 8.0 is a milestone without doubt. If you are developing a document service, now a database can meet your needs at one time.</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>Performance</strong></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">MySQL 8.0 has optimized performance of scenarios for Read and Write working load, I/O-bound working load and "hot-spot" working load with high competition, which improves the replication performance. And it also provides resource group function, which can run on designated hardware CPU for special user threads so as to achieve the goal of performance optimization. In terms of index performance, it has supported descending index. As a result, we need not to call order by command to read the values of a certain index in a table and output them in descending order.</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">Let's take a look at the following performance test chart provided by official website of MySQL:</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-align: center; text-indent: 0em;"><img src="//img1.jcloudcs.com/cms/fee5f0c8-ab65-4df7-a820-7a24343ad36620190125114534.jpg" title="" alt="sql1d.jpg"/><br/></p>
+<p style="text-align: center;"><strong>MySQL 8.0 Sysbench Benchmark: IO Bound Read Only (Point Selects)</strong></p>
+<p><strong><br/></strong></p>
+<p style="text-align: center;"><strong><img src="//img1.jcloudcs.com/cms/0a52cad7-89f1-48d1-82c9-c1be11255f1d20190125114640.jpg" title="" alt="sql2d.jpg"/></strong><br/></p>
+<p style="text-align: center;"><strong>MySQL 8.0 Sysbench Benchmark: Read Write (update nokey)</strong></p>
+<p><br/></p>
+<p><br/></p>
+<p style="text-indent: 2em;"><strong>Security</strong></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">MySQL version 8.0 supports SQL roles through which permissions can be controlled. And take OpenSSL as the default TLS/SSL library. Support to customize Round Robin policy of database password, including password expiration time, password strength, etc., to strengthen user password security protection.</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>Reliability</strong></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">MySQL Version 8.0 support atom, Data Definition Language (DDL) with crash security, and the original two data dictionaries have been merged into one.</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>Manageability</strong></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">Support invisible index. The column name renaming (SQL DDL) feature was optimized for MySQL 8.0 compared to the processing method of MySQL version 5.7.</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>Provide More Powerful JSON Support</strong></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">MySQL version 8.0 provides even more powerful support to JSON, allowing JSON_TABLE() functions to convert data with JSON format into relational table storage. Support -&gt;&gt; operational characters, which is equal to calling JSON_UNQUOTE(JSON_EXTRACT()). Support two new aggregation functions &nbsp;JSON_ARRAYAGG() and JSON_OBJECTAGG(). Provide practical tools such as JSON_PRETTY(), JSON_STORAGE_SIZE() and JSON_STORAGE_FREE(), among which JSON_PRETTY() can print and display the JSON object via an easy and readable method. Partial in-place updates are supported for the values of the JSON objects, and the sorting has been optimized to provide higher performance.</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>GIS</strong></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">Support spatial data type, index and function, which can support 5,108 different spatial reference systems, including 4,628 projections (plan), 479 earth geography (ellipse) expressions and 1 Descartes universal abstract plane.</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>Window Function+Public Table Expression</strong></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">MySQL version 8.0 supports window function feature and public table expression, of which window function can reduce the coding complexity so as to improve the production efficiency. Public table expression (with search) reduces the complexity of search.</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">JD Cloud is always committed to helping and improving customers' business development and experience in the "cloud" through years of business practices sand technical accumulation. Through one-stop service, it helps customers easily use the cloud, and provide all-round security protection, guarantee the security of business data, as well as provide the whole society with secure, professional, stable and convenient cloud computing services.</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">For more product details, please click: <a href="https://www.jdcloud.com/cn/products/jcs-for-mysql">https://www.jdcloud.com/cn/products/jcs-for-mysql</a></p>
+<p><br/></p>

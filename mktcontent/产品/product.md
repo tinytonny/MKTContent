@@ -264,6 +264,10 @@
 		"id":1144
 	},
 	{
+		"name":"VOD",
+		"id":1152
+	},
+	{
 		"name":"CodePipeline",
 		"id":1156
 	},
