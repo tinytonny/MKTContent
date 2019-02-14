@@ -20,7 +20,7 @@
 		"id":6
 	},
 	{
-		"txt":"[{\"name\":\"什么是云主机？\",\"link\":\"https://www.jdcloud.com/products/virtual-machines\",\"classTag\":\"\"},{\"name\":\"云主机有哪些实例规格？\",\"link\":\"https://docs.jdcloud.com/virtual-machines/instance-type-family\",\"classTag\":\"\"},{\"name\":\"云主机支持什么镜像类型？\",\"link\":\"https://docs.jdcloud.com/virtual-machines/image-type\",\"classTag\":\"\"},{\"name\":\"云主机使用限制有哪些？\",\"link\":\"https://docs.jdcloud.com/virtual-machines/restrictions\",\"classTag\":\"\"},{\"name\":\"云主机是如何计费的？\",\"link\":\"https://docs.jdcloud.com/virtual-machines/billing-overview\",\"classTag\":\"\"},{\"name\":\"如何远程连接云主机实例？\",\"link\":\"https://docs.jdcloud.com/virtual-machines/connect-to-instance\",\"classTag\":\"\"}]",
+		"txt":"[{\"name\":\"什么是云主机？\",\"link\":\"https://docs.jdcloud.com/virtual-machines/product-overview\",\"classTag\":\"\"},{\"name\":\"云主机有哪些实例规格？\",\"link\":\"https://docs.jdcloud.com/virtual-machines/instance-type-family\",\"classTag\":\"\"},{\"name\":\"云主机支持什么镜像类型？\",\"link\":\"https://docs.jdcloud.com/virtual-machines/image-type\",\"classTag\":\"\"},{\"name\":\"云主机使用限制有哪些？\",\"link\":\"https://docs.jdcloud.com/virtual-machines/restrictions\",\"classTag\":\"\"},{\"name\":\"云主机是如何计费的？\",\"link\":\"https://docs.jdcloud.com/virtual-machines/billing-overview\",\"classTag\":\"\"},{\"name\":\"如何远程连接云主机实例？\",\"link\":\"https://docs.jdcloud.com/virtual-machines/connect-to-instance\",\"classTag\":\"\"}]",
 		"id":720
 	}
 ]
