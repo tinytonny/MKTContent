@@ -669,7 +669,7 @@
 		"name":"移动APP 上线",
 		"id":1050,
 		"button_title":"立即下载",
-		"main_title":"京东云移动App-安卓版  正式发布"
+		"main_title":"京东云App（Android版） 正式发布"
 	},
 	{
 		"sub_title":"含注册中心、配置中心、调用链分析等功能的微服务框架",
