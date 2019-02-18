@@ -213,5 +213,40 @@
 		"description":"New Economy Exhibition Center - Changzhou - 14",
 		"id":76,
 		"title":"Dream Section - Interactive Area of Signature and Message Leaving - Tianning Image"
+	},
+	{
+		"description":"Cloud City Section-Chuzhou Economic & Technological Development Zone",
+		"id":91,
+		"title":"Cloud City Section-Chuzhou Economic & Technological Development Zone"
+	},
+	{
+		"description":"Launch Result Section-Innovative Technology Exhibition-Unmanned Vehicle",
+		"id":92,
+		"title":"Launch Result Section-Innovative Technology Exhibition-Unmanned Vehicle"
+	},
+	{
+		"description":"Launch Result Section-Cooperation Process of JD Cloud and Chuzhou-JD Today",
+		"id":93,
+		"title":"Launch Result Section-Cooperation Process of JD Cloud and Chuzhou-JD Today"
+	},
+	{
+		"description":"Launch Result Section-Enterprises in the Park-Cooperation Conference",
+		"id":94,
+		"title":"Launch Result Section-Enterprises in the Park-Cooperation Conference"
+	},
+	{
+		"description":"Launch Result Section-Enterprise in the Park-Mingguang Liquor",
+		"id":95,
+		"title":"Launch Result Section-Enterprise in the Park-Mingguang Liquor"
+	},
+	{
+		"description":"Launch Result Section-Enterprise in the Park-Jinyu Chuju",
+		"id":96,
+		"title":"Launch Result Section-Enterprise in the Park-Jinyu Chuju"
+	},
+	{
+		"description":"Infinite Intelligence Section-Talent Training-Intelligence Industry Base",
+		"id":97,
+		"title":"Infinite Intelligence Section-Talent Training-Intelligence Industry Base"
 	}
 ]

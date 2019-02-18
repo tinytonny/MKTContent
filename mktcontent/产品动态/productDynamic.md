@@ -1250,7 +1250,37 @@
 	{
 		"introduce":"JCS for MySQL supports version 8.0",
 		"name":"JCS for MySQL supports version 8.0",
-		"description":"JCS for MySQL supports version 8.0, which compared to MySQL 5.6 and 5.7, it supports a number of new features as well as major updates and optimizations to existing features, along with significant performance improvements",
+		"description":"JCS for MySQL supports version 8.0, which compared to MySQL 5.6 and 5.7, it supports a number of new features as well as major updates and optimizations to existing features, along with significant performance improvements.",
 		"id":2143
+	},
+	{
+		"introduce":"Realize automatic data deletion process via life cycle management for storage resources",
+		"name":"Add life cycle management to THE Object Storage Service",
+		"description":"1. Support expiration rules, i.e. automatic delete expired resources; 2. Support two time conditions, i.e. the day and relative day; 3. Support match of effective resource according to prefixes",
+		"id":2147
+	},
+	{
+		"introduce":"Horizontal expansion to DRDS database is enabled",
+		"name":"The Distributed Relational Database Service (DRDS) supports horizontal expansion",
+		"description":"Make horizontal expansion to the DRDS database by adding RDS MySQL instances, improving storage capacity and processing capacity of database",
+		"id":2148
+	},
+	{
+		"introduce":"1. Add JNAME method to resolution type; 2. Add domain operation locking function",
+		"name":"Add solution type and domain operation locking function to JD Cloud DNS",
+		"description":"1. Add JNAME access method: Once JNAME is accessed, the user request will be directly returned to the record A of the domain following JNAME, accelerating the understanding to resolution speed. It is suggested that domains hosted on JD Cloud DNS shall be accessed with the JNAME method. 2. Support domain locking and unlocking: Support locking the domain to be protected, to reducing unexpected misoperation. Two unlocking methods are provided, i.e. the direct unlocking method and the associated identity verification unlocking method.",
+		"id":2149
+	},
+	{
+		"introduce":"Official Release of JD Cloud App (Android)",
+		"name":"Official Release of JD Cloud App (Android)",
+		"description":"Meet resource management and operation and maintenance demand under mobile scenario of JD Cloud customers. Support monitoring and management for resources whenever and wherever; improve financial management convenience such as resource renewal, account recharging, consumption detail search and so on; realize instant connection to ticket and customer service; and improve customer experience and enhance user loyalty.",
+		"id":2150
+	},
+	{
+		"introduce":"VOD Open Beta",
+		"name":"VOD Open Beta",
+		"description":"VOD Service is a one-stop VOD Service that is developed as an integration of video upload, media assets management, video processing, delivery, play and other functions based on powerful infrastructure services of JD Cloud, which can meet the whole process of business scenarios of e-commerce, education, pan-entertainment, video website.",
+		"id":2151
 	}
 ]
