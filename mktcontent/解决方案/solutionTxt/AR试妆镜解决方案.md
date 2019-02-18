@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"operator\":\"bjlihuaning\",\"floorName\":\"banner\",\"name\":\"banner\",\"data\":[{\"title\":\"JD-AR Makeup Try-ons\",\"description\":\"The vivid and visual AR makeup try-ons helps consumers make purchase decisions in a quick manner and assists shops in accurate marketing based on big data analysis and on-line and off-line customer flow guide.\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/f529b084-4748-4048-854e-79ae0f47c15220190108193431.png\",\"backgroundColor\":\"#1a284f\",\"buttonMetas\":[],\"tagMetas\":[]}]}",
+		"txt":"{\"operator\":\"bjlihuaning\",\"floorName\":\"banner\",\"name\":\"banner\",\"data\":[{\"title\":\"JD-AR Mirror\",\"description\":\"The vivid and visual AR makeup try-ons helps consumers make purchase decisions in a quick manner and assists shops in accurate marketing based on big data analysis and on-line and off-line customer flow guide.\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/f529b084-4748-4048-854e-79ae0f47c15220190108193431.png\",\"backgroundColor\":\"#1a284f\",\"buttonMetas\":[],\"tagMetas\":[]}]}",
 		"templet":"11",
 		"id":400,
 		"solution_id":"88"
