@@ -21,7 +21,7 @@
 <p><br/></p>
 <p style="text-indent: 2em;"><strong>Security</strong></p>
 <p style="text-indent: 2em;"><br/></p>
-<p style="text-indent: 2em;">MySQL version 8.0 supports SQL roles through which permissions can be controlled. And take OpenSSL as the default TLS/SSL library. Support to customize Round Robin policy of database password, including password expiration time, password strength, etc, to strengthen user password security protection.</p>
+<p style="text-indent: 2em;">MySQL version 8.0 supports SQL roles through which permissions can be controlled. And take OpenSSL as the default TLS/SSL library. Support to customize Round Robin policy of database password, including password expiration time, password strength, etc., to strengthen user password security protection.</p>
 <p style="text-indent: 2em;"><br/></p>
 <p style="text-indent: 2em;"><strong>Reliability</strong></p>
 <p style="text-indent: 2em;"><br/></p>
