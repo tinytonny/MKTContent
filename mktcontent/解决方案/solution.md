@@ -126,9 +126,5 @@
 	{
 		"name":"AR Makeup Try-ons Solutions",
 		"id":88
-	},
-	{
-		"name":"Hybrid Cloud Security Solution",
-		"id":91
 	}
 ]
