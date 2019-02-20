@@ -20,8 +20,8 @@
 		"label":"Compensation"
 	},
 	{
-		"name":"Limited Time Offer",
-		"description":"1 RMB to get member package",
+		"name":"JD Cloud News Flash",
+		"description":"Subscribe for an awesome prize",
 		"id":5
 	},
 	{
