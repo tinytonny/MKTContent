@@ -478,5 +478,13 @@
 		"id":613,
 		"partner_label":"Sales Agent",
 		"tableName":"cms_partner"
+	},
+	{
+		"name":"Nanjing Qunli Times Software Co., Ltd",
+		"description":"Nanjing Qunli Times Software Co., Ltd is the wholly-owned subsidiaries of Qunli Group. It has been committed to application software R&D and technical Support Service by relying on industrial benefits and business network of Qunli Group since its establishment in 2009.  Qunli is willing to work together with partners in the cloud ecological system of JD Cloud to share the interest and future!",
+		"short_name":"",
+		"id":631,
+		"partner_label":"Sales Agent",
+		"tableName":"cms_partner"
 	}
 ]

@@ -1,0 +1,40 @@
+<p style="white-space: normal; text-indent: 28px;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">Dear users, JD Cloud Security Team has detected the disclosed remote code execution vulnerability of Wordpress in recent time.   Attackers can use the vulnerability to execute any code by constructing malicious pictures.</span>
+</p>
+<p style="white-space: normal; text-indent: 28px;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">JD Cloud Security Team suggests you to carry out security self-inspection. If you are in affected scope, please timely update and fix to avoid intrusion by external attackers.</span>
+</p>
+<p style="white-space: normal; text-indent: 28px;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">&nbsp;</span>
+</p>
+<p style="white-space: normal;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;"><strong>[Vulnerability Details]</strong></span>
+</p>
+<p style="white-space: normal;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">&nbsp;The attacker saved and executed the constructed malicious image file by constructing the malicious image file upload and loading the image process through Wordpress.  <span style="text-indent: 16px;">Through this vulnerability, directory traverse can be carried out to get theme module loading directory of Wordpress and upload malicious files by customized theme function, then execute constructed codes</span>
+</span>
+</p>
+<p style="white-space: normal;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;"><strong>[Risk Level]</strong></span>
+</p>
+<p style="white-space: normal;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">&nbsp;High Risk</span>
+</p>
+<p style="white-space: normal;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">&nbsp;</span>
+</p>
+<p style="white-space: normal;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;"><strong>[Affected Version]</strong></span>
+</p>
+<p style="white-space: normal;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">WordPress 5.0.0</span>
+</p>
+<p style="white-space: normal;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">WordPress 4.9.8 or Previous Versions</span>
+</p>
+<p style="white-space: normal;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">&nbsp;</span>
+</p>
+<p style="white-space: normal;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;"><strong>[Fix Recommendation]</strong></span>
+</p>
+<p style="white-space: normal;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">1. Update to the latest version of WordPress,</span>
+</p>
+<p style="white-space: normal;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">Official download link: https://wordpress.org/download/</span>
+</p>
+<p style="margin-bottom: 16px; white-space: normal;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">2.  Disable author user permission of websites if it is unnecessary.</span>
+</p>
+<p style="white-space: normal;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;"><strong>Reference Link:</strong>&nbsp; &nbsp;&nbsp;</span>
+</p>
+<p style="white-space: normal;"><span style="font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">https://blog.ripstech.com/2019/wordpress-image-remote-code-execution/&nbsp;</span>
+</p>
+<p><span style="font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;"><br/></span>
+</p>
+<p><br/></p>
