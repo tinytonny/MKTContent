@@ -1652,5 +1652,15 @@
 		"name":"云迁移",
 		"description":"提供混合云场景下数据迁移、业务上云服务",
 		"id":3115
+	},
+	{
+		"name":"智-京东云脑",
+		"description":"智-京东云脑",
+		"id":3117
+	},
+	{
+		"name":"AIOC",
+		"description":"AIOC",
+		"id":3119
 	}
 ]
