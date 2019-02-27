@@ -1598,5 +1598,59 @@
 		"name":"京东云App",
 		"description":"京东云App",
 		"id":3093
+	},
+	{
+		"name":"线下广告智能营销解决方案",
+		"description":"线下广告智能营销解决方案",
+		"id":3095
+	},
+	{
+		"name":"标签管理",
+		"description":"标签管理",
+		"id":3097
+	},
+	{
+		"name":"智能城市",
+		"id":3099
+	},
+	{
+		"name":"AIOC",
+		"description":"AIOC",
+		"id":3101
+	},
+	{
+		"name":"智能城市干线网络",
+		"description":"智能城市干线网络",
+		"id":3103
+	},
+	{
+		"name":"AIoT",
+		"description":"AIoT",
+		"id":3105
+	},
+	{
+		"name":"技术中台",
+		"description":"技术中台",
+		"id":3107
+	},
+	{
+		"name":"数据中台",
+		"description":"数据中台",
+		"id":3109
+	},
+	{
+		"name":"安全专家服务",
+		"description":"为用户提供一体化的从上云到合规的安全服务与技术",
+		"id":3111
+	},
+	{
+		"name":"负载均衡备份",
+		"description":"负载均衡备份",
+		"id":3113
+	},
+	{
+		"name":"云迁移",
+		"description":"提供混合云场景下数据迁移、业务上云服务",
+		"id":3115
 	}
 ]
