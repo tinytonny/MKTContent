@@ -1282,5 +1282,29 @@
 		"name":"VOD Open Beta",
 		"description":"VOD Service is a one-stop VOD Service that is developed as an integration of video upload, media assets management, video processing, delivery, play and other functions based on powerful infrastructure services of JD Cloud, which can meet the whole process of business scenarios of e-commerce, education, pan-entertainment, video website.",
 		"id":2151
+	},
+	{
+		"introduce":"The Console supports the cluster snapshot function and may perform the backup operation of the ES index data",
+		"name":"The Console supports the cluster snapshot function",
+		"description":"1. Create a snapshot automatically when the cluster is created. 2. Enable the automatic snapshot after the cluster creation succeeded. 3. Create a snapshot manually after the cluster is created. 4. Display snapshot information list.",
+		"id":2161
+	},
+	{
+		"introduce":"Bucket Policy supports authorization of sub-accounts",
+		"name":"Bucket Policy supports authorization of sub-accounts",
+		"description":"Use the Bucket Policy to implement refinement authorization for resources and open authorization to sub-accounts.",
+		"id":2162
+	},
+	{
+		"introduce":"Support tag association, disassociation, Tag Filter of resources",
+		"name":"Support tag association, disassociation, Tag Filter of resources",
+		"description":"Support 14 resource editing tags such as Virtual Machines, Cloud Disk Service, Public IP, and RDS and supports Edit Tag.",
+		"id":2163
+	},
+	{
+		"introduce":"Support the authorized access to OSS of IAM sub-account",
+		"name":"Support the authorized access to OSS of IAM sub-account",
+		"description":"After the OSS accesses the IAM sub-account, the refinement authorization to OSS through the IAM management platform can be achieved, which supports 3 system preset policies, and the flexible authorization of 7 kinds of operation permissions to any resources (bucket and object) in the OSS.",
+		"id":2164
 	}
 ]

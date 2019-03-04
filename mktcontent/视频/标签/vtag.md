@@ -68,5 +68,10 @@
 		"name":"City Video of JD Cloud",
 		"description":"City Video of JD Cloud",
 		"id":39
+	},
+	{
+		"name":"Activity Video",
+		"description":"Activity Video",
+		"id":41
 	}
 ]

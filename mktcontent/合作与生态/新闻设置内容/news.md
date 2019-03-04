@@ -622,5 +622,13 @@
 		"jss_key":"News_Content_456",
 		"id":456,
 		"news_title":"The domain of JD Cloud Ecology has expanded to AR/VR field with highlight"
+	},
+	{
+		"summary":"\"1.4 Billion Heartbeats\" 2019 The 6th Oxford China Forum kicked off. Liu Zihao, vice president of JD Group and head of JD Cloud Ecology Department, was invited to give an opening speech.",
+		"image_url":"//img1.jcloudcs.com/cms/a42014b0-7c2a-4e15-82bb-b261aa2e097720190226142724.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_465",
+		"jss_key":"News_Content_465",
+		"id":465,
+		"news_title":"Liu Zihao from JD Cloud delivered an English speech at the Oxford China Forum: China will become the largest incremental market for the global digital economy"
 	}
 ]

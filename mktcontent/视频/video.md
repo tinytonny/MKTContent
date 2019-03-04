@@ -388,5 +388,15 @@
 		"description":"Counterpart Cooperation",
 		"id":125,
 		"title":"Counterpart Cooperation"
+	},
+	{
+		"description":"Liu Zihao from JD Cloud delivered an English speech at the Oxford China Forum: China will become the largest incremental market for the global digital economy",
+		"id":133,
+		"title":"Liu Zihao from JD Cloud delivered an English speech at the Oxford China Forum: China will become the largest incremental market for the global digital economy"
+	},
+	{
+		"description":"Liu Zihao from JD Cloud delivered an English speech at the Oxford China Forum: China will become the largest incremental market for the global digital economy",
+		"id":134,
+		"title":"Liu Zihao from JD Cloud delivered an English speech at the Oxford China Forum: China will become the largest incremental market for the global digital economy"
 	}
 ]

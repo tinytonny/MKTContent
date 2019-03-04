@@ -301,14 +301,18 @@
 	},
 	{
 		"id":615,
-		"title":"[Vulnerability Alert] Local Privilege Escalation Vulnerability of Ubuntu Snap"
+		"title":"\\[Vulnerability Alert\\] Local Privilege Escalation Vulnerability of Ubuntu Snap"
 	},
 	{
 		"id":616,
-		"title":"[Vulnerability Alert] High risk vulnerability of remote code execution of WordPress 5.0.0"
+		"title":"\\[Vulnerability Alert\\] High risk vulnerability of remote code execution of WordPress 5.0.0"
 	},
 	{
 		"id":617,
-		"title":"[Vulnerability Alert] Vulnerability of remote code execution of Drupa kernel (CVE-2019-6340)"
+		"title":"\\[Vulnerability Alert\\] Vulnerability of remote code execution of Drupa kernel (CVE-2019-6340)"
+	},
+	{
+		"id":618,
+		"title":"\\[Vulnerability Warning\\] Jenkins Remote Command Execution Vulnerability"
 	}
 ]
