@@ -16,9 +16,9 @@
 		"tableName":"cms_partner"
 	},
 	{
-		"name":"Ihuoking Data Science & Technology (Beijing) Co., Ltd.",
+		"name":"Huoking Data Science & Technology (Beijing) Co., Ltd.",
 		"description":"Huoking Consultation is a professional service organization focusing on strategic reform, providing factor market research, reform management consultation, and innovative talent development, which has developed a collaborative innovation Internet platform with three major independent intellectual property rights, with consultation mode of \"logical path-finding + data talking\" to realize intensive and continuous operation management. \n",
-		"short_name":"ihuoking",
+		"short_name":"Huoking",
 		"id":3,
 		"partner_label":"Integrated data management consulting service company",
 		"tableName":"cms_partner"
