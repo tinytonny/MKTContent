@@ -1,4 +1,4 @@
-<p style="white-space: normal; text-indent: 28px;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">Dear users, JD Cloud Security Team has detected the disclosed remote code execution vulnerability of Wordpress in recent time.   Attackers can use the vulnerability to execute any code by constructing malicious pictures.</span>
+<p style="white-space: normal; text-indent: 28px;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">JD Cloud Security Team has detected the disclosed remote code execution vulnerability of Wordpress in recent time.   Attackers can use the vulnerability to execute any code by constructing malicious pictures.</span>
 </p>
 <p style="white-space: normal; text-indent: 28px;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">JD Cloud Security Team suggests you to carry out security self-inspection. If you are in affected scope, please timely update and fix to avoid intrusion by external attackers.</span>
 </p>
