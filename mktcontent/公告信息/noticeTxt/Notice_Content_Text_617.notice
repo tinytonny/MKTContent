@@ -1,4 +1,4 @@
-<p style="text-indent: 32px"><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">Dear users, JD Cloud Security Team has detected disclosed high risk vulnerability of remote code execution of Drupal in recent time. Attackers may use the vulnerability to execute any PHP codes to get server permissions.</span>
+<p style="text-indent: 32px"><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">JD Cloud Security Team has detected disclosed high risk vulnerability of remote code execution of Drupal in recent time. Attackers may use the vulnerability to execute any PHP codes to get server permissions.</span>
 </p>
 <p style="text-indent: 32px"><span style="font-size: 16px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">JD Cloud Security Team suggests you to timely carry out self-inspection. If you are in the affected scope, please timely update and fix to avoid intrusion by external attackers.</span>
 </p>
