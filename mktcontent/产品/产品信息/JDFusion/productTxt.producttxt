@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"JDFusion\",\"label\":[{\"TitleName\":\"公测申请\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/JDFusion\",\"classTag\":\"\"}],\"desc\":\"JDFusion融合云提供对公有云、私有云、混合云整合管理，提供多种基础设施资源整合，跨平台融合编排，多租户访问，助力企业在异构云平台间快速部署，数据迁移，高效运维，整体提升业务的稳定性、灵活性。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"JDFusion\",\"label\":[{\"TitleName\":\"公测申请\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/JDFusion\",\"classTag\":\"\"},{\"TitleName\":\"JDFusion控制台\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/JDFusion\",\"classTag\":\"\"}],\"desc\":\"JDFusion融合云提供对公有云、私有云、混合云整合管理，提供多种基础设施资源整合，跨平台融合编排，多租户访问，助力企业在异构云平台间快速部署，数据迁移，高效运维，整体提升业务的稳定性、灵活性。\"}",
 		"id":727
 	},
 	{
