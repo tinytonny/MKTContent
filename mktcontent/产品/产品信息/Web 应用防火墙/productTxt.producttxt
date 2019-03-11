@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[{\"explain\":\"立即购买\",\"explainLink\":\"https://cloudwaf-console.jdcloud.com/buy\"}],\"productName\":\"Web 应用防火墙\",\"label\":[{\"TitleName\":\"免费申请\",\"TitleUrl\":\"http://cloudwaf-console.jdcloud.com/certify\"}],\"desc\":\"针对网站业务流量进行恶意特征识别及防护，将正常、安全的流量回源到服务器。避免网站服务器被恶意入侵，保障业务的核心数据安全，解决因恶意攻击导致的服务器性能异常问题。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/2c46054a-978f-494e-a98d-c49aafd92a2320181115172216.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|83\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|83\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Web 应用防火墙\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://cloudwaf-console.jdcloud.com/buy\",\"classTag\":\"\"}],\"desc\":\"针对网站业务流量进行恶意特征识别及防护，将正常、安全的流量回源到服务器。避免网站服务器被恶意入侵，保障业务的核心数据安全，解决因恶意攻击导致的服务器性能异常问题。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/2c46054a-978f-494e-a98d-c49aafd92a2320181115172216.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|83\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|83\"}",
 		"id":231
 	},
 	{
@@ -12,7 +12,7 @@
 		"id":233
 	},
 	{
-		"txt":"[{\"instruction\":\"网站被攻击或者是黑客敲诈勒索，发起大量的恶意请求，长时间占用消耗服务器的核心资源，造成服务器故障，如CPU、内存、带宽，导致网站业务响应缓慢或是无法正常提供服务。\",\"name\":\"网站服务\",\"picUrl\":\"//img1.jcloudcs.com/cms/be986138-d420-4138-9693-9d5fb942009a20180621170535.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]",
+		"txt":"[{\"instruction\":\"网站被攻击或者是黑客敲诈勒索，发起大量的恶意请求，长时间占用消耗服务器的核心资源，造成服务器故障，如CPU、内存、带宽，导致网站业务响应缓慢或是无法正常提供服务。\",\"name\":\"网站服务\",\"picUrl\":\"//img1.jcloudcs.com/cms/be986138-d420-4138-9693-9d5fb942009a20180621170535.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false}]",
 		"id":234
 	}
 ]
