@@ -691,5 +691,33 @@
 		"id":1053,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"高速云缓存，4.0版免费试用",
+		"name":"云缓存Redis 4.0",
+		"id":1059,
+		"button_title":"立即申请",
+		"main_title":"云缓存 Redis 4.0版 开放公测"
+	},
+	{
+		"sub_title":"搭载NVIDIA Tesla V100 GPU",
+		"name":"高性能GPU云物理服务器",
+		"id":1060,
+		"button_title":"立即申请",
+		"main_title":"高性能 GPU 云物理服务器 正式发布"
+	},
+	{
+		"sub_title":"让负载均衡不再是网络瓶颈",
+		"name":"分布式网络负载均衡",
+		"id":1061,
+		"button_title":"立即申请",
+		"main_title":"最新发布 分布式网络负载均衡"
+	},
+	{
+		"sub_title":"我的世界",
+		"name":"我的世界",
+		"id":1065,
+		"button_title":"",
+		"main_title":"我的世界"
 	}
 ]
