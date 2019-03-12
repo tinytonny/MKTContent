@@ -684,5 +684,33 @@
 		"id":1053,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"High-speed Cloud Caching, Free Trial for Now",
+		"name":"JCS for Redis 4.0",
+		"id":1059,
+		"button_title":"Try Now",
+		"main_title":"JCS for Redis 4.0"
+	},
+	{
+		"sub_title":"With NVIDIA Tesla V100 GPU",
+		"name":"High Performance GPU Cloud Physical Server",
+		"id":1060,
+		"button_title":"Try Now",
+		"main_title":"High Performance GPU Cloud Physical Server"
+	},
+	{
+		"sub_title":"Load Balancer never to be a network bottleneck",
+		"name":"Distributed Network Load Balancer",
+		"id":1061,
+		"button_title":"Try Now",
+		"main_title":"NEW LAUNCH! Distributed Network Load Balancer"
+	},
+	{
+		"sub_title":"World",
+		"name":"World",
+		"id":1065,
+		"button_title":"",
+		"main_title":"World"
 	}
 ]
