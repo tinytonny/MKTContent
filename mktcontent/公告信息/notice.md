@@ -314,5 +314,13 @@
 	{
 		"id":618,
 		"title":"\\[Vulnerability Warning\\] Jenkins Remote Command Execution Vulnerability"
+	},
+	{
+		"id":623,
+		"title":"Notice on Strengthening Compliance Supervision of Internet Service"
+	},
+	{
+		"id":624,
+		"title":"\\[Identity and Access Management Function Suspension Notification\\] Identity and Access Management Backend Service Optimization is Launched"
 	}
 ]

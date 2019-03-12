@@ -8,10 +8,6 @@
 		"id":5
 	},
 	{
-		"name":"Load Balancer",
-		"id":6
-	},
-	{
 		"name":"JCS for  MySQL",
 		"id":7
 	},
@@ -306,5 +302,9 @@
 	{
 		"name":"Audit Trail",
 		"id":1181
+	},
+	{
+		"name":"Load Balancer",
+		"id":1191
 	}
 ]

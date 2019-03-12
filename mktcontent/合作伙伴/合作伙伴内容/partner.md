@@ -486,5 +486,45 @@
 		"id":631,
 		"partner_label":"Sales Agent",
 		"tableName":"cms_partner"
+	},
+	{
+		"name":"Beijing Migrsoft Technology Co., Ltd.",
+		"description":"Beijing Migrsoft Technology Co., Ltd. specializes in new retail, smart retail stores and new business solutions providers, and provides platform-level product systems based on omni-channel integrated business support for chain shopping centers, fresh & convenience, cosmetics, and business centers. The standard products include business center, POS-ERP, mobile POS, CRM, O2O, B2B, new retail applications (unmanned shop systems, free purchasing systems, face recognition systems, etc.).",
+		"short_name":"Migrsoft Technology",
+		"id":632,
+		"partner_label":"Solution Provider",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Centerm Information Co., Ltd.",
+		"description":"Centerm Information Co., LTD is a leading provider of cloud terminals, thin clients, payment POS and \"JD WorkSpaces Cloud\" overall solutions in Asia Pacific. It takes \"independent R&D strength\" as the cornerstone of enterprise development, having five research institutes in Fuzhou, Chengdu, Wuhan, Shanghai and Xiamen and more than 600 R&D personnel, which constitute a high-quality R&D team with high reputation in the industry.",
+		"short_name":"Centerm Information",
+		"id":633,
+		"partner_label":"Solution Provider",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Beijing SVOC Technology Co., Ltd.",
+		"description":"Beijing SVOC Technology is a cloud collaboration and cloud value-added operation service provider based on independent cloud computing technology. Based on virtualization technology and with the core of multimedia communication frontier technology, it independently developed the “Power Cloud” and “Vision Cloud” platforms, and relied on multi-line access IDC to help the upgrade transformation and business innovation of enterprises.",
+		"short_name":"SVOC",
+		"id":634,
+		"partner_label":"Solution Provider",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Xiamen Reconova Information & Technology Co., Ltd.",
+		"description":"Reconova focuses on the research of image Intelligent awareness technology. The company's core R&D team is composed of many senior experts in Artificial Intelligence and computer vision. It has industry-leading core technologies of machine learning and computer vision, with scale product applications in smart stores, smart home appliances, car intelligence, smart security and other fields.",
+		"short_name":"Xiamen Reconova",
+		"id":635,
+		"partner_label":"Solution Provider",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Zhongxin Saibao (Tianjin) E-commerce Co., Ltd.",
+		"description":"Zhongxin Saibao is an industry mobile internet solutions provider. It is a high-tech enterprise integrating mobile Internet product design, research and development, operation, sales and service. It has nearly 400 agency partners nationwide. It provides enterprises with a strategic idea of personalized, customized mobile Internet development and industry-based Internet solutions.",
+		"short_name":"Zhongxin Saibao",
+		"id":636,
+		"partner_label":"Solution Provider",
+		"tableName":"cms_partner"
 	}
 ]

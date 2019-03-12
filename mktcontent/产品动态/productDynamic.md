@@ -1306,5 +1306,29 @@
 		"name":"Support the authorized access to OSS of IAM sub-account",
 		"description":"After the OSS accesses the IAM sub-account, the refinement authorization to OSS through the IAM management platform can be achieved, which supports 3 system preset policies, and the flexible authorization of 7 kinds of operation permissions to any resources (bucket and object) in the OSS.",
 		"id":2164
+	},
+	{
+		"introduce":"CDN Console Support",
+		"name":"Protocol Following Back-to-origin  ",
+		"description":"Protocol Following Back-to-origin: The protocol used by the back-to-origin server is the same as the protocol for the netizen request resource\n\n",
+		"id":2165
+	},
+	{
+		"introduce":"CDN Console Support",
+		"name":"Back-to-origin Following 302",
+		"description":"Back-to-origin Following 302: When the user requests the resource and the CDN node is not cached, the node returns the back-to-origin request and the origin server returns the 302 status code and the redirection address; the CDN node directly requests the resource from the redirection address without returning 302 to the user",
+		"id":2166
+	},
+	{
+		"introduce":"You may view slow SQL in execution",
+		"name":"Slow SQL in Execution",
+		"description":"Filter slow SQL in execution according to search conditions defined by the user for user’s convenience in location and following performance issues",
+		"id":2167
+	},
+	{
+		"introduce":"Capacity-oriented HDD, performance-oriented SSD and general SSD Cloud Disk are launched in cn-east-1 and cn-south-1 regions",
+		"name":"Three new types of cloud disks are launched in cn-east-1 and cn-south-1 regions",
+		"description":"Capacity-oriented HDD, performance-oriented SSD and general SSD Cloud Disk are launched in cn-east-1 and cn-south-1 regions",
+		"id":2168
 	}
 ]

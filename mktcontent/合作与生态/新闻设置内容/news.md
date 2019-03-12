@@ -630,5 +630,13 @@
 		"jss_key":"News_Content_465",
 		"id":465,
 		"news_title":"Liu Zihao from JD Cloud delivered an English speech at the Oxford China Forum: China will become the largest incremental market for the global digital economy"
+	},
+	{
+		"summary":"“2019 Changzhou Tianning District Investment Promotion Conference and JD (Changzhou) Merchant Service Center Launching Ceremony” was held in Shanghai.",
+		"image_url":"//img1.jcloudcs.com/cms/74fad0f6-2d95-45e1-86a4-294e1a8c8c0720190306133737.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_467",
+		"jss_key":"News_Content_467",
+		"id":467,
+		"news_title":"Changzhou partnered with JD Tianning embraced a “great beginning” in 2019 cloud investment"
 	}
 ]
