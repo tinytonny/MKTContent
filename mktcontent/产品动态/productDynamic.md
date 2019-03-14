@@ -1330,5 +1330,11 @@
 		"name":"Three new types of cloud disks are launched in cn-east-1 and cn-south-1 regions",
 		"description":"Capacity-oriented HDD, performance-oriented SSD and general SSD Cloud Disk are launched in cn-east-1 and cn-south-1 regions",
 		"id":2168
+	},
+	{
+		"introduce":"Baseline Check Service  Official Release",
+		"name":"Baseline Check Service  Official Release",
+		"description":"With the user’s full authorization, an overall security baseline check is made to the user’s cloud system, helping the user grasp the overall security vulnerability of its cloud system. Besides, objective security fix-up suggestions are provided according to check results and features of user’s business mode, reducing security threats of systems.",
+		"id":2173
 	}
 ]

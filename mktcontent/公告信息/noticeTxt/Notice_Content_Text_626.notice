@@ -1,0 +1,20 @@
+<p><span style="font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">In order to better meet the demands of customers for the high performance, high reliability, low delay and other features of block storage, JD Cloud plans to upgrade the Cloud Disk Service system from 22:00:00 on March 11, 2019 to 09:00:00 on March 12, 2019 in cn-north-1. The upgraded system will provide powerful support to subsequent deployment of the new Cloud Disk Service in North China, encryption of the Cloud Disk Service and other new features. The user will also get products and services with higher price/performance ratio in North China. At the scheduled time:</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px"><span style="font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;"><span style="font-size: 16px;">Ø<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 9px; line-height: normal;">&nbsp; </span>
+</span>
+<span style="font-size: 16px;">Access to the Virtual Machines Console and the OpenAPI service in cn-north-1 will be paused, while such services in other regions will not be affected;</span>
+</span>
+</p>
+<p class="MsoListParagraph" style="margin-left: 28px;text-size-adjust: auto"><span style="font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;"><span style="font-size: 16px;">Ø<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 9px; line-height: normal;">&nbsp; </span>
+</span>
+<span style="font-size: 16px;">The Cloud Disk Service Console and OpenAPI service in cn-north-1 region will be paused, while such services in other regions will not be affected;</span>
+</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:28px"><span style="font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;"><span style="font-size: 16px;">Ø<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 9px; line-height: normal;">&nbsp; </span>
+</span>
+<span style="font-size: 16px;">The Native Container Instance, the Pod Console and OpenAPI service cn-north-1 will be paused, while such services in other regions will not be affected;</span>
+</span>
+</p>
+<p><span style="font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">Inherent business running in your regions will not affected by the launch. The Console will be resumed for normal use upon completion of launching. If you have relevant questions during the launching, please contact JD Cloud customer service personnel at any time (phone number: 4006151212). Thank you for your support to JD Cloud.</span>
+</p>
+<p><br/></p>

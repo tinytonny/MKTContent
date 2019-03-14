@@ -1,0 +1,23 @@
+<p><br/></p>
+<p style="margin-left:28px"><span style="font-family:&#39;微软雅黑&#39;,sans-serif"></span>
+</p>
+<p style="margin-left:28px"><span style="font-family:&#39;微软雅黑&#39;,sans-serif">It is planned to remove the CentOS 7.1 image of public images from the product line of JD Cloud's Elastic Compute on March 26, 2019. By that time, JD Cloud will neither maintain nor update the image.</span>
+</p>
+<p style="margin-left:28px"><span style="font-family:&#39;微软雅黑&#39;,sans-serif">Off-line influence of images:</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-size:13px;font-family:Wingdings"><span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+</span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">"CentOS 7.1 64-bit" images cannot be selected when purchasing the Virtual Machines</span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">;</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:56px"><span style="font-family:&#39;微软雅黑&#39;,sans-serif">&nbsp;&nbsp; Inventories of Virtual Machines created with the</span>
+<span style="font-size:13px;font-family:&#39;微软雅黑&#39;,sans-serif">"CentOS 7.1 64-bit"</span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">image and private images created based on such image can be used for creating normal VM instances subsequently;</span>
+</p>
+<p style="margin-left:28px"><span style="font-family:&#39;微软雅黑&#39;,sans-serif">If your business is relied on the image version, please save such image version in the form of private image before off-line. However, we will not guarantee the compatibility between new functions based on the image and the image.</span>
+<span style="font-size:13px;font-family:&#39;微软雅黑&#39;,sans-serif">It is strongly suggested that you shall</span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif">provide images of higher versions provided by the current public images.</span>
+</p>
+<p style="margin-left:28px"><span style="font-family:&#39;微软雅黑&#39;,sans-serif">Thank you for your understanding and support to update of JD Cloud's products. We will continue to provide public images of more stable and safer versions.</span>
+</p>
+<p><br/></p>

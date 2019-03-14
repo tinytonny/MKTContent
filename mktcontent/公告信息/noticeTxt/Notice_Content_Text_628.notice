@@ -1,0 +1,56 @@
+<p style="white-space: normal; text-indent: 32px;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">Recently, the security team of JD Cloud has detected that</span>
+<span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">the vulnerability (CVE-2019-0192) is executed by the SoIr component via a remote command. Due to such vulnerability, the attacker is able to execute commands or further operation in the Virtual Machines attacked. As vulnerabilities will affect in some way&nbsp;</span>
+</p>
+<p style="white-space: normal; text-indent: 32px;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">&nbsp;&nbsp;</span>
+<span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">JD Cloud security team recommends that you should conduct the security self-examination in a timely manner. If your business is in the affecting scope, please update and fix the problem in time to avoid attacks from an external attacker.</span>
+</p>
+<p style="white-space: normal; text-indent: 32px;"><br/></p>
+<p><strong><span style="font-family:宋体">Vulnerability Description</span>
+</strong></p>
+<p>&nbsp;</p>
+<p><span style="font-family:宋体">The vulnerability type is</span>
+RCE( remote code execution)<span style="font-family: 宋体">, the vulnerability is found in</span>
+SoIr <span style="font-family: 宋体">Passing allowed</span>
+HTTP POST <span style="font-family: 宋体">Request configuration</span>
+Solr <span style="font-family: 宋体"> of</span>
+JMX <span style="font-family: 宋体">Server </span>
+</p>
+<p><span style="font-family:宋体">In</span>
+SoIr <span style="font-family: 宋体">Passing </span>
+jmx.serviceUrl <span style="font-family: 宋体">Remote commands are executed by the data incredible in deserialization. Threaten the Endpoint Security. </span>
+</p>
+<p>&nbsp;</p>
+<p><strong><span style="font-family:宋体">Vulnerability Rating</span>
+</strong></p>
+<p>&nbsp;</p>
+<p><span style="font-family:宋体">High Risk</span>
+</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong><span style="font-family:宋体">Influence Range</span>
+</strong></p>
+<p>Solr<span style="font-family: 宋体">Version:</span>
+</p>
+<p>5.0.0~5.5.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>6.0.0~6.6.5</p>
+<p>&nbsp;</p>
+<p><strong><span style="font-family: 宋体">Security Recommendations</span>
+</strong></p>
+<p>1. <span style="font-family: 宋体">Upgrade to</span>
+Apache Solr 7.0 <span style="font-family: 宋体">Or higher version</span>
+</p>
+<p>2. <span style="font-family: 宋体">Please use the system attribute if the upgrade cannot be made</span>
+disable.configEdit = true <span style="font-family: 宋体">Running</span>
+Solr<span style="font-family: 宋体">, Disable</span>
+ConfigAPI <span style="font-family: 宋体">(If not used)</span>
+</p>
+<p>3.<span style="font-family: 宋体">Configure an access whitelist to ensure inflow of credible access traffic</span>
+/<span style="font-family: 宋体">Quit running</span>
+Solr <span style="font-family: 宋体">Virtual Machines</span>
+ </p>
+<p>&nbsp;</p>
+<p><strong><span style="font-family:宋体">Reference Link</span>
+</strong></p>
+<p><a href="https://issues.apache.org/jira/browse/SOLR-13301">https://issues.apache.org/jira/browse/SOLR-13301</a></p>
+<p><a href="https://wiki.apache.org/solr/SolrSecurity">https://wiki.apache.org/solr/SolrSecurity</a></p>
+<p style="white-space: normal; text-indent: 32px;"><br/></p>
+<p><br/></p>

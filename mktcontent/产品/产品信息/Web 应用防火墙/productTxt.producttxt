@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[{\"explain\":\"Buy Now\",\"explainLink\":\"https://cloudwaf-console.jdcloud.com/buy\"}],\"productName\":\"Web Application Firewall\",\"label\":[{\"TitleName\":\"Apply for Free\",\"TitleUrl\":\"http://cloudwaf-console.jdcloud.com/certify\"}],\"desc\":\"Identify malicious features, protect the business traffic of network and return normal and secure traffic to servers. Protect website server against malicious invasion, guarantee business core data security and solve server performance exception caused by malicious attack.\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/2c46054a-978f-494e-a98d-c49aafd92a2320181115172216.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|83\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|83\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Web Application Firewall\",\"label\":[{\"TitleName\":\"Buy Now\",\"TitleUrl\":\"https://cloudwaf-console.jdcloud.com/buy\",\"classTag\":\"\"}],\"desc\":\"Identify malicious features, protect the business traffic of network and return normal and secure traffic to servers. Protect website server against malicious invasion, guarantee business core data security and solve server performance exception caused by malicious attack.\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/2c46054a-978f-494e-a98d-c49aafd92a2320181115172216.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|83\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|83\"}",
 		"id":231
 	},
 	{
@@ -12,7 +12,7 @@
 		"id":233
 	},
 	{
-		"txt":"[{\"instruction\":\"Launch a lot of vicious requests during website attack or cracker racketeering, occupy and consume core resources of the server for a long time, cause server failure (such as CPU, memory and bandwidth), and lead to slow response of website business or a failure to provide normal services.\",\"name\":\"Website Service\",\"picUrl\":\"//img1.jcloudcs.com/cms/be986138-d420-4138-9693-9d5fb942009a20180621170535.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]",
+		"txt":"[{\"instruction\":\"Launch a lot of vicious requests during website attack or cracker racketeering, occupy and consume core resources of the server for a long time, cause server failure (such as CPU, memory and bandwidth), and lead to slow response of website business or a failure to provide normal services.\",\"name\":\"Website Service\",\"picUrl\":\"//img1.jcloudcs.com/cms/be986138-d420-4138-9693-9d5fb942009a20180621170535.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false}]",
 		"id":234
 	}
 ]

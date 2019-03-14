@@ -322,5 +322,25 @@
 	{
 		"id":624,
 		"title":"\\[Identity and Access Management Function Suspension Notification\\] Identity and Access Management Backend Service Optimization is Launched"
+	},
+	{
+		"id":625,
+		"title":"Domain System Maintenance Notice"
+	},
+	{
+		"id":626,
+		"title":"Upgrade Notice on Cluster Management System of the Cloud Disk Service in cn-north-1"
+	},
+	{
+		"id":627,
+		"title":"The Message Queue is open for in the new region cn-east-2"
+	},
+	{
+		"id":628,
+		"title":"\\[Vulnerability Warning\\]Apache Solr has the remote command execution vulnerability warning"
+	},
+	{
+		"id":629,
+		"title":"Off-line Notice of CentOS 7.1 Public Image"
 	}
 ]

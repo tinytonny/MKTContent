@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"JDFusion\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/JDFusion\",\"classTag\":\"\"},{\"TitleName\":\"JDFusion Console\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/JDFusion\",\"classTag\":\"\"}],\"desc\":\"JDFusion provides an integrated management for public cloud, private cloud and Hybrid Cloud, and provides an integration of multiple infrastructure resources, cross-platform fusion orchestration and multi-tenant access, in order to help the enterprise quickly deploy among heterogeneous cloud platforms, migrate data, efficiently carry out operation and maintenance, and fully improve the stability and flexibility of business.\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"JDFusion\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/JDFusion\",\"classTag\":\"\"},{\"TitleName\":\"JDFusion Console\",\"TitleUrl\":\"https://jdfusion.jdcloud.com/\",\"classTag\":\"\"}],\"desc\":\"JDFusion provides an integrated management for public cloud, private cloud and Hybrid Cloud, and provides an integration of multiple infrastructure resources, cross-platform fusion orchestration and multi-tenant access, in order to help the enterprise quickly deploy among heterogeneous cloud platforms, migrate data, efficiently carry out operation and maintenance, and fully improve the stability and flexibility of business.\"}",
 		"id":727
 	},
 	{
