@@ -1199,7 +1199,32 @@
 	},
 	{
 		"summary":"",
-		"name":"计费",
-		"id":3204
+		"name":"基线检测服务",
+		"id":3205
+	},
+	{
+		"summary":"",
+		"name":"渗透测试服务",
+		"id":3206
+	},
+	{
+		"summary":"",
+		"name":"应急响应服务",
+		"id":3207
+	},
+	{
+		"summary":"",
+		"name":"漏洞扫描服务",
+		"id":3208
+	},
+	{
+		"summary":"",
+		"name":"Kubernetes 集群",
+		"id":3209
+	},
+	{
+		"summary":"",
+		"name":"Pod",
+		"id":3210
 	}
 ]
