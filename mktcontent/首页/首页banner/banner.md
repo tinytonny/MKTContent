@@ -719,5 +719,19 @@
 		"id":1065,
 		"button_title":"",
 		"main_title":"我的世界"
+	},
+	{
+		"sub_title":"Cloud Native 时代下的应用之路与开源创新",
+		"name":"技术沙龙",
+		"id":1067,
+		"button_title":"立即报名",
+		"main_title":"京东云技术沙龙 · 北京站"
+	},
+	{
+		"sub_title":"开通对象存储的新老用户均可享受标准存储免费额度",
+		"name":"对象存储免费额度",
+		"id":1069,
+		"button_title":"查看详情",
+		"main_title":"对象存储推出免费额度"
 	}
 ]
