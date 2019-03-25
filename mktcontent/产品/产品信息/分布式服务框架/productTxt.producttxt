@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"JD Distributed Service Framework\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/jdsf\",\"classTag\":\"\"}],\"desc\":\"JD Distributed Service Framework is a Microservice Framework that provides functions of Registration Center, Configuration Management, and Call Link Analysis to facilitate users implementing Spring Cloud and other Microservice Architectures.\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"JD Distributed Service Framework\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/jdsf\",\"classTag\":\"\"}],\"desc\":\"It is a Microservice framework that provides functions of registration center, configuration management, call link analysis and others to facilitate users implementing Spring Cloud, Dubbo and other Microservice applications.\"}",
 		"id":707
 	},
 	{
@@ -8,7 +8,7 @@
 		"id":708
 	},
 	{
-		"txt":"[{\"funcName\":\"Service Life Cycle Management\",\"funcContent\":[{\"funcTitle\":\"Service Life Cycle Management\",\"funcP\":\"It supports the deployment, registration, discovery, calling, authentication, traffic control, log and other functions of services, and based on these functions, the entire service process can be controlled more flexibly.\"}]},{\"funcName\":\"Service Monitoring\",\"funcContent\":[{\"funcTitle\":\"Data Monitoring and Calling Amount Monitoring\",\"funcP\":\"The combination of data monitoring and calling amount monitoring makes it more convenient for users to get to know the calling data of all dimensions of services as well as the calling relationship and conditions among services.\"}]},{\"funcName\":\"Multi-framework Compatibility\",\"funcContent\":[{\"funcTitle\":\"Embrace Open Sources\",\"funcP\":\"Phase I of service framework supports Spring Cloud framework and later it will support Service Mesh.\"}]}]",
+		"txt":"[{\"funcName\":\"Service Life Cycle Management\",\"funcContent\":[{\"funcTitle\":\"Service Life Cycle Management\",\"funcP\":\"It supports the deployment, registration, discovery, calling, authentication, traffic control, log and other functions of services, and based on these functions, the entire service process can be controlled more flexibly.\"}]},{\"funcName\":\"Service Monitoring\",\"funcContent\":[{\"funcTitle\":\"Data Monitoring and Calling Amount Monitoring\",\"funcP\":\"The combination of data monitoring and calling amount monitoring makes it more convenient for users to get to know the calling data of all dimensions of services as well as the calling relationship and conditions among services.\"}]},{\"funcName\":\"Multi-framework Compatibility\",\"funcContent\":[{\"funcTitle\":\"Wide Support\",\"funcP\":\"Now, the service frame only supports application types such as SpringCloud and Dubbo are compatible with development frames of languages such as Go, dotNet and Python.\"}]}]",
 		"id":709
 	},
 	{

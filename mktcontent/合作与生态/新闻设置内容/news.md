@@ -638,5 +638,13 @@
 		"jss_key":"News_Content_467",
 		"id":467,
 		"news_title":"Changzhou partnered with JD Tianning embraced a “great beginning” in 2019 cloud investment"
+	},
+	{
+		"summary":"On March 16, “Signing Ceremony of Yangtze River Delta Regional Center for Nantong·JD Cloud Port and Shipping Services and Signing Press Conference of Cooperative Enterprises” was held in Beijing.",
+		"image_url":"//img1.jcloudcs.com/cms/3b67d8f8-c1b2-47ac-8941-85b833216bc820190318184521.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_469",
+		"jss_key":"News_Content_469",
+		"id":469,
+		"news_title":"Cloud blossoms. Nantong cooperates with JD Cloud to widen the new space of “Internet+” new economy development."
 	}
 ]

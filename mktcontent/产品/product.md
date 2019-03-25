@@ -310,5 +310,21 @@
 	{
 		"name":"Baseline Check Service",
 		"id":1195
+	},
+	{
+		"name":"JDMigration",
+		"id":1196
+	},
+	{
+		"name":"Vulnerability Scan Service",
+		"id":1197
+	},
+	{
+		"name":"Incident Response Service",
+		"id":1198
+	},
+	{
+		"name":"Penetration Test Service",
+		"id":1199
 	}
 ]

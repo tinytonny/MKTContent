@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"productName\":\"Penetration Test Service\",\"desc\":\"Without causing any damage to the existing system, a comprehensive and in-depth attack test of the user-specified system is carried out simulating the hacker intrusion technical means from the perspective of the attacker to identify potential risk threats in the system to help users reduce economic losses caused by hacker intrusion.\",\"label\":[{\"TitleName\":\"Ticket Consulting\",\"TitleUrl\":\"https://ticket.jdcloud.com/myorder/form?cateId=4&questionId=564\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":868
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Go deep into user’s business\",\"proName\":\"Provide exclusive penetration test scheme according to the actual business situation of the user, to go deep into user’s business and get close to the user's needs.\"},{\"showShade\":false,\"proGood\":\"Security Expert Team\",\"proName\":\"All team members are from well-known security manufacturers or well-known security teams, which can ensure the quality of service penetration test.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Professional Test Scheme\",\"proName\":\"Based on the best practices of industry security test, draw up professional penetration test detection cases by reference to industry standards, to achieve closed-loop testing and delivery process.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Reduce threat risk\",\"proName\":\"Help users dig out the security defects and vulnerabilities in the business process, to discover the security threat risk earlier than the hackers, to nip it in the bud.\"}]",
+		"id":869
+	},
+	{
+		"txt":"[{\"funcName\":\"Penetration Test Process\",\"funcContent\":[{\"funcTitle\":\"Follow a rigorous penetration test process\",\"funcP\":\"1. Determine the scope of penetration test. 2. Draw up the penetration test scheme. 3. Implementation of penetration test. 4. Project delivery and acceptance. And ensure that every step of the operation is security and traceable.\"}]},{\"funcName\":\"Security Reinforcement Scheme\",\"funcContent\":[{\"funcTitle\":\"Provide detailed security reinforcement scheme\",\"funcP\":\"Conduct manual confirmation and analysis of threat vulnerabilities detected by penetration test and provide the solutions for vulnerabilities. In the case of ensuring that the normal business is not affected, cooperate with the user to implement the reinforcement scheme.\"}]},{\"funcName\":\"Service Delivery Verification\",\"funcContent\":[{\"funcTitle\":\"Provide professional service acceptance report\",\"funcP\":\"Carry out penetration test verification of the reinforced system to ensure the unavailability of the vulnerability, and verify the effectiveness of the security reinforcement measures. Provide users with professional penetration test acceptance report to ensure the safety and stability of user’s business.\"}]}]",
+		"id":870
+	}
+]

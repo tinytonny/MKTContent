@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"productName\":\"Incident Response Service\",\"desc\":\"When users encounter network attacks, Webshell viruses, data theft and other hacker invasion incidents, JD Cloud can provide incident response services including suppression of loss, incident analysis, system reinforce, incident traceability, etc., to help users reduce the impact and loss of itself caused by the security incidents.\",\"label\":[{\"TitleName\":\"Ticket Consulting\",\"TitleUrl\":\"https://ticket.jdcloud.com/myorder/form?cateId=4&questionId=569\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":865
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Expert Team\",\"proName\":\"Members of security service team have rich experience in incident response to ensure that the emergency response process is efficient and reliable.\"},{\"showShade\":false,\"proGood\":\"Professional Specification\",\"proName\":\"Comply with professional incident response service process specification to ensure that every step of security incident handling can be traced back.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Rapid response\",\"proName\":\"Can respond and locate quickly according to incident level to help users reduce business risk quickly.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Wide Applicable Industries\",\"proName\":\"Cover the government, finance, Internet and other industries and provide targeted incident response services according to the business characteristics of users in different industries to minimize the user's loss due to the invasion.\"}]",
+		"id":866
+	},
+	{
+		"txt":"[{\"funcName\":\"Suppression of Loss for Business\",\"funcContent\":[{\"funcTitle\":\"Help user for quick suppression of loss\",\"funcP\":\"Remove the Webshell, virus and other malicious programs in the system to prevent hackers from further attacks. Conduct security reinforcement of the threat vulnerability to help users quickly resume normal business services.\"}]},{\"funcName\":\"Intrusion Analysis\",\"funcContent\":[{\"funcTitle\":\"Intrusion Reason Analysis\",\"funcP\":\"Analyze security incident types through network traffic, system logs and other records, investigate the means of invasion and analyze the causes of security incidents.\"}]},{\"funcName\":\"Incident Alarm\",\"funcContent\":[{\"funcTitle\":\"Provide incident analysis report\",\"funcP\":\"After the event has been handled, summarize and analyze the occurrence and handling process of the security incident, and provide a detailed Incident Emergency Response Report, which contains the processing process, processing results, incident cause analysis of the whole security incident, and the corresponding security reinforcement suggestions are provided therein.\"}]}]",
+		"id":867
+	}
+]

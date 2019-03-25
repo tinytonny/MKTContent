@@ -337,10 +337,18 @@
 	},
 	{
 		"id":628,
-		"title":"\\[Vulnerability Warning\\]Apache Solr has the remote command execution vulnerability warning"
+		"title":"\\[Vulnerability Warning\\] Apache Solr has the remote command execution vulnerability warning"
 	},
 	{
 		"id":629,
 		"title":"Off-line Notice of CentOS 7.1 Public Image"
+	},
+	{
+		"id":637,
+		"title":"Free Quota for Standard Storage Type Offered for Object Storage Service"
+	},
+	{
+		"id":638,
+		"title":"\\[Message Queue Function Suspension Notification \\] Message Queue Optimization Upgrade"
 	}
 ]

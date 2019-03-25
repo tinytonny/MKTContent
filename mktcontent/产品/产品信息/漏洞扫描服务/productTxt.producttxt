@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Vulnerability Scan Service\",\"label\":[{\"TitleName\":\"Ticket Consulting\",\"TitleUrl\":\"https://ticket.jdcloud.com/myorder/form?cateId=4&questionId=555\",\"classTag\":\"\"}],\"desc\":\"Under full authorization by the user, provide a comprehensive vulnerability scan service for the user-specified operating system and database, etc. JD Cloud Security experts will interpret the scan results and provide professional vulnerability scan reports and fix guidance recommendations.\"}",
+		"id":862
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Full Coverage\",\"proName\":\"Professional and comprehensive vulnerability scan services, covering all kinds of operating systems, Web applications, middleware, databases, etc., meet the needs of different industries.\"},{\"showShade\":false,\"proGood\":\"Professional and Reliable\",\"proName\":\"Strong and professional vulnerability information support, giving real-time update of vulnerability intelligence to ensure detection accuracy and guarantee the quality of vulnerability scan service.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Security and Trustworthy\",\"proName\":\"Before the service, JD Cloud will execute a confidentiality agreement with the user and will strictly protect the user’s privacy, revealing no user information and service details to any third party. And ensure that every step before and during the implementation as well as delivery of security services is traceable.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Expert Support\",\"proName\":\"Provide JD Cloud senior security technical expert team to analyze and interpret the vulnerability scan report, and provide the vulnerability patch solutions.\"}]",
+		"id":863
+	},
+	{
+		"txt":"[{\"funcName\":\"Vulnerability Detection\",\"funcContent\":[{\"funcTitle\":\"Comprehensive Vulnerability Scan Service\",\"funcP\":\"Conduct professional vulnerability scan service for various operating systems, Web applications, middleware, databases, etc.\"}]},{\"funcName\":\"Vulnerability Interpretation\",\"funcContent\":[{\"funcTitle\":\"Provide fix recommendation and manual guidance\",\"funcP\":\"Cross scan by various types of scanners to ensure the quality of vulnerability scan service. Security experts provide vulnerability interpretation and reinforcement guidance.\"}]},{\"funcName\":\"Service Delivery\",\"funcContent\":[{\"funcTitle\":\"Professional Vulnerability Scan Reports\",\"funcP\":\"Provide users with professional vulnerability scan reports, which contain the risk index, vulnerability statistical information, vulnerability classification, risk rating, fix recommendations and other information.\"}]}]",
+		"id":864
+	}
+]
