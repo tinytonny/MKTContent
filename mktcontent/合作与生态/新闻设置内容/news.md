@@ -646,5 +646,29 @@
 		"jss_key":"News_Content_469",
 		"id":469,
 		"news_title":"云上花开，南通携手京东云拓宽“互联网+”新经济发展新空间"
+	},
+	{
+		"summary":"3月21日，“京东云&群立合作伙伴启动会”在南京举办。",
+		"image_url":"//img1.jcloudcs.com/cms/b0eafe4b-145d-4f94-bd6b-4d85ac606cc620190322205904.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_470",
+		"jss_key":"News_Content_470",
+		"id":470,
+		"news_title":"提速上云数字化转型 京东云群立共建企业级智能解决方案"
+	},
+	{
+		"summary":"2019年3月7日，京东云隆重推出分布式网络负载均衡（Distributed Network Load Balancer，简称DNLB），并开启公测。",
+		"image_url":"//img1.jcloudcs.com/cms/fff1fac1-aa30-4fa4-a505-ab09f3dc5b1920190325144106.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_471",
+		"jss_key":"News_Content_471",
+		"id":471,
+		"news_title":"重磅发布！京东云首发分布式网络负载均衡，解决网络转发瓶颈"
+	},
+	{
+		"summary":"日前，在博睿指数发布的《2019年2月云主机性能评测报告》中，“京东云-北京”夺得综合排行榜冠军，同时，“京东云-上海”排名综合榜第四，居华东地区首位！",
+		"image_url":"//img1.jcloudcs.com/cms/73601752-d242-4d1e-944e-c335848845a320190326095604.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_472",
+		"jss_key":"News_Content_472",
+		"id":472,
+		"news_title":"博睿指数：“京东云-北京”夺冠，“京东云-上海”位居华东第一"
 	}
 ]
