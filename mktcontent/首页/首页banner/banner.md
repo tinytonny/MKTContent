@@ -712,5 +712,19 @@
 		"id":1065,
 		"button_title":"",
 		"main_title":"World"
+	},
+	{
+		"sub_title":"Cloud Native Application Development and Open Source Innovation",
+		"name":"TechMeetup",
+		"id":1067,
+		"button_title":"Register now",
+		"main_title":"JD Cloud TechMeetup · Beijing"
+	},
+	{
+		"sub_title":"Enjoy Free Quota of Stand Storage",
+		"name":"Free Quota Offered for OSS",
+		"id":1069,
+		"button_title":"View Details",
+		"main_title":"Free Quota Offered for OSS"
 	}
 ]
