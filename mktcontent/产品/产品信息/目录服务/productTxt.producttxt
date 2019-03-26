@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Directory Service\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"//www.jdcloud.com/cn/public/testApply/DirectoryService\",\"classTag\":\"\"}],\"desc\":\"JD Cloud Directory Service is cloud-hosted Microsoft Active Directory, which supports the enterprise to independently use or extend the current directory into JD Cloud so as to enable the enterprise user to access resources and applications on JD Cloud through JD Cloud Directory Service.\",\"iconUrl\":\"\",\"imageUrl\":\"\",\"middleClstag\":\"Products|keycount|MiddleContentSec|1137\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|1137\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Directory Service\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"//www.jdcloud.com/en/public/testApply/DirectoryService\",\"classTag\":\"\"}],\"desc\":\"JD Cloud Directory Service is cloud-hosted Microsoft Active Directory, which supports the enterprise to independently use or extend the current directory into JD Cloud so as to enable the enterprise user to access resources and applications on JD Cloud through JD Cloud Directory Service.\",\"iconUrl\":\"\",\"imageUrl\":\"\",\"middleClstag\":\"Products|keycount|MiddleContentSec|1137\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|1137\"}",
 		"id":319
 	},
 	{

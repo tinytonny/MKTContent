@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Storage Gateway\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/storagegateway\",\"classTag\":\"\"}],\"desc\":\"JD Cloud Storage Gateway takes Object Storage Service as its backend storage to help enterprises realize the seamless joint between local storage and cloud storage. It supports NFS standard storage protocol and provides low latency performance through local cache, which can offer mass cloud storage with the access rate comparable to that of local performance after deployment of Storage Gateway.\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Storage Gateway\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://www.jdcloud.com/en/public/testApply/storagegateway\",\"classTag\":\"\"}],\"desc\":\"JD Cloud Storage Gateway takes Object Storage Service as its backend storage to help enterprises realize the seamless joint between local storage and cloud storage. It supports NFS standard storage protocol and provides low latency performance through local cache, which can offer mass cloud storage with the access rate comparable to that of local performance after deployment of Storage Gateway.\"}",
 		"id":763
 	},
 	{

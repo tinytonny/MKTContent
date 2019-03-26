@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"JDMigration\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/JDMigration\",\"classTag\":\"\"},{\"TitleName\":\"JDMigration Console\",\"TitleUrl\":\"https://jdfusion.jdcloud.com/\",\"classTag\":\"\"}],\"desc\":\"Cloud migration is a Hybrid Cloud disaster tolerance product provided by JD Cloud. It is committed to providing rich, high-performance, high-security business-and-data-based migration, backup, and recovery services in a Hybrid Cloud scenario, making full use of the Hybrid Cloud platform to achieve high availability of business and data, and significantly reduce the technical difficulty and cost of users’ JD Cloud Onboarding.\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"JDMigration\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://www.jdcloud.com/en/public/testApply/JDMigration\",\"classTag\":\"\"},{\"TitleName\":\"JDMigration Console\",\"TitleUrl\":\"https://jdfusion.jdcloud.com/\",\"classTag\":\"\"}],\"desc\":\"Cloud migration is a Hybrid Cloud disaster tolerance product provided by JD Cloud. It is committed to providing rich, high-performance, high-security business-and-data-based migration, backup, and recovery services in a Hybrid Cloud scenario, making full use of the Hybrid Cloud platform to achieve high availability of business and data, and significantly reduce the technical difficulty and cost of users’ JD Cloud Onboarding.\"}",
 		"id":858
 	},
 	{
