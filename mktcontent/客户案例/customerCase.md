@@ -154,5 +154,17 @@
 		"id":165,
 		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution165",
 		"solution_jss_key":"Customer_Case_Solution165"
+	},
+	{
+		"project_overview":"酒咔嚓的服务分为两套：一套专门为京东商城提供拍照购业务，2018年已经部署在京东云上；另一套是酒咔嚓完整业务系统和官网，部署在其他云服务上。客户基于对成本的考虑和对京东云产品及服务的认可，在2018年11月初启动了将业务系统和官网迁移至京东云的工作，由京东云服务团队架构师为酒咔嚓客户提供上云测试和上云迁移服务。",
+		"application_type":"适用于互联网业务类型",
+		"introduce":"“酒咔嚓” 是国内首创的基于图像识别与搜索技术，以“可视化”的葡萄酒数据库为核心的垂直于葡萄酒行业的信息与服务提供者，通过“拍酒标、识红酒”的便捷方式，查询、珍藏和分享葡萄酒的各类信息，为葡萄酒爱好者和葡萄酒供应商提供简单且专业的信息与购买服务。",
+		"image_url":"//img1.jcloudcs.com/cms/37b8a1b3-196a-41fc-b742-d7d3c356ce2b20190322102622.jpg",
+		"name":"京东云助力酒咔嚓完成系统平滑迁移上云",
+		"channel_agent":"互联网应用",
+		"customer_income":"<br/>•\t享受到京东云更完善和高效的大客户服务。\n<br/>•\t酒咔嚓的业务系统和官网在迁移至京东云后实现了15%的成本优化\n<br/>•\t基于京东云的公有云产品特性，保障客户业务系统底层资源高可用，从而提升客户业务系统的稳定性",
+		"id":167,
+		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution167",
+		"solution_jss_key":"Customer_Case_Solution167"
 	}
 ]
