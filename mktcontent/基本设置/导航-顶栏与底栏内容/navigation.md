@@ -1015,8 +1015,8 @@
 		"id":387
 	},
 	{
-		"name":"区块链 BaaS 平台",
-		"description":"从企业和开发者角度出发，提供多种部署形式，既能灵活部署，又可安全易用，基于流行的kubernetes技术，提供高可靠可扩展的区块链平台",
+		"name":"智臻链BaaS平台",
+		"description":"通过简单灵活配置，快速搭建安全可靠区块链网络",
 		"id":388
 	},
 	{
@@ -1693,114 +1693,142 @@
 	},
 	{
 		"name":"蜂巢机器人",
+		"description":"//www.jdcloud.com/products/",
 		"id":3189
 	},
 	{
 		"name":"服务机器人",
+		"description":"//www.jdcloud.com/products/",
 		"id":3191
 	},
 	{
 		"name":"语音识别",
+		"description":"//www.jdcloud.com/products/",
 		"id":3193
 	},
 	{
 		"name":"语音合成",
+		"description":"//www.jdcloud.com/products/",
 		"id":3195
 	},
 	{
 		"name":"人脸对比",
+		"description":"//www.jdcloud.com/products/",
 		"id":3197
 	},
 	{
 		"name":"人脸搜索",
+		"description":"//www.jdcloud.com/products/",
 		"id":3199
 	},
 	{
 		"name":"人脸检测与属性分析",
+		"description":"//www.jdcloud.com/products/",
 		"id":3201
 	},
 	{
 		"name":"人脸活体检测",
+		"description":"//www.jdcloud.com/products/",
 		"id":3203
 	},
 	{
 		"name":"自拍人像抠图",
+		"description":"//www.jdcloud.com/products/",
 		"id":3205
 	},
 	{
 		"name":"词法分析",
+		"description":"//www.jdcloud.com/products/",
 		"id":3207
 	},
 	{
 		"name":"句法分析",
+		"description":"//www.jdcloud.com/products/",
 		"id":3209
 	},
 	{
 		"name":"身份证识别",
+		"description":"//www.jdcloud.com/products/",
 		"id":3211
 	},
 	{
 		"name":"行驶证识别",
+		"description":"//www.jdcloud.com/products/",
 		"id":3213
 	},
 	{
 		"name":"银行卡识别",
+		"description":"//www.jdcloud.com/products/",
 		"id":3215
 	},
 	{
 		"name":"通用文字识别",
+		"description":"//www.jdcloud.com/products/",
 		"id":3217
 	},
 	{
 		"name":"营业执照识别",
+		"description":"//www.jdcloud.com/products/",
 		"id":3219
 	},
 	{
 		"name":"增值税发票识别",
+		"description":"//www.jdcloud.com/products/",
 		"id":3221
 	},
 	{
 		"name":"人体关键点检测",
+		"description":"//www.jdcloud.com/products/",
 		"id":3223
 	},
 	{
 		"name":"人体检测",
+		"description":"//www.jdcloud.com/products/",
 		"id":3225
 	},
 	{
 		"name":"情感分析",
+		"description":"//www.jdcloud.com/products/",
 		"id":3227
 	},
 	{
 		"name":"指代消解",
+		"description":"//www.jdcloud.com/products/",
 		"id":3229
 	},
 	{
 		"name":"短文本相似度",
+		"description":"//www.jdcloud.com/products/",
 		"id":3231
 	},
 	{
 		"name":"评论观点抽取",
+		"description":"//www.jdcloud.com/products/",
 		"id":3233
 	},
 	{
 		"name":"文本分类",
+		"description":"//www.jdcloud.com/products/",
 		"id":3235
 	},
 	{
 		"name":"特定人物识别",
+		"description":"//www.jdcloud.com/products/",
 		"id":3237
 	},
 	{
 		"name":"拍照购",
+		"description":"//www.jdcloud.com/products/",
 		"id":3239
 	},
 	{
 		"name":"智能鉴黄",
+		"description":"//www.jdcloud.com/products/",
 		"id":3241
 	},
 	{
 		"name":"菜品识别",
+		"description":"//www.jdcloud.com/products/",
 		"id":3243
 	},
 	{
@@ -1927,5 +1955,15 @@
 		"name":"监控系统",
 		"description":"包括Agent、硬件监控、网络监控",
 		"id":3293
+	},
+	{
+		"name":"数据加密服务",
+		"description":"国家密码局认证的密码机提供数据加解密解决方案",
+		"id":3295
+	},
+	{
+		"name":"AI与机器学习",
+		"description":"AI与机器学习",
+		"id":3297
 	}
 ]
