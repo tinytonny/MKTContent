@@ -670,5 +670,13 @@
 		"jss_key":"News_Content_472",
 		"id":472,
 		"news_title":"博睿指数：“京东云-北京”夺冠，“京东云-上海”位居华东第一"
+	},
+	{
+		"summary":"3月26日，京东云正式发布《京东云云桌面白皮书》，为客户提供一站式高品质的桌面产品和服务。",
+		"image_url":"//img1.jcloudcs.com/cms/82c5c53a-1fe2-48aa-9865-4ff2bd74d4b820190326111141.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_473",
+		"jss_key":"News_Content_473",
+		"id":473,
+		"news_title":"京东云发布云桌面白皮书，助力企业打造安全高效的桌面环境"
 	}
 ]
