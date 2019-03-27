@@ -6,12 +6,12 @@
 	},
 	{
 		"name":"合作与动态",
-		"description":"",
+		"description":"合作与动态",
 		"id":3
 	},
 	{
-		"name":"支持",
-		"description":"",
+		"name":"支持与动态",
+		"description":"支持与动态",
 		"id":4
 	},
 	{
@@ -246,7 +246,7 @@
 	},
 	{
 		"name":"产品动态",
-		"description":"",
+		"description":"产品动态",
 		"id":131
 	},
 	{
@@ -1965,5 +1965,65 @@
 		"name":"AI与机器学习",
 		"description":"AI与机器学习",
 		"id":3297
+	},
+	{
+		"name":"合作伙伴",
+		"description":"合作伙伴",
+		"id":3301
+	},
+	{
+		"name":"合作计划",
+		"description":"合作计划",
+		"id":3303
+	},
+	{
+		"name":"企业精选",
+		"description":"企业精选",
+		"id":3305
+	},
+	{
+		"name":"ISV解决方案合作计划",
+		"description":"ISV解决方案合作计划",
+		"id":3307
+	},
+	{
+		"name":"渠道分销合作计划",
+		"description":"渠道分销合作计划",
+		"id":3309
+	},
+	{
+		"name":"企业服务商合作计划",
+		"description":"企业服务商合作计划",
+		"id":3311
+	},
+	{
+		"name":"产品合作计划",
+		"description":"产品合作计划",
+		"id":3313
+	},
+	{
+		"name":"Elite企业精选",
+		"description":"Elite企业精选",
+		"id":3315
+	},
+	{
+		"name":"客户案例",
+		"description":"客户案例",
+		"id":3317
+	},
+	{
+		"name":"客户案例",
+		"description":"客户案例",
+		"id":3319
+	},
+	{
+		"name":"生态矩阵",
+		"description":"生态矩阵",
+		"id":3321
+	},
+	{
+		"name":"产品动态",
+		"description":"产品动态",
+		"id":3323
 	}
 ]
