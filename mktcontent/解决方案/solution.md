@@ -126,5 +126,13 @@
 	{
 		"name":"AR Makeup Try-ons Solutions",
 		"id":88
+	},
+	{
+		"name":"Offline Advertisement Intelligent Marketing Solution",
+		"id":90
+	},
+	{
+		"name":"Hybrid Cloud Security Solution",
+		"id":91
 	}
 ]
