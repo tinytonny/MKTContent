@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"云托管服务\",\"label\":[{\"TitleName\":\"立即开通\",\"TitleUrl\":\"https://docs.jdcloud.com/cn/cloud-cabinet-service/overview\"}],\"desc\":\"云托管服务（Cloud Cabinet Service，简称CCS）：京东云提供优质的IDC机柜资源，客户通过租赁京东云机柜，可以实现自有设备托管服务，同时享有IP，带宽等公共资源以及现场运维服务，京东云按照客户需求，可以进行定制化部署，部分托管机房可与京东云公有云业务打通，比如云主机，实现混合云服务。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/a4780149-2976-4585-b4bb-1fd69d22ab7820181115173153.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|93\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|93\"}",
+		"id":276
+	},
+	{
+		"txt":"[{\"proGood\":\"高等级机房资源\",\"proName\":\" 云托管机房资源拥有优质的机房环境，均符合Tier3+的标准建设，提供高标准机房基础设施，机房资源覆盖华北，华东，华南三大区域，提供双路供电保障，水冷空调冗余制冷，运行环境可用性超过99.99%。\"},{\"proGood\":\"高稳定网络资源\",\"proName\":\"云托管拥有成熟稳定的网络系统，可满足不同业务的带宽需求，标准3线BGP带宽，可满足托管区与京东云VPC互联需求，构建混合云。\"},{\"proGood\":\"高品质服务保障\",\"proName\":\"云托管服务拥有资深专家团队，提供专业的售前，售后支持，帮助客户实现端到端的解决方案以及定制化的部署方案，支持7*24小时的售后快速响应服务，并根据用户需求，提供高效的现场运维服务，并且免费提供基础2G的DDoS安全防护。\"}]",
+		"id":277
+	},
+	{
+		"txt":"[{\"funcContent\":[{\"funcP\":\"控制台展示客户已正式分配的机柜资源，显示机柜基本信息，加电状态等。\\n\\n控制台展示客户托管设备资源，显示设备基本信息，上架机柜等。\\n\\n控制台展示客户购买的公网IP，带宽资源，显示IP地址信息，共享带宽信息。\",\"funcTitle\":\"丰富的资源展示信息\"}],\"funcName\":\"资源展示\"},{\"funcContent\":[{\"funcP\":\"支持客户在线提交工单申请，目前支持机柜初装。\\n\\n工单申请进度实时展示，便于查看溯源。\",\"funcTitle\":\"实时跟踪需求进度\"}],\"funcName\":\"线上申请\"},{\"funcContent\":[{\"funcP\":\"提供基本运维服务，帮助客户进行设备异动，设备发送接收等服务。\\n\\n按需提供增值服务，帮助客户维护网络，设备，系统支持。\",\"funcTitle\":\"丰富的运维服务\"}],\"funcName\":\"运维服务\"}]",
+		"id":278
+	},
+	{
+		"txt":"[{\"instruction\":\"客户将自有设备托管至京东云IDC机房，客户可选择自维或者代维对设备进行运维服务。\",\"name\":\"设备托管\",\"picUrl\":\"//img1.jcloudcs.com/cms/c9249c7a-699d-40d0-8b8b-b30a26c6ed4520180828192358.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"客户一部分业务托管至京东云IDC机房中心，另一部分使用京东云公有云服务，在托管区和公有云业务可以通过专线互联打通。\",\"name\":\"公有云互通\",\"picUrl\":\"//img1.jcloudcs.com/cms/cd2c7999-c79a-4f11-84a7-5704cf89144a20180829112133.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false}]",
+		"id":279
+	}
+]
