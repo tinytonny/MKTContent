@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"目录服务\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"//www.jdcloud.com/cn/public/testApply/DirectoryService\",\"classTag\":\"\"}],\"desc\":\"京东云目录服务是一种在云上托管的Microsoft Active Directory，它支持企业单独使用或者将现有目录拓展到京东云中，都可使企业用户通过京东云目录服务访问京东云上的资源和应用。\",\"iconUrl\":\"\",\"imageUrl\":\"\",\"middleClstag\":\"Products|keycount|MiddleContentSec|1137\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|1137\"}",
+		"id":319
+	},
+	{
+		"txt":"[{\"proGood\":\"轻松迁移目录感知本地工作负载\",\"proName\":\"借助托管式目录服务，您可以在京东云中使用组策略来管理实例以及运行依赖于目录服务的应用程序，无需部署自己的目录服务基础架构。\"},{\"proGood\":\"使用真实的 Microsoft Active Directory\",\"proName\":\"利用实际的 Microsoft Active Directory 来管理您的用户和组。您还可以委派管理任务并使用京东云IAM权限策略来授予访问权限。 \"},{\"proGood\":\"轻松扩展现有域\",\"proName\":\"京东云托管式目录服务让您可以将现有 Active Directory 轻松扩展到京东云中。它让您可以利用现有本地用户凭证访问京东云管理控制台等云资源。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"使用托管服务简化管理\",\"proName\":\"京东云托管式目录服务构建在高度可用的京东云托管基础设施之上。每个目录都部署在多个可用区内，且监控功能会自动检测并替换出现故障的域控制器。\"}]",
+		"id":320
+	},
+	{
+		"txt":"[{\"funcContent\":[{\"funcP\":\"京东云目录服务是运行于京东云托管基础设施之上的实际的 Microsoft Active Directory。这让您可以使用熟悉的工具（如 Active Directory 管理中心和 Active Directory 用户和计算机）来管理用户和设备。\",\"funcTitle\":\"实际的 Microsoft Active Directory\"},{\"funcP\":\"由于目录属于关键任务型基础设施，因此京东云托管式目录服务部署在多个可用区且具有高可用性。您还可以通过部署额外的域控制器来扩展京东云托管式目录服务，以提高托管目录的弹性，从而实现更高的可用性。\",\"funcTitle\":\"高可用性\"},{\"funcP\":\"京东云托管式目录服务在京东云托管基础设施上运行，并具有监控功能，可自动检测和替换出现故障的域控制器。\",\"funcTitle\":\"京东云托管基础设施\"},{\"funcP\":\"您可以使用 Active Directory 信任关系轻松地将京东云托管式目录服务与现有 Active Directory 集成。通过使用信任关系，您可以控制哪些 Active Directory 用户可以通过现有 Active Directory 访问您的京东云资源。 \",\"funcTitle\":\"支持信任关系\"},{\"funcP\":\"京东云托管式目录服务使用与 Active Directory 相同的基于 Kerberos 的身份验证来提供 SSO。通过将您的京东云资源与目录服务集成，您的用户可以使用一组凭证通过 SSO 登录京东云的应用程序和资源。\",\"funcTitle\":\"单点登录 (SSO)\"},{\"funcP\":\"借助京东云托管式目录服务，用户和组可以轻松地联合访问京东云管理控制台。使用联合访问功能消除了使用单个用户密码的必要性，并让您可以根据来自 Active Directory 的单个身份管理访问，从而帮助提高京东云环境的安全性。\",\"funcTitle\":\"联合访问京东云管理控制台\"}],\"funcName\":\"目录管理\"}]",
+		"id":321
+	},
+	{
+		"txt":"[{\"instruction\":\"如果您不想在本地搭建或者维护企业目录，可以完全在云上创建企业自己的活动目录，创建成功后只需要将云上的企业目录和目录服务做信任配置即可，这样完全省去了企业目录的维护工作，以及目录的扩容缩容工作，实现完全相同的功能。\",\"name\":\"完全托管式目录服务\",\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/e37804d7-6569-4d06-9f52-488c04157f6420181126114216.png\",\"selectedProduct\":[{\"name\":\"云主机\",\"url\":\"//www.jdcloud.com/products/virtual-machines\"},{\"name\":\"访问控制\",\"url\":\"//www.jdcloud.com/products/iam\"},{\"name\":\"私有网络\",\"url\":\"//www.jdcloud.com/products/virtual-private-cloud\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"name\":\"将您的本地 AD 扩展至京东云\",\"instruction\":\"如果您已有一个 AD 基础设施并且要在将 AD 感知工作负载迁移至京东云时使用它，那么京东云托管式目录服务可起到帮助作用。您可以使用 AD 信任将京东云目录服务连接到您的现有 AD。这意味着，您的用户可以使用其本地 AD 凭证访问 AD 感知应用程序和京东云应用程序，无需您同步用户、组或密码。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"私有网络\",\"url\":\"//www.jdcloud.com/products/virtual-private-cloud\"},{\"name\":\"专线服务\",\"url\":\"//www.jdcloud.com/products/direct-connection\"},{\"name\":\"访问控制\",\"url\":\"//www.jdcloud.com/products/iam\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/93aad2be-cc0a-46d6-8951-6b998f291a7520181123160519.png\",\"showShade\":false}]",
+		"id":322
+	}
+]
