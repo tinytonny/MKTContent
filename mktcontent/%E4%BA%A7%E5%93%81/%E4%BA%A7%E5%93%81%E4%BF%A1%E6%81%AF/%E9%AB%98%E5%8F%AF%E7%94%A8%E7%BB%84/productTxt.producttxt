@@ -1,0 +1,26 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"高可用组\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"http://answer.jd.com/jump/?shortCode=kCaWsWLrnnnX&surveyId=1568250\"}],\"desc\":\"高可用组是京东云提供的云主机逻辑集合，高可用组内的云主机分散部署在相互隔离的物理资源上，当出现硬件故障或定时维护时只会影响部分云主机，您的业务仍为可用状态。服务免费。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/efdd5d91-b5c4-4bef-8a71-e5f8aeb602f320181115163451.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|76\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|76\"}",
+		"id":207
+	},
+	{
+		"txt":"[{\"proGood\":\"业务高可用\",\"proName\":\"高可用组支持跨可用区，当您选择在高可用组内部署云主机时，京东云将保证您的云主机分散在多可用区的不同的物理故障域上，故障域之间相互隔离，当一个故障域内发生硬件故障或定时维护时仅影响部署在该故障域上云主机，其他故障域上云主机仍为可用，保障您业务正常运行。\"},{\"proGood\":\"自动化运维\",\"proName\":\"无需人工实时干预，动态调整云主机数量，高可用组支持根据您预设的告警/定时策略动态新增和删除云主机，轻松应对业务负载波动，保障业务波峰时服务能力，节约业务波谷时业务成本。\"}]",
+		"id":208
+	},
+	{
+		"txt":"[{\"funcContent\":[{\"funcP\":\"创建高可用组时需支持指定多可用区，高可用组将保证组内云主机在所配可用区内均匀分布，当新建云主机时将自动在所配置可用区内选择云主机数较少的可用区创建，无需您指定可用区。\",\"funcTitle\":\"跨可用区\"},{\"funcP\":\"故障域是相互隔离的物理资源池，同一个高可用组在单个可用区内至少分配5个故障域，一个故障域内发生的硬件故障或定时维护时不影响其他故障域，降低您业务所有云主机同时不可用风险。在您进行业务部署时，建议您为业务每一类服务选择一个高可用组进行部署，且高可用组内云主机数不少于2台。\",\"funcTitle\":\"单高可用组多故障域\"}],\"funcName\":\"跨可用区高可用部署\"},{\"funcContent\":[{\"funcP\":\"基于多维度监控高可用组内云主机，可视化图表展示，方便用户实时掌握云主机资源使用情况及运行状态。 自动上报CPU利用率、内存利用率及磁盘读写吞吐量等监控数据，支持您使用不同统计方法监测资源，如平均值、最大值等。\",\"funcTitle\":\"多维度监控\"}],\"funcName\":\"资源监控\"},{\"funcContent\":[{\"funcP\":\"当您业务存在业务波动时，支持您基于监控指标（如CPU、内存利用率）配置告警伸缩策略，当满足伸缩条件时自动触发新增或删除云主机，从而灵活应对业务负载变化，保障业务服务能力，节省业务部署成本。\",\"funcTitle\":\"告警伸缩策略\"},{\"funcP\":\"对于可预估业务波动情况下，您可规划高可用组内云主机数量并配置定时伸缩策略，定时触发新增或删除云主机，若为周期性波动，还支持按天/周/月配置重复周期。\",\"funcTitle\":\"定时伸缩策略\"},{\"funcP\":\"若高可用组开启了自动伸缩，将会记录伸缩策略触发的伸缩活动，帮助您掌握自动伸缩已执行的活动情况，包括伸缩内容、伸缩状态及伸缩起止时间，支持您按时间查询历史记录。\",\"funcTitle\":\"伸缩记录\"}],\"funcName\":\"自动伸缩\"},{\"funcContent\":[{\"funcP\":\"创建高可用组时需配置实例模板，启动模板记录云主机创建所需配置，如镜像、云主机规格及网络信息，高可用组新增云主机时将基于启动模板配置创建云主机而无需您重新指定，部署快捷且保障您同一服务的云主机配置一致性。\\n\",\"funcTitle\":\"配置实例模板\"}],\"funcName\":\"高效管理\"}]",
+		"id":209
+	},
+	{
+		"txt":"{\"operatingClasstag\":\"Products|keycount|MiddleContentSec|76\",\"price\":\"//docs.jdcloud.com/availability-group/billing-overview\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|76\"}",
+		"id":210
+	},
+	{
+		"txt":"[{\"name\":\"什么是高可用组？\",\"link\":\"https://docs.jdcloud.com/cn/availability-group/product-overview\",\"classTag\":\"\"},{\"name\":\"如何理解高可用组的功能？\",\"link\":\"https://docs.jdcloud.com/cn/availability-group/features\",\"classTag\":\"\"},{\"name\":\"高可用组入门指南\",\"link\":\"https://docs.jdcloud.com/cn/availability-group/getting-start\",\"classTag\":\"\"}]",
+		"id":722
+	},
+	{
+		"txt":"[{\"name\":\"高可用Web应用\",\"instruction\":\"将业务不同服务采用不同可用组部署，隔离服务层故障影响。 京东云高可用组将保证Web服务对应的云主机实例分散在物理资源上，数据库服务对应的云主机也分散在不同物理资源上。当某一台Web服务云主机所在物理资源出现故障时，其他Web服务实例以及数据库服务实例不受影响，保证您业务高可用。\",\"recommend\":\"Web服务实例使用一个高可用组，数据库服务实例使用一个高可用组。两个高可用组均跨\",\"selectedProduct\":[{\"name\":\"云主机\",\"url\":\"//www.jdcloud.com/products/virtual-machines\"},{\"name\":\"高可用组\",\"url\":\"//www.jdcloud.com/products/availability-group\"},{\"name\":\"负载均衡\",\"url\":\"//www.jdcloud.com/products/load-balancer\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/ea11e402-8b2e-4108-85e0-bea3a9112cea20181217112926.png\",\"showShade\":false},{\"name\":\"弹性高性能计算应用\",\"instruction\":\"计算请求通过负载均衡到达应用服务器，当您计算量波动时，支持您基于监控指标配置告警伸缩策略，自动触发新增或删除云主机，保障集群计算能力，节省业务部署成本。若可预估计算量波动情况，您可预先规划可用组内云主机数量并配置定时伸缩策略，定时触发新增或删除云主机。\",\"recommend\":\"计算集群实例使用一个高可用组，数据库服务实例使用一个高可用组。两个高可用组均开启\",\"selectedProduct\":[{\"name\":\"云主机\",\"url\":\"//www.jdcloud.com/products/virtual-machines\"},{\"name\":\"高可用组\",\"url\":\"//www.jdcloud.com/products/availability-group\"},{\"name\":\"负载均衡\",\"url\":\"//www.jdcloud.com/products/load-balancer\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/6f219f3a-b3d8-49b0-ba44-b24cdc3060a420181217113017.png\",\"showShade\":false}]",
+		"id":723
+	}
+]
