@@ -714,11 +714,11 @@
 		"main_title":"最新发布 分布式网络负载均衡"
 	},
 	{
-		"sub_title":"我的世界",
+		"sub_title":"",
 		"name":"我的世界",
 		"id":1065,
 		"button_title":"",
-		"main_title":"我的世界"
+		"main_title":""
 	},
 	{
 		"sub_title":"Cloud Native 时代下的应用之路与开源创新",
@@ -733,5 +733,12 @@
 		"id":1069,
 		"button_title":"查看详情",
 		"main_title":"对象存储推出免费额度"
+	},
+	{
+		"sub_title":"助力企业打造安全高效桌面环境",
+		"name":"云桌面白皮书",
+		"id":1071,
+		"button_title":"立即下载",
+		"main_title":"京东云云桌面白皮书 正式发布"
 	}
 ]
