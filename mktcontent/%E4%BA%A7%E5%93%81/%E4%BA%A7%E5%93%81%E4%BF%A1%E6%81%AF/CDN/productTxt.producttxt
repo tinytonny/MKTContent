@@ -1,0 +1,22 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"CDN\",\"label\":[{\"TitleName\":\"立即开通\",\"TitleUrl\":\"http://www.jdcloud.com/help/detail/1468/isCateLog/1\"}],\"desc\":\"京东云CDN（ContentDeliveryNetwork）基于京东优质网络基础设施和智能云计算技术，向客户提供低成本、高性能、可扩展的互联网内容分发服务。利用广泛的节点覆盖和先进的云调度、云存储技术，将海量内容更快、更可靠地投递给互联网终端用户，降低网站运营成本，提升用户互联网应用体验。\\n开通此功能需联系运营人员，联系电话：4006151212。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/724e3e76-7729-49ac-9df9-beb707c27eb520181115170140.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|13\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|13\"}",
+		"id":42
+	},
+	{
+		"txt":"[{\"proGood\":\"优质资源，全网覆盖\",\"proName\":\"自有超高质量网络节点，辅以精选主流第三方优质节点，实现全网全区域无盲区的服务覆盖。\"},{\"proGood\":\"服务透明，质量可视\",\"proName\":\"实时、多维、可视化的业务用量及服务质量监控，透明化的提供稳定、优质的加速服务。\"},{\"proGood\":\"精准调度，极速体验\",\"proName\":\"基于京东自有IP地址库及智能融合云调度技术，实现95%以上的命中率和极速用户体验。\"},{\"proGood\":\"弹性服务，降低回源\",\"proName\":\"海量冗余资源弹性部署及CDN云化架构，实现低负载、高命中率、弹性缓存和最低回源 \"},{\"proGood\":\"私人管家，稳定可靠\",\"proName\":\"京东多年大促技术保障经验的专业运维团队，提供全天候服务保障，每个客户都是VIP \"}]",
+		"id":43
+	},
+	{
+		"txt":"[{\"funcContent\":[{\"funcP\":\"提供完整的静态网页、文件、视频点播、视频直播等互联网内容分发管理和网络加速解决方案\",\"funcTitle\":\"内容分发\"}],\"funcName\":\"\"},{\"funcContent\":[{\"funcP\":\"线上即时自助化开通服务，提供丰富的回源策略和缓存策略配置管理功能。\",\"funcTitle\":\"自助配置\"}],\"funcName\":\"\"},{\"funcContent\":[{\"funcP\":\"多维实时性监控查询CDN业务带宽、流量、访问量等信息。\",\"funcTitle\":\"服务监控\"}],\"funcName\":\"\"},{\"funcContent\":[{\"funcP\":\"可视化的提供可用性、命中率、回源率等CDN服务质量监测。\",\"funcTitle\":\"质量监控\"}],\"funcName\":\"\"},{\"funcContent\":[{\"funcP\":\"提供便捷、实时、灵活、高效的内容刷新、预热服务。\",\"funcTitle\":\"内容管理\"}],\"funcName\":\"\"},{\"funcContent\":[{\"funcP\":\"支持Referer防盗链、访问秘钥鉴权等访问控制能力。\",\"funcTitle\":\"访问控制\"}],\"funcName\":\"\"}]",
+		"id":44
+	},
+	{
+		"txt":"[{\"instruction\":\"直播CDN服务基于京东云全国优质节点以及智能云计算能力，为各类视频直播平台提供高可用稳定的音视频内容分发服务，支持互动式推拉流直播、传统回源拉流模式，提供分布式转码、录制存储、访问控制、多维度统计查询一站式服务。\",\"name\":\"视频直播\",\"picUrl\":\"//img1.jcloudcs.com/cms/70d30e73-8189-4f4a-b548-5bec10834acf20181031114450.png\",\"selectedProduct\":[{\"name\":\"查看详情\",\"url\":\"https://docs.jdcloud.com/cn/cdn/living\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]",
+		"id":45
+	},
+	{
+		"txt":"{\"operatingClasstag\":\"Products|keycount|MiddleContentSec|13\",\"price\":\"//docs.jdcloud.com/cdn/billing-overview\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|13\"}",
+		"id":46
+	}
+]
