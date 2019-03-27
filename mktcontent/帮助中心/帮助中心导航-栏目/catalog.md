@@ -190,7 +190,7 @@
 	},
 	{
 		"summary":"",
-		"name":"Load Balancer",
+		"name":"Application Load Balancer",
 		"id":213
 	},
 	{
