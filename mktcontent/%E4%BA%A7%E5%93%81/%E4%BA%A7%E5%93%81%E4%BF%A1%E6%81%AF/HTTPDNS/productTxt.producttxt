@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[{\"explain\":\"HTTPDNS提供300万免费流量包邀您来用！\",\"explainLink\":\"https://httpdns-front.jdcloud.com\",\"classTag\":\"\"}],\"productName\":\"HTTPDNS\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://httpdns-front.jdcloud.com\",\"classTag\":\"\"}],\"desc\":\"采用HTTP协议，替代基于UDP的DNS协议，可以绕过传统Local DNS，能够有效避免Local DNS不可靠导致的域名劫持、生效缓慢、来源IP不准确等问题。\"}",
+		"id":711
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"高速访问\",\"proName\":\"接入节点覆盖国内主流运营商、东南亚及北美，解析精准，访问迅速\"},{\"showShade\":false,\"proGood\":\"安全接入\",\"proName\":\"绕开运营商Local DNS，无劫持，防止DNS被污染拦截 \"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"精准调度\",\"proName\":\"精确识别来源请求，访问导向最准确节点 \"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"负载均衡\",\"proName\":\"一个IP三地集群容灾，秒级自动故障切换，服务提供99%以上的SLA \"}]",
+		"id":712
+	},
+	{
+		"txt":"[{\"funcName\":\"域名解析\",\"funcContent\":[{\"funcTitle\":\"全网域名支持\",\"funcP\":\"HTTPDNS支持全网域名的解析，包括京东云注册域名、任意第三方平台注册域名。\"}]},{\"funcName\":\"精准解析\",\"funcContent\":[{\"funcTitle\":\"避免域名劫持\",\"funcP\":\"HTTPDNS支持直接在报文中携带客户端IP，可以确保解析基于真实客户端IP，结合自有IP库，能够确保请求访问到解析配置的最优节点。\"}]},{\"funcName\":\"接入域名管理\",\"funcContent\":[{\"funcTitle\":\"接入域名管理\",\"funcP\":\"HTTPDNS提供接入域名管理功能，支持增加删除接入域名，域名添加到接入域名列表后才能正常进行HTTPDNS解析。\"}]},{\"funcName\":\"解析报表\",\"funcContent\":[{\"funcTitle\":\"解析报表\",\"funcP\":\"HTTPDNS提供历史解析报表查询功能，用户可以按照不同的时间跨度和粒度，查看账户下域名解析总量以及每个域名的解析量。\"}]}]",
+		"id":713
+	},
+	{
+		"txt":"[{\"name\":\"移动解析\",\"instruction\":\"HTTPDNS是通过将移动APP及桌面应用的默认域名解析方式，替换为通过\\bHTTP协议进行域名解析，以规避由运营商Local DNS服务异常所导致的用户网络接入异常。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"云主机\",\"url\":\"//www.jdcloud.com/products/virtual-machines\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/82da57bc-f612-479d-8e3f-519d3ced3f8e20181211165105.png\",\"showShade\":false}]",
+		"id":714
+	}
+]
