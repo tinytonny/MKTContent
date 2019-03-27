@@ -1,0 +1,22 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"数据大屏\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ultrav-console.jdcloud.com/\"}],\"desc\":\"京东云数据大屏是一款基于实时多层渲染技术的数据可视化工具，它能够提供对海量数据进行实时场景化展示。\\n京东数据大屏也是一款图形化的大屏开发工具，非专业的数据工程师通过拖拽方式对数据进行所见即可得方式创建大屏。同时大屏提供涵盖电商销售、农业、医疗、政务等多行业应用的专业模板，极大程度满足会议展览、业务监控、风险预警、地理信息分析等多种业务的展示需求。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/b8d631a1-c0bf-42f0-8827-1fbd24c81a7b20181115171818.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|56\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|56\"}",
+		"id":136
+	},
+	{
+		"txt":"[{\"proGood\":\"专业的可视化效果\",\"proName\":\"通过行业和场景模板解决UED设计难题和业务指标定义问题。\"},{\"proGood\":\"丰富可视化效果\",\"proName\":\"支持矢量图表效果展示，提供丰富和细致的可视化效果样式配置方式，满足用户在大屏展示的多样化效果展示需求。\"},{\"proGood\":\"低成本高效率开发\",\"proName\":\"通过拖拽方式对数据进行所见即所得的可视化处理，低门槛成就酷炫大屏展示效果，轻松掌大屏展示利器。\"},{\"proGood\":\"灵活的分辨率适配\",\"proName\":\"您可以通过全屏覆盖，横向拉伸、纵向拉伸3种方式，轻松解决定制化大屏分辨率适配问题\"}]",
+		"id":137
+	},
+	{
+		"txt":"[{\"funcContent\":[{\"funcP\":\"京东云数据大屏模板综合运用了色彩搭配、组件布局、数据层次关联设计，并整合了多种行业和场景的实施案例为用户提供专业的特定行业特定场景通用解决方案。\",\"funcTitle\":\"通过大屏模板快速创建大屏\"}],\"funcName\":\"场景化大屏模板\"},{\"funcContent\":[{\"funcP\":\"京东数据大屏提供折线图、柱状图、散点图、饼图、水位图、雷达图、K线图、箱线图、日历热力图、关系图、漏斗图、桑基图、仪表盘等多种图表，满足用户进行多维数据分析和展示.\",\"funcTitle\":\"多图表形式，多种组合插件灵活布局，满足用户需求\"}],\"funcName\":\"丰富的矢量图表\"},{\"funcContent\":[{\"funcP\":\"提供2D、3D地图组件，支持GIS地图和数据接口，数据表现上还可叠加飞线、热力、气泡等数据特效。\",\"funcTitle\":\"通过多层渲染及数据特效增加地理数据的展示效果\"}],\"funcName\":\"炫酷地图组件\"},{\"funcContent\":[{\"funcP\":\"支持Json格式静态数据、RDS云数据库、本地关系型数据库、京东云数据计算服务以及在线API方式。满足您各类大数据实时计算、监控的需求，充分发挥大数据计算的能力。\",\"funcTitle\":\"支持静态数据、关系型数据、API 三种方式数据访问\"}],\"funcName\":\"丰富的数据源连接\"}]",
+		"id":138
+	},
+	{
+		"txt":"[{\"instruction\":\"北京市交通主干路的交通\\n·主干路全程蓝色表示交通路况良好，道路畅通。\\n·主干道路上移动的亮点用来表示特种车辆（道路救援等）所在的位置\\n\\n城市楼宇\\n·采用3D白膜技术，对北京主要城区进行建模。\\n\",\"name\":\"城市交通路况监测\",\"picUrl\":\"//img1.jcloudcs.com/cms/7177db86-d5ce-459f-b6b0-83bc2dc0e79220181101143713.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}},{\"instruction\":\"通过榜单、柱状图、折线图、指标占比图 来表示品类销售情况、渠道销售情况、会员增长信息\\n通过飞线、热力、散点等多种表现形式展现地理信息。\\n\",\"name\":\"电商交易大屏\",\"picUrl\":\"//img1.jcloudcs.com/cms/21800ce2-4f4d-4df0-8999-900287a0379120181101150456.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}},{\"instruction\":\"采用GIS地图展现服务人员在空间上的分布。用气泡表示所服务的服务人员所在地，气泡的大小表示人群的集中程度。并结合占比、榜单等基础组件进行综合描述。\",\"name\":\"政府公共服务地理信息展示\",\"picUrl\":\"//img1.jcloudcs.com/cms/198ae262-f351-415e-93ab-75923c22408020181101152221.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]",
+		"id":139
+	},
+	{
+		"txt":"{\"operatingClasstag\":\"Products|keycount|MiddleContentSec|56\",\"price\":\"//docs.jdcloud.com/data-visualization/billing-overview\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|56\"}",
+		"id":140
+	}
+]
