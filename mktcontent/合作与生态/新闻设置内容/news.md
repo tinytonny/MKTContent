@@ -646,5 +646,29 @@
 		"jss_key":"News_Content_469",
 		"id":469,
 		"news_title":"Cloud blossoms. Nantong cooperates with JD Cloud to widen the new space of “Internet+” new economy development."
+	},
+	{
+		"summary":"On March 21, the “Kick-off Meeting of JD Cloud & Qunli” was convened in Nanjing.",
+		"image_url":"//img1.jcloudcs.com/cms/b0eafe4b-145d-4f94-bd6b-4d85ac606cc620190322205904.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_470",
+		"jss_key":"News_Content_470",
+		"id":470,
+		"news_title":"Quicken digital transformation of JD Cloud Onboarding and build enterprise-level intelligent solutions between JD Cloud and Qunli"
+	},
+	{
+		"summary":"On March 7, 2019, JD Cloud highlighted the launch of the Distributed Network Load Balancer (DNLB for short) and started the Beta.",
+		"image_url":"//img1.jcloudcs.com/cms/fff1fac1-aa30-4fa4-a505-ab09f3dc5b1920190325144106.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_471",
+		"jss_key":"News_Content_471",
+		"id":471,
+		"news_title":"Highlight Release. JD Cloud firstly launched the Distributed Network Load Balancer, solving the network forwarding bottle neck"
+	},
+	{
+		"summary":"A few days ago, “JD Cloud-Beijing” took the crown in the complex ranking list of Performance Evaluation Report of Virtual Machines in February 2019 released by Bonree Index. Meanwhile, “JD Cloud-Shanghai” took the fourth place in the complex ranking list and the first place in East China.",
+		"image_url":"//img1.jcloudcs.com/cms/73601752-d242-4d1e-944e-c335848845a320190326095604.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_472",
+		"jss_key":"News_Content_472",
+		"id":472,
+		"news_title":"Bonree index: “JD Cloud-Beijing” took the crown and “JD Cloud-Shanghai” ranked the first place in East China"
 	}
 ]

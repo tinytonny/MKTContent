@@ -154,5 +154,17 @@
 		"id":165,
 		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution165",
 		"solution_jss_key":"Customer_Case_Solution165"
+	},
+	{
+		"project_overview":"Services of 9kacha are divided into two sets, one set is specially for providing picture-taking purchase business for JD Mall, which has been deployed on JD Cloud in 2018; the other set is the complete business system and official website of 9kacha, deployed on other Cloud services. Based on the consideration of cost and the recognition of JD Cloud products and services, the customer started the work of migrating its business system and official website to JD Cloud in early November 2018, and the JD Cloud Onboarding Test and Onboarding Migration Services were provided to 9kacha customer by architects of JD Cloud team.",
+		"application_type":"Suitable for Internet Business Type",
+		"introduce":"“9kacha” is a domestic initiative information and service provider vertical to the wine industry based on image recognition and search technology, taking the “visual” wine database as the core, which searches, collects and shares all kinds of wine information through the convenient way of “taking picture of wine label and recognizing wine” to provide wine lovers and wine suppliers with simple and professional information and purchasing services.",
+		"image_url":"//img1.jcloudcs.com/cms/37b8a1b3-196a-41fc-b742-d7d3c356ce2b20190322102622.jpg",
+		"name":"JD Cloud helps 9kacha smoothly complete Migration and JD Cloud Onboarding of the system",
+		"channel_agent":"Internet Application",
+		"customer_income":"<br/>•\t Enjoy more perfect and efficient big customer services of JD Cloud. \n<br/>•\t After the business system and official website of 9kacha are migrated to JD Cloud, 15% cost optimization is achieved. \n<br/>•\t Based on the public cloud product features of JD Cloud, it ensures the high availability of the underlayer resources of the customer business system, so as to improve the stability of the customer business system.",
+		"id":167,
+		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution167",
+		"solution_jss_key":"Customer_Case_Solution167"
 	}
 ]

@@ -1336,5 +1336,113 @@
 		"name":"Baseline Check Service  Official Release",
 		"description":"With the user’s full authorization, an overall security baseline check is made to the user’s cloud system, helping the user grasp the overall security vulnerability of its cloud system. Besides, objective security fix-up suggestions are provided according to check results and features of user’s business mode, reducing security threats of systems.",
 		"id":2173
+	},
+	{
+		"introduce":"Creation of customized data by the Virtual Machines is supported",
+		"name":"Customized Data",
+		"description":"When creating Virtual Machines, users transmit execution scripts in specified data format into instances, realizing customized instance starting behavior (for example: download and installation of specified software, enabling service, modifying system configuration, etc.)\t",
+		"id":2179
+	},
+	{
+		"introduce":"1. Identity and Access Management 2. Operation Protection  3. Internalization",
+		"name":"The Container Registry supports the Identity and Access Management, operation protection and internalization",
+		"description":"Users can create and manage sub-users via the Identity and Access Management and control operation permissions of these sub-users, such as access and operation of the Docker Image.\n With respect to operation protection for deletion of the Registry, the Container Registry and images, the operation protection shall be enabled and MFA, SMS and Email verification are supported.\n The Docker Image Repository Console supports English",
+		"id":2180
+	},
+	{
+		"introduce":"Backup can be imported from OSS\t",
+		"name":"Import from OSS",
+		"description":"Users can directly upload local backup to OSS and import the same to the JCS for SQL Server",
+		"id":2181
+	},
+	{
+		"introduce":"Free certificate issuance and IAM access are supported",
+		"name":"SSL Certificate Version V2.1",
+		"description":"1. One-key issuance of Symantec’s one-year free DV certificate is supported\n2. ECC certificate upload is supported\n3. Operation protection is supported",
+		"id":2182
+	},
+	{
+		"introduce":"Support the Region Suqian",
+		"name":"Support the Region Suqian",
+		"description":"The Anti-DDoS Protection Package can be subscribed for the region Suqian and the maximum protection capability in the region Suqian is 10G",
+		"id":2183
+	},
+	{
+		"introduce":"The customized word library comprises a primary library and a stop word library, wherein the primary library is the special word collection where the user intends to carry out word segmentation, while the stop word library is the word collection where the user do not intend to carry out word segmentation or",
+		"name":"Customized Word Library\t",
+		"description":"The customized word library comprises a primary library and a stop word library, wherein the primary library is the special word collection where the user intends to carry out word segmentation, while the stop word library is the word collection where the user do not intend to carry out word segmentation or concern",
+		"id":2184
+	},
+	{
+		"introduce":"Support JCS for Elasticsearch Log",
+		"name":"JCS for Elasticsearch Log\t",
+		"description":"The JCS for Elasticsearch provides JCS for Elasticsearch log search and display via JD Cloud Log Service, covering main log, search of slow log, index of slow log and search and display of GC log",
+		"id":2185
+	},
+	{
+		"introduce":"Support basic package",
+		"name":"Package Optimization",
+		"description":"\t\n A basic package is released for use of personal user and test and supports Web security protection, blacklist and White List rule setting and HTTP protocol header management.\n The package specification includes the Optimized and Advanced Version, the Enterprise Version and the Flagship Version, making each package version more competitive.\n\n",
+		"id":2186
+	},
+	{
+		"introduce":"Function Iteration and Version Update",
+		"name":"Version V1.0.2",
+		"description":"1. Support to off-line remittance and recharging is added, making mobile operation and remittance more convenient.\n2. Support to database DRDS is added, making MongoDB resource information of database and monitoring details searchable.\n3. Repair known problems and promote performance.",
+		"id":2187
+	},
+	{
+		"introduce":"1. Enhance protection rules\n2. Support search of reports by regions",
+		"name":"Anti-DDoS Protection Package V2.0",
+		"description":"1. Enhance protection rules: Support Geo IP intercepts and filters data package by size\n\n2. Search monitoring reports by regions",
+		"id":2188
+	},
+	{
+		"introduce":"Support cluster version 1.12.3 of JD Cloud",
+		"name":"JCS for Kubernetes supports the Version 1.12.3",
+		"description":"The cluster version 1.12.3 of JD Cloud is supported, which is the cluster version under maintenance of community now. Compared with the cluster version 1.8, it expands new functions and features. In addition, the cluster stability is fully verified by the community and JD Cloud Team.",
+		"id":2189
+	},
+	{
+		"introduce":"JCS for Kubernetes supports the Monitoring",
+		"name":"JCS for Kubernetes supports the Monitoring",
+		"description":"JCS for Kubernetes provides two types of resource monitoring: basic monitoring and custom metric monitoring. Basic monitoring is the monitoring of cluster infrastructure such as management node group and work node group. Custom metric monitoring provides a monitoring indicator for applications that users customize to deploy in the cluster, including CPU used, memory used, etc.",
+		"id":2190
+	},
+	{
+		"introduce":"JD Cloud will monitor status of work nodes and carry out automatic crown repair to work nodes not in ready state",
+		"name":"The work node group of JCS for Kubernetes supports automatic repair",
+		"description":"JD Cloud will monitor status of work nodes and carry out automatic crown repair to work nodes not in ready state",
+		"id":2191
+	},
+	{
+		"introduce":"Vulnerability Scan Service  Official Release",
+		"name":"Vulnerability Scan Service  Official Release",
+		"description":"Under full authorization by the user, provide a comprehensive vulnerability scan service for the user-specified operating system and database, etc. JD Cloud Security experts will interpret the scan results and provide professional vulnerability scan reports and fix guidance recommendations.",
+		"id":2192
+	},
+	{
+		"introduce":"Penetration Test Service  Official Release",
+		"name":"Penetration Test Service  Official Release",
+		"description":"Without causing any damage to the existing system, a comprehensive and in-depth attack test of the user-specified system is carried out simulating the hacker intrusion technical means from the perspective of the attacker to identify potential risk threats in the system to help users reduce economic losses caused by hacker intrusion.",
+		"id":2193
+	},
+	{
+		"introduce":"Incident Response Service  Official Release",
+		"name":"Incident Response Service  Official Release",
+		"description":"When users encounter network attacks, Webshell viruses, data theft and other hacker invasion events, JD Cloud can provide incident response services including suppression of loss, incident analysis, system reinforce, and incident traceability to help users reduce the impact and loss of itself caused by the security incidents.\n\n",
+		"id":2194
+	},
+	{
+		"introduce":"The JDMigration is open for Beta and users can apply for participation in Beta",
+		"name":"JDMigration  Open for Beta",
+		"description":"JDMigration is a Hybrid Cloud disaster tolerance product provided by JD Cloud. It is committed to providing rich, high-performance, high-security business-and-data-based migration, backup, and recovery services in a Hybrid Cloud scenario, making full use of the Hybrid Cloud platform to achieve high availability of business and data, and significantly reduce the technical difficulty and cost of users’ JD Cloud Onboarding.",
+		"id":2195
+	},
+	{
+		"introduce":"The Directory Service is open for Beta. Users can apply for participation in Beta",
+		"name":"Directory Service  Open for Beta",
+		"description":"JD Cloud Directory Service is cloud-hosted Microsoft Active Directory, which supports the enterprise to independently use or extend the current directory into JD Cloud so as to enable the enterprise user to access resources and applications on JD Cloud through JD Cloud Directory Service.",
+		"id":2196
 	}
 ]

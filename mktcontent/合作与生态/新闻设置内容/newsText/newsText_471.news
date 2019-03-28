@@ -1,0 +1,33 @@
+<p style="text-indent: 2em;">On March 7, 2019, JD Cloud officially announced to highlight the launch of the Distributed Network Load Balancer (DNLB for short) and start the Beta on the basis of the existed Application Load Balancer (ALB for short).</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">DNLB is a stateless four-layer Load Balancer based on JD Cloud's mature and sound SDN technology and provides software-defined distributed Load Balancer services to all AZs. DNLB does not independently occupy computing resources, with natural advantages of no forwarding performance bottle neck, high availability of all AZs, low latency and auto scaling as well as free in long term. As JD Cloud's product with IaaS technology, DNLB has been maturely applied to several JD Cloud products (e.g. RDS, MongoDB, Redis, ES and ALB) in the high availability architecture for years.</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">Compared to ALB with session persistence function, DNLB can provide higher performance and lower latency at the premise of satisfying the needs. Moreover, the users do not need to assume any cost of Load Balancer services, which can meet the customer demand on performance, latency and horizontal business expansion to the greatest extent and implement the high performance, high availability, high elasticity and low latency of customer cloud business. Benefits are summarized as below:</p>
+<p style="text-indent: 2em;"><span style="text-indent: 2em;"><br/></span>
+</p>
+<p style="text-indent: 2em;"><strong><span style="text-indent: 2em;">Super High Performance &amp; Free in Long Term</span>
+</strong></p>
+<p style="text-indent: 2em;"><span style="text-indent: 24px; font-size: 12px; line-height: 115%; font-family: 微软雅黑, sans-serif;"><br/></span>
+</p>
+<p style="text-indent: 2em;">DNLB adopts JD Cloud SDN immersive architecture to make it no forwarding performance bottle neck, low latency and free in long term and enable users to enjoy the best experience without considering the cost of Load Balancer.</p>
+<p style="text-indent: 2em;"><strong><span style="text-indent: 2em;"></span>
+</strong><br/></p>
+<p style="text-indent: 2em;"><strong>High Service Availability</strong></p>
+<p><br/></p>
+<p style="text-indent: 2em;">DNLB adopts the all AZs distributed deployment architecture to implement the high availability of Load Balancer services in availability zones and across availability zones; the backend server associated with DNLB can automatically smooth Auto Scaling according to business loads to guarantee uninterrupted services.</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>Retain Source IP Address</strong></p>
+<p><br/></p>
+<p style="text-indent: 2em;">By directly passing through the client source IP address, DNLB is transparent for business which is convenient for the server to perceive or count the real source information to satisfy customer demands on traceability.</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>Decoupling of the Load Balancer and Session Persistence Functions</strong></p>
+<p style="text-indent: 2em;"><span style="text-indent: 24px; font-size: 12px; line-height: 115%; font-family: 微软雅黑, sans-serif;"><br/></span>
+</p>
+<p style="text-indent: 2em;">DNLB will decouple the Load Balancer and Session persistence functions to implement a higher-performance and more flexible deployment.</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>Diversified Selection of Backend Services</strong></p>
+<p><br/></p>
+<p style="text-indent: 2em;">DNLB can register the VM Instance and the container instance to support the business backend distribution service by virtue of following the virtual server group design of ALB and has a variety of service types.</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">JD Cloud gathers the top technical talents in the industry, constantly overcomes difficulties, and blazes new trails in a pioneering spirit by virtue of strong technical capability, it always works hard to create a business environments on the cloud with high security, high performance and high availability for customers to facilitate the rapid and healthy development of customers’ cloud business. In the future, JD Cloud will continuously increase the investment in the construction of cloud infrastructure, give full play to the benefits of technical capability, and help digital transformation of enterprises so as to provide the society with secure, professional, stable and convenient cloud computing services.</p>
+<p style="text-indent: 2em;"></p>
