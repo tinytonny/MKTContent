@@ -707,13 +707,6 @@
 		"main_title":"NEW LAUNCH! Distributed Network Load Balancer"
 	},
 	{
-		"sub_title":"World",
-		"name":"World",
-		"id":1065,
-		"button_title":"",
-		"main_title":"World"
-	},
-	{
 		"sub_title":"Cloud Native Application Development and Open Source Innovation",
 		"name":"TechMeetup",
 		"id":1067,
@@ -726,5 +719,33 @@
 		"id":1069,
 		"button_title":"View Details",
 		"main_title":"Free Quota Offered for OSS"
+	},
+	{
+		"sub_title":"Develop Secure and Efficient Working Environment",
+		"name":"JD Cloud Workspaces Whitepaper",
+		"id":1071,
+		"button_title":"Download Whitepaper",
+		"main_title":"JD Cloud Workspaces Whitepaper Release"
+	},
+	{
+		"sub_title":"Layer 4 Load Balancer with High Performance, Low Latency, and Sticky Sessions",
+		"name":"Network Load Balancer",
+		"id":1073,
+		"button_title":"Try Now",
+		"main_title":"Network Load Balancer"
+	},
+	{
+		"sub_title":"A Fully Managed Message Queuing Service Based on the Serverless Architecture",
+		"name":"Queue Service ",
+		"id":1074,
+		"button_title":"Try Now",
+		"main_title":"Queue Service "
+	},
+	{
+		"sub_title":"Highly Reliable, Scalable, Shareable, Distributed File System.",
+		"name":"Cloud File Service",
+		"id":1075,
+		"button_title":"Try Now",
+		"main_title":"Cloud File Service"
 	}
 ]
