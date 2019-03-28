@@ -1,0 +1,127 @@
+<div class="aidc">
+  <div class="w">
+    <div class="aidc-info">
+      <div class="aidc-info-img">
+        <img src="https://img1.jcloudcs.com/portal/aidc/aidc2.png">
+        <div class="aidc-mark"></div>
+      </div>
+      <div class="aidc-info-ct">
+        <h2>京东云北京BJ1数据中心</h2>
+        <p class="txt">
+          <i class="i-map"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><style>.st0{fill:#3171ff}</style><path class="st0" d="M249.2 55c-67.4.5-122.1 54.7-123.3 122.1 0 62.5 121.9 212.2 121.9 212.2s126.3-147.6 126.3-212.2C372.2 109.4 316.9 55.4 249.2 55zm2.1 168.2c-23-.1-41.5-18.8-41.4-41.8.2-22.9 18.9-41.2 41.8-41 22.8.2 41.2 18.9 41 41.8-.3 22.7-18.7 41-41.4 41zM290.9 392.9c.4 1.1.5 2.2.5 3.3 0 11.5-18.5 20.9-41.4 20.9s-41.4-9.4-41.4-20.9c0-1.1.2-2.3.5-3.3-25.1 4.8-41.9 13.8-41.9 24.2 0 15.4 37 27.8 82.8 27.8s82.8-12.4 82.8-27.8c0-10.3-16.9-19.4-41.9-24.2z"/></svg></i>
+          <span>北京市顺义区赵全营镇兆丰产业基地</span>
+
+        </p>
+
+        <ul class="txt2">
+          <li>建筑面积：7.7万㎡</li>
+          <li>机柜数量：机房总机柜共9000架</li>
+          <li>建设标准：Uptime Tier Ⅳ标准</li>
+        </ul>
+      </div>
+    </div>
+    <div>
+      <h3 class="aidc-hd">关键参数</h3>
+      <table class="aidc-table">
+        <colgroup>
+          <col width="18%">
+          <col width="18%">
+          <col width="64%">
+        </colgroup>
+        <thead>
+        <tr>
+          <th>分类</th>
+          <th>项目</th>
+          <th>内容</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+          <td rowspan="2">建筑</td>
+          <td>抗震</td>
+          <td>抗震9级</td>
+        </tr>
+        <tr>
+          <td>地铁承重</td>
+          <td>1,000Kg/㎡</td>
+        </tr>
+        <tr class="bg-tr">
+          <td rowspan="4">电气</td>
+          <td>市电</td>
+          <td>双路市电</td>
+        </tr>
+        <tr class="bg-tr">
+          <td>柴发</td>
+          <td>N+1，提供连续12小时满载运行能力</td>
+        </tr>
+        <tr class="bg-tr">
+          <td>UPS冗余</td>
+          <td>2N，蓄电池后备时间单侧15min，双侧40min</td>
+        </tr>
+        <tr class="bg-tr">
+          <td>机柜供电</td>
+          <td>A/B双路，双路PDU</td>
+        </tr>
+        <tr>
+          <td rowspan="3">空调</td>
+          <td>空调冗余</td>
+          <td>N+X</td>
+        </tr>
+        <tr>
+          <td rowspan="2">冷机</td>
+          <td>2N</td>
+        </tr>
+        <tr>
+          <td>2*18000立方米蓄冷罐，蓄冷罐≥8小时</td>
+        </tr>
+        <tr class="bg-tr">
+          <td rowspan="3">安防</td>
+          <td rowspan="2">监控</td>
+          <td>智慧的电力和设备监控系统</td>
+        </tr>
+        <tr class="bg-tr">
+          <td>先进的机房动力环境监控系统集成</td>
+        </tr>
+        <tr class="bg-tr">
+          <td>安保</td>
+          <td>智能入侵探测和出入口管理系统</td>
+        </tr>
+        <tr>
+          <td>其它</td>
+          <td>消防</td>
+          <td>全覆盖的火灾探测和视频监控系统</td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+    <div>
+      <h3 class="aidc-hd">机房优势</h3>
+      <div class="aidc-advantage row hp3">
+        <div class="col-4 col-xs-12">
+          <div class="aidc-advantage-item">
+            <i class="icon1"></i>
+            <h3>位置优势</h3>
+            <p>距离市区（三环）车行距离31公里,距离京承高速赵全营收费站3公里</p>
+
+          </div>
+        </div>
+        <div class="col-4 col-xs-12">
+          <div class="aidc-advantage-item">
+            <i class="icon2"></i>
+            <h3>网络优势</h3>
+            <p>3路由光纤接入, 分别从天北路、昌金路、京承高速引入3路光纤</p>
+
+          </div>
+        </div>
+        <div class="col-4 col-xs-12">
+          <div class="aidc-advantage-item">
+            <i class="icon3"></i>
+            <h3>技术优势</h3>
+            <p>高智能化、高扩展性、高灵活性、高安全性、高节能性、以及高标准服务和专业化运维</p>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
