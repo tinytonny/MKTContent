@@ -1,0 +1,96 @@
+<div class="wtoip">
+  <div class="wtoip-banner">
+    <div class="w">
+      <p class="banner-txt hidden-xs">JD Cloud Elite Intelligent Cloud Customer Service | Marketplace Intelligent Marketing SMS Package<br/>It charges only RMB 0.01</b></p>
+      <p class="banner-txt banner-txt-m">JD Cloud Elite Intelligent Cloud Customer Service<br/>Marketplace Intelligent Marketing SMS Package<br/>It charges only RMB 0.01</b></p>
+      <!--<p class="banner-txt origin-price">The original amount is RMB 100</p>-->
+      <a href="https://market.jdcloud.com/#/service/details/577619" class="banner-btn" clstag="Activity|keycount|SectionBannerSec|0">Try Now</a>
+    </div>
+  </div>
+  <div class="wtoip-floor">
+    <div class="wtoip-floor-item wtoip-floor1 wtoip-floor-new">
+      <h4 class="wtoip-floor-hd">Intelligent Marketing Gift Package</h4>
+      <div class="wtoip-floor-bd">
+        <h5 class="wtoip-floor-tit">JD Cloud Elite Intelligent Cloud Customer Service</h5>
+        <div class="w">
+          <img src="https://img1.jcloudcs.com/portal/activity/wtoip/wtoip-service.png" alt="JD Cloud Elite Intelligent Cloud Customer Service " class="wtoip-img hidden-xs">
+          <img src="https://img1.jcloudcs.com/portal/activity/wtoip/wtoip-service-m.png" alt="JD Cloud Elite Intelligent Cloud Customer Service " class="wtoip-img wtoip-img-m">
+        </div>
+        <div class="row w">
+          <div class="col-3">
+            <dl class="feature-list">
+              <dt>Omni-channel Access Integration</dt>
+              <dd>WEB, WAP, APP, WeChat, MicroBlog, Mini Program, QR Code, Email, SMS, Messages Leaving, etc.</dd>
+            </dl>
+          </div>
+          <div class="col-3">
+            <dl class="feature-list">
+              <dt>Customizable Product Design</dt>
+              <dd>Role customization, permission customization, assignment policy customization, queuing policy customization, comment customization, etc.</dd>
+            </dl>
+          </div>
+          <div class="col-3">
+            <dl class="feature-list">
+              <dt>Multiple Intelligent Application</dt>
+              <dd>Intelligent identification, intelligent assignment, intelligent switching, intelligent entering, intelligent agent and so on, to improve service efficiency</dd>
+            </dl>
+          </div>
+          <div class="col-3">
+            <dl class="feature-list">
+              <dt>Big Data Driven</dt>
+              <dd>The channel integrates each user’s contact behavior tracks, interactive records, precipitate data assets, providing personalized services and marketing</dd>
+            </dl>
+          </div>
+        </div>
+        <a href="https://market.jdcloud.com/#/service/details/577619" class="banner-btn" clstag="Activity|keycount|MiddleContentSec|3">Try Now</a>
+      </div>
+    </div>
+
+    <div class="wtoip-floor-item wtoip-floor1">
+      <div class="wtoip-floor-bd">
+        <h5 class="wtoip-floor-tit">Marketplace Intelligent Marketing SMS Package</h5>
+        <div class="w">
+          <img src="https://img1.jcloudcs.com/portal/activity/wtoip/phone.png" alt="Marketplace Intelligent Marketing SMS Package"  class="wtoip-img">
+        </div>
+        <div class="row w">
+          <div class="col-3">
+            <dl class="feature-list">
+              <dt>SMS Official Account</dt>
+              <dd>Form like JD Cloud Wechat, with more convenient interaction so as to facilitate business transformation.</dd>
+            </dl>
+          </div>
+          <div class="col-3">
+            <dl class="feature-list">
+              <dt>SMS Carding</dt>
+              <dd>According to the rules and scenario of SMS text, the traditional SMS is resolved into card style with good exposure and good conversion</dd>
+            </dl>
+          </div>
+          <div class="col-3">
+            <dl class="feature-list">
+              <dt>Speedy Service Button</dt>
+              <dd>The link will redirect to the enterprise's official website immediately, with more direct conversion</dd>
+            </dl>
+          </div>
+          <div class="col-3">
+            <dl class="feature-list">
+              <dt>No. Recognition</dt>
+              <dd>It will never again be shielded by innocent; officially certified; safe and efficient</dd>
+            </dl>
+          </div>
+        </div>
+        <a href="https://market.jdcloud.com/#/service/details/577320" class="banner-btn" clstag="Activity|keycount|MiddleContentSec|4">Try Now</a>
+      </div>
+    </div>
+    <div class="wtoip-floor-item wtoip-floor3">
+      <h4 class="wtoip-floor-hd">Promotion Rules</h4>
+      <div class="wtoip-floor-bd w">
+        <ul class="rule-list">
+          <li>1. The gift package in this activity is limited to the registered users of WTOIP.</li>
+          <li>2. Click **Try Now** and pay RMB 0.01 to use it.</li>
+          <li>3. It is limited for use by users themselves. It is strictly prohibited to maliciously rush to brush resources or illegally resell. Once discovered, the resources will be recovered, and the account will be sealed.</li>
+          <li>4. For product consultation or questions, please call JD Cloud Customer Service at 400-615-1212 (7*24 hours).</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
