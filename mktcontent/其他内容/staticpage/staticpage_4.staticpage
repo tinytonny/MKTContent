@@ -1,0 +1,136 @@
+<div class="activity-newUser">
+  <div class="an-banner f-cb">
+    <div class="an-logo hidden-xs"></div>
+    <div class="an-banner-img">
+      <img src="//img1.jcloudcs.com/portal/activity/newuser/banner.png">
+    </div>
+    <a href="https://market.jdcloud.com/#/service/details/577337" clstag="Activity|keycount|SectionBannerSec|0" class="an-banner-btn">Receive Now</a>
+    <div class="m-qrcode"><img src="//static-portal.jdcloud.com/jcloud/jc/2.1.0/widget/activity-newUser/i/m-qrcode.png" width="103" height="109"></div>
+  </div>
+
+  <div class="an-floor an-floor1">
+    <div class="w">
+      <div class="hd">Intelligent Marketing Gift Package</div>
+      <div class="bd">
+        <div class="row first-box">
+          <div class="col-6 col-xs-12">
+            <div class="first-item">
+              <div class="first-item-hd hidden-xs">Intelligent SMS Mass Texting</div>
+              <div class="first-item-bd">
+                <div class="m-item-hd">Intelligent SMS Mass Texting</div>
+                <img src="//img1.jcloudcs.com/portal/activity/newuser/first.png" alt="">
+              </div>
+              <div class="first-item-ft row">
+                <div class="col-6 col-xs-12">
+                  <div class="bottom-item">
+                    <div class="bottom-item-hd">Enrich Customer Scenarios</div>
+                    <div class="bottom-item-bd">Promotion Marketing, Holiday Care, Delivery Reminder, Payment Reminder Notification</div>
+                  </div>
+                </div>
+                <div class="col-6 col-xs-12">
+                  <div class="bottom-item">
+                    <div class="bottom-item-hd">Improve Conversion Effect</div>
+                    <div class="bottom-item-bd">The form of JD Cloud Wechat; intelligent card display, one-key login of company website, SMS No.recognition</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-xs-12">
+            <div class="first-item">
+              <div class="first-item-hd hidden-xs">JD Cloud Coupon for All Products</div>
+              <div class="first-item-bd">
+                <div class="m-item-hd">JD Cloud Coupon for All Products</div>
+                <a href="https://market.jdcloud.com/#/service/details/577337" clstag="Activity|keycount|MiddleContentSec|0">
+                  <img src="//img1.jcloudcs.com/portal/activity/newuser/first2.png" alt="">
+                </a>
+              </div>
+              <div class="first-item-ft row">
+                <div class="col-6 col-xs-12">
+                  <div class="bottom-item">
+                    <div class="bottom-item-hd">Not Restricted in Product Category</div>
+                    <div class="bottom-item-bd">Directly deducted when you purchase JD Cloud’s self-support products</div>
+                  </div>
+                </div>
+                <div class="col-6 col-xs-12">
+                  <div class="bottom-item">
+                    <div class="bottom-item-hd">More Products</div>
+                    <div class="bottom-item-bd">Enterprise Domain, VPC, Object Storage Service, Anti-DDoS Basic and Data Computation</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="an-floor an-floor2">
+    <div class="w">
+      <div class="hd">More Benefits</div>
+      <div class="bd">
+        <ul class="welfare-list">
+          <li class="welfare-item">
+            <div class="welfare-icon-wrap">
+              <i class="welfare-icon welfare-icon1"></i>
+            </div>
+            <div class="welfare-ct">
+              <div class="g-table">
+                <div class="g-cell ct-text">
+                  <h4 class="welfare-tit"><i class="welfare-icon welfare-icon1"></i>JD Cloud PLUS Enterprise Email</h4>
+                  <dl>
+                    <dt>Enterprise office email created specially for small and medium-sized enterprises</dt>
+                    <dd>Safe and stable; optimize the enterprise image; an indispensable part of an enterprise's one-stop solutions</dd>
+                  </dl>
+                </div>
+                <div class="g-cell btn-wrap">
+                  <a href="https://market.jdcloud.com/#/service/details/576608" clstag="Activity|keycount|MiddleContentSec|1" class="jdc-banner-btn">Free Trial</a>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="welfare-item">
+            <div class="welfare-icon-wrap">
+              <i class="welfare-icon welfare-icon2"></i>
+            </div>
+            <div class="welfare-ct">
+              <div class="g-table">
+                <div class="g-cell ct-text">
+                  <h4 class="welfare-tit"><i class="welfare-icon welfare-icon2"></i>JD Cloud PLUS Enterprise Cloud Box</h4>
+                  <dl>
+                    <dt>Simplify Your Work</dt>
+                    <dd>Enable your team to centrally access and share files in one place to facilitate enterprises to get rid of office stress; improve work efficiency</dd>
+                  </dl>
+                </div>
+                <div class="g-cell btn-wrap">
+                  <a href="https://market.jdcloud.com/#/service/details/576607" clstag="Activity|keycount|MiddleContentSec|2" class="jdc-banner-btn">Free Trial</a>
+                </div>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="an-floor an-floor3">
+    <div class="w">
+      <div class="hd">Promotion Rules</div>
+      <div class="bd">
+        <div class="rule-box">
+          <ul class="rule-list">
+            <li>1. The applicable crowd for this activity are enterprise users, users who do not pay in JD Cloud;</li>
+            <li>2. Each user is limited to purchase the gift package only once; refunds are not supported and it cannot be superimposed with other discounts and coupons;</li>
+            <li>3. Intelligent SMS can be used immediately after purchase; JD Cloud coupons will be returned to JD Cloud account within 15 working days after the successful purchase of SMS;</li>
+            <li>4. All products are limited for use by users themselves. It is strictly prohibited to maliciously rush to brush resources or illegally resell. Once discovered, the resources will be recovered, and the account will be sealed;</li>
+            <li>5. Campaign time: January 1, 2019-March 15, 2019;</li>
+            <li>6. For product consultation or questions, please call JD Cloud Customer Service at 4006151212 (7*24 hours).</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="qrcode-fixed hidden-xs"></div>
+</div>
