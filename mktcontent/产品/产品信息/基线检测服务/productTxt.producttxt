@@ -10,5 +10,9 @@
 	{
 		"txt":"[{\"funcName\":\"安全配置检测\",\"funcContent\":[{\"funcTitle\":\"漏洞类检测\",\"funcP\":\"包括操作系统漏洞、数据库漏洞、应用系统漏洞等检测。提供操作系统配置、应用系统配置、网络系统配置等安全配置检测。\"}]},{\"funcName\":\"安全状态检测\",\"funcContent\":[{\"funcTitle\":\"重要信息检测\",\"funcP\":\"可检测端口、进程、重要文件、账号状态等关键性信息的安全性。\"}]},{\"funcName\":\"服务交付\",\"funcContent\":[{\"funcTitle\":\"提供基线检测服务报告\",\"funcP\":\"为用户提供丰富细致的安全脆弱性现状指数与分析，并提供分析报告。根据报告结果，为用户提供安全加固建议，确保用户的加固方案切实可行，不影响原有业务的稳定运行。\"}]}]",
 		"id":856
+	},
+	{
+		"txt":"[{\"name\":\"产品概述\",\"link\":\"https://docs.jdcloud.com/baseline-check-service/product-overview\",\"classTag\":\"\"},{\"name\":\"入门指南\",\"link\":\"https://docs.jdcloud.com/baseline-check-service/getting-started\",\"classTag\":\"\"},{\"name\":\"产品定价\",\"link\":\"https://docs.jdcloud.com/baseline-check-service/billing-overview\",\"classTag\":\"\"}]",
+		"id":960
 	}
 ]
