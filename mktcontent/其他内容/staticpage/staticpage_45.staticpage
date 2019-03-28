@@ -1,0 +1,127 @@
+<div class="aidc">
+  <div class="w">
+    <div class="aidc-info">
+      <div class="aidc-info-img">
+        <img src="https://img1.jcloudcs.com/portal/aidc/aidc10.png">
+        <div class="aidc-mark"></div>
+      </div>
+      <div class="aidc-info-ct">
+        <h2>京东云广州GZ3数据中心</h2>
+        <p class="txt">
+          <i class="i-map"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><style>.st0{fill:#3171ff}</style><path class="st0" d="M249.2 55c-67.4.5-122.1 54.7-123.3 122.1 0 62.5 121.9 212.2 121.9 212.2s126.3-147.6 126.3-212.2C372.2 109.4 316.9 55.4 249.2 55zm2.1 168.2c-23-.1-41.5-18.8-41.4-41.8.2-22.9 18.9-41.2 41.8-41 22.8.2 41.2 18.9 41 41.8-.3 22.7-18.7 41-41.4 41zM290.9 392.9c.4 1.1.5 2.2.5 3.3 0 11.5-18.5 20.9-41.4 20.9s-41.4-9.4-41.4-20.9c0-1.1.2-2.3.5-3.3-25.1 4.8-41.9 13.8-41.9 24.2 0 15.4 37 27.8 82.8 27.8s82.8-12.4 82.8-27.8c0-10.3-16.9-19.4-41.9-24.2z"/></svg></i>
+          <span>广州市高新技术产业开发区科学城南部片区</span>
+
+        </p>
+
+        <ul class="txt2">
+          <li>建筑面积：25650平方米</li>
+          <li>机柜数量：机房总机柜共3096架</li>
+          <li>建设标准：GB 50174-2008 A级，Uptime Tier T3+</li>
+        </ul>
+      </div>
+    </div>
+    <div>
+      <h3 class="aidc-hd">关键参数</h3>
+      <table class="aidc-table">
+        <colgroup>
+          <col width="18%">
+          <col width="18%">
+          <col width="64%">
+        </colgroup>
+        <thead>
+        <tr>
+          <th>分类</th>
+          <th>项目</th>
+          <th>内容</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+          <td rowspan="2">建筑</td>
+          <td>抗震</td>
+          <td>抗震7级</td>
+        </tr>
+        <tr>
+          <td>地铁承重</td>
+          <td>1000Kg/㎡</td>
+        </tr>
+        <tr class="bg-tr">
+          <td rowspan="4">电气</td>
+          <td>市电</td>
+          <td>4路高可靠性供电，40000KVA</td>
+        </tr>
+        <tr class="bg-tr">
+          <td>柴发</td>
+          <td>10台10kV 1800kw柴发，N，提供连续8小时满载运行能力</td>
+        </tr>
+        <tr class="bg-tr">
+          <td>UPS冗余</td>
+          <td>2N，延时供电15min</td>
+        </tr>
+        <tr class="bg-tr">
+          <td>机柜供电</td>
+          <td>A/B双路，双路PDU</td>
+        </tr>
+        <tr>
+          <td rowspan="2">空调</td>
+          <td>空调冗余</td>
+          <td>N+1</td>
+        </tr>
+        <tr>
+          <td>冷机</td>
+          <td>N+1，应急蓄冷15分钟</td>
+        </tr>
+        <tr class="bg-tr">
+          <td rowspan="2">安防</td>
+          <td>监控</td>
+          <td>高清网络摄像机、网络存储及高清大屏电视监控墙，实时监控所有机房实时状况，高清录像保存90天以上</td>
+        </tr>
+        <tr class="bg-tr">
+          <td>安保</td>
+          <td>关键机室、通道的出入，所有门进出记录均存入后台数据库</td>
+        </tr>
+        <tr>
+          <td rowspan="3">其它</td>
+          <td rowspan="3">消防</td>
+          <td>极早期烟雾报警监控平台</td>
+        </tr>
+        <tr>
+          <td>极早期烟雾报警采集器</td>
+        </tr>
+        <tr>
+          <td>七氟丙烷消防气体灭火系统</td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+    <div>
+      <h3 class="aidc-hd">机房优势</h3>
+      <div class="aidc-advantage row">
+        <div class="col-4 col-xs-12">
+          <div class="aidc-advantage-item">
+            <i class="icon1"></i>
+            <h3>位置优势</h3>
+            <p>地理位置优良，交通便利。园区临近广深高速、京珠高速及广园快速</p>
+
+          </div>
+        </div>
+        <div class="col-4 col-xs-12">
+          <div class="aidc-advantage-item">
+            <i class="icon2"></i>
+            <h3>网络优势</h3>
+            <p>高标准的基础设施，并为客户提供高质量的互联网接入服务</p>
+
+          </div>
+        </div>
+        <div class="col-4 col-xs-12">
+          <div class="aidc-advantage-item">
+            <i class="icon3"></i>
+            <h3>技术优势</h3>
+            <p>7×24小时专业运维团队</p>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
