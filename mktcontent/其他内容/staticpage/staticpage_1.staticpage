@@ -1,0 +1,99 @@
+<div class="wtoip">
+  <div class="wtoip-banner">
+    <div class="w">
+      <p class="banner-txt hidden-xs">京东云Elite智能云客服 | 京东云Plus智能营销短信包 <br/>仅需<b>0.01</b>元</p>
+
+      <p class="banner-txt banner-txt-m">京东云Elite智能云客服<br/>京东云Plus智能营销短信包 <br/>仅需<b>0.01</b>元</p>
+
+      <!--<p class="banner-txt origin-price">原价100元</p>
+-->
+      <a href="https://market.jdcloud.com/#/service/details/577619" class="banner-btn" clstag="Activity|keycount|SectionBannerSec|0">立即体验</a>
+    </div>
+  </div>
+  <div class="wtoip-floor">
+    <div class="wtoip-floor-item wtoip-floor1 wtoip-floor-new">
+      <h4 class="wtoip-floor-hd">智能营销大礼包</h4>
+      <div class="wtoip-floor-bd">
+        <h5 class="wtoip-floor-tit">京东云Elite智能云客服</h5>
+        <div class="w">
+          <img src="https://img1.jcloudcs.com/portal/activity/wtoip/wtoip-service.png" alt="京东云Elite智能云客服" class="wtoip-img hidden-xs">
+          <img src="https://img1.jcloudcs.com/portal/activity/wtoip/wtoip-service-m.png" alt="京东云Elite智能云客服" class="wtoip-img wtoip-img-m">
+        </div>
+        <div class="row w">
+          <div class="col-3">
+            <dl class="feature-list">
+              <dt>全渠道接入整合</dt>
+              <dd>WEB、WAP、APP、微信、微博、小程序、二维码、邮件、短信、留言等</dd>
+            </dl>
+          </div>
+          <div class="col-3">
+            <dl class="feature-list">
+              <dt>可定制的产品设计</dt>
+              <dd>角色自定义、权限自定义、分配策略自定义、排队策略自定义、评价自定义等</dd>
+            </dl>
+          </div>
+          <div class="col-3">
+            <dl class="feature-list">
+              <dt>多重智能应用</dt>
+              <dd>智能识别、智能分配、智能切换、智能输入、智能代理等提升服务效率</dd>
+            </dl>
+          </div>
+          <div class="col-3">
+            <dl class="feature-list">
+              <dt>大数据驱动</dt>
+              <dd>渠道整合每个用户触点的行为轨迹，交互记录、沉淀数据资产，提供个性化服务及营销</dd>
+            </dl>
+          </div>
+        </div>
+        <a href="https://market.jdcloud.com/#/service/details/577619" class="banner-btn" clstag="Activity|keycount|MiddleContentSec|3">立即体验</a>
+      </div>
+    </div>
+
+    <div class="wtoip-floor-item wtoip-floor1">
+      <div class="wtoip-floor-bd">
+        <h5 class="wtoip-floor-tit">京东云Plus智能营销短信包</h5>
+        <div class="w">
+          <img src="https://img1.jcloudcs.com/portal/activity/wtoip/phone.png" alt="京东云Plus智能营销短信包"  class="wtoip-img">
+        </div>
+        <div class="row w">
+          <div class="col-3">
+            <dl class="feature-list">
+              <dt>短信公众号</dt>
+              <dd>类似微信公众号形式，交互更便捷，促进业务转化</dd>
+            </dl>
+          </div>
+          <div class="col-3">
+            <dl class="feature-list">
+              <dt>短信卡片化</dt>
+              <dd>根据短信文案规则和场景，将传统短信解析成卡片样式，曝光佳，转化好</dd>
+            </dl>
+          </div>
+          <div class="col-3">
+            <dl class="feature-list">
+              <dt>快捷服务按钮</dt>
+              <dd>链接立刻跳转至企业官网，转化更直接</dd>
+            </dl>
+          </div>
+          <div class="col-3">
+            <dl class="feature-list">
+              <dt>号码识别</dt>
+              <dd>再也不会被无辜屏蔽，官方认证，安全高效</dd>
+            </dl>
+          </div>
+        </div>
+        <a href="https://market.jdcloud.com/#/service/details/577320" class="banner-btn" clstag="Activity|keycount|MiddleContentSec|4">立即体验</a>
+      </div>
+    </div>
+    <div class="wtoip-floor-item wtoip-floor3">
+      <h4 class="wtoip-floor-hd">活动规则</h4>
+      <div class="wtoip-floor-bd w">
+        <ul class="rule-list">
+          <li>1.本活动礼包仅限于汇桔网注册用户参加。</li>
+          <li>2.点击立即体验并支付0.01元即可使用。</li>
+          <li>3.仅限用户自用，严禁恶意抢刷资源、违规转售，一经发现，资源收回，账户作封号处理。</li>
+          <li>4.产品咨询或疑问请致电京东云客服电话 400-615-1212（7*24小时）。</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
