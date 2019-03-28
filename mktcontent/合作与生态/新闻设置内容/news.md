@@ -678,5 +678,21 @@
 		"jss_key":"News_Content_473",
 		"id":473,
 		"news_title":"京东云发布云桌面白皮书，助力企业打造安全高效的桌面环境"
+	},
+	{
+		"summary":"3月27日，京东和微软联合举办《我的世界》教育版媒体沟通会。双方宣布，《我的世界》教育版在中国大陆地区的独家版权归京东集团所有，由京东云管理运营。",
+		"image_url":"//img1.jcloudcs.com/cms/5082e019-b038-4f25-a061-a65f9ff0257720190327181831.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_475",
+		"jss_key":"News_Content_475",
+		"id":475,
+		"news_title":"京东与微软合作《我的世界》教育版  共同打造创新教育平台"
+	},
+	{
+		"summary":"3月26日，京东云相关负责人受邀参加“2019中国数据中心设施论坛大会”并发表主题演讲。",
+		"image_url":"//img1.jcloudcs.com/cms/26e492ef-3d99-48ee-ac55-66e6881c6dc220190328113211.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_476",
+		"jss_key":"News_Content_476",
+		"id":476,
+		"news_title":"更高效，更智能：京东云数据中心“黑科技”"
 	}
 ]
