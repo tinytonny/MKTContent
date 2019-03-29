@@ -1464,9 +1464,9 @@
 		"id":2199
 	},
 	{
-		"introduce":"openAPI上线",
-		"name":"openAPI上线",
-		"description":"开放域名管理、直播流管理、状态通知、直播转码、直播录制、直播截图等openAPI，客户可直接调用管理自身直播业务。",
+		"introduce":"OpenAPI上线",
+		"name":"OpenAPI上线",
+		"description":"开放域名管理、直播流管理、状态通知、直播转码、直播录制、直播截图等OpenAPI，客户可直接调用管理自身直播业务。",
 		"id":2200
 	},
 	{
