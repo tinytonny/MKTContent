@@ -694,5 +694,13 @@
 		"jss_key":"News_Content_476",
 		"id":476,
 		"news_title":"更高效，更智能：京东云数据中心“黑科技”"
+	},
+	{
+		"summary":"3月28日，“京东云&神州数码合作启动会”在京正式召开，京东云正式授予神州数码集团（000034.SZ）旗下子公司神州云计算“钻石企业渠道伙伴”资质。",
+		"image_url":"//img1.jcloudcs.com/cms/6633b2da-5806-4e17-b0a2-1b379a84cfe420190328174516.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_477",
+		"jss_key":"News_Content_477",
+		"id":477,
+		"news_title":"以合作促发展：神州数码、京东云携手共探云市场"
 	}
 ]
