@@ -761,5 +761,12 @@
 		"id":1075,
 		"button_title":"立即申请",
 		"main_title":"云文件服务 开放公测"
+	},
+	{
+		"sub_title":"云主机低至6折  建站仅需98元",
+		"name":"域名促销",
+		"id":1076,
+		"button_title":"查看详情",
+		"main_title":"域名特价 限时抢注！"
 	}
 ]
