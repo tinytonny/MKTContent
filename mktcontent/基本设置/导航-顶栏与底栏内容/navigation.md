@@ -5,11 +5,6 @@
 		"id":1
 	},
 	{
-		"name":"合作与动态",
-		"description":"合作与动态",
-		"id":3
-	},
-	{
 		"name":"支持与动态",
 		"description":"支持与动态",
 		"id":4
@@ -215,11 +210,6 @@
 		"id":112
 	},
 	{
-		"name":"合作伙伴",
-		"description":"",
-		"id":120
-	},
-	{
 		"name":"新闻动态",
 		"description":"",
 		"id":121
@@ -238,11 +228,6 @@
 		"name":"数据工厂",
 		"description":"数据灵活同步，清除本地和云端数据孤岛",
 		"id":127
-	},
-	{
-		"name":"客户案例",
-		"description":"",
-		"id":128
 	},
 	{
 		"name":"产品动态",
@@ -858,11 +843,6 @@
 		"name":"京东桌面云解决方案",
 		"description":"",
 		"id":352
-	},
-	{
-		"name":"生态矩阵",
-		"description":"",
-		"id":353
 	},
 	{
 		"name":"京云慧政 - 智能云京东微联",
@@ -2025,5 +2005,45 @@
 		"name":"产品动态",
 		"description":"产品动态",
 		"id":3323
+	},
+	{
+		"name":"语音技术",
+		"description":"语音技术",
+		"id":3341
+	},
+	{
+		"name":"人脸识别",
+		"description":"人脸识别",
+		"id":3343
+	},
+	{
+		"name":"语言基础技术",
+		"description":"语言基础技术",
+		"id":3345
+	},
+	{
+		"name":"OCR文字识别",
+		"description":"OCR文字识别",
+		"id":3347
+	},
+	{
+		"name":"人体识别",
+		"description":"人体识别",
+		"id":3349
+	},
+	{
+		"name":"语义理解",
+		"description":"语义理解",
+		"id":3351
+	},
+	{
+		"name":"图像理解",
+		"description":"图像理解",
+		"id":3353
+	},
+	{
+		"name":"人工智能解决方案",
+		"description":"人工智能解决方案",
+		"id":3355
 	}
 ]
