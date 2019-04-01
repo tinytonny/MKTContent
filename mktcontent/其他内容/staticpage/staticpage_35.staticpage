@@ -1,0 +1,133 @@
+<div class="aidc">
+  <div class="w">
+    <div class="aidc-info">
+      <div class="aidc-info-img">
+        <img src="https://img1.jcloudcs.com/portal/aidc/aidc1.png">
+        <div class="aidc-mark"></div>
+      </div>
+      <div class="aidc-info-ct">
+        <h2>JD Cloud Jiangsu Suqian -SQ1 Data Center</h2>
+        <p class="txt">
+          <i class="i-map"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><style>.st0{fill:#3171ff}</style><path class="st0" d="M249.2 55c-67.4.5-122.1 54.7-123.3 122.1 0 62.5 121.9 212.2 121.9 212.2s126.3-147.6 126.3-212.2C372.2 109.4 316.9 55.4 249.2 55zm2.1 168.2c-23-.1-41.5-18.8-41.4-41.8.2-22.9 18.9-41.2 41.8-41 22.8.2 41.2 18.9 41 41.8-.3 22.7-18.7 41-41.4 41zM290.9 392.9c.4 1.1.5 2.2.5 3.3 0 11.5-18.5 20.9-41.4 20.9s-41.4-9.4-41.4-20.9c0-1.1.2-2.3.5-3.3-25.1 4.8-41.9 13.8-41.9 24.2 0 15.4 37 27.8 82.8 27.8s82.8-12.4 82.8-27.8c0-10.3-16.9-19.4-41.9-24.2z"/></svg></i>
+          <span>The western side of the crossing between Fazhan Avenue and Qingtong Road, Hubin New District, Suqian City, Jiangsu Province</span>
+
+        </p>
+
+        <ul class="txt2">
+          <li>Covered area: The total covered area is about 55,328㎡</li>
+          <li>Cabinet Count: A total of 16,000, including 6,000 (delivered in 2018) in Phase I and 10,000 (delivered in 2020) in Phase II</li>
+          <li>Construction Standard: Design and construction are carried out based on the standards Uptime Tier III and TIA-924 Tier IV</li>
+        </ul>
+      </div>
+    </div>
+    <div>
+      <h3 class="aidc-hd">Key Parameters</h3>
+      <table class="aidc-table">
+        <colgroup>
+          <col width="18%">
+          <col width="18%">
+          <col width="64%">
+        </colgroup>
+        <thead>
+          <tr>
+            <th>Category</th>
+            <th>Item</th>
+            <th>Content</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td rowspan="2">Construction</td>
+            <td>Earthquake Resistance</td>
+            <td>Earthquake Resistance Level 9</td>
+          </tr>
+          <tr>
+            <td>Subway Load-bearing</td>
+            <td>1,000Kg/㎡</td>
+          </tr>
+          <tr class="bg-tr">
+            <td rowspan="4">Electrical</td>
+            <td>Mains Supply</td>
+            <td>Special dual-circuit 110KV power supply, dual-circuit 63MW incoming line</td>
+          </tr>
+          <tr class="bg-tr">
+            <td>Diesel Generator</td>
+            <td>2,200KW (N+1), providing the continuous 12h full-load running capability</td>
+          </tr>
+          <tr class="bg-tr">
+            <td>UPS Redundancy</td>
+            <td>2N, 15min Delay</td>
+          </tr>
+          <tr class="bg-tr">
+            <td>Power Supply of Cabinet</td>
+            <td>A/B dual-circuit, dual-circuit PDU</td>
+          </tr>
+          <tr>
+            <td rowspan="3">Air Conditioner</td>
+            <td>Air Conditioner Redundancy</td>
+            <td>N+1</td>
+          </tr>
+          <tr>
+            <td rowspan="2">Refrigerator</td>
+            <td>Four 2,500KW(700RT) Refrigerating Units</td>
+          </tr>
+          <tr>
+            <td>Dual Ring Network Pipe, Cold Storage Tank≥15min</td>
+          </tr>
+          <tr class="bg-tr">
+            <td rowspan="3">Security</td>
+            <td rowspan="2">Monitoring</td>
+            <td>Cabinet BMS Environmental Monitoring System</td>
+          </tr>
+          <tr class="bg-tr">
+            <td>Monitoring of Machine Room Temperature, Humidity, Water Leakage and Microenvironment</td>
+          </tr>
+          <tr class="bg-tr">
+            <td>Security</td>
+            <td>7×24h Safety Tour Innspection, Security Regulation</td>
+          </tr>
+          <tr>
+            <td rowspan="3">Other</td>
+            <td rowspan="3">Firefighting</td>
+            <td>IG541 Pipeline Automatic Gas Fire-extinguishing System</td>
+          </tr>
+          <tr>
+            <td>Extreme Early Air Sampling Alarm System</td>
+          </tr>
+          <tr>
+            <td>Three-dimensional Temperature Sensing and Smoke Sensing Systems</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div>
+      <h3 class="aidc-hd">Benefits of Machine Room</h3>
+      <div class="aidc-advantage row">
+        <div class="col-4 col-xs-12">
+          <div class="aidc-advantage-item">
+            <i class="icon1"></i>
+            <h3>Positional Benefits</h3>
+            <p>A non-local disaster recovery can be formed along with such data centers as JD Cloud North China and South China, meeting the demand for customer backup business</p>
+
+          </div>
+        </div>
+        <div class="col-4 col-xs-12">
+          <div class="aidc-advantage-item">
+            <i class="icon2"></i>
+            <h3>Network Benefits</h3>
+            <p>Support the access of lines of multiple operators, meet customers’ different business needs</p>
+
+          </div>
+        </div>
+        <div class="col-4 col-xs-12">
+          <div class="aidc-advantage-item">
+            <i class="icon3"></i>
+            <h3>Technological Benefits</h3>
+            <p>Integrated architecture and modular design adaptable to complicated and changing business demands</p>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

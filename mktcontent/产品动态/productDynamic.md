@@ -1444,5 +1444,77 @@
 		"name":"Directory Service  Open for Beta",
 		"description":"JD Cloud Directory Service is cloud-hosted Microsoft Active Directory, which supports the enterprise to independently use or extend the current directory into JD Cloud so as to enable the enterprise user to access resources and applications on JD Cloud through JD Cloud Directory Service.",
 		"id":2196
+	},
+	{
+		"introduce":"Add web vulnerability (common web vulnerability scanning, login status scanning, external asset import scanning), emergency vulnerability function",
+		"name":"Website Vulnerability, Emergency Vulnerability",
+		"description":"1. Website vulnerability: combined with practical experience of white-box penetration testing, it provides comprehensive website threat detection service to JD Cloud through advanced crawler and distributed technology. It can help users to shorten the time of detecting vulnerabilities in cloud assets and urge them to repair the vulnerability while avoiding the loss of brand image and economy.\n2.Emergency vulnerability: the operation team of JD Cloud Security will follow up latest security vulnerability and at once provide an emergency vulnerability verification POC to help users to shorten the response time to emergency vulnerability.",
+		"id":2197
+	},
+	{
+		"introduce":"Directory Service User Login Console",
+		"name":"Directory Service/Directory User Login Console",
+		"description":"1. The local Active Directory Service can successfully configure a trust relationship with JD Cloud Directory Service\n2.The JD Cloud Directory Service can search and add local active directory users to JD Cloud\n3.Use local active directory users directly log in JD Cloud Console",
+		"id":2198
+	},
+	{
+		"introduce":"Kubernetes Conformance Verification",
+		"name":"Kubernetes Conformance Verification",
+		"description":"Launched by Cloud Native Computing Foundation (CNCF), it aims at promoting consistency and transportability of Kubernetes products to ensure user can use native stable services. CNCF is a sub-foundation owned by Linux Foundation and devotes itself to promoting cloud native. It owns Kubernetes and other relevant open source projects.",
+		"id":2199
+	},
+	{
+		"introduce":"openAPI Launch",
+		"name":"openAPI Launch",
+		"description":"By opening openAPIs such as domain management, live streaming management, status notification, live transcoding, live recording and live snapshot, customers can directly call them to manage their live businesses.",
+		"id":2200
+	},
+	{
+		"introduce":"Play Authentication",
+		"name":"Play Authentication",
+		"description":"It supports live play to encrypt the check play permission according to authentication KEY and time stamp",
+		"id":2201
+	},
+	{
+		"introduce":"Live Time Shifting",
+		"name":"Live Time Shifting",
+		"description":"A maximum of 4-hour HLS live timeshift is supported, which can be implemented by increasing timeshift parameters after the domain is played in respect of the use method, and the parameter type supports the timeshift specifying the start time and time offset.",
+		"id":2202
+	},
+	{
+		"introduce":"Create, delete and search template; add, delete and search configuration\t",
+		"name":"Watermark Setting",
+		"description":"It supports to create watermark template as well as watermark configuration and search of domain, appname and streamname levels",
+		"id":2203
+	},
+	{
+		"introduce":"Snapshot Number Statistics",
+		"name":"Snapshot Statistics",
+		"description":"It supports snapshot number statistics of domain, appname and streamname levels",
+		"id":2204
+	},
+	{
+		"introduce":"Porn Identification Number Statistics",
+		"name":"Porn Identification Statistics",
+		"description":"It supports porn identification number statistics of domain, appname and streamname levels",
+		"id":2205
+	},
+	{
+		"introduce":"Point Print Recording",
+		"name":"Point Print Recording",
+		"description":"It can give breaking streaming to and merge the recorded file, designate its start time and end time and capture needed contents.",
+		"id":2206
+	},
+	{
+		"introduce":"Domain Switch",
+		"name":"Domain Switch",
+		"description":"Users can switch the domains of two instances, so that users can switch the domain of the new instance to the old one if they need to switch the business on the new instance after creating an instance according to backup or time point.",
+		"id":2207
+	},
+	{
+		"introduce":"Support 1.6T and 2T buckets",
+		"name":"Support 1.6T and 2T buckets",
+		"description":"Instances with 16 core 64G memory specification can support 1.6T and 2T buckets in Beijing, Shanghai and Guangzhou regions",
+		"id":2208
 	}
 ]

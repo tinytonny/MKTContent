@@ -1,0 +1,124 @@
+<div class="aidc">
+  <div class="w">
+    <div class="aidc-info">
+      <div class="aidc-info-img">
+        <img src="https://img1.jcloudcs.com/portal/aidc/aidc9.png">
+        <div class="aidc-mark"></div>
+      </div>
+      <div class="aidc-info-ct">
+        <h2>JD Cloud Guangzhou-GZ2 Data Center</h2>
+        <p class="txt">
+          <i class="i-map"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><style>.st0{fill:#3171ff}</style><path class="st0" d="M249.2 55c-67.4.5-122.1 54.7-123.3 122.1 0 62.5 121.9 212.2 121.9 212.2s126.3-147.6 126.3-212.2C372.2 109.4 316.9 55.4 249.2 55zm2.1 168.2c-23-.1-41.5-18.8-41.4-41.8.2-22.9 18.9-41.2 41.8-41 22.8.2 41.2 18.9 41 41.8-.3 22.7-18.7 41-41.4 41zM290.9 392.9c.4 1.1.5 2.2.5 3.3 0 11.5-18.5 20.9-41.4 20.9s-41.4-9.4-41.4-20.9c0-1.1.2-2.3.5-3.3-25.1 4.8-41.9 13.8-41.9 24.2 0 15.4 37 27.8 82.8 27.8s82.8-12.4 82.8-27.8c0-10.3-16.9-19.4-41.9-24.2z"/></svg></i>
+          <span>No. 20, Guanda Road, Huangpu District Science City, Guangzhou City</span>
+
+        </p>
+
+        <ul class="txt2">
+          <li>Covered Area: 23,985m2</li>
+          <li>Cabinet Count: A total of 2,764 general cabinets in machine room</li>
+          <li>Construction Standard: Level T3+</li>
+        </ul>
+      </div>
+    </div>
+    <div>
+      <h3 class="aidc-hd">Key Parameters</h3>
+      <table class="aidc-table">
+        <colgroup>
+          <col width="18%">
+          <col width="18%">
+          <col width="64%">
+        </colgroup>
+        <thead>
+        <tr>
+          <th>Category</th>
+          <th>Item</th>
+          <th>Content</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+          <td rowspan="2">Construction</td>
+          <td>Earthquake Resistance</td>
+          <td>Earthquake Resistance Level 7</td>
+        </tr>
+        <tr>
+          <td>Subway Load-bearing</td>
+          <td>1000Kg/㎡</td>
+        </tr>
+        <tr class="bg-tr">
+          <td rowspan="4">Electrical</td>
+          <td>Mains Supply</td>
+          <td>Dual-circuit Highly Reliable Power Supply, 37,500KVA</td>
+        </tr>
+        <tr class="bg-tr">
+          <td>Diesel Generator</td>
+          <td>Twelve 10kV 2,500kVA diesel generators, N+1, providing the continuous 12h full-load running capability</td>
+        </tr>
+        <tr class="bg-tr">
+          <td>UPS Redundancy</td>
+          <td>2N, Storage Battery Backup Time: 15min for single side, 30min for both sides</td>
+        </tr>
+        <tr class="bg-tr">
+          <td>Power Supply of Cabinet</td>
+          <td>A/B dual-circuit, dual-circuit PDU</td>
+        </tr>
+        <tr>
+          <td rowspan="2">Air Conditioner</td>
+          <td>Air Conditioner Redundancy</td>
+          <td>N+1</td>
+        </tr>
+        <tr>
+          <td>Refrigerator</td>
+          <td>N+1, 15min Emergency Cold Storage</td>
+        </tr>
+        <tr class="bg-tr">
+          <td rowspan="2">Security</td>
+          <td>Monitoring</td>
+          <td>Be on duty 7×24h, respond within 5min, feed emergency treatment back within 15min</td>
+        </tr>
+        <tr class="bg-tr">
+          <td>Security</td>
+          <td>Add high definition cameras at fixed points as required by the user</td>
+        </tr>
+        <tr>
+          <td rowspan="2">Other</td>
+          <td rowspan="2">Firefighting</td>
+          <td>The IG541 automatic gas fire-extinguishing system is adopted</td>
+        </tr>
+        <tr>
+          <td>The partitions are separate from each other, fire extinguishment can be achieved in partitions, and the hand-held fire extinguisher and respirator are provided</td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+    <div>
+      <h3 class="aidc-hd">Benefits of Machine Room</h3>
+      <div class="aidc-advantage row">
+        <div class="col-4 col-xs-12">
+          <div class="aidc-advantage-item">
+            <i class="icon1"></i>
+            <h3>Positional Benefits</h3>
+            <p>Near to Guangzhou-Dongguan Expressway, a 0.5h drive to Guangzhou Tianhe CBD</p>
+
+          </div>
+        </div>
+        <div class="col-4 col-xs-12">
+          <div class="aidc-advantage-item">
+            <i class="icon2"></i>
+            <h3>Network Benefits</h3>
+            <p>Dual-route MMR Core Machine Room</p>
+
+          </div>
+        </div>
+        <div class="col-4 col-xs-12">
+          <div class="aidc-advantage-item">
+            <i class="icon3"></i>
+            <h3>Technological Benefits</h3>
+            <p>7×24h Professional Operation and Maintenance Team</p>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

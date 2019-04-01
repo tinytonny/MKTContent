@@ -10,5 +10,9 @@
 	{
 		"txt":"[{\"funcName\":\"Security Configuration Test\",\"funcContent\":[{\"funcTitle\":\"Vulnerability Test\",\"funcP\":\"Include tests to vulnerabilities of operating system, database, application system, etc. Provide tests to the Security Configuration such as operating system configuration, application system configuration, network system configuration.\"}]},{\"funcName\":\"Security Status Test\",\"funcContent\":[{\"funcTitle\":\"Important Information Test\",\"funcP\":\"Security of ports, processes, important files, account status and other key information can be detected.\"}]},{\"funcName\":\"Service Delivery\",\"funcContent\":[{\"funcTitle\":\"Provide baseline check service report\",\"funcP\":\"Provide users with rich and careful present status index and analysis about security vulnerability and provide an analysis report. Security reinforcement suggestions will be provided to users according to results of the report, ensuring the user’s reinforcement scheme is feasible and giving no influence to stable operation of original business.\"}]}]",
 		"id":856
+	},
+	{
+		"txt":"[{\"name\":\"Product Overview\",\"link\":\"https://docs.jdcloud.com/baseline-check-service/product-overview\",\"classTag\":\"\"},{\"name\":\"Getting Started\",\"link\":\"https://docs.jdcloud.com/baseline-check-service/getting-started\",\"classTag\":\"\"},{\"name\":\"Product Pricing\",\"link\":\"https://docs.jdcloud.com/baseline-check-service/billing-overview\",\"classTag\":\"\"}]",
+		"id":960
 	}
 ]

@@ -1,0 +1,127 @@
+<div class="aidc">
+  <div class="w">
+    <div class="aidc-info">
+      <div class="aidc-info-img">
+        <img src="https://img1.jcloudcs.com/portal/aidc/aidc6.png">
+        <div class="aidc-mark"></div>
+      </div>
+      <div class="aidc-info-ct">
+        <h2>JD Cloud Shanghai-SH1 Data Center</h2>
+        <p class="txt">
+          <i class="i-map"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><style>.st0{fill:#3171ff}</style><path class="st0" d="M249.2 55c-67.4.5-122.1 54.7-123.3 122.1 0 62.5 121.9 212.2 121.9 212.2s126.3-147.6 126.3-212.2C372.2 109.4 316.9 55.4 249.2 55zm2.1 168.2c-23-.1-41.5-18.8-41.4-41.8.2-22.9 18.9-41.2 41.8-41 22.8.2 41.2 18.9 41 41.8-.3 22.7-18.7 41-41.4 41zM290.9 392.9c.4 1.1.5 2.2.5 3.3 0 11.5-18.5 20.9-41.4 20.9s-41.4-9.4-41.4-20.9c0-1.1.2-2.3.5-3.3-25.1 4.8-41.9 13.8-41.9 24.2 0 15.4 37 27.8 82.8 27.8s82.8-12.4 82.8-27.8c0-10.3-16.9-19.4-41.9-24.2z"/></svg></i>
+          <span>No. 248, Yuntian Road, Baoshan District, Shanghai City</span>
+
+        </p>
+
+        <ul class="txt2">
+          <li>Covered Area: 59,211m2</li>
+          <li>Cabinet Count: A total of 2,500 general cabinets in machine room</li>
+          <li>Construction Standard: Level T3+</li>
+        </ul>
+      </div>
+    </div>
+    <div>
+      <h3 class="aidc-hd">Key Parameters</h3>
+      <table class="aidc-table">
+        <colgroup>
+          <col width="18%">
+          <col width="18%">
+          <col width="64%">
+        </colgroup>
+        <thead>
+        <tr>
+          <th>Category</th>
+          <th>Item</th>
+          <th>Content</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+          <td rowspan="2">Construction</td>
+          <td>Earthquake Resistance</td>
+          <td>Earthquake Resistance Level 8</td>
+        </tr>
+        <tr>
+          <td>Subway Load-bearing</td>
+          <td>1,400Kg/㎡</td>
+        </tr>
+        <tr class="bg-tr">
+          <td rowspan="4">Electrical</td>
+          <td>Mains Supply</td>
+          <td>Dual-circuit 35KV</td>
+        </tr>
+        <tr class="bg-tr">
+          <td>Diesel Generator</td>
+          <td>N+1</td>
+        </tr>
+        <tr class="bg-tr">
+          <td>UPS Redundancy</td>
+          <td>2N, 30min delay</td>
+        </tr>
+        <tr class="bg-tr">
+          <td>Power Supply of Cabinet</td>
+          <td>A/B dual-circuit, dual-circuit PDU</td>
+        </tr>
+        <tr>
+          <td rowspan="2">Air Conditioner</td>
+          <td>Air Conditioner Redundancy</td>
+          <td>N+1</td>
+        </tr>
+        <tr>
+          <td>Refrigerator</td>
+          <td>N+1</td>
+        </tr>
+        <tr class="bg-tr">
+          <td rowspan="4">Security</td>
+          <td rowspan="3">Monitoring</td>
+          <td>Mains Supply/UPS/HVDC Power and Load Monitoring Management</td>
+        </tr>
+        <tr class="bg-tr">
+          <td>Monitoring of Machine Room Temperature and Humidity</td>
+        </tr>
+        <tr class="bg-tr">
+          <td>Firefighting and water leakage detection systems</td>
+        </tr>
+        <tr class="bg-tr">
+          <td>Security</td>
+          <td>365×24×7 around-the-clock safety tour inspection, monitoring cameras provided</td>
+        </tr>
+        <tr>
+          <td>Other</td>
+          <td>Firefighting</td>
+          <td>Early Smoke Alarm System</td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+    <div>
+      <h3 class="aidc-hd">Benefits of Machine Room</h3>
+      <div class="aidc-advantage row">
+        <div class="col-4 col-xs-12">
+          <div class="aidc-advantage-item">
+            <i class="icon1"></i>
+            <h3>Positional Benefits</h3>
+            <p>Located at the core region, 24km away from Shanghai Railway Station, about 40km away from Shanghai Hongqiao Airport</p>
+
+          </div>
+        </div>
+        <div class="col-4 col-xs-12">
+          <div class="aidc-advantage-item">
+            <i class="icon2"></i>
+            <h3>Network Benefits</h3>
+            <p>Intelligent DCIM, intuitionally reflecting the locating place and running status of devices in machine room, and simplifying the operation and maintenance difficulties</p>
+
+          </div>
+        </div>
+        <div class="col-4 col-xs-12">
+          <div class="aidc-advantage-item">
+            <i class="icon3"></i>
+            <h3>Technological Benefits</h3>
+            <p>The micromodule construction method is adopted, greatly shortening the project construction time</p>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

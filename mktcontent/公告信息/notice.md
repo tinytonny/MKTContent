@@ -350,5 +350,13 @@
 	{
 		"id":638,
 		"title":"\\[Message Queue Function Suspension Notification \\] Message Queue Optimization Upgrade"
+	},
+	{
+		"id":641,
+		"title":"System Upgrade Notice on JCS for MongoDB"
+	},
+	{
+		"id":642,
+		"title":"Service Suspension Notice on RDS Console and Open API"
 	}
 ]

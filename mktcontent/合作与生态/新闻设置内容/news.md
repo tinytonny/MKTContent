@@ -670,5 +670,37 @@
 		"jss_key":"News_Content_472",
 		"id":472,
 		"news_title":"Bonree index: “JD Cloud-Beijing” took the crown and “JD Cloud-Shanghai” ranked the first place in East China"
+	},
+	{
+		"summary":"On March 26, JD Cloud officially released the JDWorkSpaces White Paper to provide customers with high-quality one-stop JDWorkSpaces products and services.",
+		"image_url":"//img1.jcloudcs.com/cms/82c5c53a-1fe2-48aa-9865-4ff2bd74d4b820190326111141.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_473",
+		"jss_key":"News_Content_473",
+		"id":473,
+		"news_title":"JD Cloud helps enterprises construct safe and efficient JDWorkSpaces environment by releasing the JDWorkSpaces White Paper"
+	},
+	{
+		"summary":"On March 27, JD and Microsoft jointly held a media conference on Minecraft: Education Edition. The parties announced that JD Group owns the exclusively copyright of Minecraft: Education Edition in Mainland China and JD Cloud will be responsible for the management and operation.",
+		"image_url":"//img1.jcloudcs.com/cms/5082e019-b038-4f25-a061-a65f9ff0257720190327181831.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_475",
+		"jss_key":"News_Content_475",
+		"id":475,
+		"news_title":"By cooperating in Minecraft: Education Edition JD and Microsoft jointly create an innovative education platform"
+	},
+	{
+		"summary":"On March 26, JD Cloud's relevant responsible person was invited to participate in the “2019 China Data Center Facility Forum (DCFF)” and give a topic speech.",
+		"image_url":"//img1.jcloudcs.com/cms/26e492ef-3d99-48ee-ac55-66e6881c6dc220190328113211.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_476",
+		"jss_key":"News_Content_476",
+		"id":476,
+		"news_title":"More Efficient and More Intelligent: “Futuristic Technology” in JD Cloud Data Center"
+	},
+	{
+		"summary":"On March 28, the “Kick-off Meeting on Cooperation Between JD Cloud and Digital China” was officially held in Beijing and JD Cloud officially granted the “Diamond Enterprise Channel Partner” qualification to the subsidiary of Digital China Group (000034.SZ), DC Clouds.",
+		"image_url":"//img1.jcloudcs.com/cms/6633b2da-5806-4e17-b0a2-1b379a84cfe420190328174516.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_477",
+		"jss_key":"News_Content_477",
+		"id":477,
+		"news_title":"Promote Development by Cooperation: Digital China and JD Cloud Go Together to Explore Cloud Marketplace"
 	}
 ]

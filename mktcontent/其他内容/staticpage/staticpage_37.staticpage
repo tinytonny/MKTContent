@@ -1,0 +1,127 @@
+<div class="aidc">
+  <div class="w">
+    <div class="aidc-info">
+      <div class="aidc-info-img">
+        <img src="https://img1.jcloudcs.com/portal/aidc/aidc2.png">
+        <div class="aidc-mark"></div>
+      </div>
+      <div class="aidc-info-ct">
+        <h2>JD Cloud Beijing -BJ1 Data Center</h2>
+        <p class="txt">
+          <i class="i-map"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><style>.st0{fill:#3171ff}</style><path class="st0" d="M249.2 55c-67.4.5-122.1 54.7-123.3 122.1 0 62.5 121.9 212.2 121.9 212.2s126.3-147.6 126.3-212.2C372.2 109.4 316.9 55.4 249.2 55zm2.1 168.2c-23-.1-41.5-18.8-41.4-41.8.2-22.9 18.9-41.2 41.8-41 22.8.2 41.2 18.9 41 41.8-.3 22.7-18.7 41-41.4 41zM290.9 392.9c.4 1.1.5 2.2.5 3.3 0 11.5-18.5 20.9-41.4 20.9s-41.4-9.4-41.4-20.9c0-1.1.2-2.3.5-3.3-25.1 4.8-41.9 13.8-41.9 24.2 0 15.4 37 27.8 82.8 27.8s82.8-12.4 82.8-27.8c0-10.3-16.9-19.4-41.9-24.2z"/></svg></i>
+          <span>Beijing Shunyi District Zhaoquanying Town Zhaofeng Industrial Base</span>
+
+        </p>
+
+        <ul class="txt2">
+          <li>Covered Area: 77,000m2</li>
+          <li>Cabinet Count: A total of 9,000 general cabinets in machine room</li>
+          <li>Construction Standard: Uptime Tier IV standard</li>
+        </ul>
+      </div>
+    </div>
+    <div>
+      <h3 class="aidc-hd">Key Parameters</h3>
+      <table class="aidc-table">
+        <colgroup>
+          <col width="18%">
+          <col width="18%">
+          <col width="64%">
+        </colgroup>
+        <thead>
+        <tr>
+          <th>Category</th>
+          <th>Item</th>
+          <th>Content</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+          <td rowspan="2">Construction</td>
+          <td>Earthquake Resistance</td>
+          <td>Earthquake Resistance Level 9</td>
+        </tr>
+        <tr>
+          <td>Subway Load-bearing</td>
+          <td>1,000Kg/㎡</td>
+        </tr>
+        <tr class="bg-tr">
+          <td rowspan="4">Electrical</td>
+          <td>Mains Supply</td>
+          <td>Dual-circuit Mains Supply</td>
+        </tr>
+        <tr class="bg-tr">
+          <td>Diesel Generator</td>
+          <td>N+1, providing the continuous 12h full-load running capability</td>
+        </tr>
+        <tr class="bg-tr">
+          <td>UPS Redundancy</td>
+          <td>2N, storage battery backup time: 15min for single side, 40min for both sides</td>
+        </tr>
+        <tr class="bg-tr">
+          <td>Power Supply of Cabinet</td>
+          <td>A/B dual-circuit, dual-circuit PDU</td>
+        </tr>
+        <tr>
+          <td rowspan="3">Air Conditioner</td>
+          <td>Air Conditioner Redundancy</td>
+          <td>N+X</td>
+        </tr>
+        <tr>
+          <td rowspan="2">Refrigerator</td>
+          <td>2N</td>
+        </tr>
+        <tr>
+          <td>2*18,000m3 Cold Storage Tank, Cold Storage Tank ≥8h</td>
+        </tr>
+        <tr class="bg-tr">
+          <td rowspan="3">Security</td>
+          <td rowspan="2">Monitoring</td>
+          <td>Smart Electricity and Device Monitoring System</td>
+        </tr>
+        <tr class="bg-tr">
+          <td>Advanced Integration of Cabinet Power Environment Monitoring System</td>
+        </tr>
+        <tr class="bg-tr">
+          <td>Security</td>
+          <td>Intelligent Intrusion Detection and Access Management System</td>
+        </tr>
+        <tr>
+          <td>Other</td>
+          <td>Firefighting</td>
+          <td>Total Coverage Fire Detection and Video Monitoring System</td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+    <div>
+      <h3 class="aidc-hd">Benefits of Machine Room</h3>
+      <div class="aidc-advantage row hp3">
+        <div class="col-4 col-xs-12">
+          <div class="aidc-advantage-item">
+            <i class="icon1"></i>
+            <h3>Positional Benefits</h3>
+            <p>A 31km drive from the urban area (3rd Ring Road), 3km away from Zhaoquanying Toll Station of Beijing-Chengde Expressway</p>
+
+          </div>
+        </div>
+        <div class="col-4 col-xs-12">
+          <div class="aidc-advantage-item">
+            <i class="icon2"></i>
+            <h3>Network Benefits</h3>
+            <p>3 ways accessed with optical fiber: 3 ways of optical fiber are led in from Tianbei Road, Changjin Road and Beijing-Chengde Expressway</p>
+
+          </div>
+        </div>
+        <div class="col-4 col-xs-12">
+          <div class="aidc-advantage-item">
+            <i class="icon3"></i>
+            <h3>Technological Benefits</h3>
+            <p>Highly intelligent, highly extendable, highly flexible, highly safe, highly energy-saving and high standard service and professional operation and maintenance</p>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
