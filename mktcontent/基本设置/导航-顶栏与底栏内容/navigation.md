@@ -1146,47 +1146,47 @@
 	},
 	{
 		"name":"文档",
-		"description":"",
+		"description":"文档",
 		"id":959
 	},
 	{
 		"name":"新手入门",
-		"description":"",
+		"description":"新手入门",
 		"id":1216
 	},
 	{
 		"name":"产品文档",
-		"description":"",
+		"description":"产品文档",
 		"id":1217
 	},
 	{
 		"name":"API与SDK",
-		"description":"",
+		"description":"API与SDK",
 		"id":1218
 	},
 	{
 		"name":"技术社区",
-		"description":"",
+		"description":"技术社区",
 		"id":1219
 	},
 	{
 		"name":"服务保障",
-		"description":"",
+		"description":"服务保障",
 		"id":1220
 	},
 	{
 		"name":"金牌服务",
-		"description":"",
+		"description":"金牌服务",
 		"id":1221
 	},
 	{
 		"name":"自助服务",
-		"description":"",
+		"description":"自助服务",
 		"id":1222
 	},
 	{
 		"name":"联系我们",
-		"description":"",
+		"description":"联系我们",
 		"id":1223
 	},
 	{
@@ -1376,7 +1376,7 @@
 	},
 	{
 		"name":"CDN",
-		"description":"",
+		"description":"CDN",
 		"id":3046
 	},
 	{
@@ -2045,5 +2045,25 @@
 		"name":"人工智能解决方案",
 		"description":"人工智能解决方案",
 		"id":3355
+	},
+	{
+		"name":"物联网",
+		"description":"物联网",
+		"id":3357
+	},
+	{
+		"name":"物联网智能边缘计算",
+		"description":"为物联网边缘提供设备管理，数据分析，AI推断等能力",
+		"id":3359
+	},
+	{
+		"name":"物联网中心",
+		"description":"通过设备连接通信功能，帮助用户将设备数据采集上云",
+		"id":3361
+	},
+	{
+		"name":"物联网协议适配",
+		"description":"支持私有数据格式设备上云，保护客户既有设备投资",
+		"id":3363
 	}
 ]
