@@ -702,5 +702,13 @@
 		"jss_key":"News_Content_477",
 		"id":477,
 		"news_title":"以合作促发展：神州数码、京东云携手共探云市场"
+	},
+	{
+		"summary":"2019年3月29日，中国国际云服务技术与应用大会召开，京东云受邀参与本次大会并发表了基于“风险合规管理与可信安全”体系化设计的主题演讲。",
+		"image_url":"//img1.jcloudcs.com/cms/621f56e7-f5b1-427a-8631-df4972c5632620190401115641.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_481",
+		"jss_key":"News_Content_481",
+		"id":481,
+		"news_title":"拒绝网络威胁，京东云用实力打造云上安全“护城河”"
 	}
 ]
