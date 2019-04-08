@@ -166,5 +166,17 @@
 		"id":167,
 		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution167",
 		"solution_jss_key":"Customer_Case_Solution167"
+	},
+	{
+		"project_overview":"为满足业务的快速发展和稳定性以及集团的合规性要求，客户需要将系统迁移至京东云，并且需要在保证现有业务平稳运行的同时，保证迁移后系统达到大规模商用级别的稳定、安全、高效。\n客户在进行迁移环境选型的过程中，对比了传统IDC和云服务两种环境，京东云在资源获取的快捷与便利性、云产品的丰富与匹配度、服务与技术支持专业度等方面具有明显优势。",
+		"application_type":"广告传媒类客户",
+		"introduce":"京东钼媒为国内领先的线下广告AdEx交易平台，以大数据分析和人工智能技术为基础，以云计算、物联网和感知计算为核心，通过大数据分析和人工智能为企业赋能，实现线下商业生态从硬件、资源、技术、应用到业务的完全数字化贯通，帮助企业逐步完成数字化改造。公司致力于为媒体公司、广告公司及广告主提供线下广告SSP服务、线上线下广告DSP服务，广告软硬件解决方案、大数据分析解决方案。",
+		"image_url":"//img1.jcloudcs.com/cms/8d724552-7f52-4ba7-84c3-15db1b5a924620190403141820.png",
+		"name":"京东云助力京东钼媒完成系统平滑迁移上云",
+		"channel_agent":"互联网应用",
+		"customer_income":"<br/>•\t京东钼媒业务系统迁移至京东云后实现了成本优化。\n<br/>•\t基于京东云的公有云产品特性，保障客户业务系统底层资源高可用，从而提升客户业务系统的稳定性。\n<br/>•\t享受到京东云更完善和高效的大客户服务。",
+		"id":169,
+		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution169",
+		"solution_jss_key":"Customer_Case_Solution169"
 	}
 ]
