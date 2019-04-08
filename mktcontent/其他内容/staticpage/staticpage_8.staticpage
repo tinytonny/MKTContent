@@ -15,6 +15,20 @@
     </ul>
     <div class="jdc-journal-list">
       <div class="journal-tab-bd journal-tab1 row current">
+		<div class="jdc-journal-item col-6 col-xs-12">
+          <div class="item-bg">
+            <div class="item-hd">京东云上速递 | 第四期</div>
+            <div class="item-bd row">
+              <div class="col-6 img-box"><img src="https://img1.jcloudcs.com/portal/journal/delivery201904.jpg"></div>
+              <div class="col-6 txt-box"><p class="txt">
+                提升品牌影响力，不断深耕技术，博瑞指数评测“京东云-北京”夺得综合排行榜冠军；与微软合作共同打造创新教育平台；更于本月重磅发布云桌面白皮书！让我们一起见证京东云发展的每一步。</p>
+ <a
+                clstag="News|keycount|MiddleContentSec|delivery201904"
+                href="//www.jdcloud.com/news/delivery201904" class="jdc-btn jdc-bg">立即查看
+              </a></div>
+            </div>
+          </div>
+        </div>
         <div class="jdc-journal-item col-6 col-xs-12">
           <div class="item-bg">
             <div class="item-hd">京东云上速递 | 第三期</div>
