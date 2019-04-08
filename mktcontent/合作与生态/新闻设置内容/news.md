@@ -710,5 +710,21 @@
 		"jss_key":"News_Content_481",
 		"id":481,
 		"news_title":"拒绝网络威胁，京东云用实力打造云上安全“护城河”"
+	},
+	{
+		"summary":"4月2日，京东云、中移物联网与优世联合举办“智能物联战略合作签署会议”。会上，三方签署战略合作协议，宣布建立长期战略合作伙伴关系。未来，三方将依托科技创新，通过整合各自优势资源，共同推进智慧物联相关项目在各地的落地与实施，进行规模化的业务拓展，助力智慧物联发展。",
+		"image_url":"//img1.jcloudcs.com/cms/9a8afdfb-e1a2-4aac-972c-dd783e02367d20190404170629.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_482",
+		"jss_key":"News_Content_482",
+		"id":482,
+		"news_title":"京东云、中移物联网与优世联合完成战略签约：共同打造物联网智慧生活新模式"
+	},
+	{
+		"summary":"2019年4月4日，“国家信息中心与京东云战略合作签约仪式”在京举行。当天，国家信息中心信息化和产业发展部正式与京东云达成战略合作。双方着力在“互联网+”、电子政务、大数据、云计算、智能城市等多领域，展开研究合作，力求以数字化加速信息化，以信息化培育新动能，用新动能推动新发展，拓宽我国信息化建设的新空间。",
+		"image_url":"//img1.jcloudcs.com/cms/36f43ac5-d3e2-42be-abb2-5e53aabf776d20190404171837.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_483",
+		"jss_key":"News_Content_483",
+		"id":483,
+		"news_title":"京东云携手国家信息中心  开启“数字中国”新篇章"
 	}
 ]
