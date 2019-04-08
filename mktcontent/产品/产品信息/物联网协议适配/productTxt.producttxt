@@ -1,0 +1,22 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"物联网协议适配\",\"label\":[{\"TitleName\":\"立即申请\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/iotcloudgateway\",\"classTag\":\"\"}],\"desc\":\"物联网协议适配服务 通过内置的非标设备数据封装协议或通信协议转换适配模块，帮助用户快速、低成本的将既有设备连接上云。服务内置了JT/T-808（道路运输车辆卫星定位系统终端通讯协议及数据格式）协议支持\"}",
+		"id":996
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"数据隐私\",\"proName\":\"实例部署在用户自定义的VPC私有网络内，多个租户之间的数据相互隔离，保护了用户数据隐私。\"},{\"showShade\":false,\"proGood\":\"应用安全\",\"proName\":\"实例部署在用户自定义的VPC私有网络内，在应用层直接进行网络隔离保护，确保应用安全。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"可扩展\",\"proName\":\"支持弹性扩容缩容，京东云可根据租户业务情况按需调整实例配置，提高资源利用率高，降低使用成本，配置变更过程不影响业务运行。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"协议支持\",\"proName\":\"内置了JT/T 808（道路运输车辆卫星定位系统终端通讯协议及数据格式）协议支持。\"}]",
+		"id":997
+	},
+	{
+		"txt":"[{\"funcName\":\"轻松使用\",\"funcContent\":[{\"funcTitle\":\"快速创建\",\"funcP\":\"通过 控制台或简单的 API 调用，几分钟内即可创建新的服务实例。\"},{\"funcTitle\":\"弹性扩容\",\"funcP\":\"支持扩容缩容，京东云可根据租户业务情况按需调整实例配置，提高资源利用率，降低使用成本。\"}]},{\"funcName\":\"安全保障\",\"funcContent\":[{\"funcTitle\":\"VPC 私有网络\",\"funcP\":\"实例部署在用户自定义的 VPC 私有网络内，在应用层直接进行网络隔离保护，确保客户应用安全性以及数据隐私。\"}]},{\"funcName\":\"协议支持\",\"funcContent\":[{\"funcTitle\":\"协议支持\",\"funcP\":\"支持JT/T 808（道路运输车辆卫星定位系统终端通讯协议及数据格式）协议。\"}]}]",
+		"id":998
+	},
+	{
+		"txt":"[{\"name\":\"私有数据协议设备上云\",\"instruction\":\"客户已经在私有数据格式的设备上投资，部署了成规模的存量设备，客户希望在保护既有设备投资的前提下将设备数据上云，充分利用公有云上的数据处理、存储、应用等服务。 \",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"模型训练\",\"url\":\"//www.jdcloud.com/products/model-training\"},{\"name\":\"云数据库 MySQL\",\"url\":\"//www.jdcloud.com/products/jcs-for-mysql\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/bfabca32-2ff9-498d-a728-d0fb203a32ed20190402213701.png\",\"showShade\":false}]",
+		"id":999
+	},
+	{
+		"txt":"[{\"name\":\"物联网协议适配 服务是什么类型的公有云服务？\",\"link\":\"https://docs.jdcloud.com/iot-hub-protocol-adaptor/faq\",\"classTag\":\"\"},{\"name\":\"物联网协议适配 服务内置支持了那种非标准协议？\",\"link\":\"https://docs.jdcloud.com/iot-hub-protocol-adaptor/faq\",\"classTag\":\"\"},{\"name\":\"物联网协议适配 服务可以在不使用物联网中心 服务的情况下独立运行吗？\",\"link\":\"https://docs.jdcloud.com/iot-hub-protocol-adaptor/faq\",\"classTag\":\"\"}]",
+		"id":1000
+	}
+]
