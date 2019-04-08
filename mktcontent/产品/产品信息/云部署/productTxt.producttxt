@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"云部署\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/codedeploy\",\"classTag\":\"\"}],\"desc\":\"云部署是集多种部署类型、部署方式于一身的强大部署工具。使用云部署，您可以轻松的将程序包部署到京东云主机中。同时，支持多种部署策略与部署配置，灵活可调配。与负载均衡、高可用组等产品相联动，实现云端部署。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"云部署\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://codedeploy-console.jdcloud.com/deploy/list\",\"classTag\":\"\"}],\"desc\":\"云部署是集多种部署类型、部署方式于一身的强大部署工具。使用云部署，您可以轻松的将程序包部署到京东云主机中。同时，支持多种部署策略与部署配置，灵活可调配。与负载均衡、高可用组等产品相联动，实现云端部署。\"}",
 		"id":693
 	},
 	{
