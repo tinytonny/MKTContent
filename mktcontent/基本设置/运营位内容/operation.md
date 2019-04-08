@@ -20,8 +20,8 @@
 		"label":"赔"
 	},
 	{
-		"name":"限时优惠",
-		"description":"1元抢价值200元会员礼包",
+		"name":"京东云刊",
+		"description":"礼包奉上，订阅有惊喜",
 		"id":5
 	},
 	{
@@ -36,7 +36,7 @@
 	},
 	{
 		"name":"容器镜像仓库",
-		"description":"一折公测中",
+		"description":"一折促销中",
 		"id":8
 	}
 ]
