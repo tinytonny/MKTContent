@@ -190,7 +190,7 @@
 	},
 	{
 		"summary":"",
-		"name":"应用负载均衡",
+		"name":"负载均衡",
 		"id":213
 	},
 	{
@@ -899,7 +899,7 @@
 	},
 	{
 		"summary":"",
-		"name":"云解析 DNS",
+		"name":"云解析",
 		"id":421
 	},
 	{
@@ -1144,102 +1144,12 @@
 	},
 	{
 		"summary":"",
-		"name":"消息队列 JCQ",
+		"name":"test",
 		"id":3181
 	},
 	{
 		"summary":"",
-		"name":"视频直播",
-		"id":3183
-	},
-	{
-		"summary":"",
-		"name":"JDSystem360 一体机",
-		"id":3185
-	},
-	{
-		"summary":"",
-		"name":"云通讯",
-		"id":3186
-	},
-	{
-		"summary":"",
-		"name":"文本短信",
-		"id":3187
-	},
-	{
-		"summary":"",
-		"name":"域名诊断",
-		"id":3188
-	},
-	{
-		"summary":"",
-		"name":"队列服务",
-		"id":3189
-	},
-	{
-		"summary":"",
-		"name":"通知服务",
-		"id":3190
-	},
-	{
-		"summary":"",
-		"name":"分布式网络负载均衡",
-		"id":3197
-	},
-	{
-		"summary":"",
-		"name":"资源编排",
-		"id":3198
-	},
-	{
-		"summary":"",
-		"name":"京东云Elite",
-		"id":3202
-	},
-	{
-		"summary":"",
-		"name":"基线检测服务",
-		"id":3205
-	},
-	{
-		"summary":"",
-		"name":"渗透测试服务",
-		"id":3206
-	},
-	{
-		"summary":"",
-		"name":"应急响应服务",
-		"id":3207
-	},
-	{
-		"summary":"",
-		"name":"漏洞扫描服务",
-		"id":3208
-	},
-	{
-		"summary":"",
-		"name":"Kubernetes 集群",
-		"id":3209
-	},
-	{
-		"summary":"",
-		"name":"Pod",
-		"id":3210
-	},
-	{
-		"summary":"",
-		"name":"云迁移",
-		"id":3211
-	},
-	{
-		"summary":"",
-		"name":"操作保护",
-		"id":3217
-	},
-	{
-		"summary":"",
-		"name":"云文件服务",
-		"id":3221
+		"name":"link",
+		"id":3182
 	}
 ]
