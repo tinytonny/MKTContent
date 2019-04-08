@@ -30,8 +30,8 @@
 		"id":10
 	},
 	{
-		"name":"存储与CDN",
-		"description":"",
+		"name":"存储",
+		"description":"存储",
 		"id":11
 	},
 	{
@@ -951,7 +951,7 @@
 	},
 	{
 		"name":"区块链",
-		"description":"",
+		"description":"区块链",
 		"id":379
 	},
 	{
@@ -991,11 +991,11 @@
 	},
 	{
 		"name":"云端融合防御解决方案",
-		"description":"",
+		"description":"云端融合防御解决方案",
 		"id":387
 	},
 	{
-		"name":"智臻链BaaS平台",
+		"name":"智臻链 BaaS 平台",
 		"description":"通过简单灵活配置，快速搭建安全可靠区块链网络",
 		"id":388
 	},
@@ -2007,46 +2007,6 @@
 		"id":3323
 	},
 	{
-		"name":"语音技术",
-		"description":"语音技术",
-		"id":3341
-	},
-	{
-		"name":"人脸识别",
-		"description":"人脸识别",
-		"id":3343
-	},
-	{
-		"name":"语言基础技术",
-		"description":"语言基础技术",
-		"id":3345
-	},
-	{
-		"name":"OCR文字识别",
-		"description":"OCR文字识别",
-		"id":3347
-	},
-	{
-		"name":"人体识别",
-		"description":"人体识别",
-		"id":3349
-	},
-	{
-		"name":"语义理解",
-		"description":"语义理解",
-		"id":3351
-	},
-	{
-		"name":"图像理解",
-		"description":"图像理解",
-		"id":3353
-	},
-	{
-		"name":"人工智能解决方案",
-		"description":"人工智能解决方案",
-		"id":3355
-	},
-	{
 		"name":"物联网",
 		"description":"物联网",
 		"id":3357
@@ -2065,5 +2025,140 @@
 		"name":"物联网协议适配",
 		"description":"支持私有数据格式设备上云，保护客户既有设备投资",
 		"id":3363
+	},
+	{
+		"name":"语音识别",
+		"description":"//www.jdcloud.com/products/",
+		"id":3365
+	},
+	{
+		"name":"语音合成",
+		"description":"//www.jdcloud.com/products/",
+		"id":3367
+	},
+	{
+		"name":"人脸对比",
+		"description":"//www.jdcloud.com/products/",
+		"id":3369
+	},
+	{
+		"name":"人脸搜索",
+		"description":"//www.jdcloud.com/products/",
+		"id":3371
+	},
+	{
+		"name":"人脸检测与属性分析",
+		"description":"//www.jdcloud.com/products/",
+		"id":3373
+	},
+	{
+		"name":"人脸活体检测",
+		"description":"//www.jdcloud.com/products/",
+		"id":3375
+	},
+	{
+		"name":"自拍人像抠图",
+		"description":"//www.jdcloud.com/products/",
+		"id":3377
+	},
+	{
+		"name":"词法分析",
+		"description":"//www.jdcloud.com/products/",
+		"id":3379
+	},
+	{
+		"name":"句法分析",
+		"description":"//www.jdcloud.com/products/",
+		"id":3381
+	},
+	{
+		"name":"情感分析",
+		"description":"//www.jdcloud.com/products/",
+		"id":3383
+	},
+	{
+		"name":"短文本相似度",
+		"description":"//www.jdcloud.com/products/",
+		"id":3385
+	},
+	{
+		"name":"评论观点抽取",
+		"description":"//www.jdcloud.com/products/",
+		"id":3387
+	},
+	{
+		"name":"文本分类",
+		"description":"//www.jdcloud.com/products/",
+		"id":3389
+	},
+	{
+		"name":"身份证识别",
+		"description":"//www.jdcloud.com/products/",
+		"id":3391
+	},
+	{
+		"name":"行驶证识别",
+		"description":"//www.jdcloud.com/products/",
+		"id":3393
+	},
+	{
+		"name":"银行卡识别",
+		"description":"//www.jdcloud.com/products/",
+		"id":3395
+	},
+	{
+		"name":"通用文字识别",
+		"description":"//www.jdcloud.com/products/",
+		"id":3397
+	},
+	{
+		"name":"营业执照识别",
+		"description":"//www.jdcloud.com/products/",
+		"id":3399
+	},
+	{
+		"name":"增值税发票识别",
+		"description":"//www.jdcloud.com/products/",
+		"id":3401
+	},
+	{
+		"name":"人体关键点检测",
+		"description":"//www.jdcloud.com/products/",
+		"id":3403
+	},
+	{
+		"name":"人体检测",
+		"description":"//www.jdcloud.com/products/",
+		"id":3405
+	},
+	{
+		"name":"特定人物识别",
+		"description":"//www.jdcloud.com/products/",
+		"id":3407
+	},
+	{
+		"name":"拍照购",
+		"description":"//www.jdcloud.com/products/",
+		"id":3409
+	},
+	{
+		"name":"智能鉴黄",
+		"description":"//www.jdcloud.com/products/",
+		"id":3411
+	},
+	{
+		"name":"菜品识别",
+		"description":"//www.jdcloud.com/products/",
+		"id":3413
+	},
+	{
+		"name":"视频摘要",
+		"description":"//www.jdcloud.com/products/",
+		"id":3415
+	},
+	{
+		"name":"视频标签",
+		"description":"//www.jdcloud.com/products/",
+		"id":3417
 	}
 ]
