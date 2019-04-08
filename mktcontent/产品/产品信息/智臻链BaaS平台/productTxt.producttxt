@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"智臻链BaaS平台\",\"label\":[{\"TitleName\":\"申请试用\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/baas\",\"classTag\":\"\"}],\"desc\":\"智臻链BaaS平台让您通过简单、灵活的配置，快速搭建起安全可靠的区块链网络。它基于京东云Kubernetes容器管理等技术，提供高可用可扩展的平台服务，使您更专注于业务及应用。\",\"iconUrl\":\"\",\"imageUrl\":\"//img1.jcloudcs.com/cms/89055dd5-5eed-44d1-9e56-36aa9bdec19e20180809121801.jpg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|88\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|88\"}",
+		"id":254
+	},
+	{
+		"txt":"[{\"proGood\":\"安全可靠\",\"proName\":\"依靠京东云安全可靠的底层资源，以及区块链网络及通道隔离，全方位保证数据安全。\"},{\"proGood\":\"极速体验\",\"proName\":\"提供适合于开发者的一键部署功能，轻松定制区块链底层网络以及示例应用。\"},{\"proGood\":\"平台赋能\",\"proName\":\"结合京东多年技术及场景积累，提供丰富的开放功能接口，满足不同业务场景的需求。\"}]",
+		"id":255
+	},
+	{
+		"txt":"[{\"funcContent\":[{\"funcP\":\"通过简单配置即可快速创建自定义区块链网络，并内置示例应用。\",\"funcTitle\":\"一键部署\"}],\"funcName\":\"快速部署\"},{\"funcContent\":[{\"funcP\":\"区块链原生接口，通过SDK即可实现安装、调用、更新链码。\",\"funcTitle\":\"原生API\"}],\"funcName\":\"接口开放\"},{\"funcContent\":[{\"funcP\":\"预置区块链浏览器，便捷查看区块链网络拓扑图、交易、区块等信息。\",\"funcTitle\":\"区块链浏览器\"}],\"funcName\":\"数据透视\"}]",
+		"id":256
+	},
+	{
+		"txt":"[{\"instruction\":\"未来的供应链是数字供应链、大协同供应链、跨组织跨团队供应链、去中心化的供应链、无界供应链，供应链链条上的组织和个体需要在互信的前提下完成多方交易和信息共享与互换，才可以提升整条供应链的效率！京东BaaS平台为企业赋予区块链能力，帮助企业建立基于区块链的供应链网络，提升供应链整体信息传递效率。\",\"name\":\"供应链应用场景\",\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/a66e9ed5-c54e-4f86-9cec-68efff5ee37620190403102849.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"BaaS服务利用区块链技术搭建包含制造、供应、分销、零售、物流企业及最终用户在内的联盟链，将物流、资金流等信息记录在链上，数据经由多方参与共同维护、共同享有，并利用密码学技术保证隐私安全及数据的不可篡改、不可抵赖。以此建立可信的企业信息数据库，为小微企业提供金融信贷等服务，推动供应链领域健康持续的发展。\",\"name\":\"供应链金融场景\",\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/3956fbb4-fd9c-4486-8e47-7d20921c357420190403102853.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false,\"recommend\":\"\"},{\"name\":\"数字资产场景\",\"instruction\":\"在大数据交易、资产交易、共享经济、积分和数字资产登记等场景下，区块链技术帮助人们进行价值流动，以其去中心化、账本透明、交易加密等技术特点保证数字资产流通安全。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/2cf749b3-ad93-4274-a05d-e2b380f6846a20190403102859.png\",\"showShade\":false},{\"name\":\"公益众筹场景\",\"instruction\":\"在公益互助场景下，为解决各环节不透明，难以监管的问题，借助区块链溯源技术经验，使在链组织间建立互信，实现每笔资金流向可追溯，公开并共享信息，保障公益机构的公信力。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/e5d7da16-dede-42e4-a8c4-f446a4b8345020190403102907.png\",\"showShade\":false}]",
+		"id":257
+	}
+]
