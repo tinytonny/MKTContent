@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"CodeDeploy\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/codedeploy\",\"classTag\":\"\"}],\"desc\":\"CodeDeploy is a strong tool with various types and modes of deployment. Using CodeDeploy makes you easily deploy the program package to JD Cloud Virtual Machines. Moreover, CodeDeploy can support multiple deployment policies and configurations in a flexible way and link with products such as Load Balancer and Availability Group to implement the cloud deployment.\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"CodeDeploy\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://codedeploy-console.jdcloud.com/deploy/list\",\"classTag\":\"\"}],\"desc\":\"CodeDeploy is a strong tool with various types and modes of deployment. Using CodeDeploy makes you easily deploy the program package to JD Cloud Virtual Machines. Moreover, CodeDeploy can support multiple deployment policies and configurations in a flexible way and link with products such as Load Balancer and Availability Group to implement the cloud deployment.\"}",
 		"id":693
 	},
 	{

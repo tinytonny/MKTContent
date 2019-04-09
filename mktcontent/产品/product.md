@@ -156,7 +156,7 @@
 		"id":76
 	},
 	{
-		"name":"JCS for Percona",
+		"name":"IoT Center",
 		"id":77
 	},
 	{
@@ -328,7 +328,15 @@
 		"id":1199
 	},
 	{
+		"name":"JCS for PostgreSQL",
+		"id":1202
+	},
+	{
 		"name":"Cloud File Service",
 		"id":1203
+	},
+	{
+		"name":"JCS for Percona",
+		"id":1227
 	}
 ]
