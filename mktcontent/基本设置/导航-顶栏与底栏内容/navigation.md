@@ -230,11 +230,6 @@
 		"id":127
 	},
 	{
-		"name":"产品动态",
-		"description":"产品动态",
-		"id":131
-	},
-	{
 		"name":"流数据总线",
 		"description":"可扩展、高吞吐的流式数据服务",
 		"id":132
@@ -321,7 +316,7 @@
 	},
 	{
 		"name":"通用解决方案",
-		"description":"",
+		"description":"通用解决方案",
 		"id":169
 	},
 	{
@@ -681,7 +676,7 @@
 	},
 	{
 		"name":"电商解决方案",
-		"description":"",
+		"description":"电商解决方案",
 		"id":273
 	},
 	{
@@ -986,7 +981,7 @@
 	},
 	{
 		"name":"安全解决方案",
-		"description":"",
+		"description":"安全解决方案",
 		"id":386
 	},
 	{
@@ -2160,5 +2155,10 @@
 		"name":"视频标签",
 		"description":"//www.jdcloud.com/products/",
 		"id":3417
+	},
+	{
+		"name":"云迁移解决方案",
+		"description":"云迁移解决方案",
+		"id":3419
 	}
 ]
