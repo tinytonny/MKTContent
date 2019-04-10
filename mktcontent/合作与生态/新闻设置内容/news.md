@@ -726,5 +726,21 @@
 		"jss_key":"News_Content_483",
 		"id":483,
 		"news_title":"京东云携手国家信息中心  开启“数字中国”新篇章"
+	},
+	{
+		"summary":"2019年4月1日，京东云正式宣布旗下产品Kubernetes集群1.12版本通过CNCF推出的Kubernetes全球一致性认证。",
+		"image_url":"//img1.jcloudcs.com/cms/abf05c9a-bce6-46ad-a2c9-dd46a88d2e4c20190409184717.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_484",
+		"jss_key":"News_Content_484",
+		"id":484,
+		"news_title":"助力用户轻松上云，京东云通过Kubernetes全球一致性认证"
+	},
+	{
+		"summary":"2019年4月3日，Intel在北京召开创新产品发布会，宣布推出业界领先的以数据为中心的创新产品组合，包括第二代英特尔®至强®可扩展处理器、英特尔®傲腾TM数据中心内存和存储解决方案、软件以及平台技术，京东云受邀参与本次大会并发表演讲，隆重发布定制化英特尔®至强®Cascade lake处理器。",
+		"image_url":"//img1.jcloudcs.com/cms/6fe57fc3-0046-494a-a285-24989c78753620190410224026.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_489",
+		"jss_key":"News_Content_489",
+		"id":489,
+		"news_title":"Intel为京东云定制高端处理器  性价比提升40%替用户降成本"
 	}
 ]
