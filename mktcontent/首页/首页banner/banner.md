@@ -728,11 +728,11 @@
 		"main_title":"JD Cloud Workspaces Whitepaper Release"
 	},
 	{
-		"sub_title":"Layer 4 Load Balancer with High Performance, Low Latency, and Sticky Sessions",
+		"sub_title":"A High-Performance, Layer-4 and Session-Stickiness  Load Balancer",
 		"name":"Network Load Balancer",
 		"id":1073,
 		"button_title":"Try Now",
-		"main_title":"Network Load Balancer"
+		"main_title":"NEW LAUNCH! Network Load Balancer"
 	},
 	{
 		"sub_title":"A Fully Managed Message Queuing Service Based on the Serverless Architecture",
