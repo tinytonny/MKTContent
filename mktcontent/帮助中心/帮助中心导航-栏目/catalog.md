@@ -1196,5 +1196,90 @@
 		"summary":"",
 		"name":"Notification Service",
 		"id":3190
+	},
+	{
+		"summary":"",
+		"name":"Distributed Network Load Balancer",
+		"id":3197
+	},
+	{
+		"summary":"",
+		"name":"Resource Orchestration",
+		"id":3198
+	},
+	{
+		"summary":"",
+		"name":"JD Cloud Elite",
+		"id":3202
+	},
+	{
+		"summary":"",
+		"name":"Baseline Check Service",
+		"id":3205
+	},
+	{
+		"summary":"",
+		"name":"Penetration Test Service",
+		"id":3206
+	},
+	{
+		"summary":"",
+		"name":"Incident Response Service",
+		"id":3207
+	},
+	{
+		"summary":"",
+		"name":"Vulnerability Scan Service",
+		"id":3208
+	},
+	{
+		"summary":"",
+		"name":"JCS for Kubernetes",
+		"id":3209
+	},
+	{
+		"summary":"",
+		"name":"Pod",
+		"id":3210
+	},
+	{
+		"summary":"",
+		"name":"JDMigration",
+		"id":3211
+	},
+	{
+		"summary":"",
+		"name":"Security Operation Protection",
+		"id":3217
+	},
+	{
+		"summary":"",
+		"name":"Cloud File Service",
+		"id":3221
+	},
+	{
+		"summary":"",
+		"name":"CDN",
+		"id":3223
+	},
+	{
+		"summary":"",
+		"name":"IoT",
+		"id":3225
+	},
+	{
+		"summary":"",
+		"name":"IoT Hub",
+		"id":3226
+	},
+	{
+		"summary":"",
+		"name":"IoT Hub Protocol Adaptor",
+		"id":3227
+	},
+	{
+		"summary":"",
+		"name":"Rust",
+		"id":3228
 	}
 ]
