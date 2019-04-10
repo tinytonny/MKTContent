@@ -672,12 +672,12 @@
 		"news_title":"Bonree index: “JD Cloud-Beijing” took the crown and “JD Cloud-Shanghai” ranked the first place in East China"
 	},
 	{
-		"summary":"On March 26, JD Cloud officially released the JDWorkSpaces White Paper to provide customers with high-quality one-stop JDWorkSpaces products and services.",
+		"summary":"On March 26, JD Cloud officially released the JD Cloud Workspaces White Paper to provide customers with high-quality one-stop JD Cloud Workspaces products and services.",
 		"image_url":"//img1.jcloudcs.com/cms/82c5c53a-1fe2-48aa-9865-4ff2bd74d4b820190326111141.png",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_473",
 		"jss_key":"News_Content_473",
 		"id":473,
-		"news_title":"JD Cloud helps enterprises construct safe and efficient JDWorkSpaces environment by releasing the JDWorkSpaces White Paper"
+		"news_title":"JD Cloud helps enterprises construct safe and efficient JD Cloud Workspaces environment by releasing the JD Cloud Workspaces White Paper"
 	},
 	{
 		"summary":"On March 27, JD and Microsoft jointly held a media conference on Minecraft: Education Edition. The parties announced that JD Group owns the exclusively copyright of Minecraft: Education Edition in Mainland China and JD Cloud will be responsible for the management and operation.",
