@@ -178,5 +178,17 @@
 		"id":169,
 		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution169",
 		"solution_jss_key":"Customer_Case_Solution169"
+	},
+	{
+		"project_overview":"妥了网，由珠海乐活公社网络科技有限公司联合京东云倾力打造的大办公B2B产业电商平台。整合产业供应链资源，服务于大办公产业交易、金融、物流供应链环节，依托投资方传统产业优势，和线下坚实基础，配以京东大数据技术和平台专业定制服务，致力于提升品牌商/制造商、分销商、零售商线上交易效率，整合资源，创新商业模式。",
+		"application_type":"拥有线下产业基础，希望在产业互联网升级转型企业",
+		"introduce":"珠海乐活公社网络科技有限公司是由横琴天章投控公司和产业联盟共同投资。乐活公社是中国首个大办公行业商人社群，覆盖国内300多个地市，有珠海“乐活科技”提供服务，社群倡导“乐办公，享生活”健康发展理念，利用移动互联网工具和天章在大办公行业的产业优势，服务于政府和企事业单位。",
+		"image_url":"//img1.jcloudcs.com/cms/c7304607-6acd-4fe0-825d-5d2f437d4c8e20190410101735.png",
+		"name":"京东云助力妥了网打造垂直行业电商平台新标杆",
+		"channel_agent":"test",
+		"customer_income":"建立一站式的办公用品采购平台，为乐活公社的战略发展奠定了技术基础。打造大办公B2B平台，助力集团向大办公产业互联网转型提供的重要支持；从平台上线到现在零售端客户快速上升，截止目前覆盖零售端超30万家；在阳光政采方面拿下了湖南省、四川省、广东省、河南省以及四川重庆军队办公用品采购业务，交易规模单月成交过亿元，其中今年双11单天突破1.83亿元。",
+		"id":170,
+		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution170",
+		"solution_jss_key":"Customer_Case_Solution170"
 	}
 ]
