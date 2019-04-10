@@ -1464,9 +1464,9 @@
 		"id":2199
 	},
 	{
-		"introduce":"openAPI Launch",
-		"name":"openAPI Launch",
-		"description":"By opening openAPIs such as domain management, live streaming management, status notification, live transcoding, live recording and live snapshot, customers can directly call them to manage their live businesses.",
+		"introduce":"OpenAPI Launch",
+		"name":"OpenAPI Launch",
+		"description":"By opening OpenAPIs such as domain management, live streaming management, status notification, live transcoding, live recording and live snapshot, customers can directly call them to manage their live businesses.",
 		"id":2200
 	},
 	{
