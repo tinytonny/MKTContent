@@ -30,8 +30,8 @@
 		"id":6
 	},
 	{
-		"name":"Kubernetes集群",
-		"description":"功能强大的容器服务",
+		"name":"对象存储推出免费额度",
+		"description":"新老用户均可享受标准存储免费额度",
 		"id":7
 	},
 	{
