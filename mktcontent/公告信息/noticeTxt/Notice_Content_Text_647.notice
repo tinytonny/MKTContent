@@ -1,0 +1,32 @@
+<p style="text-indent: 32px;background: white"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(55, 61, 65); font-size: 14px;">Recently, JD Cloud security team detected &nbsp;Apache HTTP Server components were disclosed to have local Privilege Escalation Vulnerability (vulnerability number: CVE-2019-0211) and to have multiple vulnerabilities, the attacker can use the vulnerability to upload malicious CGI scripts to cause an escalated root privilege attack on the target system</span>
+</p>
+<p style="text-indent: 32px;background: white"><span style="color: rgb(102, 102, 102); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">JD Cloud security team recommends that you conduct the security self-examination in a timely manner. If your business is in the influence range, please update and fix the problem in time to avoid attacks from an external attacker.</span>
+</p>
+<p style="text-indent: 32px;background: white"><span style="font-size: 16px;"><strong style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; text-indent: 30px;">Vulnerability Description</strong></span>
+</p>
+<p style="background: white"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 12px; color: rgb(55, 61, 65);">&nbsp; &nbsp; &nbsp; &nbsp;Apache HTTP Server Version 2.4.17~2.4.38, when executing code in a child process or thread with lower privilege, escalate privilege to privilege of the parent process (usually &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;root) by operating scoreboard, and other systems that are not Unix systems are not affected by vulnerabilities.</span>
+</p>
+<p style="text-indent: 30px;background: white"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 16px;"><strong><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">Risk Level</span>
+</strong></span>
+</p>
+<p style="text-indent: 30px;background: white"><span style="color: rgb(102, 102, 102); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;">High Risk</span>
+</p>
+<p style="text-indent: 30px;background: white"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 16px;"><strong><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">Influence Range</span>
+</strong></span>
+</p>
+<p style="text-indent: 30px;background: white"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 12px; color: rgb(55, 61, 65);">Under Unix system, Apache HTTP Server Version 2.4.17~2.4.38</span>
+</p>
+<p style="text-indent: 30px;background: white"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 16px;"><strong><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">Security Recommendations</span>
+</strong></span>
+</p>
+<p style="text-indent: 30px;background: white"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px;"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(102, 102, 102);">Upgrade</span>
+<span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(55, 61, 65);">Apache HTTP Server Version 2.4.39 or above</span>
+</span>
+</p>
+<p style="text-indent: 30px;background: white"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 16px;"><strong><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">Reference Link</span>
+</strong></span>
+</p>
+<p><span style="font-size:14px;font-family: &#39;Calibri&#39;,&#39;sans-serif&#39;"><span style=";font-family:&#39;microsoft yahei&#39;,&#39;serif&#39;;color:#00B7D3;background:white">&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://httpd.apache.org/security/vulnerabilities_24.html#CVE-2019-0211" target="_self">https://httpd.apache.org/security/vulnerabilities_24.html#CVE-2019-0211</a></span>
+</span>
+</p>
+<p><br/></p>

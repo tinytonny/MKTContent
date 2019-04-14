@@ -702,5 +702,45 @@
 		"jss_key":"News_Content_477",
 		"id":477,
 		"news_title":"Promote Development by Cooperation: Digital China and JD Cloud Go Together to Explore Cloud Marketplace"
+	},
+	{
+		"summary":"On March 29, 2019, China International Cloud Service Technology and Application Conference was held. JD Cloud was invited to participate in the conference and deLive Videored a keynote speech based on the systematic design of \"Risk Compliance Management And Trusted Security\".",
+		"image_url":"//img1.jcloudcs.com/cms/621f56e7-f5b1-427a-8631-df4972c5632620190401115641.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_481",
+		"jss_key":"News_Content_481",
+		"id":481,
+		"news_title":"Rejecting network threats, JD Cloud uses its strength to build a security \"moat\" on Cloud"
+	},
+	{
+		"summary":"On April 2, JD Cloud, CMIOT and UnitedData jointly held the \"Intelligent IOT Strategic Cooperation Signing Conference\". At the meeting, the three parties signed a strategic cooperation agreement and announced the establishment of a long-term strategic partnership. In the future, the three parties will rely on technological innovation, through the integration of their respective advantageous resources, jointly promote the landing and implementation of the relevant projects of the Wisdom and IOT in various places, and carry out large-scale business development to help the development of intelligent IOT.",
+		"image_url":"//img1.jcloudcs.com/cms/9a8afdfb-e1a2-4aac-972c-dd783e02367d20190404170629.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_482",
+		"jss_key":"News_Content_482",
+		"id":482,
+		"news_title":"JD Cloud, CMIOT and UnitedData jointly completed strategic signing: Jointly creating a new mode of intelligent life in the Internet of Things"
+	},
+	{
+		"summary":"On April 4, 2019, \"Signing Ceremony of Strategic Cooperation between SIC and JD Cloud\" was held in Beijing. On the same day, the Ministry of Information and Industry Development of the National Information Center officially reached a strategic cooperation with JD Cloud. The parties focus on research and cooperation in \"Internet +\", electronic government affairs, big data, cloud computing, Smart City and other fields, and strive to accelerate informationization with digitalization, foster new growth driver with information technology, promote new development with new growth driver, and broaden China's new space for information construction.",
+		"image_url":"//img1.jcloudcs.com/cms/36f43ac5-d3e2-42be-abb2-5e53aabf776d20190404171837.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_483",
+		"jss_key":"News_Content_483",
+		"id":483,
+		"news_title":"JD Cloud with National Information Center  Open a New Chapter of \"Digital China\""
+	},
+	{
+		"summary":"On April 1, 2019, JD Cloud officially announced that its product JCS for Kubernetes Version 1.12 passed the global Certified Kubernetes Conformance Program launched by CNCF.",
+		"image_url":"//img1.jcloudcs.com/cms/abf05c9a-bce6-46ad-a2c9-dd46a88d2e4c20190409184717.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_484",
+		"jss_key":"News_Content_484",
+		"id":484,
+		"news_title":"In order to help users in JD Cloud Onboarding easily, JD Cloud passed the Certified Kubernetes Conformance Program"
+	},
+	{
+		"summary":"On April 3, 2019, Intel convened an innovative product release in Beijing and announced to launch the leading data-centered innovative product combination of the industry, including Generation II Intel ® Xeon ® extensible processor, Intel ® Optane TM data center memory and storage solutions, software and platform technology. JD Cloud was invited to attend this release, where it made a speech and released the customized Intel ® Xeon ® Cascade lake processor in a grand way.",
+		"image_url":"//img1.jcloudcs.com/cms/6fe57fc3-0046-494a-a285-24989c78753620190410224026.png",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_489",
+		"jss_key":"News_Content_489",
+		"id":489,
+		"news_title":"Intel customizes high-end processors for JD Cloud, with 40% increase of cost performance and reduced cost for the user"
 	}
 ]

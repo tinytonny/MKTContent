@@ -192,6 +192,10 @@
 		"id":86
 	},
 	{
+		"name":"JD Blockchain Open Platform",
+		"id":88
+	},
+	{
 		"name":"PLUS Enterprise Cloud BOX",
 		"id":90
 	},
@@ -296,12 +300,36 @@
 		"id":1165
 	},
 	{
+		"name":"VOD Acceleration",
+		"id":1166
+	},
+	{
+		"name":"Website Acceleration",
+		"id":1167
+	},
+	{
+		"name":"Download Acceleration",
+		"id":1168
+	},
+	{
+		"name":"Live Video Acceleration",
+		"id":1169
+	},
+	{
+		"name":"CDN Edge Computing",
+		"id":1170
+	},
+	{
 		"name":"Storage Gateway",
 		"id":1176
 	},
 	{
 		"name":"Audit Trail",
 		"id":1181
+	},
+	{
+		"name":"Queue Service",
+		"id":1188
 	},
 	{
 		"name":"Load Balancer",
@@ -338,5 +366,9 @@
 	{
 		"name":"JCS for Percona",
 		"id":1227
+	},
+	{
+		"name":"IoT Hub Protocol Adaptor",
+		"id":1228
 	}
 ]

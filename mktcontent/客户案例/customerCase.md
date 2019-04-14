@@ -166,5 +166,29 @@
 		"id":167,
 		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution167",
 		"solution_jss_key":"Customer_Case_Solution167"
+	},
+	{
+		"project_overview":"In order to meet the rapid development and stability of the businesses and the group's compliance requirements, customers need to migrate their systems to JD Cloud. It needs to ensure the stability, safety and high efficiency of the migrated system to large-scale commercial level while ensuring the smooth running of the existing businesses. \n Customers in the process of migration environment selection compared the two environments of traditional IDC and JD Cloud. JD Cloud has obvious benefits in terms of fast and convenient access to resources, richness and matching degree of cloud products, professional degree of service and technical support.",
+		"application_type":"Advertising media customers",
+		"introduce":"JD MO Media is a nationwide leading offline advertising AdEx trading platform. Based on big data analysis and AI technology and taking cloud computing, IoT and perceptual computing as core, it empowers enterprises through big data analysis and AI technology. It realizes complete digitization of offline business ecology from hardware, resources, technology and application to business, and help enterprises gradually accomplish digitization transformation. The company is committed to providing offline advertising SSP services, online and offline advertising DSP services, advertising software and hardware solutions, big data analysis solutions for media companies, advertising firms and advertisers.",
+		"image_url":"//img1.jcloudcs.com/cms/8d724552-7f52-4ba7-84c3-15db1b5a924620190403141820.png",
+		"name":"JD Cloud helps JD MO Media smoothly complete Migration and JD Cloud Onboarding for the system.",
+		"channel_agent":"Internet Application",
+		"customer_income":"<br/>•\t The business system of JD MO Media has implemented cost optimization after migrating to JD Cloud. \n<br/>•\t Guarantee underlying resources of the customer business system to be highly available based on the public cloud product features of JD Cloud, so as to improve the stability of customer business system. \n<br/>•\t Enjoy more perfect and efficient big customer service of JD Cloud.",
+		"id":169,
+		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution169",
+		"solution_jss_key":"Customer_Case_Solution169"
+	},
+	{
+		"project_overview":"TLWOK is a large office B2B industry e-commerce platform built by Zhuhai Lehuo Gongshe Network Technology Co., Ltd. together with JD Cloud. It integrates industrial supply chain resources, serving transactions, finance, and logistics supply chain links in the large office industry, which is committed to improving the online transaction efficiency of brand owners/manufacturers, distributors and retailers, integrating resources and establishing new business models, relying on traditional industry benefits of the investors and the solid offline foundation and JD big data technology and platform professional customized services.",
+		"application_type":"Enterprises have offline industrial base, wishing to upgrade and transform on the industrial Internet",
+		"introduce":"Zhuhai Lehuo Gongshe Network Technology Co., Ltd. is jointly invested by Zhuhai Hengqin Tango Investment Holding and the Industry Alliance. Lehuo Gongshe is China’s first businessman community in the large office industry, covering more than 300 cities in China, whose services are provided by Zhuhai “Lehuo Technology”. Such community advocates the healthy development concept of “Enjoy office, enjoy life”, and uses mobile Internet tools and Tango’s industrial benefits in the large office industry to serve the government, enterprises and public institutions.",
+		"image_url":"//img1.jcloudcs.com/cms/c7304607-6acd-4fe0-825d-5d2f437d4c8e20190410101735.png",
+		"name":"JD Cloud helps TLWOK build a new benchmark for e-commerce platform in vertical industry",
+		"channel_agent":"test",
+		"customer_income":"Build one-stop office supplies procurement platform to lay a technical foundation for the strategic development of Lehuo Gongshe. Build a large office B2B platform to help the group provide important support for the Internet transformation of the large office industry; retail clients increase rapidly from platform launch to now, covering more than 300,000 retail clients until now; in terms of sunshine governmental procurement, it has acquired the military office supplies procurement business in Hu’nan Province, Sichuan Province, Guangdong Province, He’nan Province and Sichuan Chongqing, the transaction volume has exceeded RMB 100 million in a single month, including planning to exceed RMB 183 million in a single day on November 11 this year.",
+		"id":170,
+		"solution_jss_url":"http://img1.jcloudcs.com/jdcloud-portal/Customer_Case_Solution170",
+		"solution_jss_key":"Customer_Case_Solution170"
 	}
 ]

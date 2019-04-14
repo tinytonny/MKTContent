@@ -1,0 +1,45 @@
+<p style="text-indent: 32px;background: white"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(102, 102, 102);">JD Cloud security team recently monitored JCS for Kubernetes was disclosed to have multiple vulnerabilities.</span>
+</p>
+<p style="text-indent: 32px;background: white"><span style="color: rgb(102, 102, 102); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">JD Cloud security team recommends that you conduct the security self-examination in a timely manner. If your business is in the influence range, please update and fix the problem in time to avoid attacks from an external attacker.</span>
+</p>
+<p style="text-indent: 32px;background: white"><span style=";font-family:&#39;Segoe UI&#39;,&#39;sans-serif&#39;;color:#666666">&nbsp;</span>
+</p>
+<p style="text-indent: 30px;background: white"><strong><span style="font-family: 宋体">Vulnerability Description</span>
+</strong></p>
+<p class="MsoListParagraph" style="margin-left: 58px;background: white"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(102, 102, 102);">l<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 9px; line-height: normal;">&nbsp; </span>
+CVE-2019-1002100: Malicious users with patch permissions send specific overlong “json-patch” patch requests (such as kubectl patch -type json or &quot;Content-Type: application/json-patch+json&quot;), which will cause denial of service due to exhaustion of CPU resources of Kubernetes API servers.</span>
+</p>
+<p class="MsoListParagraph" style="margin-left: 58px;background: white"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;"><span style="font-family: Wingdings; color: rgb(102, 102, 102);">l<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 9px; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp; </span>
+</span>
+<span style="font-family: &quot;Segoe UI&quot;, sans-serif; color: rgb(102, 102, 102);">CVE-2019-1002101: For Security Vulnerability exists regarding kubectl cp command, the attacker can use kubectl cp command to replace or delete the file on the user work station, and write in a malicious file on any path on the user’s computer.</span>
+</p>
+<p class="MsoListParagraph" style="margin-left: 58px;background: white"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;"><span style="font-family: Wingdings; color: rgb(102, 102, 102);">l<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 9px; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp; </span>
+</span>
+<span style="font-family: &quot;Segoe UI&quot;, sans-serif; color: rgb(102, 102, 102);">CVE-2019-9946: For Security Vulnerability in Kubernetes CNI frame, security problems are found during the interaction of CNI plug-in port mapping and Kubernetes below Version 0.7.5. Because the CNI port mapping plug-in is embedded into the Kubernetes component by default, only an upgrade to a new version of Kubernetes can solve this problem.</span>
+</p>
+<p style="text-indent: 30px;background: white"><strong><span style="font-family: 宋体">Risk Level</span>
+</strong></p>
+<p style="text-indent: 30px;background: white"><span style=";font-family:宋体;color:#666666">&nbsp; <span style="color: rgb(102, 102, 102); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;">High Risk</span>
+</span>
+</p>
+<p style="text-indent: 30px;background: white"><strong><span style="font-family: 宋体">Influence Range</span>
+</strong></p>
+<p style="text-indent: 30px;background: white"><span style=";font-family:&#39;Segoe UI&#39;,&#39;sans-serif&#39;;color:#666666">&nbsp; &nbsp; </span>
+<span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(102, 102, 102);">&nbsp; CVE-2019-1002100: Kubernetes v1.0.x-1.10.x, Kubernetes v1.11.0-1.11.7, Kubernetes v1.12.0-1.12.5, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Kubernetes &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;v1.13.0-1.13.3</span>
+</p>
+<p style="text-indent: 30px;background: white"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;"><span style="font-family: &quot;Segoe UI&quot;, sans-serif; color: rgb(102, 102, 102);">CVE-2019-1002101: Versions other than Kubernetes 1.11.9, 1.12.7, 1.13.5, 1.14.0 or update version</span>
+</span>
+</p>
+<p style="text-indent: 30px;background: white"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;"><span style="font-family: &quot;Segoe UI&quot;, sans-serif; color: rgb(102, 102, 102);">CVE-2019-9946 : Versions other than Kubernetes 1.11.9, 1.12.7, 1.13.5, 1.14.0 or update version, and Kubernetes is paired with CNI configuration used with port mapping plug-in</span>
+</span>
+</p>
+<p style="text-indent: 30px;background: white"><strong><span style="font-family: 宋体">Security Recommendations</span>
+</strong></p>
+<p style="text-indent: 30px;background: white"><span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(102, 102, 102);">Upgrade JCS for Kubernetes to a security version.</span>
+</p>
+<p style="text-indent: 30px;background: white"><strong><span style="font-family: 宋体">Reference Link</span>
+</strong></p>
+<p style="text-indent: 28px">&nbsp; &nbsp; &nbsp; 1.https://github.com/kubernetes/kubernetes/issues/74534</p>
+<p style="text-indent: 28px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2.https://discuss.kubernetes.io/t/announce-security-release-of-kubernetes-kubectl-potential-directory-traversal-releases-1-11- &nbsp; &nbsp; &nbsp; &nbsp; 9-1-12-7- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1-13-5-and-1-14-0-cve-2019-1002101/5712</p>
+<p style="text-indent: 28px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3.&nbsp;https://mp.weixin.qq.com/s/JIxSKbVTZn1v2kqgRPCljg</p>
+<p>&nbsp;</p>

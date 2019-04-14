@@ -1516,5 +1516,35 @@
 		"name":"Support 1.6T and 2T buckets",
 		"description":"Instances with 16 core 64G memory specification can support 1.6T and 2T buckets in Beijing, Shanghai and Guangzhou regions",
 		"id":2208
+	},
+	{
+		"introduce":"Cloud File Service  Open Beta",
+		"name":"Cloud File Service  Open Beta",
+		"description":"JD Cloud File Service is a fully-hosted distributed file system with high reliability, expandability and sharable access. It can be expanded or reduced as needed based on your use of the file system without interrupting the application service, and billed according to actual usage. The NFS protocol provides shared access services for Virtual Machines under Linux.",
+		"id":2227
+	},
+	{
+		"introduce":"cn-north-1 region supports 3AZ",
+		"name":"Supports 3AZ",
+		"description":"The cn-north-1 region supports 3AZ, and the MongoDB instance supports deploying 3 nodes respectively to 3 AZs.",
+		"id":2228
+	},
+	{
+		"introduce":"Support implementation of deploying dubbo application",
+		"name":"Support implementation of deploying dubbo application",
+		"description":"Implementation of deploying dubbo application is now supported. It is now convenient for users to implement Microservice applications such as Spring Cloud and Dubbo",
+		"id":2229
+	},
+	{
+		"introduce":"Support 3AZ in Beijing region",
+		"name":"Supports 3AZ",
+		"description":"Support 3AZ deployment in Beijing region",
+		"id":2230
+	},
+	{
+		"introduce":"Add Creating a policy by tag",
+		"name":"Add Creating a policy by tag",
+		"description":"A feature of visually creating policies provided by federated tag management, users can automatically associate resources by specifying tags, simplifying the process of policy creation by specifying a set of permissions for a product without having to specify operations and resources one by one.",
+		"id":2231
 	}
 ]

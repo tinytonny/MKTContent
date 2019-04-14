@@ -1,0 +1,14 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"CDN Edge Computing\",\"label\":[],\"desc\":\"CDN Edge Computing is based on the CDN edge node of JD Cloud, extends the computing, networking and storage capabilities from cloud to network edge, provides the edge computing near to terminal users, reduces the loading pressure of network delay and data centers, achieves the effective synergy between edges and cloud centers, and enhances the service performance.\"}",
+		"id":743
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"High-quality Resource, Coverage of the Whole Network\",\"proName\":\"The network nodes of super-high quality lead to the coverage of services in the whole network and the whole zone without dead space.\"},{\"showShade\":false,\"proGood\":\"Transparent Service, Visual Quality\",\"proName\":\"Support business consumption and query of service quality, and provide the stable, high-quality service in a transparent way.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Personalized Customization, Pay on Demand\",\"proName\":\"Support the customer’s customization demand, and make payment based on actual consumption.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Private Butler, Stable and Reliable\",\"proName\":\"JD has a professional operation and maintenance team which has several-year experience in providing technical support for big sales promotion activities. The team, taking every customer as a VIP, provides them with all-weather service assurance.\"}]",
+		"id":744
+	},
+	{
+		"txt":"[{\"funcName\":\"Service Monitoring\",\"funcContent\":[{\"funcTitle\":\"Support business usage statistics\",\"funcP\":\"Provide statistical information such as bandwidth, traffic and page view.\"}]},{\"funcName\":\"Make payment for node resources on demand\",\"funcContent\":[{\"funcTitle\":\"Personalized Customization, Pay on Demand\",\"funcP\":\"Sufficient bandwidth reserves, which is used by the customer on demand, and paid for according to quantity.\"}]},{\"funcName\":\"Open Running Environment\",\"funcContent\":[{\"funcTitle\":\"Multi-scenario Coverage, Flexible and Easy-to-use\",\"funcP\":\"Provide the multi-scenario service, open the running environment, and meeting the customer's different needs for nearby handling.\"}]},{\"funcName\":\"Security and Reliability\",\"funcContent\":[{\"funcTitle\":\"Support security isolation among users\",\"funcP\":\"Detect the abnormal traffic cleaning, safe isolation of users, guarantee service.\"}]}]",
+		"id":745
+	}
+]

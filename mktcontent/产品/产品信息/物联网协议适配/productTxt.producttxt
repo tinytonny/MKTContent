@@ -1,0 +1,22 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"IoT Hub Protocol Adaptor\",\"label\":[{\"TitleName\":\"Apply Now\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/iotcloudgateway\",\"classTag\":\"\"}],\"desc\":\"IoT Hub Protocol Adaptor Service  It switches adaptation modules through the built-in non-standard device data encapsulation protocol or communication protocol to help users with cloud onboarding of the existing devices in a quick and low-cost way. The service has built in JT/T-808 (GNSS system for operational vehicles — General specifications for vehicle terminal communication protocol and data format) protocol supports\"}",
+		"id":996
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Data Privacy\",\"proName\":\"Instances are deployed in users’ customized VPC and data among several tenants is isolated from each other to protect users’ data privacy.\"},{\"showShade\":false,\"proGood\":\"Application Security\",\"proName\":\"Instances are deployed in users’ customized VPC and network isolation protection is performed directly at the application layer to ensure application security.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Extensibility\",\"proName\":\"Support elastic expansion and shrinkage and JD Cloud can adjust the instance configuration as needed according to tenant business conditions to improve resource utilization rate and reduce the cost of use. In the course of configuration changes, the business running will not be affected.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Protocol Support\",\"proName\":\"It has built in JT/T 808 (GNSS system for operational vehicles — General specifications for vehicle terminal communication protocol and data format) protocol supports.\"}]",
+		"id":997
+	},
+	{
+		"txt":"[{\"funcName\":\"Easy to Use\",\"funcContent\":[{\"funcTitle\":\"Quick Creation\",\"funcP\":\"Through the Console or simple calling of API, a new service instance can be created in several minutes.\"},{\"funcTitle\":\"Elastic Expansion\",\"funcP\":\"Support expansion and shrinkage and JD Cloud can adjust the instance configuration as needed according to tenant business conditions to improve resource utilization rate and reduce the cost of use.\"}]},{\"funcName\":\"Security Guarantee\",\"funcContent\":[{\"funcTitle\":\"VPC (Virtual Private Cloud)\",\"funcP\":\"Instances are deployed in users’ customized VPC and network isolation protection is performed directly at the application layer to ensure customers’ application security and data privacy.\"}]},{\"funcName\":\"Protocol Support\",\"funcContent\":[{\"funcTitle\":\"Protocol Support\",\"funcP\":\"Support JT/T 808 (GNSS system for operational vehicles — General specifications for vehicle terminal communication protocol and data format) protocol.\"}]}]",
+		"id":998
+	},
+	{
+		"txt":"[{\"name\":\"Protocol Device Cloud Onboarding of Private Data\",\"instruction\":\"The customer has invested in the device with private data format and deployed a scale of stock devices. The customer hopes that the device data can perform cloud onboarding to fully utilize the data processing, storage, application and other services on the public cloud with the precondition of protecting the existing device investment. \",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"Model Training\",\"url\":\"//www.jdcloud.com/products/model-training\"},{\"name\":\"JCS for MySQL\",\"url\":\"//www.jdcloud.com/products/jcs-for-mysql\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/bfabca32-2ff9-498d-a728-d0fb203a32ed20190402213701.png\",\"showShade\":false}]",
+		"id":999
+	},
+	{
+		"txt":"[{\"name\":\"What type of public cloud services is the IoT Hub Protocol Adaptor service?\",\"link\":\"https://docs.jdcloud.com/iot-hub-protocol-adaptor/faq\",\"classTag\":\"\"},{\"name\":\"What kind of non-standard protocol has been built in the IoT Hub Protocol Adaptor service?\",\"link\":\"https://docs.jdcloud.com/iot-hub-protocol-adaptor/faq\",\"classTag\":\"\"},{\"name\":\"Can the IoT Hub Protocol Adaptor service be independently run without using the IoT Hub service?\",\"link\":\"https://docs.jdcloud.com/iot-hub-protocol-adaptor/faq\",\"classTag\":\"\"}]",
+		"id":1000
+	}
+]
