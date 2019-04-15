@@ -1281,5 +1281,75 @@
 		"summary":"",
 		"name":"Rust",
 		"id":3228
+	},
+	{
+		"summary":"",
+		"name":"IoT Edge",
+		"id":3234
+	},
+	{
+		"summary":"",
+		"name":"IoT Solution",
+		"id":3235
+	},
+	{
+		"summary":"",
+		"name":"AIDC",
+		"id":3236
+	},
+	{
+		"summary":"",
+		"name":"Co-location",
+		"id":3237
+	},
+	{
+		"summary":"",
+		"name":"Monoline & BGP Bandwidth",
+		"id":3238
+	},
+	{
+		"summary":"",
+		"name":"IT Equipment Installation",
+		"id":3239
+	},
+	{
+		"summary":"",
+		"name":"Customized Inspection",
+		"id":3240
+	},
+	{
+		"summary":"",
+		"name":"IDC Local Technical Support",
+		"id":3241
+	},
+	{
+		"summary":"",
+		"name":"Network Architecture Design Service",
+		"id":3242
+	},
+	{
+		"summary":"",
+		"name":"IDC Assets Management",
+		"id":3243
+	},
+	{
+		"summary":"",
+		"name":"Distributed Access Service",
+		"id":3244
+	},
+	{
+		"summary":"",
+		"name":"Server & Network Monitor Service",
+		"id":3245
+	},
+	{
+		"summary":"",
+		"name":"One-stop Hardware Solution Service",
+		"id":3246
+	},
+	{
+		"summary":"",
+		"name":"Network Operation and Maintenance Service",
+		"id":3247
 	}
 ]
