@@ -742,5 +742,13 @@
 		"jss_key":"News_Content_489",
 		"id":489,
 		"news_title":"Intel为京东云定制高端处理器  性价比提升40%替用户降成本"
+	},
+	{
+		"summary":"随着数字化转型的深入，政府和企业的IT架构日益复杂，单一形式的云计算模式很难满足客户的全部需求，混合云架构成为新的趋势。这就要求政府和企业搭建能够与公有云良好协同互动的专有云平台。",
+		"image_url":"//img1.jcloudcs.com/cms/6dd468ee-8142-48f0-8a08-d4e3885a476020190412204125.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_490",
+		"jss_key":"News_Content_490",
+		"id":490,
+		"news_title":"专有云成为政企数字化转型“新宠”，京东云打造新一代专有云平台JDStack"
 	}
 ]
