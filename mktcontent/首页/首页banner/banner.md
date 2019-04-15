@@ -768,5 +768,12 @@
 		"id":1076,
 		"button_title":"查看详情",
 		"main_title":"域名特价 限时抢注！"
+	},
+	{
+		"sub_title":"随时随地触达京东云，7*24小时的全面监控",
+		"name":"APPiOS上架",
+		"id":1084,
+		"button_title":"查看详情",
+		"main_title":"京东云APP"
 	}
 ]
