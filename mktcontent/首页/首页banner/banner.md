@@ -747,5 +747,19 @@
 		"id":1075,
 		"button_title":"Try Now",
 		"main_title":"Cloud File Service"
+	},
+	{
+		"sub_title":"40% Off Now for Virtual Machines, Only RMB 98 to Build the Station Template",
+		"name":"Time Limited Offer for Domain Name",
+		"id":1076,
+		"button_title":"View Details",
+		"main_title":"Time Limited Offer for Domain Name"
+	},
+	{
+		"sub_title":"Accessing JD Cloud services at anytime and anywhere, 7*24 support to help build your online business",
+		"name":"APPiOS Online",
+		"id":1084,
+		"button_title":"View Details",
+		"main_title":"JD Cloud APP"
 	}
 ]
