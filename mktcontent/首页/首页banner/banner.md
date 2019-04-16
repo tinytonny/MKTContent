@@ -775,5 +775,12 @@
 		"id":1084,
 		"button_title":"查看详情",
 		"main_title":"京东云APP"
+	},
+	{
+		"sub_title":"帮助您管理对资源的访问",
+		"name":"目录服务开放公测",
+		"id":1085,
+		"button_title":"立即申请",
+		"main_title":"目录服务 开放公测"
 	}
 ]
