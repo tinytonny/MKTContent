@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"队列服务\",\"label\":[{\"TitleName\":\"立即试用\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/jqs \",\"classTag\":\"\"}],\"desc\":\"队列服务（Queue Service）是一项基于serverless架构的全托管消息队列服务，它可以提供高可靠并且几乎无限扩展的托管消息队列。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"队列服务\",\"label\":[{\"TitleName\":\"公测申请\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/jqs \",\"classTag\":\"\"}],\"desc\":\"队列服务（Queue Service）是一项基于serverless架构的全托管消息队列服务，它可以提供高可靠并且几乎无限扩展的托管消息队列。\"}",
 		"id":824
 	},
 	{
