@@ -782,5 +782,12 @@
 		"id":1085,
 		"button_title":"立即申请",
 		"main_title":"目录服务 开放公测"
+	},
+	{
+		"sub_title":"《京东云专有云思想领导力白皮书》发布",
+		"name":"JD stack白皮书",
+		"id":1087,
+		"button_title":"查看详情",
+		"main_title":"京东云打造新一代专有云平台JD Stack"
 	}
 ]
