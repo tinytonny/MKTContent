@@ -1,15 +1,13 @@
 <div class="intelligent-city">
-
   <div class="w">
-
     <div class="area-wrap">
-
-      <img src="//img1.jcloudcs.com/portal/city/index/area-bg-new.png" alt="Map" class="hidden-xs">
-
-      <img src="//img1.jcloudcs.com/portal/city/index/area-bg-m-new.png" alt="Map" class="m-bg">
-
+      <img src="//img1.jcloudcs.com/portal/city/index/area-bg-new.png" alt="map" class="hidden-xs">
+      <img src="//img1.jcloudcs.com/portal/city/index/area-bg-m-new.png" alt="map" class="m-bg">
     </div>
-
+    <div class="area-wrap area-wrap-en">
+      <img src="//img1.jcloudcs.com/portal/city/index/area-bg-new-en.png" alt="map" class="hidden-xs">
+      <img src="//img1.jcloudcs.com/portal/city/index/area-bg-m-new-en.png" alt="map" class="m-bg">
+    </div>
     <div class="city-text-wrap">
 
       <h4 class="city-title">JD Cloud･National Layout of Urban New Economy Exhibition Center</h4>
@@ -21,9 +19,7 @@
       <p class="city-des">At the same time, the Exhibition Center can also be used for communication, training, discussion, etc. It is a new city tour landmark built by JD Cloud and cities.</p>
 
     </div>
-
   </div>
-
   <div class="intelligent-city-ft">
 
     <div class="city-list-wrap">
@@ -148,7 +144,7 @@
 
           <p class="city-name">Fujian Province</p>
 
-          <p class="city-name">Xianyou County</p>
+          <p class="city-name">Xianyou Country</p>
 
           <div class="text-tips">
 
@@ -295,5 +291,4 @@
     </div>
 
   </div>
-
 </div>
