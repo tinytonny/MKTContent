@@ -386,5 +386,9 @@
 	{
 		"id":649,
 		"title":"\\[Message Queue Console and Open API Services Suspension Notification \\] Message Queue Optimization Upgrade"
+	},
+	{
+		"id":652,
+		"title":"Announcement on Free Test Region Public Network (North China) of Message Queue JCQ"
 	}
 ]

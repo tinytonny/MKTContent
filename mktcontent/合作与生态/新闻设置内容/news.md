@@ -742,5 +742,13 @@
 		"jss_key":"News_Content_489",
 		"id":489,
 		"news_title":"Intel customizes high-end processors for JD Cloud, with 40% increase of cost performance and reduced cost for the user"
+	},
+	{
+		"summary":"With the deepening of digital transformation, the IT architectures of governments and enterprises are increasingly complicated. Therefore, cloud computing mode with single form is difficult to fulfill all requirements of customers so that Hybrid Cloud architecture will become a new trend. This requires governments and enterprises to build a Proprietary Cloud platform that has perfect collaborative interaction with the Public Cloud.",
+		"image_url":"//img1.jcloudcs.com/cms/6dd468ee-8142-48f0-8a08-d4e3885a476020190412204125.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_490",
+		"jss_key":"News_Content_490",
+		"id":490,
+		"news_title":"Proprietary Cloud has become the \"new favorite\" of governments and enterprises' digital transformation. JD Cloud is developing Proprietary Cloud platform of next generation - JDStack"
 	}
 ]

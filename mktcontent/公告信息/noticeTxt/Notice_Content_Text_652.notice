@@ -1,0 +1,13 @@
+<p><span style="font-size:14px;font-family:&#39;微软雅黑&#39;,sans-serif;color:black">&nbsp;</span>
+</p>
+<p><span style="font-size:14px;font-family:&#39;微软雅黑&#39;,sans-serif;color:black">&nbsp; &nbsp;</span>
+<span style="font-size:14px;font-family:&#39;微软雅黑&#39;,sans-serif;color:black">For the purpose that users can use Message Queue&nbsp;JCQ service easily with low costs and more convenience, there will be no charge of resource cost for JD Cloud Message Queue&nbsp;JCQ&nbsp; at public network (North China) region from 00:00, April 15, 2019. Welcome to test it.</span>
+</p>
+<p><span style="font-size:14px;font-family:&#39;微软雅黑&#39;,sans-serif;color:black">In Public Network (North China) region, Message Queue&nbsp;JCQ service can be accessed through public network, which is convenient for users to test and jointly debug. The TPS limit of single Topic is 1,000.</span>
+</p>
+<p><span style="font-size:14px;font-family:&#39;微软雅黑&#39;,sans-serif;color:black">In all regions [including "cn-north-1" and "cn-east-2"], except Public Network (North China), Message Queue&nbsp;JCQ&nbsp; guarantees SLAs and provides Message Queue Service of &nbsp;VPC&nbsp; access, which are applicable to deployment of user production environment applications. The TPS limit of single Topic is 5,000.</span>
+</p>
+<p><span style="font-size:14px;font-family:&#39;微软雅黑&#39;,sans-serif;color:black">&nbsp;&nbsp;</span>
+<span style="font-size:14px;font-family:&#39;微软雅黑&#39;,sans-serif;color:black">In public network (North China) region, if you have business deployments of production environment, we recommend you to migrate them to other regions as soon as possible. You can contact JD Cloud Customer Service (Tel: 4006151212) in anytime if you have problems during the process. Thank you for your support to JD Cloud.</span>
+</p>
+<p><br/></p>

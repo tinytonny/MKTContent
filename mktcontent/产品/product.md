@@ -68,10 +68,6 @@
 		"id":39
 	},
 	{
-		"name":"BI Report",
-		"id":40
-	},
-	{
 		"name":"Data Factory",
 		"id":41
 	},
