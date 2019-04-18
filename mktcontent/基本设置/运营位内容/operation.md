@@ -30,8 +30,8 @@
 		"id":6
 	},
 	{
-		"name":"JCS for Kubernetes",
-		"description":"Powerful container-managed services",
+		"name":"Free Quota Offered for OSS",
+		"description":"Enjoy Free Quota of Stand Storage",
 		"id":7
 	},
 	{
