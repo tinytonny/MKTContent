@@ -26,12 +26,12 @@
 	},
 	{
 		"name":"Storage & Distribution",
-		"description":"Simplify Storage and Distribution",
+		"description":"Simplify storage and distribution",
 		"id":6
 	},
 	{
 		"name":"Free Quota Offered for OSS",
-		"description":"Enjoy Free Quota of Stand Storage",
+		"description":"Enjoy free quota of stand storage",
 		"id":7
 	},
 	{
