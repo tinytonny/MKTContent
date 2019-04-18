@@ -761,5 +761,19 @@
 		"id":1084,
 		"button_title":"View Details",
 		"main_title":"JD Cloud APP"
+	},
+	{
+		"sub_title":"Helps you manage access to resources",
+		"name":"Directory Service",
+		"id":1085,
+		"button_title":"Try Now",
+		"main_title":"Directory Service"
+	},
+	{
+		"sub_title":"Dedicated Cloud Thought Leadership Paper by JD Cloud Released",
+		"name":"Dedicated Cloud Thought Leadership Paper",
+		"id":1087,
+		"button_title":"View More",
+		"main_title":"JD Stack, A New Generation of Proprietary Cloud by JD Cloud"
 	}
 ]
