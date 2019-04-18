@@ -1639,10 +1639,12 @@
 	},
 	{
 		"name":"人脸识别",
+		"description":"Face Recognition",
 		"id":3173
 	},
 	{
-		"name":"语言基础技术",
+		"name":"自然语言处理",
+		"description":"自然语言处理",
 		"id":3175
 	},
 	{
@@ -1774,7 +1776,7 @@
 	},
 	{
 		"name":"文本分类",
-		"description":"//www.jdcloud.com/products/",
+		"description":"文本分类",
 		"id":3235
 	},
 	{
@@ -1989,82 +1991,82 @@
 	},
 	{
 		"name":"语音识别",
-		"description":"//www.jdcloud.com/products/",
+		"description":"将语音转成文字，支持多场景识别",
 		"id":3365
 	},
 	{
 		"name":"语音合成",
-		"description":"//www.jdcloud.com/products/",
+		"description":"提供高自然度、有感情色彩，个性化的语音合成服务",
 		"id":3367
 	},
 	{
 		"name":"人脸对比",
-		"description":"//www.jdcloud.com/products/",
+		"description":"计算两张脸的相似程度，判断两者是否为同一个人",
 		"id":3369
 	},
 	{
 		"name":"人脸搜索",
-		"description":"//www.jdcloud.com/products/",
+		"description":"针对一张人脸，在指定的人脸库中，查找相似的人脸",
 		"id":3371
 	},
 	{
 		"name":"人脸检测与属性分析",
-		"description":"//www.jdcloud.com/products/",
+		"description":"检测人脸并返回人脸框位置坐标、关键点及人脸属性",
 		"id":3373
 	},
 	{
 		"name":"人脸活体检测",
-		"description":"//www.jdcloud.com/products/",
+		"description":"人脸识别应用中判断用户是否为真实本人操作",
 		"id":3375
 	},
 	{
 		"name":"自拍人像抠图",
-		"description":"//www.jdcloud.com/products/",
+		"description":"将自拍照中的人像区域与背景进行分割出来",
 		"id":3377
 	},
 	{
 		"name":"词法分析",
-		"description":"//www.jdcloud.com/products/",
+		"description":"解析自然语言中的基本语言元素",
 		"id":3379
 	},
 	{
 		"name":"句法分析",
-		"description":"//www.jdcloud.com/products/",
+		"description":"提供文本中词与词之间的依存关系和句法结构信息",
 		"id":3381
 	},
 	{
 		"name":"情感分析",
-		"description":"//www.jdcloud.com/products/",
+		"description":"判断该文本的情感极性类别，并给出相应的置信度",
 		"id":3383
 	},
 	{
 		"name":"短文本相似度",
-		"description":"//www.jdcloud.com/products/",
+		"description":"提供不同短文本之间相似度的计算",
 		"id":3385
 	},
 	{
 		"name":"评论观点抽取",
-		"description":"//www.jdcloud.com/products/",
+		"description":"分析评论关注点和评论观点，提取观点标签",
 		"id":3387
 	},
 	{
 		"name":"文本分类",
-		"description":"//www.jdcloud.com/products/",
+		"description":"识别用户话术的领域信息",
 		"id":3389
 	},
 	{
 		"name":"身份证识别",
-		"description":"//www.jdcloud.com/products/",
+		"description":"识别二代居民身份证正反面的关键字段识别",
 		"id":3391
 	},
 	{
 		"name":"行驶证识别",
-		"description":"//www.jdcloud.com/products/",
+		"description":"识别机动车行驶证正页的关键字段识别",
 		"id":3393
 	},
 	{
 		"name":"银行卡识别",
-		"description":"//www.jdcloud.com/products/",
+		"description":"识别银行卡号，银行名称等关键字段",
 		"id":3395
 	},
 	{
@@ -2074,52 +2076,52 @@
 	},
 	{
 		"name":"营业执照识别",
-		"description":"//www.jdcloud.com/products/",
+		"description":"识别营业执照的关键字段，包括单位名称，法人等",
 		"id":3399
 	},
 	{
 		"name":"增值税发票识别",
-		"description":"//www.jdcloud.com/products/",
+		"description":"识别增值税发票的关键字段，包括普票和专票等",
 		"id":3401
 	},
 	{
 		"name":"人体关键点检测",
-		"description":"//www.jdcloud.com/products/",
+		"description":"准确地估计出图片或视频中的人体14个主要关键点",
 		"id":3403
 	},
 	{
 		"name":"人体检测",
-		"description":"//www.jdcloud.com/products/",
+		"description":"检测出图片或视频中的人体，并返回人体矩形框坐标",
 		"id":3405
 	},
 	{
 		"name":"特定人物识别",
-		"description":"//www.jdcloud.com/products/",
+		"description":"在指定的图片库中，查找出指定的敏感人物",
 		"id":3407
 	},
 	{
 		"name":"拍照购",
-		"description":"//www.jdcloud.com/products/",
+		"description":"拍照并识别照片中的物体，返回京东商城的商品信息",
 		"id":3409
 	},
 	{
 		"name":"智能鉴黄",
-		"description":"//www.jdcloud.com/products/",
+		"description":"对图片进行分析，快速的输出每张图片涉黄的概率",
 		"id":3411
 	},
 	{
 		"name":"菜品识别",
-		"description":"//www.jdcloud.com/products/",
+		"description":"准确识别中餐菜品，返回菜品名称",
 		"id":3413
 	},
 	{
 		"name":"视频摘要",
-		"description":"//www.jdcloud.com/products/",
+		"description":"对视频进行分析，输出视频的动态摘要和静态摘要",
 		"id":3415
 	},
 	{
 		"name":"视频标签",
-		"description":"//www.jdcloud.com/products/",
+		"description":"对视频进行多维度分析，输出视频泛标签",
 		"id":3417
 	},
 	{
