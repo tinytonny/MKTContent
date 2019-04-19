@@ -1649,14 +1649,17 @@
 	},
 	{
 		"name":"OCR文字识别",
+		"description":"利用光学字符识别技术，提供图片文字检测识别服务",
 		"id":3177
 	},
 	{
 		"name":"人体识别",
+		"description":"检测并识别图片或视频中的人体，并返回人体关键点",
 		"id":3179
 	},
 	{
 		"name":"图像理解",
+		"description":"对图像或视频进行的分析处理，以达到所需结果",
 		"id":3183
 	},
 	{
@@ -1691,7 +1694,7 @@
 	},
 	{
 		"name":"人脸搜索",
-		"description":"//www.jdcloud.com/products/",
+		"description":"针对一张人脸，在指定的人脸库中，查找相似的人脸",
 		"id":3199
 	},
 	{
@@ -1721,42 +1724,42 @@
 	},
 	{
 		"name":"身份证识别",
-		"description":"//www.jdcloud.com/products/",
+		"description":"识别二代居民身份证正反面的关键字段识别",
 		"id":3211
 	},
 	{
 		"name":"行驶证识别",
-		"description":"//www.jdcloud.com/products/",
+		"description":"Vehicle License Recognize",
 		"id":3213
 	},
 	{
 		"name":"银行卡识别",
-		"description":"//www.jdcloud.com/products/",
+		"description":"识别银行卡号，银行名称等关键字段",
 		"id":3215
 	},
 	{
 		"name":"通用文字识别",
-		"description":"//www.jdcloud.com/products/",
+		"description":"提供多场景、高精度的图片文字检测识别服务",
 		"id":3217
 	},
 	{
 		"name":"营业执照识别",
-		"description":"//www.jdcloud.com/products/",
+		"description":"识别营业执照的关键字段，包括单位名称，法人等",
 		"id":3219
 	},
 	{
 		"name":"增值税发票识别",
-		"description":"//www.jdcloud.com/products/",
+		"description":"识别增值税发票的关键字段，包括普票和专票等",
 		"id":3221
 	},
 	{
 		"name":"人体关键点检测",
-		"description":"//www.jdcloud.com/products/",
+		"description":"准确地估计出图片或视频中的人体14个主要关键点",
 		"id":3223
 	},
 	{
 		"name":"人体检测",
-		"description":"//www.jdcloud.com/products/",
+		"description":"检测出图片或视频中的人体，并返回人体矩形框坐标",
 		"id":3225
 	},
 	{
@@ -1781,7 +1784,7 @@
 	},
 	{
 		"name":"特定人物识别",
-		"description":"//www.jdcloud.com/products/",
+		"description":"在指定的图片库中，查找出指定的敏感人物",
 		"id":3237
 	},
 	{
@@ -1791,12 +1794,12 @@
 	},
 	{
 		"name":"智能鉴黄",
-		"description":"//www.jdcloud.com/products/",
+		"description":"对图片进行分析，快速的输出每张图片涉黄的概率",
 		"id":3241
 	},
 	{
 		"name":"菜品识别",
-		"description":"//www.jdcloud.com/products/",
+		"description":"准确识别中餐菜品，返回菜品名称",
 		"id":3243
 	},
 	{
@@ -2130,7 +2133,8 @@
 		"id":3419
 	},
 	{
-		"name":"产品与服务",
+		"name":"IDC增值服务",
+		"description":"IDC增值服务介绍",
 		"id":3421
 	},
 	{
@@ -2225,19 +2229,35 @@
 	},
 	{
 		"name":"视频分析",
+		"description":"对视频进行智能分析，输出视频内容的泛标签及摘要",
 		"id":3467
 	},
 	{
 		"name":"视频摘要",
+		"description":"对视频进行分析，输出视频的动态摘要和静态摘要",
 		"id":3469
 	},
 	{
 		"name":"视频标签",
+		"description":"对视频进行多维度分析，输出视频泛标签",
 		"id":3471
 	},
 	{
 		"name":"京东云企业助手",
 		"description":"京东云企业助手",
 		"id":3473
+	},
+	{
+		"name":"物理计算",
+		"id":3475
+	},
+	{
+		"name":"IDC标准产品",
+		"id":3477
+	},
+	{
+		"name":"解决方案",
+		"description":"解决方案",
+		"id":3479
 	}
 ]
