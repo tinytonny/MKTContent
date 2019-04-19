@@ -750,5 +750,21 @@
 		"jss_key":"News_Content_490",
 		"id":490,
 		"news_title":"专有云成为政企数字化转型“新宠”，京东云打造新一代专有云平台JDStack"
+	},
+	{
+		"summary":"作为计算平台虚拟化技术之一，容器技术正改变着IT服务交付的方式和云计算的未来。在过几年的发展中，容器技术已从一个新兴理念，逐渐成为被大量企业实际应用的技术。",
+		"image_url":"//img1.jcloudcs.com/cms/f6ac77d6-619e-4d9b-b91c-992454e0feac20190419113200.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_498",
+		"jss_key":"News_Content_498",
+		"id":498,
+		"news_title":"京东云容器三“大将”助力企业创造更高商业价值"
+	},
+	{
+		"summary":"随着云计算技术的不断发展，用户云安全业务正越来越受到重视。企业云端用户们迫切希望自身云端业务及数据能够享受到与传统物理网络环境同等的、甚至更全面的安全防护。",
+		"image_url":"//img1.jcloudcs.com/cms/af7c94a8-d9c4-47e9-ba4e-374693ef457120190419114125.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_499",
+		"jss_key":"News_Content_499",
+		"id":499,
+		"news_title":"京东云加码云安全服务 全面护航企业级云安全用户"
 	}
 ]
