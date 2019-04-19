@@ -25,8 +25,8 @@
 		"id":5
 	},
 	{
-		"name":"Storage & Distribution",
-		"description":"Simplify storage and distribution",
+		"name":"Only 9 RMB for .cn domain",
+		"description":"26 RMB off for more others",
 		"id":6
 	},
 	{
