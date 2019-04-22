@@ -2139,46 +2139,57 @@
 	},
 	{
 		"name":"机柜租赁",
+		"description":"用户租用京东云机柜空间",
 		"id":3423
 	},
 	{
 		"name":"带宽产品",
+		"description":"电信、移动、联通等BGP和单线带宽",
 		"id":3425
 	},
 	{
 		"name":"IT设备安装",
+		"description":"IT设备安装、综合布线等",
 		"id":3427
 	},
 	{
 		"name":"定制巡检",
+		"description":"托管环境，IT设备软硬件巡检服务",
 		"id":3429
 	},
 	{
 		"name":"IDC现场技术支持",
+		"description":"IT设备软硬件技术支持",
 		"id":3431
 	},
 	{
 		"name":"分布式接入服务",
+		"description":"提供高性能多样化SLB服务",
 		"id":3433
 	},
 	{
 		"name":"服务器与网络监控服务",
+		"description":"包括Agent、硬件监控、网络监控",
 		"id":3435
 	},
 	{
 		"name":"网络架构规划服务",
+		"description":"为用户提供网络规划设计、优化咨询等服务",
 		"id":3437
 	},
 	{
 		"name":"网络托管运维服务",
+		"description":"代建代管网络设备以及运维管理等服务",
 		"id":3439
 	},
 	{
 		"name":"IDC资产管理服务",
+		"description":"提供资产全生命周期的管理服务",
 		"id":3441
 	},
 	{
 		"name":"一站式硬件解决方案服务",
+		"description":"服务器/存储/网络硬件相关的各种解决方案",
 		"id":3443
 	},
 	{
@@ -2188,38 +2199,47 @@
 	},
 	{
 		"name":"北京BJ1数据中心",
+		"description":"北京BJ1数据中心",
 		"id":3447
 	},
 	{
 		"name":"北京BJ2数据中心",
+		"description":"北京BJ2数据中心",
 		"id":3449
 	},
 	{
 		"name":"北京BJ3数据中心",
+		"description":"北京BJ3数据中心",
 		"id":3451
 	},
 	{
 		"name":"北京BJ4数据中心",
+		"description":"北京BJ4数据中心",
 		"id":3453
 	},
 	{
 		"name":"上海SH1数据中心",
+		"description":"上海SH1数据中心",
 		"id":3455
 	},
 	{
 		"name":"上海SH2数据中心",
+		"description":"上海SH2数据中心",
 		"id":3457
 	},
 	{
 		"name":"广州GZ1数据中心",
+		"description":"广州GZ1数据中心",
 		"id":3459
 	},
 	{
 		"name":"广州GZ2数据中心",
+		"description":"广州GZ2数据中心",
 		"id":3461
 	},
 	{
 		"name":"广州GZ3数据中心",
+		"description":"广州GZ3数据中心",
 		"id":3463
 	},
 	{
@@ -2256,8 +2276,13 @@
 		"id":3477
 	},
 	{
-		"name":"解决方案",
-		"description":"解决方案",
-		"id":3479
+		"name":"政企云办公解决方案",
+		"description":"政企云办公解决方案",
+		"id":3485
+	},
+	{
+		"name":"物联网卡服务平台",
+		"description":"平台提供三大运营商物联网卡购买、充值和管理功能",
+		"id":3489
 	}
 ]
