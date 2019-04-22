@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"一站式硬件解决方案服务\",\"label\":[],\"desc\":\"根据您的应用和环境需求，结合京东在数据中心硬件技术和生态上的积淀，为您量身定制硬件解决方案，可覆盖不同规模客户对计算、存储、网络等各模块的硬件需求\"}",
+		"id":935
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"沉淀深厚\",\"proName\":\"京东业务场景多样，在电商、物流、金融、云、大数据、AI、物联网等场景积累了丰富的硬件解决方案，也形成了完善的方案开发、验证、交付流程和规范\"},{\"showShade\":false,\"proGood\":\"资源丰富\",\"proName\":\"依托京东集团强大的供应链能力，整合IT产业链资源，提供最优的硬件解决方案\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"品类多样\",\"proName\":\"京东云硬件解决方案提供最丰富的硬件品类，包括各种平台的服务器、存储产品，各种品牌型号的CPU、内存、硬盘、SSD、网卡、GPU、风扇、电源等部件，以及从接入到核心的所有网络设备\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"专家团队\",\"proName\":\"京东硬件解决方案团队由一群平均硬件工作经验超过10年的硬件专家组成，涉猎广泛，经验丰富\"}]",
+		"id":936
+	},
+	{
+		"txt":"[{\"funcName\":\"方案建议\",\"funcContent\":[{\"funcTitle\":\"硬件解决方案建议\",\"funcP\":\"通过客户访谈，深入了解客户的需求和痛点，进行方案开发，并结合各方案的技术特点、可行性、方案性能、方案TCO、供应链等情况，向客户提供硬件解决方案建议\"}]},{\"funcName\":\"方案验证\",\"funcContent\":[{\"funcTitle\":\"硬件解决方案验证\",\"funcP\":\"对方案的功能、性能、可靠性、可用性等进行验证和调优，并将验证结果及分析以测试报告的形式提供给客户\"}]},{\"funcName\":\"方案交付\",\"funcContent\":[{\"funcTitle\":\"硬件解决方案交付\",\"funcP\":\"整理方案建议与验证结果，将最终的解决方案交付给客户并进行详细讲解\"}]}]",
+		"id":937
+	},
+	{
+		"txt":"[{\"name\":\"硬件选型\",\"instruction\":\"根据客户的应用需求，结合京东多年来积累的硬件选型经验和对硬件技术、供应链的深入了解，提供服务器、网络设备及部件的测试选型服务\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/18965fdf-deea-4c34-a5af-225c8dba96e020190329160032.png\",\"showShade\":false},{\"name\":\"服务器套餐规划和定义\",\"instruction\":\"从功能、性能、成本、可靠性、可用性、可行性等角度，为您定制最符合业务场景的服务器套餐\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/c66ed7bf-1d73-44ab-86a2-d9bf28d2703d20190329160321.png\",\"showShade\":false},{\"name\":\"线上服务器改配\",\"instruction\":\"根据线上服务器的品牌、型号以及具体配置和状态，提供简单可行的改配或扩容方案\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/6be7e65c-7e79-4252-8ac3-24caa04afadf20190329160328.png\",\"showShade\":false},{\"name\":\"服务器利旧\",\"instruction\":\"将客户数据中心的老旧服务器重新利用再改造，将原来的传统架构、物理机环境，通过部件的整合以及软件的升级重新创造价值，节约客户成本\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/65169e9f-e5c2-4246-a72a-b928873ac7f120190329160054.png\",\"showShade\":false},{\"name\":\"硬件优化\",\"instruction\":\"通过客户访谈，分析客户应用与系统特点，找出系统性能瓶颈或过剩部分，为客户当前使用的硬件方案提供成本或性能优化建议\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/439537ee-e87f-4628-a12d-9ef36fc55fc320190329160102.png\",\"showShade\":false}]",
+		"id":938
+	}
+]
