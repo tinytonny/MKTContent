@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Queue Service\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/jqs \",\"classTag\":\"\"}],\"desc\":\"The Queue Service is a fully hosted message Queue Service based on serverless architecture, which can provide high reliability and almost unlimitedly extendable hosted message queues.\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Queue Service\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://www.jdcloud.com/en/public/testApply/jqs \",\"classTag\":\"\"}],\"desc\":\"The Queue Service is a fully hosted message Queue Service based on serverless architecture, which can provide high reliability and almost unlimitedly extendable hosted message queues.\"}",
 		"id":824
 	},
 	{
