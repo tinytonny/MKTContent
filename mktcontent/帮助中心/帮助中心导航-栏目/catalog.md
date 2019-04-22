@@ -1351,5 +1351,155 @@
 		"summary":"",
 		"name":"Network Operation and Maintenance Service",
 		"id":3247
+	},
+	{
+		"summary":"",
+		"name":"AI & Machine Learning",
+		"id":3248
+	},
+	{
+		"summary":"",
+		"name":"Automatic Speech Recognition",
+		"id":3249
+	},
+	{
+		"summary":"",
+		"name":"Text to Speech",
+		"id":3250
+	},
+	{
+		"summary":"",
+		"name":"Face Compare",
+		"id":3251
+	},
+	{
+		"summary":"",
+		"name":"Face Search",
+		"id":3252
+	},
+	{
+		"summary":"",
+		"name":"Face Detect and Analysis",
+		"id":3253
+	},
+	{
+		"summary":"",
+		"name":"Face Anti-spoofing",
+		"id":3254
+	},
+	{
+		"summary":"",
+		"name":"Selfie Segmentation",
+		"id":3255
+	},
+	{
+		"summary":"",
+		"name":"Lexical Analysis",
+		"id":3256
+	},
+	{
+		"summary":"",
+		"name":"Syntactic Parsing",
+		"id":3257
+	},
+	{
+		"summary":"",
+		"name":"Sentiment Classifier",
+		"id":3258
+	},
+	{
+		"summary":"",
+		"name":"Short Text Similarity",
+		"id":3259
+	},
+	{
+		"summary":"",
+		"name":"Commentary Extraction",
+		"id":3260
+	},
+	{
+		"summary":"",
+		"name":"Text Categorization",
+		"id":3261
+	},
+	{
+		"summary":"",
+		"name":"Identity Card Recognize",
+		"id":3262
+	},
+	{
+		"summary":"",
+		"name":"Vehicle License Recognize",
+		"id":3263
+	},
+	{
+		"summary":"",
+		"name":"Bank Card Number Recognize",
+		"id":3264
+	},
+	{
+		"summary":"",
+		"name":"General Image OCR",
+		"id":3265
+	},
+	{
+		"summary":"",
+		"name":"Business License Recognize",
+		"id":3266
+	},
+	{
+		"summary":"",
+		"name":"Value-added Tax Invoice Recognize",
+		"id":3267
+	},
+	{
+		"summary":"",
+		"name":"Pose Estimation",
+		"id":3268
+	},
+	{
+		"summary":"",
+		"name":"Human Detection",
+		"id":3269
+	},
+	{
+		"summary":"",
+		"name":"Specific Subject Face Recognition",
+		"id":3270
+	},
+	{
+		"summary":"",
+		"name":"Snap Shop",
+		"id":3271
+	},
+	{
+		"summary":"",
+		"name":"Image Antiporn Recognize",
+		"id":3272
+	},
+	{
+		"summary":"",
+		"name":"Food Recognition",
+		"id":3273
+	},
+	{
+		"summary":"",
+		"name":"Video Summarization",
+		"id":3274
+	},
+	{
+		"summary":"",
+		"name":"Video Tagging",
+		"id":3275
+	},
+	{
+		"summary":"",
+		"name":"NeuHive",
+		"id":3276
+	},
+	{
+		"summary":"",
+		"name":"NeuBot",
+		"id":3277
 	}
 ]
