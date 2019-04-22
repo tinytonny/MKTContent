@@ -390,5 +390,9 @@
 	{
 		"id":652,
 		"title":"Announcement on Free Test Region Public Network (North China) of Message Queue JCQ"
+	},
+	{
+		"id":660,
+		"title":"Service Suspension Notice on RDS Console and Open API"
 	}
 ]

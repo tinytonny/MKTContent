@@ -136,6 +136,10 @@
 		"id":91
 	},
 	{
+		"name":"JD Cloud Enterprise Assistant",
+		"id":110
+	},
+	{
 		"name":"Cloud Migration Solution",
 		"id":111
 	}
