@@ -766,5 +766,13 @@
 		"jss_key":"News_Content_499",
 		"id":499,
 		"news_title":"京东云加码云安全服务 全面护航企业级云安全用户"
+	},
+	{
+		"summary":"近日，京东云携手云基础设施自动化软件的领导者HashiCorp，宣布推出Terraform Provider for JD Cloud，这意味着用户能够在京东云上轻松使用简单模板语言来定义、预览和部署云基础架构，能够快速将环境部署到京东云或本地数据中心，实现多云管理和跨云迁移。",
+		"image_url":"//img1.jcloudcs.com/cms/02ea6d94-c41a-4999-9b92-3de268bdd11f20190423142623.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_500",
+		"jss_key":"News_Content_500",
+		"id":500,
+		"news_title":"京东云携手HashiCorp，宣布推出Terraform Provider"
 	}
 ]
