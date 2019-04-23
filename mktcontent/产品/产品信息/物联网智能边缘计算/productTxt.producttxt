@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"物联网智能边缘计算\",\"desc\":\"部署和运行在边缘节点设备上的智能系统，将云端计算能力扩展到本地边缘节点，在现场执行智能计算。用户可以在设备部署现场通过边缘计算节点获得例如设备接入管理，数据就近处理，以及AI推断等能力。\",\"label\":[{\"TitleName\":\"立即申请\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/iotedge\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"id":1109
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"智能\",\"proName\":\"提供本地数据处理，AI学习、推断、识别等能力，让边缘具备一定的AI计算和推断能力。\"},{\"showShade\":false,\"proGood\":\"便捷\",\"proName\":\"多种协议支持，可将各类终端设备，传感器快速便捷的接入物联网中心（Iot Hub）。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"实时\",\"proName\":\"本地数据实时采集，实时处理，结果实时反馈至用户。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"高效\",\"proName\":\"设备接入，控制，数据存储，分析，处理，AI推断等工作，均可在离线状态下进行，避免网络造成的延时和工作中断，加快边缘决策速度。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"经济\",\"proName\":\"大量的数据收集和处理工作在本地完成，减少云端传输，存储和计算的成本。\"}]",
+		"id":1110
+	},
+	{
+		"txt":"[{\"funcName\":\"设备接入\",\"funcContent\":[{\"funcTitle\":\"本地设备接入\",\"funcP\":\"提供设备接入支持服务，允许用户针对不同设备开发不同的设备服务。\"}]},{\"funcName\":\"边缘计算\",\"funcContent\":[{\"funcTitle\":\"图像检测模块\",\"funcP\":\"本地图片检测计算模块，caffe框架，支持多种AI模型，支持USB Camera。识别结果支持本地存储及OSS存储。\"}]}]",
+		"id":1111
+	},
+	{
+		"txt":"[{\"name\":\"设备上云\",\"instruction\":\"通过物联网智能边缘计算（IoT Edge），您可以将各类传感器，无互联网连接能力的设备连接至边缘节点后，直接接入物联网中心服务进行管理。同时，可以将设备数据直接存储在边缘节点和京东云对象存储中。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"物联网中心\",\"url\":\"//www.jdcloud.com/products/iot-hub\"},{\"name\":\"对象存储\",\"url\":\"//www.jdcloud.com/products/object-storage-service\"},{\"name\":\"容器镜像仓库\",\"url\":\"//www.jdcloud.com/products/container-registry\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/330f10f1-8540-4488-a727-af7555dfb12020190409190835.png\",\"showShade\":false},{\"name\":\"图像检测\",\"instruction\":\"通过将图像检测模块部署到边缘节点，您可以使用您本地的摄像头设备进行图像采集，并通过不同的AI训练集对图像进行检测识别。检测结果和检测图片会自动保存至您自己的OSS中并且可再次用于打标和AI训练，以满足您不断发展的业务需求。\",\"recommend\":\"\",\"selectedProduct\":[{\"name\":\"物联网中心\",\"url\":\"//www.jdcloud.com/products/iot-hub\"},{\"name\":\"容器镜像仓库\",\"url\":\"//www.jdcloud.com/products/container-registry\"},{\"name\":\"对象存储\",\"url\":\"//www.jdcloud.com/products/object-storage-service\"}],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/f8023cac-cee1-4c68-bc18-f08af9eb1e4f20190409190934.png\",\"showShade\":false}]",
+		"id":1112
+	}
+]
