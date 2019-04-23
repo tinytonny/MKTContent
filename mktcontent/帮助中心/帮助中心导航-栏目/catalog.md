@@ -934,11 +934,6 @@
 	},
 	{
 		"summary":"",
-		"name":"Block Chain BaaS Platform",
-		"id":427
-	},
-	{
-		"summary":"",
 		"name":"JCS for MariaDB",
 		"id":428
 	},
