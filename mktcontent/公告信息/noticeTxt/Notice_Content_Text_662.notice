@@ -1,0 +1,27 @@
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">To provide better products and service about Cloud Disk Service, JD Cloud will launch three new types of Cloud Disk Service in North China on April 28, 2019, including “General Type SSD Cloud Disk”, “Performance Type SSD Cloud Disk” and “Capacity type HDD Cloud Disk”. Meanwhile, the “SSD Cloud Disk” and the “Premium HDD Cloud Disk” will not be available for selling.</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">When the new cloud disk types are launched, the frontend will not support creation of two former cloud disk types, i.e. “SSD Cloud Disk” and “Premium HDD Cloud Disk”, and can create three new cloud disk types only. The user’s existing disk will not be affected and can be normally used and renewed, until the user deletes such disk by itself.</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">Special Notification:</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">1.</span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">OpenAPI will continue to support creation of former cloud disks in North China until May 31. Please be sure to adjust and switch calling parameters of OpenAPI in time, to avoid inconvenience and influence to your business.</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">2.</span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">It is suggested the former cloud disk user make transition as soon as possible to create new cloud disk types with OpenAPI. The new cloud disk types can provide better support to the user’s applications, with benefits as follows:</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">&nbsp;&nbsp; </span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">(1) Capacity of a single disk is improved to 4,000GiB</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">&nbsp;&nbsp; </span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">(2) Diversified cloud disk types can meet demands of real application scenarios of different customers</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">&nbsp;&nbsp; </span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">(3) Cost performance is high</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">&nbsp;&nbsp; </span>
+<span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">(4) A single Performance Type SSD Cloud Disk has the maximum IOPS up to 32,000.</span>
+</p>
+<p><span style="font-family:&#39;微软雅黑&#39;,sans-serif;color:black">If you have relevant questions when the new cloud disks are launched in North China, please contact us via tickets and phone number (400-615-1212). Thank you for your support to JD Cloud.</span>
+</p>
+<p><br/></p>

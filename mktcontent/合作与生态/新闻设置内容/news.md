@@ -750,5 +750,21 @@
 		"jss_key":"News_Content_490",
 		"id":490,
 		"news_title":"Proprietary Cloud has become the \"new favorite\" of governments and enterprises' digital transformation. JD Cloud is developing Proprietary Cloud platform of next generation - JDStack"
+	},
+	{
+		"summary":"As one of the computing platform virtualization technologies, the container technology now changes the IT service delivery mode and the future of cloud computing. Thanks to development of past few years, the container technology has gradually become the technology for practical application of most enterprises from a new idea.",
+		"image_url":"//img1.jcloudcs.com/cms/f6ac77d6-619e-4d9b-b91c-992454e0feac20190419113200.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_498",
+		"jss_key":"News_Content_498",
+		"id":498,
+		"news_title":"Three “Major Features” of JD Cloud Container will assist enterprises to create higher commercial value"
+	},
+	{
+		"summary":"With continuous development of cloud computing technology, the user’s Cloud Security business receives more and more attention. The enterprise cloud users urgently expect that their own cloud business and data can enjoy the security protection which is equivalent to or even more comprehensive than the traditional physical network environment.",
+		"image_url":"//img1.jcloudcs.com/cms/af7c94a8-d9c4-47e9-ba4e-374693ef457120190419114125.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_499",
+		"jss_key":"News_Content_499",
+		"id":499,
+		"news_title":"Coded Cloud Security Service of JD Cloud  Overall Protection to Enterprise-level Cloud Security User"
 	}
 ]
