@@ -14,5 +14,9 @@
 	{
 		"txt":"[{\"instruction\":\"网站被攻击或者是黑客敲诈勒索，发起大量的恶意请求，长时间占用消耗服务器的核心资源，造成服务器故障，如CPU、内存、带宽，导致网站业务响应缓慢或是无法正常提供服务。\",\"name\":\"网站服务\",\"picUrl\":\"//img1.jcloudcs.com/cms/be986138-d420-4138-9693-9d5fb942009a20180621170535.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false}]",
 		"id":234
+	},
+	{
+		"txt":"[{\"name\":\"什么是Web应用防火墙？\",\"link\":\"https://docs.jdcloud.com/web-application-firewall/what-is-webapplication-firewall\",\"classTag\":\"\"},{\"name\":\"Web应用防火墙套餐如何计费？\",\"link\":\"https://docs.jdcloud.com/web-application-firewall/price-overview\",\"classTag\":\"\"},{\"name\":\"Web应用防火墙接入之前需要做哪些准备？\",\"link\":\"https://docs.jdcloud.com/web-application-firewall/prepare\",\"classTag\":\"\"},{\"name\":\"如何进行Web应用防火墙接入本地验证？\",\"link\":\"https://docs.jdcloud.com/web-application-firewall/step-3\",\"classTag\":\"\"},{\"name\":\"如何设置HTTPs强制跳转？\",\"link\":\"https://docs.jdcloud.com/web-application-firewall/https-advantage\",\"classTag\":\"\"}]",
+		"id":1165
 	}
 ]
