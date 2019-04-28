@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"富媒体短信\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://rms-console.jdcloud.com/overview\",\"classTag\":\"\"}],\"desc\":\"富媒体短信(Rich Media SMS)是基于普通短信通道下发，用户手机收件箱中能够接收和阅读文本、静态图片、动态图片、音频、视频等富媒体信息短信.\"}",
+		"id":1159
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"不需要安装APP客户端\",\"proName\":\"终端用户手机端无需安装任何APP客户端软件, 终端用户通过短信收件箱即可接收和阅读富媒体信息短信。\"},{\"showShade\":false,\"proGood\":\"展现内容更加丰富\",\"proName\":\"可以把文本, 静态图片, 动态图片, 音频, 视频等富媒体信息,已短信的形式发送到用户手机短信收件箱\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"适用于几乎所有会员服务及推广场景\",\"proName\":\"富媒体短信服务，解决企业高频业务核心问题：信息容量大、展现形式丰富、用户接受度高,为行业用户打造全新互动服务平台，提供智能化处理，实现消息互动。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"传播能力更强\",\"proName\":\"区别于枯燥的文字类短信, 富媒体短信更加具有吸引力,通过丰富的富媒体内容, 大幅度提高用户点击率以及转化率\"}]",
+		"id":1160
+	},
+	{
+		"txt":"[{\"funcName\":\"富媒体短信\",\"funcContent\":[{\"funcTitle\":\"丰富的富媒体内容\",\"funcP\":\"基于普通短信通道下发，用户手机收件箱中能够接收和阅读文本、静态图片、动态图片、音频、视频等富媒体信息\"}]},{\"funcName\":\"内容排版\",\"funcContent\":[{\"funcTitle\":\"灵活排版能力\",\"funcP\":\"企业可以自己对富媒体短信内容进行排版, 文字, 图片, 视频, 音频自由组合, 通过预览功能实时掌握最终效果\"}]},{\"funcName\":\"全面监控，多维统计\",\"funcContent\":[{\"funcTitle\":\"实时数据统计\",\"funcP\":\"短信云后台采用用户创建应用的方式创建多任务，可查看应用下短信的请求量，发送量, 剩余量，成功、失败量以及其他统计数据, 让客户实时掌握短信发送情况\"}]}]",
+		"id":1161
+	},
+	{
+		"txt":"[{\"name\":\"电商用户推广\",\"instruction\":\"为电商用户提供富媒体服务，大型购物活动如618, 双十一等活动时，可将活动宣传片或热门优惠发送给会员。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/23d00039-16ab-406a-8bb7-eadf0934f2de20190415205622.png\",\"showShade\":false},{\"name\":\"影视用户提供富媒体服务\",\"instruction\":\"为影视用户提供富媒体服务，视频网站或影院新上线热门的电视剧、电影，可将影视宣传片发送给会员。\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/b387f6a4-b146-451a-8b78-ccfd883e190e20190415205638.png\",\"showShade\":false}]",
+		"id":1162
+	}
+]
