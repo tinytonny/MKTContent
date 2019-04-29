@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"IDC On-site Technical Support\",\"label\":[],\"desc\":\"The operation and maintenance team of JD Cloud provides value-added services for customer devices, systems and applications. For customers with operation and maintenance demands, JD Cloud can maintain the device and deal with relevant problems on behalf of them, without setting up their own operation and maintenance team to deal with daily operation and maintenance issues.\"}",
+		"id":904
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Operation and Maintenance Expert\",\"proName\":\"The operation and maintenance experts of JD Cloud are composed of senior server engineers, senior network engineers, SRE, architects, more than 200 persons in total.\"},{\"showShade\":false,\"proGood\":\"Scheme Consulting\",\"proName\":\"The senior architect team of JD Cloud provides system application architecture consulting, deployment scheme, installation configuration, operation and maintenance tuning and other services to help users quickly build production applications.\"}]",
+		"id":905
+	},
+	{
+		"txt":"[{\"funcName\":\"Hardware Operation and Maintenance\",\"funcContent\":[{\"funcTitle\":\"Problem Diagnosis\",\"funcP\":\"Connect the out-of-band management interface of the device, analyze the log of failure hardware log and locate the cause of failure.\"},{\"funcTitle\":\"Hardware Repair\",\"funcP\":\"Depending on conditions of the hardware failure, the device is subject to BIOS configuration, firmware upgrade, spare part replacement and other operations.\"}]},{\"funcName\":\"System Operation and Maintenance\",\"funcContent\":[{\"funcTitle\":\"System Deployment\",\"funcP\":\"Install the operating system for the device according to the system version and license provided by the customer, and perform basic system configuration and network configuration to ensure the normal login of customers.\"},{\"funcTitle\":\"System Repair\",\"funcP\":\"According to customer’s demands, the Linux operation system of each version of the server is subject to driver upgrade, patch installation, kernel upgrade, password cracking, etc.\"}]},{\"funcName\":\"Application Operation and Maintenance\",\"funcContent\":[{\"funcTitle\":\"Software Deployment\",\"funcP\":\"According to customer’s demands, install the specified software in the system and initiate the configuration to ensure the normal operation of the software service.\"}]}]",
+		"id":906
+	},
+	{
+		"txt":"[{\"name\":\"Worry-free Commission Maintenance\",\"instruction\":\"Customers do not need to arrange the on-site operation and maintenance team by themselves in JD Cloud Data Center. Upon failure of the customer device, network, system, application, the ticket can be opened on-line, the professional operation and maintenance team of JD Cloud is responsible for identifying problems, solving failures and issuing reports.\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/7870bc6c-5fdc-446e-b494-31d21a04106f20190404165357.png\",\"showShade\":false}]",
+		"id":907
+	}
+]

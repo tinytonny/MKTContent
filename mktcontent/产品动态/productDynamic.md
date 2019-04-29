@@ -1546,5 +1546,59 @@
 		"name":"Add Creating a policy by tag",
 		"description":"A feature of visually creating policies provided by federated tag management, users can automatically associate resources by specifying tags, simplifying the process of policy creation by specifying a set of permissions for a product without having to specify operations and resources one by one.",
 		"id":2231
+	},
+	{
+		"introduce":"JCS for PostgreSQL Beta Online",
+		"name":"JCS for PostgreSQL",
+		"description":"JCS for PostgreSQL is a stable and reliable database service built by JD Cloud based on the open source PostgreSQL 10.6 version. PostgreSQL is a relational database with powerful functions. It has built-in support for rich data types (JSON, XML, text, etc.), and its excellent programmability facilitates development and use to be simpler.",
+		"id":2249
+	},
+	{
+		"introduce":"Users can make free test in Public Network (North China) Region without charge.",
+		"name":"Free in Public Network (North China) Region",
+		"description":"Users can establish 5 topics with tps of 1,000 in Public Network (North China) Region to test services and debug applications.",
+		"id":2250
+	},
+	{
+		"introduce":"Restrict resources access permissions according to configuration rules",
+		"name":"Referer Anti-Leech",
+		"description":"Conduct visitor identification and filter by configuring Referer access blacklist and White List and tracing Referer sources, so as to restrict access of resources and guarantee content security.",
+		"id":2251
+	},
+	{
+		"introduce":"Encrypt URL to guarantee resource access security.",
+		"name":"URL Authentication",
+		"description":"In that Referer Anti-Leech can only solve part of the site resources theft problems, using encryption algorithms to encrypt URL through setting URL authentication KEY can protect site resources of users better.",
+		"id":2252
+	},
+	{
+		"introduce":"Restrict Resources Access",
+		"name":"IP Blacklist",
+		"description":"IP addresses added to blacklist cannot access current accelerated domain, so it can achieve the effect of restricting domain access through adding IP addresses to blacklist.",
+		"id":2253
+	},
+	{
+		"introduce":"Image styles support customized delimiter method access",
+		"name":"Customized Delimiter",
+		"description":"1. After users set the customized delimiters, they can use the image style through the customized delimiters. \n 2. Support -, _, / and ! As style delimiter, one or more delimiters can be set.",
+		"id":2254
+	},
+	{
+		"introduce":"IoT Hub and Beta Opening",
+		"name":"IoT Hub and Beta Opening",
+		"description":"The IoT Hub provides the device connection communication function to help users with collection and JD Cloud onboarding of device data; the platform provides the device management function to help users with remote management and controlling devices; the platform offers interfaces to forward and store the device data to other JD Cloud services through the rule engine so as to help users with the integration of applications.",
+		"id":2255
+	},
+	{
+		"introduce":"IoT Protocol Adaptor and Beta Opening",
+		"name":"IoT Protocol Adaptor and Beta Opening",
+		"description":"Internet of Things Protocol Adaptation Service  It switches adaptation modules through the built-in non-standard device data encapsulation protocol or communication protocol to help users with JD Cloud Onboarding of the existing devices in a quick and low-cost way. The service has built in JT/T-808 (GNSS system for operational vehicles — General specifications for vehicle terminal communication protocol and data format) protocol supports.",
+		"id":2256
+	},
+	{
+		"introduce":"Add subscription of GeoTrust brand certificate",
+		"name":"SSL Certificate",
+		"description":"Add subscription of GeoTrust brand certificate, including certificates of enterprise type (OV) and enhanced type (EV), supporting multiple formats of single domain, multiple domains and extensive domain.",
+		"id":2257
 	}
 ]

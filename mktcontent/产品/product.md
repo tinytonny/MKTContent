@@ -360,11 +360,59 @@
 		"id":1203
 	},
 	{
+		"name":"Cabinet Lease",
+		"id":1204
+	},
+	{
+		"name":"Bandwidth Product",
+		"id":1205
+	},
+	{
+		"name":"IT Device Installation",
+		"id":1206
+	},
+	{
+		"name":"Customized Routing Inspection",
+		"id":1207
+	},
+	{
+		"name":"IDC On-site Technical Support",
+		"id":1208
+	},
+	{
+		"name":"IDC Asset Management Service",
+		"id":1209
+	},
+	{
+		"name":"Network Architecture Planning Service",
+		"id":1215
+	},
+	{
+		"name":"One-stop Hardware Solution Service",
+		"id":1216
+	},
+	{
+		"name":"Server and Network Monitoring Service",
+		"id":1217
+	},
+	{
+		"name":"Distributed Access Service",
+		"id":1218
+	},
+	{
+		"name":"Network Hosted DevOps Service",
+		"id":1220
+	},
+	{
 		"name":"JCS for Percona",
 		"id":1227
 	},
 	{
 		"name":"IoT Hub Protocol Adaptor",
 		"id":1228
+	},
+	{
+		"name":"IoT Edge Computing",
+		"id":1256
 	}
 ]

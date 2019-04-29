@@ -766,5 +766,21 @@
 		"jss_key":"News_Content_499",
 		"id":499,
 		"news_title":"Coded Cloud Security Service of JD Cloud  Overall Protection to Enterprise-level Cloud Security User"
+	},
+	{
+		"summary":"In recent days, JD Cloud announced its cooperation with HashiCorp that is the leader of automated software of cloud infrastructure by launching Terraform Provider for JD Cloud, which indicates that users can easily use simple template language to define, preview and deploy cloud basic architecture, rapidly deploy the environment to JD Cloud or local data centers, so as to implement multiple-cloud management and cross-cloud migration.",
+		"image_url":"//img1.jcloudcs.com/cms/02ea6d94-c41a-4999-9b92-3de268bdd11f20190423142623.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_500",
+		"jss_key":"News_Content_500",
+		"id":500,
+		"news_title":"JD Cloud announced its cooperation with HashiCorp by launching Terraform Provider"
+	},
+	{
+		"summary":"After 40 years of reform and opening up, we are keenly aware of the rapid development in China. From business to society, China is undergoing a comprehensive digital transformation. The digital transformation of each enterprise is an irreversible trend. I am very excited that I have transformed from IT industry to Internet, which provides me a feel of being present in person on the grand occasion. —Shen Yuanqing, President of JD Cloud, Accepted an Online Interview of ZOL",
+		"image_url":"//img1.jcloudcs.com/cms/aba8c3ca-cbdb-419c-a9f4-95d0a2b9ae0f20190424182654.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_501",
+		"jss_key":"News_Content_501",
+		"id":501,
+		"news_title":"Be Present in Person on the Grand Occasion | 40 Years of Reform and Opening up, Shen Yuanqing Talked about IT Development"
 	}
 ]
