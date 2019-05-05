@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"分布式关系型数据库 DRDS\",\"label\":[{\"TitleName\":\"查看详情\",\"TitleUrl\":\"https://docs.jdcloud.com/cn/drds/product-overview\"}],\"desc\":\"DRDS是京东云精心自研的数据库中间件产品，可实现海量数据下的自动分库分表，具有高性能，分布式，弹性升级，兼容MySQL等优点，适用于高并发、大规模数据的在线交易，历史数据查询，自动数据分片等业务场景，历经多次618，双十一的考验，已经在京东集团内大规模使用。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/0a73ea02-7817-44f1-930a-b49ca2dab0a920181115165844.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|82\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|82\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"分布式关系型数据库 DRDS\",\"label\":[{\"TitleName\":\"申请免费公测\",\"TitleUrl\":\"https://docs.jdcloud.com/cn/drds/public-beta-introduction\"}],\"desc\":\"DRDS是京东云精心自研的数据库中间件产品，可实现海量数据下的自动分库分表，具有高性能，分布式，弹性升级，兼容MySQL等优点，适用于高并发、大规模数据的在线交易，历史数据查询，自动数据分片等业务场景，历经多次618，双十一的考验，已经在京东集团内大规模使用。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/0a73ea02-7817-44f1-930a-b49ca2dab0a920181115165844.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|82\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|82\"}",
 		"id":227
 	},
 	{
@@ -12,7 +12,7 @@
 		"id":229
 	},
 	{
-		"txt":"[{\"instruction\":\"适合电商、O2O的大规模在线交易场景，可以将用户、订单，商品、物流等数据进行分库分表，支持高并发，海量的交易，并能够容易的进行数据库的水平扩展，提高整个系统的并发能力、处理能力和存储能力。\",\"name\":\"电商、O2O在线交易\",\"picUrl\":\"//img1.jcloudcs.com/cms/0824e0f3-64ef-44a5-b4dd-0c1823a0858020180706175309.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"强大的分库分表能力天然支持数据的自动分片，可将数据按既定的分片策略存储到后端的MySQL节点，并可随时按需进行扩展，适合海量数据的分片查询，分析，例如按时间查询历史信息，按照地区汇总各种数据等。\",\"name\":\"海量数据的分片查询、分析\",\"picUrl\":\"//img1.jcloudcs.com/cms/6c76af8f-f14c-47f3-8f90-6a280d14238620180706175349.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false}]",
+		"txt":"[{\"instruction\":\"适合电商、O2O的大规模在线交易场景，可以将用户、订单，商品、物流等数据进行分库分表，支持高并发，海量的交易，并能够容易的进行数据库的水平扩展，提高整个系统的并发能力、处理能力和存储能力。\",\"name\":\"电商、O2O在线交易\",\"picUrl\":\"//img1.jcloudcs.com/cms/0824e0f3-64ef-44a5-b4dd-0c1823a0858020180706175309.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}},{\"instruction\":\"强大的分库分表能力天然支持数据的自动分片，可将数据按既定的分片策略存储到后端的MySQL节点，并可随时按需进行扩展，适合海量数据的分片查询，分析，例如按时间查询历史信息，按照地区汇总各种数据等。\",\"name\":\"海量数据的分片查询、分析\",\"picUrl\":\"//img1.jcloudcs.com/cms/6c76af8f-f14c-47f3-8f90-6a280d14238620180706175349.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]",
 		"id":230
 	}
 ]
