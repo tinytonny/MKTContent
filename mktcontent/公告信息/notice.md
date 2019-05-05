@@ -360,10 +360,6 @@
 		"title":"Service Suspension Notice on RDS Console and Open API"
 	},
 	{
-		"id":643,
-		"title":"Service Suspension Notice on RDS Console and Open API"
-	},
-	{
 		"id":644,
 		"title":"CDN Console menu location change"
 	},
@@ -392,15 +388,27 @@
 		"title":"Announcement on Free Test Region Public Network (North China) of Message Queue JCQ"
 	},
 	{
-		"id":660,
-		"title":"Service Suspension Notice on RDS Console and Open API"
-	},
-	{
 		"id":662,
 		"title":"Notice of Launching Cloud Disk Service of New Specification in North China"
 	},
 	{
 		"id":663,
 		"title":"Service Suspension Notice on RDS Console and Open API"
+	},
+	{
+		"id":667,
+		"title":"Notice of Launching Cloud Disk Service of New Specification in North China"
+	},
+	{
+		"id":668,
+		"title":"Live Video Product Underlayer Service Upgrade Announcement"
+	},
+	{
+		"id":670,
+		"title":"Labor Day Holiday Service Announcement for May 1, 2019"
+	},
+	{
+		"id":671,
+		"title":"Function service launched with Python 2.7 and Python 3.7 runtime"
 	}
 ]

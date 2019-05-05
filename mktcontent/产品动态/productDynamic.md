@@ -1548,8 +1548,8 @@
 		"id":2231
 	},
 	{
-		"introduce":"JCS for PostgreSQL Beta Online",
-		"name":"JCS for PostgreSQL",
+		"introduce":"JCS for PostgreSQL Open Beta",
+		"name":"JCS for PostgreSQL Open Beta",
 		"description":"JCS for PostgreSQL is a stable and reliable database service built by JD Cloud based on the open source PostgreSQL 10.6 version. PostgreSQL is a relational database with powerful functions. It has built-in support for rich data types (JSON, XML, text, etc.), and its excellent programmability facilitates development and use to be simpler.",
 		"id":2249
 	},
@@ -1600,5 +1600,41 @@
 		"name":"SSL Certificate",
 		"description":"Add subscription of GeoTrust brand certificate, including certificates of enterprise type (OV) and enhanced type (EV), supporting multiple formats of single domain, multiple domains and extensive domain.",
 		"id":2257
+	},
+	{
+		"introduce":"IoT Edge Computing  Open Beta",
+		"name":"IoT Edge Computing  Open Beta",
+		"description":"Intelligent system deployed and running on edge node devices extends cloud computing power to local edge nodes for executing intelligent computing on site. Users can obtain capabilities such as device access management, data nearby processing, AI deduction, etc. through edge computing nodes on device deployment site.",
+		"id":2258
+	},
+	{
+		"introduce":"North China Region supports all functions of Cloud File Service",
+		"name":"Newly Added [cn-north-1] Beta Region",
+		"description":"JD Cloud File Service is a fully-hosted distributed file system with high reliability, expandability and sharable access. It can be expanded or reduced as needed based on the use of the file system without interrupting the application service, and billed according to actual usage. The NFS protocol is adopted, which supports POSIX file interface and provides shared access services for Virtual Machines under Linux.",
+		"id":2259
+	},
+	{
+		"introduce":"Support Python2.7, Python3.7 to write function code",
+		"name":"Support Python 2.7, Python 3.7 runtime",
+		"description":"1. Support Python2.7, Python3.7 to write function code\n2. Provide Python2.7 template to create function",
+		"id":2260
+	},
+	{
+		"introduce":"Console - Shard Management Function",
+		"name":"Object Storage Service Console - Shard Management Function",
+		"description":"1. You can query the shards in a bucket and support the search for shard upload tasks by file name prefix. \n2. View the details of the shard in the upload task, including the number of shards and the total size and storage type of the shard. \n3. Supports single delete and batch delete shards.",
+		"id":2261
+	},
+	{
+		"introduce":"New Price List Launched",
+		"name":"Anti-DDoS Pro Launches New Price List",
+		"description":"1. Support a maximum protection capability of 1.5T; the Basic protection is upgraded from 100G to 600G; the flexible protection is priced to 1,200G. \n2. The overall price of the Basic protection is lowered; the RMB 500 basic is added, the flexibility is up to 90G, and the Yearly Package over 100G is promoted. \n3. Remove the original double-line (Telecom + Unicom) package; for the package below 100G, only 5G, 20G, 40G, 60G packages are kept.",
+		"id":2262
+	},
+	{
+		"introduce":"Official Release of CodeDeploy",
+		"name":"Official Release of CodeDeploy",
+		"description":"CodeDeploy is a strong tool with various types and modes of deployment. Using CodeDeploy makes you easily deploy the program package to JD Cloud Virtual Machines. Moreover, CodeDeploy can support multiple deployment policies and configurations in a flexible way. It can link with products such as Load Balancer and Availability Group to implement the cloud deployment. Used in conjunction with developer tools such as CodeCommit and CodeBuild to form an integrated, continuous delivery.",
+		"id":2263
 	}
 ]

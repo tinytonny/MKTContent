@@ -1,0 +1,44 @@
+<p style="margin: 5px 0"><span style="font-size: 16px;font-family: 微软雅黑, sans-serif">The Cloud will be available on April 28, 2019 from 22:00:00 to 23:00:00 in the North China Region for new specification cloud disk and cloud disk encryption function.</span>
+</p>
+<p style="margin: 5px 0"><span style="font-size: 16px;font-family: 微软雅黑, sans-serif">At the scheduled time:</span>
+</p>
+<p style="margin: 5px 0 5px 28px"><span style="font-size: 16px;font-family: 微软雅黑, sans-serif">l&nbsp;&nbsp;</span>
+<span style="font-size: 16px;font-family: 微软雅黑, sans-serif">Access to the Virtual Machines Console and the OpenAPI service in [cn-north-1] will be paused, while such services in other regions will not be affected;</span>
+</p>
+<p style="margin: 5px 0 5px 28px"><span style="font-size: 16px;font-family: 微软雅黑, sans-serif">l&nbsp;&nbsp;</span>
+<span style="font-size: 16px;font-family: 微软雅黑, sans-serif">The Cloud Disk Service Console and OpenAPI service in [cn-north-1] region will be paused, while such services in other regions will not be affected;</span>
+</p>
+<p style="margin: 5px 0 5px 28px"><span style="font-size: 16px;font-family: 微软雅黑, sans-serif">l&nbsp;&nbsp;</span>
+<span style="font-size: 16px;font-family: 微软雅黑, sans-serif">The Native Container Instance, the Pod Console and OpenAPI service [cn-north-1] will be paused, while such services in other regions will not be affected;</span>
+</p>
+<p style="margin: 5px 0"><span style="font-size: 16px;font-family: 微软雅黑, sans-serif">Inherent business running in your regions will not be affected by the launch. The Console will be resumed for normal use upon completion of launching.</span>
+</p>
+<p style="margin: 5px 0"><span style="font-size: 16px;font-family: 微软雅黑, sans-serif">New Specification Cloud Disks include "General Type SSD Cloud Disk", "Performance Type SSD Cloud Disk" and "Capacity-oriented HDD Cloud Disk". Meanwhile, the "SSD Cloud Disk" and the "Premium HDD Cloud Disk" will not be available for selling.</span>
+</p>
+<p style="margin: 5px 0"><span style="font-size: 16px;font-family: 微软雅黑, sans-serif">When the new cloud disk types are launched, the frontend will not support creation of two former cloud disk types, i.e. "SSD Cloud Disk" and "Premium HDD Cloud Disk", and can create three new cloud disk types only. The user’s existing disk will not be affected and can be normally used and renewed, until the user deletes such disk by itself.</span>
+</p>
+<p style="margin: 5px 0"><span style="font-size: 16px;font-family: 微软雅黑, sans-serif">Special Notification:</span>
+</p>
+<p style="margin: 5px 0"><span style="font-size: 16px;font-family: 微软雅黑, sans-serif">1.</span>
+<span style="font-size: 16px;font-family: 微软雅黑, sans-serif">OpenAPI will continue to support creation of former cloud disks in North China until May 31. Please be sure to adjust and switch calling parameters of OpenAPI in time, to avoid inconvenience and influence to your business.</span>
+</p>
+<p style="margin: 5px 0"><span style="font-size: 16px;font-family: 微软雅黑, sans-serif">2.</span>
+<span style="font-size: 16px;font-family: 微软雅黑, sans-serif">It is suggested that the former cloud disk user make transition as soon as possible to create new cloud disk types with OpenAPI. The new cloud disk types can provide better support to the user’s applications, with benefits as follows:</span>
+</p>
+<p style="margin: 5px 0"><span style="font-size: 16px;font-family: 微软雅黑, sans-serif">&nbsp;&nbsp;&nbsp;</span>
+<span style="font-size: 16px;font-family: 微软雅黑, sans-serif">(1) Capacity of a single disk is improved to 4,000GiB</span>
+</p>
+<p style="margin: 5px 0"><span style="font-size: 16px;font-family: 微软雅黑, sans-serif">&nbsp;&nbsp;&nbsp;</span>
+<span style="font-size: 16px;font-family: 微软雅黑, sans-serif">(2) Diversified cloud disk types can meet demands of real application scenarios of different customers</span>
+</p>
+<p style="margin: 5px 0"><span style="font-size: 16px;font-family: 微软雅黑, sans-serif">&nbsp;&nbsp;&nbsp;</span>
+<span style="font-size: 16px;font-family: 微软雅黑, sans-serif">(3) Cost performance is high</span>
+</p>
+<p style="margin: 5px 0"><span style="font-size: 16px;font-family: 微软雅黑, sans-serif">&nbsp;&nbsp;&nbsp;</span>
+<span style="font-size: 16px;font-family: 微软雅黑, sans-serif">(4) A single Performance Type SSD Cloud Disk has the maximum IOPS up to 32,000.</span>
+</p>
+<p style="margin: 5px 0"><span style="font-size: 16px;font-family: 微软雅黑, sans-serif">If you have relevant questions with the new cloud disks in North China Region, please contact us via tickets and phone number (400-615-1212). Thank you for your support to JD Cloud.</span>
+</p>
+<p style="text-align:center;background:white"><span style="font-size: 16px;font-family: 微软雅黑, sans-serif">&nbsp;</span>
+</p>
+<p><br/></p>

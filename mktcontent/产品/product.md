@@ -414,5 +414,9 @@
 	{
 		"name":"IoT Edge Computing",
 		"id":1256
+	},
+	{
+		"name":"Rich Media SMS",
+		"id":1267
 	}
 ]

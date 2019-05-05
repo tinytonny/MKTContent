@@ -14,5 +14,9 @@
 	{
 		"txt":"[{\"instruction\":\"Launch a lot of vicious requests during website attack or cracker racketeering, occupy and consume core resources of the server for a long time, cause server failure (such as CPU, memory and bandwidth), and lead to slow response of website business or a failure to provide normal services.\",\"name\":\"Website Service\",\"picUrl\":\"//img1.jcloudcs.com/cms/be986138-d420-4138-9693-9d5fb942009a20180621170535.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false}]",
 		"id":234
+	},
+	{
+		"txt":"[{\"name\":\"What is Web Application Firewall?\",\"link\":\"https://docs.jdcloud.com/web-application-firewall/what-is-webapplication-firewall\",\"classTag\":\"\"},{\"name\":\"How does the Web Application Firewall package bill?\",\"link\":\"https://docs.jdcloud.com/web-application-firewall/price-overview\",\"classTag\":\"\"},{\"name\":\"What are the preparations needed to make before accessing the Web Application Firewall?\",\"link\":\"https://docs.jdcloud.com/web-application-firewall/prepare\",\"classTag\":\"\"},{\"name\":\"How to access Web Application Firewall to the local verification?\",\"link\":\"https://docs.jdcloud.com/web-application-firewall/step-3\",\"classTag\":\"\"},{\"name\":\"How to set HTTPs forced redirection?\",\"link\":\"https://docs.jdcloud.com/web-application-firewall/https-advantage\",\"classTag\":\"\"}]",
+		"id":1165
 	}
 ]

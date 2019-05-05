@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Rich Media SMS\",\"label\":[{\"TitleName\":\"Use Now\",\"TitleUrl\":\"https://rms-console.jdcloud.com/overview\",\"classTag\":\"\"}],\"desc\":\"Rich Media SMS is based on the normal SMS channel. The user's mobile phone inbox can receive and read text, static images, dynamic images, audio, video and other rich media information SMS.\"}",
+		"id":1159
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"No need to install APP client\",\"proName\":\"The end user mobile phone does not need to install any APP client software, and the end user can receive and read rich media information short messages through the SMS inbox.\"},{\"showShade\":false,\"proGood\":\"Show more contents\",\"proName\":\"Can send text, static pictures, dynamic images, audio, video and other rich media information to the user's mobile phone SMS inbox\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Suitable for almost all member services and promotion scenarios\",\"proName\":\"Rich media SMS service solves the core problem of enterprise high-frequency business: large information capacity, rich display form, high user acceptance, creating a new interactive service platform for industry users, providing intelligent processing and realizing message interaction.\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Stronger Communication Ability\",\"proName\":\"Different from boring text-based SMS, rich media text messages are more attractive, and greatly increase user click-through rate and conversion rate through abundant rich media content\"}]",
+		"id":1160
+	},
+	{
+		"txt":"[{\"funcName\":\"Rich Media SMS\",\"funcContent\":[{\"funcTitle\":\"Abundant Rich Media Content\",\"funcP\":\"Based on the normal SMS channel. The user's mobile phone inbox can receive and read text, static images, dynamic images, audio, video and other rich media information\"}]},{\"funcName\":\"Content Layout\",\"funcContent\":[{\"funcTitle\":\"Flexible Layout Ability\",\"funcP\":\"Enterprises can make their own layout of rich media SMS content, text, image, video, audio free combination, and grasp the final effect in real time through the preview function\"}]},{\"funcName\":\"Comprehensive Monitoring, Multidimensional Statistics\",\"funcContent\":[{\"funcTitle\":\"Real-time Data Statistics\",\"funcP\":\"The SMS cloud background creates multi-tasks by means of user creating applications. You can view the number of requests, the amount of transmission, the remaining amount, the success and failure amount and other statistics data of SMS under the application, so that the customers can grasp the SMS transmission status in real time\"}]}]",
+		"id":1161
+	},
+	{
+		"txt":"[{\"name\":\"E-commerce User Promotion\",\"instruction\":\"Provide rich media services for e-commerce users. For large-scale shopping activities such as 618, Double Eleven, etc., you can send event videos or hot sales to members.\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/23d00039-16ab-406a-8bb7-eadf0934f2de20190415205622.png\",\"showShade\":false},{\"name\":\"Video Users Provide Rich Media Services\",\"instruction\":\"Provide rich media services for film and television users, video sites or new hot TV shows and movies on the cinema, and send video trailers to members.\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/b387f6a4-b146-451a-8b78-ccfd883e190e20190415205638.png\",\"showShade\":false}]",
+		"id":1162
+	}
+]
