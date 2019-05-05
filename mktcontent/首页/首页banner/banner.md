@@ -591,7 +591,7 @@
 		"sub_title":"致力于海量数据搜索与分析",
 		"name":"云搜索Elasticsearch",
 		"id":1031,
-		"button_title":"免费试用",
+		"button_title":"立即购买",
 		"main_title":"云搜索Elasticsearch"
 	},
 	{
@@ -630,7 +630,7 @@
 		"main_title":"11.11企惠购"
 	},
 	{
-		"sub_title":"企业版500元/月，旗舰版1000元/月",
+		"sub_title":"提供企业版与旗舰版",
 		"name":"金牌服务",
 		"id":1043,
 		"button_title":"查看详情",
@@ -642,5 +642,152 @@
 		"id":1045,
 		"button_title":"查看详情",
 		"main_title":"原生容器Pod开放公测"
+	},
+	{
+		"sub_title":"",
+		"name":"智能城市白皮书",
+		"id":1047,
+		"button_title":"",
+		"main_title":""
+	},
+	{
+		"sub_title":"提供企业版与旗舰版",
+		"name":"新版金牌服务",
+		"id":1048,
+		"button_title":"查看详情",
+		"main_title":"金牌服务企业用户专享"
+	},
+	{
+		"sub_title":"",
+		"name":"新版智能白皮书",
+		"id":1049,
+		"button_title":"",
+		"main_title":""
+	},
+	{
+		"sub_title":"提供随时随地的资源管理及运维服务",
+		"name":"移动APP 上线",
+		"id":1050,
+		"button_title":"立即下载",
+		"main_title":"京东云App（Android版） 正式发布"
+	},
+	{
+		"sub_title":"含注册中心、配置中心、调用链分析等功能的微服务框架",
+		"name":"分布式服务框架 公测",
+		"id":1051,
+		"button_title":"立即申请",
+		"main_title":"分布式服务框架 开放公测"
+	},
+	{
+		"sub_title":"事件驱动的Serverless计算服务",
+		"name":"函数服务 公测",
+		"id":1052,
+		"button_title":"立即申请",
+		"main_title":"函数服务 开放公测"
+	},
+	{
+		"sub_title":"",
+		"name":"拜年",
+		"id":1053,
+		"button_title":"",
+		"main_title":""
+	},
+	{
+		"sub_title":"高速云缓存，4.0版免费试用",
+		"name":"云缓存Redis 4.0",
+		"id":1059,
+		"button_title":"立即申请",
+		"main_title":"云缓存 Redis 4.0版 开放公测"
+	},
+	{
+		"sub_title":"搭载NVIDIA Tesla V100 GPU",
+		"name":"高性能GPU云物理服务器",
+		"id":1060,
+		"button_title":"立即申请",
+		"main_title":"高性能 GPU 云物理服务器 正式发布"
+	},
+	{
+		"sub_title":"让负载均衡不再是网络瓶颈",
+		"name":"分布式网络负载均衡",
+		"id":1061,
+		"button_title":"立即申请",
+		"main_title":"最新发布 分布式网络负载均衡"
+	},
+	{
+		"sub_title":"",
+		"name":"我的世界",
+		"id":1065,
+		"button_title":"",
+		"main_title":""
+	},
+	{
+		"sub_title":"Cloud Native 时代下的应用之路与开源创新",
+		"name":"技术沙龙",
+		"id":1067,
+		"button_title":"立即报名",
+		"main_title":"京东云技术沙龙 · 北京站"
+	},
+	{
+		"sub_title":"开通对象存储的新老用户均可享受标准存储免费额度",
+		"name":"对象存储免费额度",
+		"id":1069,
+		"button_title":"查看详情",
+		"main_title":"对象存储推出免费额度"
+	},
+	{
+		"sub_title":"助力企业打造安全高效桌面环境",
+		"name":"云桌面白皮书",
+		"id":1071,
+		"button_title":"立即下载",
+		"main_title":"京东云云桌面白皮书 正式发布"
+	},
+	{
+		"sub_title":"高性能、四层、会话保持 负载均衡",
+		"name":"网络负载均衡 开放公测",
+		"id":1073,
+		"button_title":"立即申请",
+		"main_title":"最新发布 网络负载均衡"
+	},
+	{
+		"sub_title":"基于serverless架构的全托管的消息队列服务",
+		"name":"队列服务 开放公测",
+		"id":1074,
+		"button_title":"立即申请",
+		"main_title":"队列服务 开放公测"
+	},
+	{
+		"sub_title":"高可靠、可扩展、可共享访问的分布式文件系统",
+		"name":"云文件服务 开放公测",
+		"id":1075,
+		"button_title":"立即申请",
+		"main_title":"云文件服务 开放公测"
+	},
+	{
+		"sub_title":"云主机低至6折  建站仅需98元",
+		"name":"域名促销",
+		"id":1076,
+		"button_title":"查看详情",
+		"main_title":"域名特价 限时抢注！"
+	},
+	{
+		"sub_title":"随时随地触达京东云，7*24小时的全面监控",
+		"name":"APPiOS上架",
+		"id":1084,
+		"button_title":"查看详情",
+		"main_title":"京东云APP"
+	},
+	{
+		"sub_title":"帮助您管理对资源的访问",
+		"name":"目录服务开放公测",
+		"id":1085,
+		"button_title":"立即申请",
+		"main_title":"目录服务 开放公测"
+	},
+	{
+		"sub_title":"《京东云专有云思想领导力白皮书》发布",
+		"name":"JD stack白皮书",
+		"id":1087,
+		"button_title":"查看详情",
+		"main_title":"京东云打造新一代专有云平台JD Stack"
 	}
 ]
