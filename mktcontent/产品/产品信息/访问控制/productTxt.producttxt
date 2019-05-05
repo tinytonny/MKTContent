@@ -1,14 +1,14 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"访问控制\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://iam-console.jdcloud.com/summary\"}],\"desc\":\"访问控制（Identity and Access Management， IAM）是京东云提供的一项用户身份管理与资源访问控制服务，按需为用户分配最小权限，保障企业信息安全。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/a7f1ca9f-483b-4bb4-a204-397c3dddcea720181115172947.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|12\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|12\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"访问控制\",\"label\":[{\"TitleName\":\"服务申请\",\"TitleUrl\":\"https://uc.jdcloud.com/myorder/form?cateId=5&questionId=28\"}],\"desc\":\"访问控制（Identity and Access Management，IAM）是京东云提供的一项用户身份管理与资源访问控制服务。通过 IAM，您可以创建、管理企业成员或合作伙伴的子账号，并为他们分配独立的资源访问权限，从而实现权责一致。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/a7f1ca9f-483b-4bb4-a204-397c3dddcea720181115172947.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|12\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|12\"}",
 		"id":39
 	},
 	{
-		"txt":"[{\"proGood\":\"集中管理IAM子用户及其安全凭证\",\"proName\":\"便捷地创建、管理子用户和群组，控制子用户的控制台登录或者Open API访问权限，进行统一的虚拟MFA认证，操作保护和访问密钥（AK/SK）管理，而无需共享主账号的密码和访问密钥。\"},{\"proGood\":\"对京东云资源进行精细访问控制\",\"proName\":\"为每个用户或用户组绑定一个或多个权限策略，限制用户对特定资源的特定操作权限，您也可以添加特定的生效条件，以控制是否在特定的时间，特定的源IP地址条件下访问才能生效。\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"集中管理用户角色和服务角色\",\"proName\":\"便捷地创建、管理角色，通过授予策略控制扮演该角色的子用户或服务可以执行哪些操作。您可以指定子用户，跨账号的用户，服务来代表您管理和操作京东云资源。\"}]",
+		"txt":"[{\"proGood\":\"账号安全\",\"proName\":\"可以便捷地创建、管理、销毁子账号（组），而无需共享主账号的密码和访问秘钥。\"},{\"proGood\":\"便捷灵活\",\"proName\":\"可视化配置自定义权限策略，支持单个资源的权限分配。\"}]",
 		"id":40
 	},
 	{
-		"txt":"[{\"funcContent\":[{\"funcP\":\"支持子用户创建和管理功能，支持按子用户设置控制台访问还是编程访问权限，支持虚拟MFA验证，密钥管理和操作保护设置等功能。\",\"funcTitle\":\"子用户管理\"},{\"funcP\":\"群组是一组子用户的集合。利用群组，主账号可以便捷地管理多个权限相同的子用户，也可以通过将子用户加入或移出群组，来变更子用户的权限。\",\"funcTitle\":\"群组管理\"}],\"funcName\":\"用户管理\"},{\"funcContent\":[{\"funcP\":\"支持策略创建和管理功能，预置丰富的系统策略方便用户直接使用，也可根据用户的实际需要创建自定义策略。\",\"funcTitle\":\"基本管理\"},{\"funcP\":\"目前支持服务级，操作级和资源级的权限控制。服务级，可控制用户对云服务是否有权限；操作级，可控制用户对云服务的特定接口是否有权限；资源级，可控制用户对云服务的特定资源上特定操作的访问权限。\",\"funcTitle\":\"权限控制粒度\"},{\"funcP\":\"通过可视化策略创建的方式，方便用户通过图形化的界面指定权限，操作，资源来自动生成策略；通过json策略创建的方式，选定相应的策略模板或者遵循policy的基本元素和语法结构生成策略；通过按标签创建策略，通过指定的标签自动关联资源，选择操作集合来自动生成策略。\",\"funcTitle\":\"支持多种策略创建方式\"}],\"funcName\":\"策略管理\"},{\"funcName\":\"设置\",\"funcContent\":[{\"funcTitle\":\"子用户密码策略设置\",\"funcP\":\"支持为不同的企业提供不同安全等级的子用户管理，您可以根据企业的安全需求为所有子用户设置专属的密码策略。\"}]}]",
+		"txt":"[{\"funcContent\":[{\"funcP\":\"子账号支持中文用户名；为子账号设置、重置控制台登录密码\",\"funcTitle\":\"管理子用户\"},{\"funcP\":\"可以将多个子用户加入一个用户组，统一授权；一个子用户可以属于多个用户组，此时子用户权限为各组权限的合集\",\"funcTitle\":\"管理用户组\"}],\"funcName\":\"用户管理\"},{\"funcContent\":[{\"funcP\":\"支持对单个资源的读、改、删权限控制\",\"funcTitle\":\"权限粒度\"},{\"funcP\":\"系统提供各类资源的管理员和只读权限，可以直接进行分配\",\"funcTitle\":\"系统授权策略\"},{\"funcP\":\"便利化策略生成器：无需撰写JSON，通过可视化方式选择要授权的操作和被操作的资源；策略编辑器：基于已有策略模板编辑JSON，也可以直接生成JSON，以实现授权需求\",\"funcTitle\":\"自定义授权策略\"}],\"funcName\":\"授权策略管理\"}]",
 		"id":41
 	}
 ]
