@@ -1,10 +1,10 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"云硬盘\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"//console.jdcloud.com/host/disk/create?dataCenter=bj_02\"}],\"desc\":\"云硬盘是京东云为云主机提供的低时延、持久性、高可用块存储。云硬盘的数据以三副本方式存储，避免因组件故障导致数据不可用，同时提供高可靠数据存储服务。云硬盘容量可弹性扩展，同时支持快照和自定义镜像功能。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/3e2a6313-e9c3-4cbc-b3a1-47d68007388920181115163434.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|5\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|5\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"云硬盘\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"//console.jdcloud.com/host/disk/create?dataCenter=bj_02\"}],\"desc\":\"云硬盘是京东云为云主机提供的低时延、持久性、高可靠的数据块级存储。云硬盘内的数据以多重实时副本的方式存储，避免因组件故障导致数据不可用，同时为您提供高可用数据存储服务。云硬盘容量可弹性扩展，您可以在几分钟内以低廉的价格扩充数据存储空间，并实现数据的持久化存储。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/3e2a6313-e9c3-4cbc-b3a1-47d68007388920181115163434.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|5\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|5\"}",
 		"id":7
 	},
 	{
-		"txt":"[{\"proGood\":\"扩展性\",\"proName\":\"您可以自由配置云硬盘存储容量，单磁盘容量范围为20-4000GB，支持按需扩容。\"},{\"proGood\":\"高性能\",\"proName\":\"单盘最大提供32000随机IOPS，150MB/s吞吐量，助您轻松应对业务侧高吞吐量的数据访问需求。\"},{\"proGood\":\"可靠性\",\"proName\":\"基于数据三重实时副本保证数据可靠性高达99.9999999%，为您提供安全可靠的数据存储服务。支持云硬盘加密，支持快照数据备份。\"},{\"proGood\":\"易用性\",\"proName\":\"通过简单的创建、挂载、卸载、删除等操作即可管理及使用云硬盘，节省人工管理部署成本。\"}]",
+		"txt":"[{\"proGood\":\"扩展性\",\"proName\":\"您可以自由配置云硬盘存储容量，单磁盘容量范围为20-3000GB，支持按需扩容。\"},{\"proGood\":\"高性能\",\"proName\":\"单盘最大提供20000随机IOPS，300MB/s吞吐量，助您轻松应对业务侧高吞吐量的数据访问需求。\"},{\"proGood\":\"可靠性\",\"proName\":\"基于数据多重实时副本保证数据可靠性高达99.9999999%，为您提供安全可靠的数据存储服务。\"},{\"proGood\":\"易用性\",\"proName\":\"通过简单的创建、挂载、卸载、删除等操作即可管理及使用云硬盘，节省人工管理部署成本。\"}]",
 		"id":8
 	},
 	{
@@ -12,7 +12,7 @@
 		"id":9
 	},
 	{
-		"txt":"[{\"instruction\":\"性能型SSD云盘最大可提供32000随机IOPS，适用于MySQL、SQLServer、Oracle等对于对I/O性能及数据可靠性较高的核心业务数据库部署。\\n\\n通用型SSD云盘最大可提供15000随机IOPS，适用于引导卷、小型数据库、大型开发测试、web服务器以及其它需要随机读写的业务场景。\\n\",\"name\":\"高效数据存储\",\"picUrl\":\"//img1.jcloudcs.com/cms/ea99ff40-34a5-4edb-a431-8dff18f5a42620170906142126.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"容量型HDD云盘为web服务提供存储资源，具有安全、可靠的特点，满足数据完整性和数据保护的要求，适用于大容量、读写速率要求不高、事务性处理较少的应用场景。\",\"name\":\"web服务日志存储\",\"picUrl\":\"//img1.jcloudcs.com/cms/e0b0eba4-2bc0-4bdb-97e8-949616fb490920170906142144.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false}]",
+		"txt":"[{\"instruction\":\"SSD云盘最大可提供20000随机IOPS，300MB/s吞吐量，适用于MySQL、SQLServer、Oracle等对于对I/O性能及数据可靠性较高的核心业务数据库部署。\",\"name\":\"高效数据存储\",\"picUrl\":\"//img1.jcloudcs.com/cms/ea99ff40-34a5-4edb-a431-8dff18f5a42620170906142126.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"为web服务提供存储资源，具有安全、可靠的特点，满足数据完整性和数据保护的要求，适用于大容量、读写速率要求不高、事务性处理较少的应用场景。\",\"name\":\"web服务日志存储\",\"picUrl\":\"//img1.jcloudcs.com/cms/e0b0eba4-2bc0-4bdb-97e8-949616fb490920170906142144.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false}]",
 		"id":10
 	},
 	{
