@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[{\"explain\":\"提交工单申请免费试用，点击立即前往\",\"explainLink\":\"https://uc.jdcloud.com/question/submit\"}],\"productName\":\"数据工厂\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"http://xdata.jdcloud.com/scheduler-web/accessUser/wflist\"}],\"desc\":\"数据工厂是一款云上的数据工作流调度服务，它内建数据同步、数据处理分析任务的编排与调度能力，帮助用户以工作流形式快速构建数据处理分析作业并周期性地执行。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/e874b282-1f68-4472-b08a-cef5dce8745820181115174148.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|41\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|41\"}",
+		"txt":"{\"instruction\":[{\"explain\":\"提交工单申请免费试用，点击立即前往\",\"explainLink\":\"https://uc.jdcloud.com/question/submit\"}],\"productName\":\"数据工厂\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://xdata.jdcloud.com/scheduler-web/accessUser/wflist\"}],\"desc\":\"数据工厂是一款云上的数据工作流调度服务，它内建数据同步、数据处理分析任务的编排与调度能力，帮助用户以工作流形式快速构建数据处理分析作业并周期性地执行。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/e874b282-1f68-4472-b08a-cef5dce8745820181115174148.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|41\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|41\"}",
 		"id":97
 	},
 	{
