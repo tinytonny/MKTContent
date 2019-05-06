@@ -5,13 +5,8 @@
 		"id":1
 	},
 	{
-		"name":"合作与动态",
-		"description":"",
-		"id":3
-	},
-	{
-		"name":"支持",
-		"description":"",
+		"name":"支持与动态",
+		"description":"支持与动态",
 		"id":4
 	},
 	{
@@ -35,8 +30,8 @@
 		"id":10
 	},
 	{
-		"name":"存储与CDN",
-		"description":"",
+		"name":"存储",
+		"description":"存储",
 		"id":11
 	},
 	{
@@ -151,7 +146,7 @@
 	},
 	{
 		"name":"备案",
-		"description":"",
+		"description":"备案",
 		"id":89
 	},
 	{
@@ -190,8 +185,8 @@
 		"id":101
 	},
 	{
-		"name":"安全咨询",
-		"description":"结合京东云的安全经验，为用户提供成熟的咨询服务",
+		"name":"安全专家服务",
+		"description":"为用户提供一体化的从上云到合规的安全服务与技术",
 		"id":106
 	},
 	{
@@ -215,11 +210,6 @@
 		"id":112
 	},
 	{
-		"name":"合作伙伴",
-		"description":"",
-		"id":120
-	},
-	{
 		"name":"新闻动态",
 		"description":"",
 		"id":121
@@ -238,16 +228,6 @@
 		"name":"数据工厂",
 		"description":"数据灵活同步，清除本地和云端数据孤岛",
 		"id":127
-	},
-	{
-		"name":"客户案例",
-		"description":"",
-		"id":128
-	},
-	{
-		"name":"产品动态",
-		"description":"",
-		"id":131
 	},
 	{
 		"name":"流数据总线",
@@ -310,11 +290,6 @@
 		"id":159
 	},
 	{
-		"name":"创业扶持",
-		"description":"",
-		"id":160
-	},
-	{
 		"name":"云数据库 SQL Server",
 		"description":"功能强大，稳定可靠的数据管理平台",
 		"id":161
@@ -341,7 +316,7 @@
 	},
 	{
 		"name":"通用解决方案",
-		"description":"",
+		"description":"通用解决方案",
 		"id":169
 	},
 	{
@@ -701,7 +676,7 @@
 	},
 	{
 		"name":"电商解决方案",
-		"description":"",
+		"description":"电商解决方案",
 		"id":273
 	},
 	{
@@ -860,14 +835,9 @@
 		"id":351
 	},
 	{
-		"name":"云桌面私有化方案",
+		"name":"京东桌面云解决方案",
 		"description":"",
 		"id":352
-	},
-	{
-		"name":"生态矩阵",
-		"description":"",
-		"id":353
 	},
 	{
 		"name":"京云慧政 - 智能云京东微联",
@@ -976,7 +946,7 @@
 	},
 	{
 		"name":"区块链",
-		"description":"",
+		"description":"区块链",
 		"id":379
 	},
 	{
@@ -991,7 +961,7 @@
 	},
 	{
 		"name":"加入我们",
-		"description":"",
+		"description":"加入我们",
 		"id":382
 	},
 	{
@@ -1006,22 +976,22 @@
 	},
 	{
 		"name":"云物理服务器",
-		"description":"",
+		"description":"云物理服务器",
 		"id":385
 	},
 	{
 		"name":"安全解决方案",
-		"description":"",
+		"description":"安全解决方案",
 		"id":386
 	},
 	{
 		"name":"云端融合防御解决方案",
-		"description":"",
+		"description":"云端融合防御解决方案",
 		"id":387
 	},
 	{
-		"name":"区块链 BaaS 平台",
-		"description":"从企业和开发者角度出发，提供多种部署形式，既能灵活部署，又可安全易用，基于流行的kubernetes技术，提供高可靠可扩展的区块链平台",
+		"name":"智臻链 BaaS 平台",
+		"description":"通过简单灵活配置，快速搭建安全可靠区块链网络",
 		"id":388
 	},
 	{
@@ -1046,22 +1016,22 @@
 	},
 	{
 		"name":"域名",
-		"description":"",
+		"description":"域名",
 		"id":394
 	},
 	{
 		"name":"OpenAPI",
-		"description":"",
+		"description":"OpenAPI",
 		"id":395
 	},
 	{
 		"name":"云端融合防御解决方案",
-		"description":"",
+		"description":"云端融合防御解决方案",
 		"id":396
 	},
 	{
 		"name":"域名服务",
-		"description":"",
+		"description":"域名服务",
 		"id":397
 	},
 	{
@@ -1145,58 +1115,13 @@
 		"id":414
 	},
 	{
-		"name":"新时代智能城市",
-		"description":"",
+		"name":"京东云智能城市",
+		"description":"京东云智能城市",
 		"id":415
 	},
 	{
-		"name":"城市解决方案",
-		"description":"",
-		"id":416
-	},
-	{
-		"name":"旅游云",
-		"description":"",
-		"id":417
-	},
-	{
-		"name":"京东大数据产业研究院",
-		"description":"",
-		"id":418
-	},
-	{
-		"name":"农业云",
-		"description":"",
-		"id":420
-	},
-	{
-		"name":"京东云产业创新中心",
-		"description":"",
-		"id":421
-	},
-	{
-		"name":"创新空间",
-		"description":"",
-		"id":422
-	},
-	{
-		"name":"创业服务",
-		"description":"",
-		"id":423
-	},
-	{
-		"name":"创业赋能",
-		"description":"",
-		"id":424
-	},
-	{
-		"name":"云创生态",
-		"description":"",
-		"id":425
-	},
-	{
 		"name":"友情链接",
-		"description":"",
+		"description":"友情链接",
 		"id":426
 	},
 	{
@@ -1210,78 +1135,53 @@
 		"id":428
 	},
 	{
-		"name":"产业上云",
-		"description":"",
-		"id":429
-	},
-	{
-		"name":"智能产业云",
-		"description":"",
-		"id":430
-	},
-	{
-		"name":"产业电商云",
-		"description":"",
-		"id":431
-	},
-	{
-		"name":"产业生态赋能",
-		"description":"",
-		"id":433
-	},
-	{
-		"name":"京东云数字经济产业园",
-		"description":"",
-		"id":434
-	},
-	{
 		"name":"云桌面",
 		"description":"安全、便捷的云上虚拟Windows桌面服务。",
 		"id":435
 	},
 	{
 		"name":"文档",
-		"description":"",
+		"description":"文档",
 		"id":959
 	},
 	{
 		"name":"新手入门",
-		"description":"",
+		"description":"新手入门",
 		"id":1216
 	},
 	{
 		"name":"产品文档",
-		"description":"",
+		"description":"产品文档",
 		"id":1217
 	},
 	{
 		"name":"API与SDK",
-		"description":"",
+		"description":"API与SDK",
 		"id":1218
 	},
 	{
 		"name":"技术社区",
-		"description":"",
+		"description":"技术社区",
 		"id":1219
 	},
 	{
 		"name":"服务保障",
-		"description":"",
+		"description":"服务保障",
 		"id":1220
 	},
 	{
 		"name":"金牌服务",
-		"description":"",
+		"description":"金牌服务",
 		"id":1221
 	},
 	{
 		"name":"自助服务",
-		"description":"",
+		"description":"自助服务",
 		"id":1222
 	},
 	{
 		"name":"联系我们",
-		"description":"",
+		"description":"联系我们",
 		"id":1223
 	},
 	{
@@ -1431,7 +1331,7 @@
 	},
 	{
 		"name":"Oracle 上云",
-		"description":"",
+		"description":"Oracle 上云",
 		"id":3014
 	},
 	{
@@ -1441,7 +1341,7 @@
 	},
 	{
 		"name":"移动跨端开发解决方案",
-		"description":"",
+		"description":"移动跨端开发解决方案",
 		"id":3020
 	},
 	{
@@ -1455,48 +1355,13 @@
 		"id":3022
 	},
 	{
-		"name":"产业创新中心",
-		"description":"",
-		"id":3023
-	},
-	{
 		"name":"云部署",
 		"description":"集多种部署类型、部署方式于一身的部署工具。",
 		"id":3025
 	},
 	{
-		"name":"县域解决方案",
-		"description":"",
-		"id":3030
-	},
-	{
-		"name":"县域云",
-		"description":"",
-		"id":3031
-	},
-	{
-		"name":"城市产业服务平台",
-		"description":"",
-		"id":3032
-	},
-	{
-		"name":"医疗云",
-		"description":"",
-		"id":3033
-	},
-	{
-		"name":"数据云",
-		"description":"",
-		"id":3034
-	},
-	{
-		"name":"京东云学院",
-		"description":"",
-		"id":3035
-	},
-	{
-		"name":"分布式服务框架 JDSF",
-		"description":"",
+		"name":"微服务平台",
+		"description":"含注册中心、配置中心、调用链分析等功能的微服务框架",
 		"id":3042
 	},
 	{
@@ -1506,7 +1371,7 @@
 	},
 	{
 		"name":"CDN",
-		"description":"",
+		"description":"CDN",
 		"id":3046
 	},
 	{
@@ -1555,1838 +1420,891 @@
 		"id":3056
 	},
 	{
-		"name":"Products",
-		"description":"",
-		"id":3067
+		"name":"云通信",
+		"description":"云通信",
+		"id":3057
 	},
 	{
-		"name":"News & Partners",
-		"description":"",
-		"id":3068
+		"name":"文本短信",
+		"description":"文本短信提供验证码类，营销类，通知类短信服务",
+		"id":3058
 	},
 	{
-		"name":"Support",
+		"name":"PLUS 智能短信",
 		"description":"",
-		"id":3069
+		"id":3059
 	},
 	{
-		"name":"Marketplace",
-		"description":"",
-		"id":3070
+		"name":"AI智慧门店解决方案",
+		"description":"AI智慧门店解决方案",
+		"id":3063
 	},
 	{
-		"name":"FAQ",
-		"description":"",
-		"id":3071
-	},
-	{
-		"name":"About Us",
-		"description":"",
-		"id":3072
-	},
-	{
-		"name":"More",
-		"description":"",
-		"id":3073
-	},
-	{
-		"name":"Quick Access",
-		"description":"",
-		"id":3074
-	},
-	{
-		"name":"Contact Us",
-		"description":"",
-		"id":3075
-	},
-	{
-		"name":"Solutions",
-		"description":"",
-		"id":3076
-	},
-	{
-		"name":"JD Wanxiang",
-		"description":"",
-		"id":3077
-	},
-	{
-		"name":"Pricing",
-		"description":"",
-		"id":3078
-	},
-	{
-		"name":"JD City",
-		"description":"",
+		"name":"队列服务",
+		"description":"基于serverless架构的全托管消息队列服务",
 		"id":3079
 	},
 	{
-		"name":"Documentation",
-		"description":"",
-		"id":3080
-	},
-	{
-		"name":"Products",
-		"description":"",
-		"id":3081
-	},
-	{
-		"name":"News & Partners",
-		"description":"",
-		"id":3082
-	},
-	{
-		"name":"Support",
-		"description":"",
-		"id":3083
-	},
-	{
-		"name":"Marketplace",
-		"description":"",
-		"id":3084
-	},
-	{
-		"name":"FAQ",
-		"description":"",
-		"id":3085
-	},
-	{
-		"name":"About Us",
-		"description":"",
-		"id":3086
-	},
-	{
-		"name":"More",
-		"description":"",
+		"name":"混合云安全解决方案",
+		"description":"混合云安全解决方案",
 		"id":3087
 	},
 	{
-		"name":"Quick Access",
-		"description":"",
-		"id":3088
-	},
-	{
-		"name":"Contact Us",
-		"description":"",
+		"name":"线下广告智能营销解决方案",
+		"description":"线下广告智能营销解决方案",
 		"id":3089
 	},
 	{
-		"name":"Solutions",
-		"description":"",
-		"id":3090
-	},
-	{
-		"name":"JD Wanxiang",
-		"description":"",
+		"name":"AR试妆镜解决方案",
+		"description":"AR试妆镜解决方案",
 		"id":3091
 	},
 	{
-		"name":"Pricing",
-		"description":"",
-		"id":3092
-	},
-	{
-		"name":"JD City",
-		"description":"",
+		"name":"京东云App",
+		"description":"京东云App",
 		"id":3093
 	},
 	{
-		"name":"Documentation",
-		"description":"",
-		"id":3094
-	},
-	{
-		"name":"Products",
-		"description":"",
+		"name":"线下广告智能营销解决方案",
+		"description":"线下广告智能营销解决方案",
 		"id":3095
 	},
 	{
-		"name":"News & Partners",
-		"description":"",
-		"id":3096
-	},
-	{
-		"name":"Support",
-		"description":"",
+		"name":"标签管理",
+		"description":"标签管理",
 		"id":3097
 	},
 	{
-		"name":"Marketplace",
-		"description":"",
-		"id":3098
-	},
-	{
-		"name":"FAQ",
-		"description":"",
+		"name":"智能城市",
 		"id":3099
 	},
 	{
-		"name":"About Us",
-		"description":"",
-		"id":3100
-	},
-	{
-		"name":"More",
-		"description":"",
+		"name":"智能城市运行中心（AIOC）",
+		"description":"智能城市运行中心（AIOC）",
 		"id":3101
 	},
 	{
-		"name":"Quick Access",
-		"description":"",
-		"id":3102
-	},
-	{
-		"name":"Contact Us",
-		"description":"",
-		"id":3103
-	},
-	{
-		"name":"Solutions",
-		"description":"",
-		"id":3104
-	},
-	{
-		"name":"JD Wanxiang",
-		"description":"",
-		"id":3105
-	},
-	{
-		"name":"Pricing",
-		"description":"",
-		"id":3106
-	},
-	{
-		"name":"JD City",
-		"description":"",
+		"name":"技术中台",
+		"description":"技术中台",
 		"id":3107
 	},
 	{
-		"name":"Documentation",
-		"description":"",
-		"id":3108
-	},
-	{
-		"name":"Products",
-		"description":"",
+		"name":"数据中台",
+		"description":"数据中台",
 		"id":3109
 	},
 	{
-		"name":"News & Partners",
-		"description":"",
-		"id":3110
-	},
-	{
-		"name":"Support",
-		"description":"",
+		"name":"基线检测服务",
+		"description":"检测系统基线配置上存在的安全风险并提供修复建",
 		"id":3111
 	},
 	{
-		"name":"Marketplace",
-		"description":"",
-		"id":3112
-	},
-	{
-		"name":"FAQ",
-		"description":"",
-		"id":3113
-	},
-	{
-		"name":"About Us",
-		"description":"",
-		"id":3114
-	},
-	{
-		"name":"More",
-		"description":"",
+		"name":"云迁移",
+		"description":"提供混合云场景下数据迁移、业务上云服务",
 		"id":3115
 	},
 	{
-		"name":"Quick Access",
-		"description":"",
-		"id":3116
-	},
-	{
-		"name":"Contact Us",
-		"description":"",
+		"name":"京东云脑",
+		"description":"京东云脑",
 		"id":3117
 	},
 	{
-		"name":"Solutions",
-		"description":"",
-		"id":3118
-	},
-	{
-		"name":"JD Wanxiang",
-		"description":"",
+		"name":"智能城市运行中心（AIOC）",
+		"description":"智能城市运行中心（AIOC）",
 		"id":3119
 	},
 	{
-		"name":"Pricing",
-		"description":"",
-		"id":3120
-	},
-	{
-		"name":"JD City",
-		"description":"",
+		"name":"智能交通解决方案",
+		"description":"智能交通解决方案",
 		"id":3121
 	},
 	{
-		"name":"Documentation",
-		"description":"",
-		"id":3122
-	},
-	{
-		"name":"Products",
-		"description":"",
+		"name":"公共安全解决方案",
+		"description":"公共安全解决方案",
 		"id":3123
 	},
 	{
-		"name":"Elastic Compute",
-		"description":"",
-		"id":3124
-	},
-	{
-		"name":"Virtual Machines",
-		"description":"Stable and Secure Elastic Compute Service",
+		"name":"智能应急解决方案",
+		"description":"智能应急解决方案",
 		"id":3125
 	},
 	{
-		"name":"Cloud Disk Service",
-		"description":"High-performance, Elastic Block Storage Service",
-		"id":3126
-	},
-	{
-		"name":"Native Container",
-		"description":"Secure, Easy-to-use, and Cloud Native Container Service",
+		"name":"互联网+政务服务解决方案",
+		"description":"互联网+政务服务解决方案",
 		"id":3127
 	},
 	{
-		"name":"GPU Virtual Machines",
-		"description":"High-performance Computing Services Accelerating Deep Learning and Scientific Computing",
-		"id":3128
-	},
-	{
-		"name":"Auto Scaling",
-		"description":"Automatic Resource Scale Adjustment Service on Demand",
+		"name":"智能环保解决方案",
+		"description":"智能环保解决方案",
 		"id":3129
 	},
 	{
-		"name":"Availability Group",
-		"description":"Physically dispersed disaster tolerance deployment plan across Availability Zones",
-		"id":3130
-	},
-	{
-		"name":"JCS for Kubernetes",
-		"description":"Easy-to-use Container Management Service with High Reliability",
+		"name":"京东云翼",
+		"description":"京东云翼",
 		"id":3131
 	},
 	{
-		"name":"Container Registry",
-		"description":"Fully Hosted Docker Image Management service",
-		"id":3132
-	},
-	{
-		"name":"Function Service",
-		"description":"",
+		"name":"智能城市干线网络",
+		"description":"智能城市干线网络",
 		"id":3133
 	},
 	{
-		"name":"Networking",
-		"description":"",
-		"id":3134
-	},
-	{
-		"name":"Load Balancer",
-		"description":"Load Balancer Service for Traffic Distribution across Multiple Cloud Servers",
+		"name":"AIoT解决方案",
+		"description":"AIoT解决方案",
 		"id":3135
 	},
 	{
-		"name":"Virtual Private Cloud",
-		"description":"Securely Isolated Cyberspace for Flexible Deployment",
-		"id":3136
-	},
-	{
-		"name":"VPN",
-		"description":"Connected to JD Cloud and Enterprise Intranet, Safe and Reliable",
+		"name":"企业上云解决方案",
+		"description":"企业上云解决方案",
 		"id":3137
 	},
 	{
-		"name":"Direct Connection",
-		"description":"High-speed and Secure Connection Between Corporate IDC and JD Cloud Network",
-		"id":3138
-	},
-	{
-		"name":"NAT Gateway",
-		"description":"The VPC connects to the public network to share the public network bandwidth",
+		"name":"京东云簇",
+		"description":"京东云簇",
 		"id":3139
 	},
 	{
-		"name":"Elastic Network Interface",
-		"description":"Support Flexible Attach and Detach with VMs, A Core Network Component for High Availability Cloud Solutions",
-		"id":3140
-	},
-	{
-		"name":"Network Load Balancer",
-		"description":"JD Cloud's high-performance Layer 4 Network Load Balancer Service with Auto Scaling, High-concurrency Monitoring and Forwarding Capability for TCP-based Traffic",
+		"name":"JDStack",
+		"description":"JDStack",
 		"id":3141
 	},
 	{
-		"name":"Database and Cache Service",
-		"description":"",
-		"id":3142
-	},
-	{
-		"name":"JCS for MySQL",
-		"description":"Reliable, Easy-to-use, Maintenance-free Data Service",
+		"name":"技术中台",
+		"description":"技术中台",
 		"id":3143
 	},
 	{
-		"name":"JCS for Redis",
-		"description":"Redis Compatible Distributed Storage and Caching Services with High-performance and Expansibility",
-		"id":3144
-	},
-	{
-		"name":"JCS for MongoDB",
-		"description":"High-performance NoSQL Database",
+		"name":"数据中台",
+		"description":"数据中台",
 		"id":3145
 	},
 	{
-		"name":"JCS for SQL Server",
-		"description":"Powerful, Stable and Reliable Data Management Platform",
-		"id":3146
-	},
-	{
-		"name":"JCS for Percona",
-		"description":"Powerful Database Engine with Compatibility to MySQL Protocol",
+		"name":"政务云PaaS解决方案",
+		"description":"政务云PaaS解决方案",
 		"id":3147
 	},
 	{
-		"name":"TiDB Service",
-		"description":"Distributed Database with Strong Transactional Consistency and Compatibility to MySQL Protocol",
-		"id":3148
-	},
-	{
-		"name":"DRDS",
-		"description":"Distributed Database Service with Automatic Database and Table Sharding Capability",
+		"name":"城市大数据解决方案",
+		"description":"城市大数据解决方案",
 		"id":3149
 	},
 	{
-		"name":"JCS for MariaDB",
-		"description":"Powerful Database Engine with Compatibility to MySQL Protocol",
-		"id":3150
-	},
-	{
-		"name":"JCS for Memcached",
-		"description":"The JD JCS for Memcached is a memory-level Key-Value service provided by JD Cloud based on high performance of Memcached protocol.",
+		"name":"安全云解决方案",
+		"description":"安全云解决方案",
 		"id":3151
 	},
 	{
-		"name":"Storage and CDN",
-		"description":"",
-		"id":3152
-	},
-	{
-		"name":"Object Storage Service",
-		"description":"Large-scale Distributed Object Storage Service",
+		"name":"产业创新云解决方案",
+		"description":"产业创新云解决方案",
 		"id":3153
 	},
 	{
-		"name":"CDN",
-		"description":"Secure and Stable Content Delivery Service",
-		"id":3154
-	},
-	{
-		"name":"Data Migration",
-		"description":"Professional, Reliable and Convenient Data Migration Service",
+		"name":"京东云擎",
+		"description":"京东云擎",
 		"id":3155
 	},
 	{
-		"name":"Storage Gateway",
-		"description":"Secure, easy-to-use, cost-effective hybrid cloud storage service",
-		"id":3156
-	},
-	{
-		"name":"Cloud Security",
-		"description":"",
+		"name":"城市产业服务平台",
+		"description":"城市产业服务平台",
 		"id":3157
 	},
 	{
-		"name":"Anti-DDoS Basic",
-		"description":"Protecting User Resources from Distributed Denial of Service Attack",
-		"id":3158
-	},
-	{
-		"name":"Security Consulting Service",
-		"description":"Security Protecting Consulting Service from JD Cloud with Proven Expertise",
+		"name":"产业云解决方案",
+		"description":"产业云解决方案",
 		"id":3159
 	},
 	{
-		"name":"Endpoint Security",
-		"description":"Virtual Machines Protection and Precise Defense",
-		"id":3160
-	},
-	{
-		"name":"SSL Certificate",
-		"description":"Centralized Certificates Issuing and Management Service",
+		"name":"智能农业解决方案",
+		"description":"智能农业解决方案",
 		"id":3161
 	},
 	{
-		"name":"Anti-DDoS Pro",
-		"description":"Value-added Protection Services to Large Scale DDoS Attacks",
-		"id":3162
-	},
-	{
-		"name":"Situation Awareness",
-		"description":"Threat Detection and Intrusion Alert Services",
+		"name":"智能文旅解决方案",
+		"description":"智能文旅解决方案",
 		"id":3163
 	},
 	{
-		"name":"Application Security Gateway",
-		"description":"Experts in cloud application layer security protection, business compliance solutions",
-		"id":3164
-	},
-	{
-		"name":"Web Application Firewall",
-		"description":"Identify Web Attack Threats and Provide Security Protection to Websites",
+		"name":"工业互联网解决方案",
+		"description":"工业互联网解决方案",
 		"id":3165
 	},
 	{
-		"name":"Anti-DDoS Protection Package",
-		"description":"Enhanced DDoS Protection Capability for Cloud Applications and Resource",
-		"id":3166
-	},
-	{
-		"name":"Key Management Service",
-		"description":"It guarantees the safety of key pair through multiple protective measures and provides abundant calling interfaces, which users can conveniently and securely use key pair to perform operations of encryption and decryption for the data.",
-		"id":3167
-	},
-	{
-		"name":"Management",
-		"description":"",
-		"id":3168
-	},
-	{
-		"name":"Monitoring",
-		"description":"Comprehensive Status and Security Monitoring with Real-time Alarming for Cloud Applications",
+		"name":"AI与机器学习",
+		"description":"AI与机器学习",
 		"id":3169
 	},
 	{
-		"name":"IAM",
-		"description":"Centralized and Enterprise-Grade Identity and Access Management Service for Cloud Resources",
-		"id":3170
-	},
-	{
-		"name":"DevOps",
-		"description":"One-stop DevOps Platform and Solution",
+		"name":"语音技术",
 		"id":3171
 	},
 	{
-		"name":"Directory Service",
-		"description":"JCS directory service is a kind of Microsoft Active Directory hosted on JD Cloud, which integrates most functions of directory service with JD Cloud.",
-		"id":3172
-	},
-	{
-		"name":"Resource Orchestration",
-		"description":"Resource Orchestration is a service that simplifies the management and operation of resources in cloud computing environment.",
+		"name":"人脸识别",
+		"description":"Face Recognition",
 		"id":3173
 	},
 	{
-		"name":"Log Service",
-		"description":"One-stop log service platform",
-		"id":3174
-	},
-	{
-		"name":"Audit Trail",
-		"description":"Record calling records of various types of APIs by the account and provide operation record query.",
+		"name":"自然语言处理",
+		"description":"自然语言处理",
 		"id":3175
 	},
 	{
-		"name":"Big Data & Analytics",
-		"description":"",
-		"id":3176
-	},
-	{
-		"name":"Big Data Analysis Platform",
-		"description":"PB-level Data Warehouse Service",
+		"name":"OCR文字识别",
+		"description":"利用光学字符识别技术，提供图片文字检测识别服务",
 		"id":3177
 	},
 	{
-		"name":"JD MapReduce",
-		"description":"Cloud-hosted Hadoop/Spark Compute Cluster Service",
-		"id":3178
-	},
-	{
-		"name":"Data Compute",
-		"description":"Low-cost PB-level Data Warehouse in Cloud",
+		"name":"人体识别",
+		"description":"检测并识别图片或视频中的人体，并返回人体关键点",
 		"id":3179
 	},
 	{
-		"name":"Data Factory",
-		"description":"Flexible Data Synchronization Service to Remove Data Isolation between On-premises and Cloud",
-		"id":3180
-	},
-	{
-		"name":"Stream Hub",
-		"description":"Expandable, High-throughput Streaming Data Service",
-		"id":3181
-	},
-	{
-		"name":"Open Search",
-		"description":"Search Service for Structured Data",
-		"id":3182
-	},
-	{
-		"name":"Portrait Analysis",
-		"description":"User Profiling and Tagging Service Based on Enterprise-owned Data",
+		"name":"图像理解",
+		"description":"对图像或视频进行的分析处理，以达到所需结果",
 		"id":3183
 	},
 	{
-		"name":"Stream Compute",
-		"description":"Real-time Computing Services with SQL Supporting",
-		"id":3184
-	},
-	{
-		"name":"Computing Master",
-		"description":"Accurate Behavior Analysis Service",
+		"name":"人工智能解决方案",
+		"description":"人工智能解决方案",
 		"id":3185
 	},
 	{
-		"name":"Data Integration",
-		"description":"Real-time Data Synchronization from Multiple Data Sources",
-		"id":3186
-	},
-	{
-		"name":"Column-oriented Storage",
-		"description":"Hadoop-based High Performance and Auto Scaling Distributed Database with 100% HBase Protocol Compatibility",
-		"id":3187
-	},
-	{
-		"name":"BI Report",
-		"description":"Easy access to big data analysis and fast visualization",
-		"id":3188
-	},
-	{
-		"name":"Data Visualization",
-		"description":"Professional Data Visualization service",
+		"name":"蜂巢机器人",
+		"description":"//www.jdcloud.com/products/",
 		"id":3189
 	},
 	{
-		"name":"Behavior Analysis",
-		"description":"",
-		"id":3190
-	},
-	{
-		"name":"Fraud Detection",
-		"description":"",
+		"name":"服务机器人",
+		"description":"//www.jdcloud.com/products/",
 		"id":3191
 	},
 	{
-		"name":"Domain Name & License",
-		"description":"",
-		"id":3192
-	},
-	{
-		"name":"Domain Name Service",
-		"description":"Providing Multiple Domain Names Registration Service such as .com .cn .net",
+		"name":"语音识别",
+		"description":"//www.jdcloud.com/products/",
 		"id":3193
 	},
 	{
-		"name":"ICP License Service",
-		"description":"Providing Safe, Convenient and Reliable ICP License Service",
-		"id":3194
-	},
-	{
-		"name":"JD Cloud DNS",
-		"description":"JD Cloud DNS is a high-availability, highly-reliable authoritative DNS service",
+		"name":"语音合成",
+		"description":"//www.jdcloud.com/products/",
 		"id":3195
 	},
 	{
-		"name":"HTTPDNS",
-		"description":"HTTPDNS effectively resolves domain name hijacking and cross-network access issues",
-		"id":3196
-	},
-	{
-		"name":"NeuHub AI",
-		"description":"",
+		"name":"人脸对比",
+		"description":"//www.jdcloud.com/products/",
 		"id":3197
 	},
 	{
-		"name":"Intelligent Anti-porn",
-		"description":"Efficient and Accurate Porn Identification API Service",
-		"id":3198
-	},
-	{
-		"name":"Model Training",
-		"description":"Quickly Build Intelligent Business Insight with Algorithmic Platform",
+		"name":"人脸搜索",
+		"description":"针对一张人脸，在指定的人脸库中，查找相似的人脸",
 		"id":3199
 	},
 	{
-		"name":"OCR",
-		"description":"Accurate Image and Text Recognition API Service",
-		"id":3200
-	},
-	{
-		"name":"Face Recognition",
-		"description":"Face Recognition API Service",
+		"name":"人脸检测与属性分析",
+		"description":"//www.jdcloud.com/products/",
 		"id":3201
 	},
 	{
-		"name":"NLP Analysis",
-		"description":"Text Analysis and Text Information Mining",
-		"id":3202
-	},
-	{
-		"name":"For express and not display",
-		"description":"",
+		"name":"人脸活体检测",
+		"description":"//www.jdcloud.com/products/",
 		"id":3203
 	},
 	{
-		"name":"Cost Management",
-		"description":"",
-		"id":3204
-	},
-	{
-		"name":"Account Management",
-		"description":"",
+		"name":"自拍人像抠图",
+		"description":"//www.jdcloud.com/products/",
 		"id":3205
 	},
 	{
-		"name":"Contract Management",
-		"description":"//www.jdcloud.com/products/contract-application-process",
-		"id":3206
-	},
-	{
-		"name":"Video Service",
-		"description":"",
+		"name":"词法分析",
+		"description":"//www.jdcloud.com/products/",
 		"id":3207
 	},
 	{
-		"name":"Live Video",
-		"description":"Easy-to-access Live Video Service with Low-latency and High Availability",
-		"id":3208
-	},
-	{
-		"name":"Media Processing Service",
-		"description":"Provides customers with multi-media file processing services such as video trans-coding, screen-shots and callbacks",
+		"name":"句法分析",
+		"description":"//www.jdcloud.com/products/",
 		"id":3209
 	},
 	{
-		"name":"Video on Demand",
-		"description":"One-stop Video on Demand service integrating video upload, media and information management, transcoding, distribution and other features",
-		"id":3210
-	},
-	{
-		"name":"Proprietary Cloud",
-		"description":"",
+		"name":"身份证识别",
+		"description":"识别二代居民身份证正反面的关键字段识别",
 		"id":3211
 	},
 	{
-		"name":"JDStack",
-		"description":"Secure, Compliant, Mature, and Professional Enterprise-Grade Cloud Platform",
-		"id":3212
-	},
-	{
-		"name":"NF1 ADC",
-		"description":"High-performance and High-availability User Access System",
+		"name":"行驶证识别",
+		"description":"Vehicle License Recognize",
 		"id":3213
 	},
 	{
-		"name":"Hyper-Converged IDC",
-		"description":"",
-		"id":3214
-	},
-	{
-		"name":"Cloud Physical Server",
-		"description":"Physical Server Rental Service with Exclusive High-performance Resources",
+		"name":"银行卡识别",
+		"description":"识别银行卡号，银行名称等关键字段",
 		"id":3215
 	},
 	{
-		"name":"Cloud Cabinet Service",
-		"description":"Cabinet Hosting Service in T3+ IDC with High Quality Network and Power Supply",
-		"id":3216
-	},
-	{
-		"name":"GPU Cloud Physical Server",
-		"description":"Exclusive and high-performance GPU physical server leasing service",
+		"name":"通用文字识别",
+		"description":"提供多场景、高精度的图片文字检测识别服务",
 		"id":3217
 	},
 	{
-		"name":"JDSystem360",
-		"description":"Modular and combinable private cloud, offer Turn-Key type one-stop delivery",
-		"id":3218
-	},
-	{
-		"name":"Middleware",
-		"description":"",
+		"name":"营业执照识别",
+		"description":"识别营业执照的关键字段，包括单位名称，法人等",
 		"id":3219
 	},
 	{
-		"name":"Message Queue",
-		"description":"Messaging Middleware with High Reliability, Availability and Performance",
-		"id":3220
-	},
-	{
-		"name":"JCS for Elasticsearch",
-		"description":"High-availability and Quasi Real-time Distributed Full Text Search Service",
+		"name":"增值税发票识别",
+		"description":"识别增值税发票的关键字段，包括普票和专票等",
 		"id":3221
 	},
 	{
-		"name":"API Gateway",
-		"description":"API Hosting Service with Full API Life-cycle Management",
-		"id":3222
-	},
-	{
-		"name":"JD  Distributed Service Framework",
-		"description":"",
+		"name":"人体关键点检测",
+		"description":"准确地估计出图片或视频中的人体14个主要关键点",
 		"id":3223
 	},
 	{
-		"name":"Block Chain",
-		"description":"",
-		"id":3224
-	},
-	{
-		"name":"Block Chain Data Service",
-		"description":"Complete, Real-time and Structured Block Chain Data Service",
+		"name":"人体检测",
+		"description":"检测出图片或视频中的人体，并返回人体矩形框坐标",
 		"id":3225
 	},
 	{
-		"name":"Block Chain BaaS Platform",
-		"description":"From the perspective of enterprises and developers, it offers a variety of deployment formats that are flexible and easy to use, which is based on the cutting-edge kubernetes technology and provides a highly reliable and scalable blockchain platform.",
-		"id":3226
-	},
-	{
-		"name":"Enterprise Application",
-		"description":"",
+		"name":"情感分析",
+		"description":"//www.jdcloud.com/products/",
 		"id":3227
 	},
 	{
-		"name":"PLUS Enterprise Email",
-		"description":"Cloud Email System for Small and Medium Enterprise",
-		"id":3228
-	},
-	{
-		"name":"PLUS Enterprise Cloud BOX",
-		"description":"Enterprise-Grade Document Management Service with Security and Cross-platform Capability",
-		"id":3229
-	},
-	{
-		"name":"PLUS Meeting",
-		"description":"JD Cloud PLUS Meeting is a turn-key SaaS solution for customized enterprise meeting scenario with interactive audio/video experience and data sharing capability",
-		"id":3230
-	},
-	{
-		"name":"JD WorkSpace",
-		"description":"Cloud-based Virtual Desktop Service for Remote Accessing Your Office Platform",
+		"name":"短文本相似度",
+		"description":"//www.jdcloud.com/products/",
 		"id":3231
 	},
 	{
-		"name":"PLUS Smart SMS",
-		"description":"An open communication service platform provided to the user. It supports SMS verification code, SMS notification and marketing & promotion SMS.",
-		"id":3232
-	},
-	{
-		"name":"JD Wanxiang",
-		"description":"",
+		"name":"评论观点抽取",
+		"description":"//www.jdcloud.com/products/",
 		"id":3233
 	},
 	{
-		"name":"JD Wanxiang – Data API",
-		"description":"Provide AI, enterprise Credit, commodity index, virtual recharge and other public open data services provided by JD.",
-		"id":3234
-	},
-	{
-		"name":"Wanxiang – AI API",
-		"description":"One-stop AI service marketplace of enterprise, institution, individual oriented, assemble API, SDK, solutions provided by JD and national top AI service providers.",
+		"name":"文本分类",
+		"description":"文本分类",
 		"id":3235
 	},
 	{
-		"name":"Financial Credit API",
-		"description":"The one-stop financial credit service market for enterprises, institutions and individuals brings together products and services provided by JD and domestic top financial and credit service providers.",
-		"id":3236
-	},
-	{
-		"name":"SaaS Market",
-		"description":"The leading data trading platform in China, with dozens of SaaS applications selected for you",
+		"name":"特定人物识别",
+		"description":"在指定的图片库中，查找出指定的敏感人物",
 		"id":3237
 	},
 	{
-		"name":"JD Cloud Matrix",
-		"description":"",
-		"id":3238
-	},
-	{
-		"name":"JD Cloud Insight",
-		"description":"Based on multiple mass data, provide customers with professional on-line investigation, accurate portrait service, solve brand recognition, industry analysis, user feedback and other appeals.",
+		"name":"拍照购",
+		"description":"//www.jdcloud.com/products/",
 		"id":3239
 	},
 	{
-		"name":"JD Cloud Matrix Business",
-		"description":"JD Cloud Matrix Business provides retail industry with one-stop marketing service, which facilitates digital transformation of the retail industry and realize the borderless retail business.",
-		"id":3240
-	},
-	{
-		"name":"JD Cloud Zhiying  Commercial District Layout",
-		"description":"Based on multi-dimension mass data, it provides outlet site selection, business cycle insight, potential customer deep discovery and other services for the intelligent retail and diversification off-line industry.",
+		"name":"智能鉴黄",
+		"description":"对图片进行分析，快速的输出每张图片涉黄的概率",
 		"id":3241
 	},
 	{
-		"name":"JD Cloud Zhiying  Marketing Cloud",
-		"description":"Rely on accurate data and build a closed marketing data loop for enterprises from seeking customer group, looking into customer group, traffic reach to marketing effect monitoring.",
-		"id":3242
-	},
-	{
-		"name":"JD Cloud Distribution",
-		"description":"It is a platform with distribution technology and service, covering self-distribution, platform supply, investment attracting and operation management.",
+		"name":"菜品识别",
+		"description":"准确识别中餐菜品，返回菜品名称",
 		"id":3243
 	},
 	{
-		"name":"JD Cloud Wulian",
-		"description":"IoT and intelligent scenario services, provide customers with refined traffic operations and industry-wide coverage, one-stop solutions.",
-		"id":3244
-	},
-	{
-		"name":"JD Cloud Tianshi",
-		"description":"Provides intelligent medical health services for Healthcare. Provide disease diagnosis and health management for governments, institutions and individuals.",
+		"name":"京东云线上城市新经济展示中心",
+		"description":"京东云线上城市新经济展示中心",
 		"id":3245
 	},
 	{
-		"name":"JD Cloud YiHuo",
-		"description":"Providing professional B2B design transaction services for innovative product development and design with SaaS as the core application",
-		"id":3246
-	},
-	{
-		"name":"JD Cloud YuQiao.AI Platform",
-		"description":"Flexible and easy-to-use AI technical service cloud platform, from deployment to model export, efficiently achieve artificial intelligence creative landing through simple six steps.",
+		"name":"云文件服务",
+		"description":"高可靠、可扩展、可共享访问的分布式文件系统。",
 		"id":3247
 	},
 	{
-		"name":"JD Cloud YuQiao.Container Platform",
-		"description":"The preferential Container Cloud Platform based on independent patent integration micro-service governance, DevOps all-round management, operation and maintenance automation, middleware service.",
-		"id":3248
-	},
-	{
-		"name":"JD Cloud PinKong",
-		"description":"IoT Quality Control One-stop Service Platform Professional testing teams, various testing scenarios, and a complete set of testing solutions.",
+		"name":"漏洞扫描服务",
+		"description":"专业的漏洞扫描服务可有效地降低用户系统安全风险",
 		"id":3249
 	},
 	{
-		"name":"JD Cloud HuiYan",
-		"description":"All type, high quality, standardized data collection and AI data labeling services, covering full application scenarios of AI technology.",
-		"id":3250
-	},
-	{
-		"name":"E-commerce Cloud",
-		"description":"",
+		"name":"渗透测试服务",
+		"description":"模拟黑客入侵行为，发现目标系统存在的安全威胁",
 		"id":3251
 	},
 	{
-		"name":"Yunfeng",
-		"description":"It adopts SaaS multi-tenant method to provide enterprises with Internet E-commerce platform, meeting the standard scenarios and customized requirements of enterprise application.",
-		"id":3252
-	},
-	{
-		"name":"Panshi",
-		"description":"Panshi is the PaaS development platform that developed by JD Cloud independently, helping enterprises to construct application services with high available and high performance.",
+		"name":"应急响应服务",
+		"description":"安全事件响应和分析",
 		"id":3253
 	},
 	{
-		"name":"Developer Tools",
-		"description":"",
-		"id":3254
-	},
-	{
-		"name":"CodeBuild",
-		"description":"The CodeBuild Service provides developers with a container-based automated continuous integration service. It supports multi-language build environment, automatically/manually triggers tasks, builds output support packages/images, views build results and logs.",
+		"name":"AIDC",
+		"description":"AIDC",
 		"id":3255
 	},
 	{
-		"name":"CodeCommit",
-		"description":"Git-based Source CodeCommit Tool",
-		"id":3256
-	},
-	{
-		"name":"CodePipeline",
-		"description":"CodePipeline is a product with capacities of continuous integration and delivery",
+		"name":"AIDC",
+		"description":"AIDC产品介绍",
 		"id":3257
 	},
 	{
-		"name":"CodeDeploy",
-		"description":"Integrated multiple deployment types and methods",
-		"id":3258
-	},
-	{
-		"name":"JD Cloud Elite",
-		"description":"",
+		"name":"机房介绍",
+		"description":"京东云AIDC机房介绍",
 		"id":3259
 	},
 	{
-		"name":"Elite Selection",
-		"description":"Elite Selection with dual brands, light delivery, standard products combined with partial customization, reducing bidding links, online contracting transactions, delivery process and quality controllable",
-		"id":3260
-	},
-	{
-		"name":"CDN",
-		"description":"",
+		"name":"机柜租赁",
+		"description":"用户租用京东云机柜空间",
 		"id":3261
 	},
 	{
-		"name":"Website Acceleration",
-		"description":"Provide Website Acceleration service of high availability, safety, reliability and second-level load acceleration",
-		"id":3262
-	},
-	{
-		"name":"Video Acceleration",
-		"description":"Provide Video Acceleration service with maturity, stability and multi-scenario coverage",
+		"name":"带宽产品",
+		"description":"电信、移动、联通等BGP和单线带宽",
 		"id":3263
 	},
 	{
-		"name":"Live Acceleration",
-		"description":"Provide Live Acceleration service from pushing streaming, transcoding, and distributing to playing",
-		"id":3264
-	},
-	{
-		"name":"Download Acceleration",
-		"description":"Provide Download Acceleration service with accurate scheduling and massive space and fluently take over the download acceleration service",
-		"id":3265
-	},
-	{
-		"name":"CDN Edge Computing",
-		"description":"Provide CDN Edge Computing service by virtue of open running environment",
-		"id":3266
-	},
-	{
-		"name":"Hybrid Cloud",
-		"description":"",
-		"id":3267
-	},
-	{
-		"name":"JDFusion",
-		"description":"Provide infrastructure resource integration management over public cloud, private cloud and hybrid cloud",
-		"id":3268
-	},
-	{
-		"name":"News & Partners",
-		"description":"",
+		"name":"IT设备安装",
+		"description":"IT设备安装、综合布线等",
 		"id":3269
 	},
 	{
-		"name":"Partners",
-		"description":"",
-		"id":3270
-	},
-	{
-		"name":"News",
-		"description":"",
+		"name":"定制巡检",
+		"description":"托管环境，IT设备软硬件巡检服务",
 		"id":3271
 	},
 	{
-		"name":"Case Studies",
-		"description":"",
-		"id":3272
-	},
-	{
-		"name":"Product Updates",
-		"description":"",
+		"name":"IDC现场技术支持",
+		"description":"IT设备软硬件技术支持",
 		"id":3273
 	},
 	{
-		"name":"Startups Support",
-		"description":"",
-		"id":3274
-	},
-	{
-		"name":"Ecosystem Matrix",
-		"description":"",
-		"id":3275
-	},
-	{
-		"name":"Support",
-		"description":"",
-		"id":3276
-	},
-	{
-		"name":"SLA",
-		"description":"",
+		"name":"云数据库 PostgreSQL",
+		"description":"高可扩展，功能强大的关系型数据库",
 		"id":3277
 	},
 	{
-		"name":"Premier Service",
-		"description":"",
-		"id":3278
-	},
-	{
-		"name":"Self-help",
-		"description":"",
+		"name":"一站式硬件解决方案服务",
+		"description":"服务器/存储/网络硬件相关的各种解决方案",
 		"id":3279
 	},
 	{
-		"name":"Contact Us",
-		"description":"",
-		"id":3280
-	},
-	{
-		"name":"Marketplace",
-		"description":"",
+		"name":"网络架构规划服务",
+		"description":"为用户提供网络规划设计、优化咨询等服务",
 		"id":3281
 	},
 	{
-		"name":"Basic Software",
-		"description":"",
-		"id":3282
-	},
-	{
-		"name":"Running Environment",
-		"description":"",
+		"name":"IDC资产管理服务",
+		"description":"提供资产全生命周期的管理服务",
 		"id":3283
 	},
 	{
-		"name":"Management and Monitoring",
-		"description":"",
-		"id":3284
-	},
-	{
-		"name":"Database",
-		"description":"",
-		"id":3285
-	},
-	{
-		"name":"Development Tools",
-		"description":"",
-		"id":3286
-	},
-	{
-		"name":"Enterprise Software",
-		"description":"",
+		"name":"网络托管运维服务",
+		"description":"代建代管网络设备以及运维管理等服务",
 		"id":3287
 	},
 	{
-		"name":"Collaborative Office",
-		"description":"",
-		"id":3288
-	},
-	{
-		"name":"Financial Management",
-		"description":"",
-		"id":3289
-	},
-	{
-		"name":"HR Management",
-		"description":"",
-		"id":3290
-	},
-	{
-		"name":"Marketing Management",
-		"description":"",
+		"name":"分布式接入服务",
+		"description":"提供高性能多样化SLB服务",
 		"id":3291
 	},
 	{
-		"name":"Production/Supply Chain",
-		"description":"",
-		"id":3292
-	},
-	{
-		"name":"E-commerce Management",
-		"description":"",
+		"name":"服务器与网络监控服务",
+		"description":"包括Agent、硬件监控、网络监控",
 		"id":3293
 	},
 	{
-		"name":"Enterprise Service",
-		"description":"",
-		"id":3294
-	},
-	{
-		"name":"Website Construction",
-		"description":"",
+		"name":"数据加密服务",
+		"description":"国家密码局认证的密码机提供数据加解密解决方案",
 		"id":3295
 	},
 	{
-		"name":"Enterprise Illustration",
-		"description":"",
-		"id":3296
-	},
-	{
-		"name":"E-commerce",
-		"description":"",
+		"name":"AI与机器学习",
+		"description":"AI与机器学习",
 		"id":3297
 	},
 	{
-		"name":"Information Portal",
-		"description":"",
-		"id":3298
-	},
-	{
-		"name":"Community Forum",
-		"description":"",
-		"id":3299
-	},
-	{
-		"name":"DevOps Service",
-		"description":"",
-		"id":3300
-	},
-	{
-		"name":"Environmental Configuration",
-		"description":"",
+		"name":"合作伙伴",
+		"description":"合作伙伴",
 		"id":3301
 	},
 	{
-		"name":"Data Migration",
-		"description":"",
-		"id":3302
-	},
-	{
-		"name":"Delegated DevOps",
-		"description":"",
+		"name":"合作计划",
+		"description":"合作计划",
 		"id":3303
 	},
 	{
-		"name":"Troubleshooting",
-		"description":"",
-		"id":3304
-	},
-	{
-		"name":"Certificate Training",
-		"description":"",
+		"name":"企业精选",
+		"description":"企业精选",
 		"id":3305
 	},
 	{
-		"name":"Architecture Consulting",
-		"description":"",
-		"id":3306
-	},
-	{
-		"name":"Cloud Security",
-		"description":"",
+		"name":"ISV解决方案合作计划",
+		"description":"ISV解决方案合作计划",
 		"id":3307
 	},
 	{
-		"name":"Endpoint Security",
-		"description":"",
-		"id":3308
-	},
-	{
-		"name":"Application Security",
-		"description":"",
+		"name":"渠道分销合作计划",
+		"description":"渠道分销合作计划",
 		"id":3309
 	},
 	{
-		"name":"Data Security",
-		"description":"",
-		"id":3310
-	},
-	{
-		"name":"Network Security",
-		"description":"",
+		"name":"企业服务商合作计划",
+		"description":"企业服务商合作计划",
 		"id":3311
 	},
 	{
-		"name":"Security Service",
-		"description":"",
-		"id":3312
-	},
-	{
-		"name":"Data Intelligence",
-		"description":"",
+		"name":"产品合作计划",
+		"description":"产品合作计划",
 		"id":3313
 	},
 	{
-		"name":"Data Analysis",
-		"description":"",
-		"id":3314
-	},
-	{
-		"name":"E-commerce Marketing",
-		"description":"",
+		"name":"Elite企业精选",
+		"description":"Elite企业精选",
 		"id":3315
 	},
 	{
-		"name":"AI",
-		"description":"",
-		"id":3316
-	},
-	{
-		"name":"Sentiment Analysis",
-		"description":"",
+		"name":"客户案例",
+		"description":"客户案例",
 		"id":3317
 	},
 	{
-		"name":"Finance",
-		"description":"",
-		"id":3318
-	},
-	{
-		"name":"Smart City",
-		"description":"",
+		"name":"客户案例",
+		"description":"客户案例",
 		"id":3319
 	},
 	{
-		"name":"Smart Tourism",
-		"description":"",
-		"id":3320
-	},
-	{
-		"name":"JD Cloud PLUS Service",
-		"description":"",
+		"name":"生态矩阵",
+		"description":"生态矩阵",
 		"id":3321
 	},
 	{
-		"name":"Cloud Office",
-		"description":"",
-		"id":3322
-	},
-	{
-		"name":"FAQ",
-		"description":"",
+		"name":"产品动态",
+		"description":"产品动态",
 		"id":3323
 	},
 	{
-		"name":"Coupon",
-		"description":"",
-		"id":3324
-	},
-	{
-		"name":"Invoice",
-		"description":"",
-		"id":3325
-	},
-	{
-		"name":"ICP License",
-		"description":"",
-		"id":3326
-	},
-	{
-		"name":"Real-name Verification",
-		"description":"",
-		"id":3327
-	},
-	{
-		"name":"Domain Name",
-		"description":"",
-		"id":3328
-	},
-	{
-		"name":"OpenAPI",
-		"description":"",
-		"id":3329
-	},
-	{
-		"name":"About Us",
-		"description":"",
-		"id":3330
-	},
-	{
-		"name":"Trust Center",
-		"description":"",
-		"id":3331
-	},
-	{
-		"name":"Partner Channel",
-		"description":"",
-		"id":3332
-	},
-	{
-		"name":"Case Studies",
-		"description":"",
-		"id":3333
-	},
-	{
-		"name":"News",
-		"description":"",
-		"id":3334
-	},
-	{
-		"name":"Product Updates",
-		"description":"",
-		"id":3335
-	},
-	{
-		"name":"About JD Cloud",
-		"description":"",
-		"id":3336
-	},
-	{
-		"name":"JD Cloud Journal",
-		"description":"",
-		"id":3337
-	},
-	{
-		"name":"Join Us",
-		"description":"",
-		"id":3338
-	},
-	{
-		"name":"Links",
-		"description":"",
-		"id":3339
-	},
-	{
-		"name":"More",
-		"description":"",
-		"id":3340
-	},
-	{
-		"name":"New Retail Solution",
-		"description":"",
-		"id":3341
-	},
-	{
-		"name":"JD Cloud PLUS Service",
-		"description":"",
-		"id":3342
-	},
-	{
-		"name":"Cloud Physical Server",
-		"description":"",
-		"id":3343
-	},
-	{
-		"name":"Cloud Integrated Defense Solution",
-		"description":"",
-		"id":3344
-	},
-	{
-		"name":"Domain Name Service",
-		"description":"",
-		"id":3345
-	},
-	{
-		"name":"Ecosystem Matrix",
-		"description":"",
-		"id":3346
-	},
-	{
-		"name":"Quick Access",
-		"description":"",
-		"id":3347
-	},
-	{
-		"name":"Console",
-		"description":"",
-		"id":3348
-	},
-	{
-		"name":"Price Calculator",
-		"description":"",
-		"id":3349
-	},
-	{
-		"name":"Account Management",
-		"description":"",
-		"id":3350
-	},
-	{
-		"name":"Pricing",
-		"description":"",
-		"id":3351
-	},
-	{
-		"name":"Announcement",
-		"description":"",
-		"id":3352
-	},
-	{
-		"name":"JD YunDing",
-		"description":"",
-		"id":3353
-	},
-	{
-		"name":"Contact Us",
-		"description":"",
-		"id":3354
-	},
-	{
-		"name":"Solutions",
-		"description":"",
-		"id":3355
-	},
-	{
-		"name":"General Solutions",
-		"description":"",
-		"id":3356
-	},
-	{
-		"name":"Hosted Physical Resource",
-		"description":"",
+		"name":"物联网",
+		"description":"物联网",
 		"id":3357
 	},
 	{
-		"name":"Website",
-		"description":"",
-		"id":3358
-	},
-	{
-		"name":"JD YI Mobile Office",
-		"description":"",
+		"name":"物联网智能边缘计算",
+		"description":"为物联网边缘提供设备管理，数据分析，AI推断等能力",
 		"id":3359
 	},
 	{
-		"name":"JD WorkSpaces Privatization Solution",
-		"description":"",
-		"id":3360
-	},
-	{
-		"name":"Oracle Database on Cloud",
-		"description":"",
+		"name":"物联网中心",
+		"description":"通过设备连接通信功能，帮助用户将设备数据采集上云",
 		"id":3361
 	},
 	{
-		"name":"Mobile Cross-platform Development Solution",
-		"description":"",
-		"id":3362
-	},
-	{
-		"name":"Industrial Solutions",
-		"description":"",
+		"name":"物联网协议适配",
+		"description":"支持私有数据格式设备上云，保护客户既有设备投资",
 		"id":3363
 	},
 	{
-		"name":"Logistics Cloud",
-		"description":"",
-		"id":3364
-	},
-	{
-		"name":"Financial Solution",
-		"description":"",
+		"name":"语音识别",
+		"description":"将语音转成文字，支持多场景识别",
 		"id":3365
 	},
 	{
-		"name":"New Retail Solution",
-		"description":"",
-		"id":3366
-	},
-	{
-		"name":"Online Education Solution",
-		"description":"",
+		"name":"语音合成",
+		"description":"提供高自然度、有感情色彩，个性化的语音合成服务",
 		"id":3367
 	},
 	{
-		"name":"Big Data Solutions",
-		"description":"",
-		"id":3368
-	},
-	{
-		"name":"Zongheng – Intelligent Fleet Control",
-		"description":"",
+		"name":"人脸对比",
+		"description":"计算两张脸的相似程度，判断两者是否为同一个人",
 		"id":3369
 	},
 	{
-		"name":"Zhike – Intelligent Retail Customer Analysis",
-		"description":"",
-		"id":3370
-	},
-	{
-		"name":"JD Wanxiang – Data API",
-		"description":"",
+		"name":"人脸搜索",
+		"description":"针对一张人脸，在指定的人脸库中，查找相似的人脸",
 		"id":3371
 	},
 	{
-		"name":"Governmental and Industrial Solutions",
-		"description":"",
-		"id":3372
-	},
-	{
-		"name":"Hybrid Deployment",
-		"description":"",
+		"name":"人脸检测与属性分析",
+		"description":"检测人脸并返回人脸框位置坐标、关键点及人脸属性",
 		"id":3373
 	},
 	{
-		"name":"Hosted Private Cloud",
-		"description":"",
-		"id":3374
-	},
-	{
-		"name":"JD Cloud Intelligent Government – Industrial Cloud",
-		"description":"",
+		"name":"人脸活体检测",
+		"description":"人脸识别应用中判断用户是否为真实本人操作",
 		"id":3375
 	},
 	{
-		"name":"JD Cloud Intelligent Government – Intelligent Cloud JD Micro Interconnection",
-		"description":"",
-		"id":3376
-	},
-	{
-		"name":"E-commerce Solution",
-		"description":"",
+		"name":"自拍人像抠图",
+		"description":"将自拍照中的人像区域与背景进行分割出来",
 		"id":3377
 	},
 	{
-		"name":"Commodity E-commerce Solution",
-		"description":"",
-		"id":3378
-	},
-	{
-		"name":"Channel Distribution E-commerce Solution",
-		"description":"",
+		"name":"词法分析",
+		"description":"解析自然语言中的基本语言元素",
 		"id":3379
 	},
 	{
-		"name":"Enterprise Purchasing E-commerce Solution",
-		"description":"",
-		"id":3380
-	},
-	{
-		"name":"Unbounded Retail E-commerce Solution",
-		"description":"",
+		"name":"句法分析",
+		"description":"提供文本中词与词之间的依存关系和句法结构信息",
 		"id":3381
 	},
 	{
-		"name":"Retail Shopping Mall E-commerce Solution",
-		"description":"",
-		"id":3382
-	},
-	{
-		"name":"Cross-border E-commerce Solution",
-		"description":"",
+		"name":"情感分析",
+		"description":"判断该文本的情感极性类别，并给出相应的置信度",
 		"id":3383
 	},
 	{
-		"name":"Mileage Mall E-commerce Solution",
-		"description":"",
-		"id":3384
-	},
-	{
-		"name":"Technical Platform – Partner Program",
-		"description":"",
+		"name":"短文本相似度",
+		"description":"提供不同短文本之间相似度的计算",
 		"id":3385
 	},
 	{
-		"name":"Security Solution",
-		"description":"",
-		"id":3386
-	},
-	{
-		"name":"Cloud Integrated Defense Solution",
-		"description":"",
+		"name":"评论观点抽取",
+		"description":"分析评论关注点和评论观点，提取观点标签",
 		"id":3387
 	},
 	{
-		"name":"Government Cloud Security Solution",
-		"description":"",
-		"id":3388
-	},
-	{
-		"name":"Internet Finance Security Solution",
-		"description":"",
+		"name":"文本分类",
+		"description":"识别用户话术的领域信息",
 		"id":3389
 	},
 	{
-		"name":"JD Wanxiang",
-		"description":"",
-		"id":3390
-	},
-	{
-		"name":"Fintech",
-		"description":"",
+		"name":"身份证识别",
+		"description":"识别二代居民身份证正反面的关键字段识别",
 		"id":3391
 	},
 	{
-		"name":"Mobile Phone Number Verification",
-		"description":"",
-		"id":3392
-	},
-	{
-		"name":"Bank Card Verification",
-		"description":"",
+		"name":"行驶证识别",
+		"description":"识别机动车行驶证正页的关键字段识别",
 		"id":3393
 	},
 	{
-		"name":"ERP",
-		"description":"",
-		"id":3394
-	},
-	{
-		"name":"Business Information",
-		"description":"",
+		"name":"银行卡识别",
+		"description":"识别银行卡号，银行名称等关键字段",
 		"id":3395
 	},
 	{
-		"name":"Taxation Information",
-		"description":"",
-		"id":3396
-	},
-	{
-		"name":"Digital Marketing",
-		"description":"",
+		"name":"通用文字识别",
+		"description":"提供多场景、高精度的图片文字检测识别服务",
 		"id":3397
 	},
 	{
-		"name":"E-commerce",
-		"description":"",
-		"id":3398
-	},
-	{
-		"name":"Precision Marketing",
-		"description":"",
+		"name":"营业执照识别",
+		"description":"识别营业执照的关键字段，包括单位名称，法人等",
 		"id":3399
 	},
 	{
-		"name":"Traffic Geography",
-		"description":"",
-		"id":3400
-	},
-	{
-		"name":"Traffic Violation",
-		"description":"",
+		"name":"增值税发票识别",
+		"description":"识别增值税发票的关键字段，包括普票和专票等",
 		"id":3401
 	},
 	{
-		"name":"Vehicle Information",
-		"description":"",
-		"id":3402
-	},
-	{
-		"name":"Life Service",
-		"description":"",
+		"name":"人体关键点检测",
+		"description":"准确地估计出图片或视频中的人体14个主要关键点",
 		"id":3403
 	},
 	{
-		"name":"Weather Query",
-		"description":"",
-		"id":3404
-	},
-	{
-		"name":"Express Check",
-		"description":"",
+		"name":"人体检测",
+		"description":"检测出图片或视频中的人体，并返回人体矩形框坐标",
 		"id":3405
 	},
 	{
-		"name":"Pricing",
-		"description":"",
-		"id":3406
-	},
-	{
-		"name":"JD City",
-		"description":"",
+		"name":"特定人物识别",
+		"description":"在指定的图片库中，查找出指定的敏感人物",
 		"id":3407
 	},
 	{
-		"name":"JD City Solutions",
-		"description":"",
-		"id":3408
-	},
-	{
-		"name":"Internet + Tourism",
-		"description":"",
+		"name":"拍照购",
+		"description":"拍照并识别照片中的物体，返回京东商城的商品信息",
 		"id":3409
 	},
 	{
-		"name":"JD Big Data Industry Institute",
-		"description":"",
-		"id":3410
-	},
-	{
-		"name":"Agriculture Cloud",
-		"description":"",
+		"name":"智能鉴黄",
+		"description":"对图片进行分析，快速的输出每张图片涉黄的概率",
 		"id":3411
 	},
 	{
-		"name":"Enterprise Cloud Access",
-		"description":"",
-		"id":3412
-	},
-	{
-		"name":"Intelligence Industry Cloud",
-		"description":"",
+		"name":"菜品识别",
+		"description":"准确识别中餐菜品，返回菜品名称",
 		"id":3413
 	},
 	{
-		"name":"Industrial E-commerce Cloud",
-		"description":"",
-		"id":3414
-	},
-	{
-		"name":"Urban Industry Service Cloud Platform",
-		"description":"",
+		"name":"视频摘要",
+		"description":"对视频进行分析，输出视频的动态摘要和静态摘要",
 		"id":3415
 	},
 	{
-		"name":"Medical Cloud",
-		"description":"",
-		"id":3416
-	},
-	{
-		"name":"Data Cloud",
-		"description":"",
+		"name":"视频标签",
+		"description":"对视频进行多维度分析，输出视频泛标签",
 		"id":3417
 	},
 	{
-		"name":"JDC Academy",
-		"description":"",
-		"id":3418
-	},
-	{
-		"name":"Innovation Space",
-		"description":"",
+		"name":"云迁移解决方案",
+		"description":"云迁移解决方案",
 		"id":3419
 	},
 	{
-		"name":"Innovation Space",
-		"description":"",
-		"id":3420
-	},
-	{
-		"name":"Startup Service",
-		"description":"",
+		"name":"IDC增值服务",
+		"description":"IDC增值服务介绍",
 		"id":3421
 	},
 	{
-		"name":"Startup Empowerment",
-		"description":"",
-		"id":3422
-	},
-	{
-		"name":"JD Cloud Innovative Ecology",
-		"description":"",
+		"name":"机柜租赁",
+		"description":"用户租用京东云机柜空间",
 		"id":3423
 	},
 	{
-		"name":"Empower Introduction",
-		"description":"",
-		"id":3424
-	},
-	{
-		"name":"Industrial Ecosystem Empowerment",
-		"description":"",
+		"name":"带宽产品",
+		"description":"电信、移动、联通等BGP和单线带宽",
 		"id":3425
 	},
 	{
-		"name":"JD Cloud Digital Economy Industrial Park",
-		"description":"",
-		"id":3426
-	},
-	{
-		"name":"County-level Solution",
-		"description":"",
+		"name":"IT设备安装",
+		"description":"IT设备安装、综合布线等",
 		"id":3427
 	},
 	{
-		"name":"County-level Cloud",
-		"description":"",
-		"id":3428
-	},
-	{
-		"name":"Documentation",
-		"description":"",
+		"name":"定制巡检",
+		"description":"托管环境，IT设备软硬件巡检服务",
 		"id":3429
 	},
 	{
-		"name":"Getting Started",
-		"description":"",
-		"id":3430
-	},
-	{
-		"name":"Technical Documentation",
-		"description":"",
+		"name":"IDC现场技术支持",
+		"description":"IT设备软硬件技术支持",
 		"id":3431
 	},
 	{
-		"name":"API & SDK",
-		"description":"",
-		"id":3432
+		"name":"分布式接入服务",
+		"description":"提供高性能多样化SLB服务",
+		"id":3433
 	},
 	{
-		"name":"Community",
-		"description":"",
-		"id":3433
+		"name":"服务器与网络监控服务",
+		"description":"包括Agent、硬件监控、网络监控",
+		"id":3435
+	},
+	{
+		"name":"网络架构规划服务",
+		"description":"为用户提供网络规划设计、优化咨询等服务",
+		"id":3437
+	},
+	{
+		"name":"网络托管运维服务",
+		"description":"代建代管网络设备以及运维管理等服务",
+		"id":3439
+	},
+	{
+		"name":"IDC资产管理服务",
+		"description":"提供资产全生命周期的管理服务",
+		"id":3441
+	},
+	{
+		"name":"一站式硬件解决方案服务",
+		"description":"服务器/存储/网络硬件相关的各种解决方案",
+		"id":3443
+	},
+	{
+		"name":"宿迁-SQ1数据中心",
+		"description":"宿迁SQ1数据中心",
+		"id":3445
+	},
+	{
+		"name":"北京-BJ1数据中心",
+		"description":"北京BJ1数据中心",
+		"id":3447
+	},
+	{
+		"name":"北京-BJ2数据中心",
+		"description":"北京BJ2数据中心",
+		"id":3449
+	},
+	{
+		"name":"北京-BJ3数据中心",
+		"description":"北京BJ3数据中心",
+		"id":3451
+	},
+	{
+		"name":"北京-BJ4数据中心",
+		"description":"北京BJ4数据中心",
+		"id":3453
+	},
+	{
+		"name":"上海-SH1数据中心",
+		"description":"上海SH1数据中心",
+		"id":3455
+	},
+	{
+		"name":"上海-SH2数据中心",
+		"description":"上海SH2数据中心",
+		"id":3457
+	},
+	{
+		"name":"广州-GZ1数据中心",
+		"description":"广州GZ1数据中心",
+		"id":3459
+	},
+	{
+		"name":"广州-GZ2数据中心",
+		"description":"广州GZ2数据中心",
+		"id":3461
+	},
+	{
+		"name":"广州-GZ3数据中心",
+		"description":"广州GZ3数据中心",
+		"id":3463
+	},
+	{
+		"name":"富媒体短信",
+		"description":"支持发送文本图片音视频到用户手机",
+		"id":3465
+	},
+	{
+		"name":"视频分析",
+		"description":"对视频进行智能分析，输出视频内容的泛标签及摘要",
+		"id":3467
+	},
+	{
+		"name":"视频摘要",
+		"description":"对视频进行分析，输出视频的动态摘要和静态摘要",
+		"id":3469
+	},
+	{
+		"name":"视频标签",
+		"description":"对视频进行多维度分析，输出视频泛标签",
+		"id":3471
+	},
+	{
+		"name":"京东云企业助手",
+		"description":"京东云企业助手",
+		"id":3473
+	},
+	{
+		"name":"物理计算",
+		"description":"物理计算",
+		"id":3475
+	},
+	{
+		"name":"IDC标准产品",
+		"description":"IDC标准产品",
+		"id":3477
+	},
+	{
+		"name":"政企云办公解决方案",
+		"description":"政企云办公解决方案",
+		"id":3485
+	},
+	{
+		"name":"物联网卡服务",
+		"description":"平台提供三大运营商物联网卡购买、充值和管理功能",
+		"id":3489
+	},
+	{
+		"name":"云物理服务器",
+		"description":"独享高性能物理服务器租赁服务",
+		"id":3491
+	},
+	{
+		"name":"GPU 云物理服务器",
+		"description":"独享高性能GPU物理服务器租赁服务",
+		"id":3493
+	},
+	{
+		"name":"云托管服务",
+		"description":"提供 T3+ 优质机房，高可靠性电力及网络保障的托管服务",
+		"id":3495
+	},
+	{
+		"name":"云上大赛解决方案",
+		"description":"云上大赛解决方案",
+		"id":3497
 	}
 ]
