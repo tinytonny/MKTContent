@@ -73,6 +73,18 @@
       </h4>
      </div>
     </div>
+	<div class="col-3 col-xs-6">
+		<div class="trusted-row-item">
+			<img src="//img1.jcloudcs.com/portal/service/certification18.png">
+			<h4>CSA STAR</h4>
+		</div>
+	</div>
+	<div class="col-3 col-xs-6">
+		<div class="trusted-row-item">
+			<img src="//img1.jcloudcs.com/portal/service/certification19.png">
+			<h4>C STAR</h4>
+		</div>
+	</div>
    </div>
   </div>
  </div>
