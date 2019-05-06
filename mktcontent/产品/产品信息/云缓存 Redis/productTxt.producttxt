@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"云缓存 Redis\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"//redis-console.jdcloud.com/create?dataCenter=bj_02&hideSideMenu=1\"}],\"desc\":\"云缓存 Redis是京东云提供的基于Redis协议的在线缓存服务，支持主从版、集群版的多种规格供用户选择。可满足多种业务场景对可用性、可靠性和高读写性能的要求，支持双机热备，提供自动容灾切换、实例监控等服务，以降低业务风险，确保业务的连续性。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/83b026b7-897c-46f8-bcd1-c310aebb7b4c20181115165804.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|8\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|8\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"云缓存 Redis\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"//redis-console.jdcloud.com/create?dataCenter=bj_02&hideSideMenu=1\"},{\"TitleName\":\"申请试用Redis 4.0\",\"TitleUrl\":\"https://ticket.jdcloud.com/myorder/form?cateId=166&questionId=168\",\"classTag\":\"\"}],\"desc\":\"云缓存 Redis是京东云提供的基于Redis协议的在线缓存服务，支持主从版、集群版的多种规格供用户选择。可满足多种业务场景对可用性、可靠性和高读写性能的要求，支持双机热备，提供自动容灾切换、实例监控等服务，以降低业务风险，确保业务的连续性。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/83b026b7-897c-46f8-bcd1-c310aebb7b4c20181115165804.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|8\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|8\"}",
 		"id":22
 	},
 	{
