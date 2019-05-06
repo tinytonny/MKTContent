@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"数据集成\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://xdata.jdcloud.com/dataIntegration/connectionlist.html\"}],\"desc\":\"数据集成是京东云对外提供的高效、可靠、安全的一站式接入多数据源的同步平台。打通数据孤岛，进行跨异构数据存储系统的数据同步、离线搬运服务，对数据源提供全量/增量数据进出通道。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/d0af4e12-262f-4ec5-8019-a49cd180060520181115174207.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|75\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|75\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"数据集成\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"http://xdata.jdcloud.com/dataIntegration/connectionlist.html\"}],\"desc\":\"数据集成是京东云对外提供的高效、可靠、安全的一站式接入多数据源的同步平台。打通数据孤岛，进行跨异构数据存储系统的数据同步、离线搬运服务，对数据源提供全量/增量数据进出通道。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/d0af4e12-262f-4ec5-8019-a49cd180060520181115174207.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|75\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|75\"}",
 		"id":203
 	},
 	{
