@@ -12,11 +12,15 @@
 		"id":242
 	},
 	{
-		"txt":"[{\"instruction\":\"在不是强耦合多系统中，很多业务流程不强依赖于核心流程，可以放到消息队列中让消息消费者去按需消费，而不影响核心主流程。例如电商场景（即订单、购物车、物流、积分等系统）。\",\"name\":\"系统解耦\",\"picUrl\":\"//img1.jcloudcs.com/cms/57d2fe3c-3673-431a-87bb-0f3b30ff19f920180705175621.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"上下游系统处理能力存在差距的时候，利用消息队列作为数据的缓冲器，控制信息流量，在下游有能力处理的时候，再进行消费，避免系统处理的请求无效，无服务能力。例如秒杀，抢购等场景。\",\"name\":\"削峰填谷\",\"picUrl\":\"//img1.jcloudcs.com/cms/08916070-5316-42a6-aa75-9c35fbfae9c620180705175626.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"生产者只关心消息是否送达了队列，不关心谁订阅了消息，系统的多个部分可以同时发送或消费消息。例如消息总线，ConfigService更新配置。\\n\\n\",\"name\":\"广播\",\"picUrl\":\"//img1.jcloudcs.com/cms/20ed0784-1487-4100-b18b-68c8de417b7a20180705175630.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"对于上游系统发出的请求，接收者可能由于网络，断电，负载过高等各种原因无法接受，而消息队列同步写入、三副本备份可以存储请求，保证消息的可靠传递，保证信息的可靠性。例如金融交易。\",\"name\":\"可靠信息传递\",\"picUrl\":\"//img1.jcloudcs.com/cms/973f55e3-55a7-4f82-ab40-c92ce94d55ff20180705175634.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false}]",
+		"txt":"[{\"instruction\":\"在企业复杂的多业务系统中，很多业务流程不强依赖于核心流程，可以放到消息队列中让消息消费者去按需消费，而不影响核心主流程。例如电商场景（即订单、购物车、物流、积分等系统）。\",\"name\":\"系统解耦\",\"picUrl\":\"//img1.jcloudcs.com/cms/57d2fe3c-3673-431a-87bb-0f3b30ff19f920180705175621.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"上下游系统处理能力存在差距的时候，利用消息队列作为数据的缓冲器，控制信息流量，在下游有能力处理的时候，再进行消费，避免请求无效，无服务能力。例如秒杀，抢购等场景。\",\"name\":\"削峰填谷\",\"picUrl\":\"//img1.jcloudcs.com/cms/08916070-5316-42a6-aa75-9c35fbfae9c620180705175626.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"生产者无需关心下游订阅消息的消费者，采取多对多的广播模式，可以同时发送或消费消息。例如消息总线，配置中心更新。\\n\\n\",\"name\":\"广播\",\"picUrl\":\"//img1.jcloudcs.com/cms/20ed0784-1487-4100-b18b-68c8de417b7a20180705175630.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"对于上游系统发出的请求，接收者可能响应时间较长，并且由于网络，断电，负载过高等各种原因无法接受，而消息队列同步写入、三副本备份可以存储请求，保证消息的异步可靠传递，保证请求的时效性和可靠性。\",\"name\":\"信息异步可靠传递\",\"picUrl\":\"//img1.jcloudcs.com/cms/973f55e3-55a7-4f82-ab40-c92ce94d55ff20180705175634.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false}]",
 		"id":243
 	},
 	{
 		"txt":"{\"operatingClasstag\":\"Products|keycount|MiddleContentSec|85\",\"price\":\"//docs.jdcloud.com/message-queue/price-overview\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|85\"}",
 		"id":244
+	},
+	{
+		"txt":"[{\"name\":\"什么是消息队列 JCQ?\",\"link\":\"https://docs.jdcloud.com/message-queue/product-overview\",\"classTag\":\"\"},{\"name\":\"消息队列 JCQ有哪些应用场景？\",\"link\":\"https://docs.jdcloud.com/message-queue/application-scenarios\",\"classTag\":\"\"},{\"name\":\"消息队列 JCQ如何计费？\",\"link\":\"https://docs.jdcloud.com/message-queue/price-overview\",\"classTag\":\"\"}]",
+		"id":772
 	}
 ]
