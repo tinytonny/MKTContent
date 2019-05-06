@@ -198,6 +198,7 @@
     </div>
   </div>
 
+<!--
   <div class="domain-floor">
     <div class="domain-floor-hd">
       <h5 class="domain-floor-tit">云主机低至6折</h5>
@@ -273,7 +274,7 @@
 
     </div>
   </div>
-
+-->
   <div class="domain-floor">
     <div class="domain-floor-hd">
       <h5 class="domain-floor-tit">建站模板仅需98元</h5>
@@ -541,8 +542,10 @@
     <ul class="domain-navlst">
       <li class="domain-navlst-item" clstag="Activity|keycount|MiddleContentSec|17"><p>域名限时抢注</p>
 </li>
+	  <!-- 
       <li class="domain-navlst-item" clstag="Activity|keycount|MiddleContentSec|18"><p>云主机低至6折</p>
 </li>
+	  -->
       <li class="domain-navlst-item" clstag="Activity|keycount|MiddleContentSec|19"><p>建站模板仅需98元</p>
 </li>
       <li class="domain-navlst-item" clstag="Activity|keycount|MiddleContentSec|20"><p>精选模板案例</p>
