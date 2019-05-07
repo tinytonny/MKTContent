@@ -784,7 +784,7 @@
 		"news_title":"Be Present in Person on the Grand Occasion | 40 Years of Reform and Opening up, Shen Yuanqing Talked about IT Development"
 	},
 	{
-		"summary":"The 76th China Educational Equipment Exhibition was successfully held in Chongqing. JD Cloud participated in the conference and presented innovative education industrial solutions. At the same time, JD and Microsoft's educational product Minecraft: Education Edition was also "taken to the scene for "interactive exchanges" with the guests. Minecraft: Education Edition has been favored and praised by many guests, bringing them a different kind of participation experience.",
+		"summary":"The 76th China Educational Equipment Exhibition was successfully held in Chongqing. JD Cloud participated in the conference and presented innovative education industrial solutions. At the same time, JD and Microsoft's educational product Minecraft: Education Edition was also \"taken\" to the scene for \"interactive exchanges\" with the guests. Minecraft: Education Edition has been favored and praised by many guests, bringing them a different kind of participation experience.",
 		"image_url":"//img1.jcloudcs.com/cms/0f48a698-c828-4618-9e01-9a50cba9206620190426154337.jpg",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_504",
 		"jss_key":"News_Content_504",
@@ -792,11 +792,11 @@
 		"news_title":"Minecraft: Education Edition opens a new experience of immersive intelligent class  Stimulate students' creative thinking"
 	},
 	{
-		"summary":"The "2019 China (Chongqing) Food Material Supply Chain Innovation Forum" hosted by Chongqing Hot Pot Association ended successfully in Chongqing. The "Hot Pot Food Material Trading Platform" jointly created by the "Nan’an District People's Government, JD Cloud, Chongqing Hot Pot Association" made its debut and was released.",
+		"summary":"The \"2019 China (Chongqing) Food Material Supply Chain Innovation Forum\" hosted by Chongqing Hot Pot Association ended successfully in Chongqing. The \"Hot Pot Food Material Trading Platform\" jointly created by the \"Nan’an District People's Government, JD Cloud, Chongqing Hot Pot Association\" made its debut and was released.",
 		"image_url":"//img1.jcloudcs.com/cms/31ffc06d-63ad-4f49-a5f4-2ee2dd3354c820190427174511.jpg",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_505",
 		"jss_key":"News_Content_505",
 		"id":505,
-		"news_title":"JD Cloud helps "Hot Pot Food Material Trading Platform" make its debut in Chongqing"
+		"news_title":"JD Cloud helps \"Hot Pot Food Material Trading Platform\" make its debut in Chongqing"
 	}
 ]
