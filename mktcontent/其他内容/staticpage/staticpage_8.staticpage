@@ -17,6 +17,20 @@
       <div class="journal-tab-bd journal-tab1 row current">
 		<div class="jdc-journal-item col-6 col-xs-12">
           <div class="item-bg">
+            <div class="item-hd">京东云上速递 | 第五期</div>
+            <div class="item-bd row">
+              <div class="col-6 img-box"><img src="https://img1.jcloudcs.com/portal/journal/delivery201905.jpg"></div>
+              <div class="col-6 txt-box"><p class="txt">
+                以合作促发展，携手共进定义未来。京东云携手国家信息中心，开启“数字中国”新篇章；京东云、中移物联网与优世联合完成战略签约；本期更有京东云总裁申元庆谈IT发展，改革开放40年，让我们一起迎来全新时代。</p>
+ <a
+                clstag="News|keycount|MiddleContentSec|delivery201905"
+                href="//www.jdcloud.com/news/delivery201905" class="jdc-btn jdc-bg">立即查看
+              </a></div>
+            </div>
+          </div>
+        </div>
+		<div class="jdc-journal-item col-6 col-xs-12">
+          <div class="item-bg">
             <div class="item-hd">京东云上速递 | 第四期</div>
             <div class="item-bd row">
               <div class="col-6 img-box"><img src="https://img1.jcloudcs.com/portal/journal/delivery201904.jpg"></div>
