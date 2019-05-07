@@ -1,4 +1,4 @@
-<div class="jdc-trusted">
+﻿<div class="jdc-trusted">
  <div class="jdc-common-banner">
   <div class="w">
    <div class="jdc-common-banner-ct">
@@ -298,7 +298,7 @@
        </div>
        <div class="model-tab-item-bd">
         <h5>
-         Virtual Machine Security
+         Virtual Machines Security
         </h5>
         <p>
          The network between users will be subject to 100% isolation and the machine’s security risks will be monitored in real time to precisely defend hacker intrusions and ensure the data security of the user. The security group is provided to enhance the network defense capability and provide comprehensive protection for the machine.
@@ -350,7 +350,7 @@
          Endpoint Security
         </h5>
         <p>
-         The endpoint security risks can be perceived in real time by deploying lightweight Agent on the virtual machines, so that the malicious attack behaviors can be effectively prevented. It provides machine defense and detection capabilities including important risk vulnerability detection, remote login reminder, Webshell detection and killing and brute force anti-crack, to ensure the security of public virtual machine.
+         The endpoint security risks can be perceived in real time by deploying lightweight Agent on the Virtual Mchines, so that the malicious attack behaviors can be effectively prevented. It provides machine defense and detection capabilities including important risk vulnerability detection, remote login reminder, Webshell detection and killing and brute force anti-crack, to ensure the security of public Virtual Machines.
         </p>
         <h5>
          Cloud Situation Awareness
