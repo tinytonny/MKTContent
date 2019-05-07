@@ -775,5 +775,12 @@
 		"id":1087,
 		"button_title":"View More",
 		"main_title":"JD Stack, A New Generation of Proprietary Cloud by JD Cloud"
+	},
+	{
+		"sub_title":"Exploring Digital Transformation in the New Retail",
+		"name":"JD Cloud TechMeetup",
+		"id":1090,
+		"button_title":"Register Now",
+		"main_title":"JD Cloud TechMeetup · Shanghai"
 	}
 ]
