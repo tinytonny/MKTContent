@@ -20,23 +20,23 @@
 		"label":"赔"
 	},
 	{
-		"name":"京东云刊",
-		"description":"礼包奉上，订阅有惊喜",
+		"name":"限时优惠",
+		"description":"1元抢价值200元会员礼包",
 		"id":5
 	},
 	{
-		"name":".cn域名仅售9元",
-		"description":"更多域名直降26元",
+		"name":"内容存储分发解决方案",
+		"description":"让存储分发变得更简单",
 		"id":6
 	},
 	{
-		"name":"对象存储推出免费额度",
-		"description":"新老用户均可享受标准存储免费额度",
+		"name":"Kubernetes集群",
+		"description":"功能强大的容器服务",
 		"id":7
 	},
 	{
 		"name":"容器镜像仓库",
-		"description":"一折促销中",
+		"description":"一折公测中",
 		"id":8
 	}
 ]
