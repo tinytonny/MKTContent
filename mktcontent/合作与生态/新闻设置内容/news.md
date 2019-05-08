@@ -712,12 +712,12 @@
 		"news_title":"Rejecting network threats, JD Cloud uses its strength to build a security \"moat\" on Cloud"
 	},
 	{
-		"summary":"On April 2, JD Cloud, CMIOT and UnitedData jointly held the \"Intelligent IOT Strategic Cooperation Signing Conference\". At the meeting, the three parties signed a strategic cooperation agreement and announced the establishment of a long-term strategic partnership. In the future, the three parties will rely on technological innovation, through the integration of their respective advantageous resources, jointly promote the landing and implementation of the relevant projects of the Wisdom and IOT in various places, and carry out large-scale business development to help the development of intelligent IOT.",
+		"summary":"On April 2, JD Cloud, China Mobile IoT Company and UnitedData jointly held the \"Intelligent IOT Strategic Cooperation Signing Conference\". At the meeting, the three parties signed a strategic cooperation agreement and announced the establishment of a long-term strategic partnership. In the future, the three parties will rely on technological innovation, through the integration of their respective advantageous resources, jointly promote the landing and implementation of the relevant projects of the Wisdom and IOT in various places, and carry out large-scale business development to help the development of intelligent IOT.",
 		"image_url":"//img1.jcloudcs.com/cms/9a8afdfb-e1a2-4aac-972c-dd783e02367d20190404170629.jpg",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_482",
 		"jss_key":"News_Content_482",
 		"id":482,
-		"news_title":"JD Cloud, CMIOT and UnitedData jointly completed strategic signing: Jointly creating a new mode of intelligent life in the Internet of Things"
+		"news_title":"JD Cloud, China Mobile IoT Company and UnitedData jointly completed strategic signing: Jointly creating a new mode of intelligent life in the Internet of Things"
 	},
 	{
 		"summary":"On April 4, 2019, \"Signing Ceremony of Strategic Cooperation between SIC and JD Cloud\" was held in Beijing. On the same day, the Ministry of Information and Industry Development of the National Information Center officially reached a strategic cooperation with JD Cloud. The parties focus on research and cooperation in \"Internet +\", electronic government affairs, big data, cloud computing, Smart City and other fields, and strive to accelerate informationization with digitalization, foster new growth driver with information technology, promote new development with new growth driver, and broaden China's new space for information construction.",
