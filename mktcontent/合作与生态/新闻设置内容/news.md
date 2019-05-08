@@ -814,5 +814,13 @@
 		"jss_key":"News_Content_507",
 		"id":507,
 		"news_title":"云计算迈向纵深，京东云开启Serverless架构应用——函数服务"
+	},
+	{
+		"summary":"5月6日，第二届数字中国建设峰会在福州海峡国际会展中心盛大开幕，福州新区福清功能区与京东云，携双方共同打造的实体经济与数字经济融合典范——元洪食品数字化建设最新成果，亮相数字中国建设成果展的数字福建成果展区。",
+		"image_url":"//img1.jcloudcs.com/cms/a3b89c78-7a4f-4314-a95f-55142d60d60a20190508140833.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_508",
+		"jss_key":"News_Content_508",
+		"id":508,
+		"news_title":"“元洪模式”唱响数字中国，筑建全球食品交易云平台"
 	}
 ]
