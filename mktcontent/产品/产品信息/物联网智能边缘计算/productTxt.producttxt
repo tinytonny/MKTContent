@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"productName\":\"IoT Edge Computing\",\"desc\":\"Intelligent system deployed and running on edge node devices extends cloud computing power to local edge nodes for executing intelligent computing on site. Users can obtain capabilities such as device access management, data nearby processing and AI deduction. through edge computing nodes on device deployment site.\",\"label\":[{\"TitleName\":\"Apply Now\",\"TitleUrl\":\"https://www.jdcloud.com/en/public/testApply/iotedge\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"txt":"{\"productName\":\"IoT Edge\",\"desc\":\"Intelligent system deployed and running on edge node devices extends cloud computing power to local edge nodes for executing intelligent computing on site. Users can obtain capabilities such as device access management, data nearby processing and AI deduction. through edge computing nodes on device deployment site.\",\"label\":[{\"TitleName\":\"Apply Now\",\"TitleUrl\":\"https://www.jdcloud.com/en/public/testApply/iotedge\",\"classTag\":\"\"}],\"instruction\":[]}",
 		"id":1109
 	},
 	{

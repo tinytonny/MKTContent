@@ -360,31 +360,31 @@
 		"id":1203
 	},
 	{
-		"name":"Cabinet Lease",
+		"name":"Co-location",
 		"id":1204
 	},
 	{
-		"name":"Bandwidth Product",
+		"name":"Monoline & BGP Bandwidth ",
 		"id":1205
 	},
 	{
-		"name":"IT Device Installation",
+		"name":"IT Equipment Installation",
 		"id":1206
 	},
 	{
-		"name":"Customized Routing Inspection",
+		"name":"Customized Inspection",
 		"id":1207
 	},
 	{
-		"name":"IDC On-site Technical Support",
+		"name":"IDC Local Technical Support",
 		"id":1208
 	},
 	{
-		"name":"IDC Asset Management Service",
+		"name":"IDC Assets Management",
 		"id":1209
 	},
 	{
-		"name":"Network Architecture Planning Service",
+		"name":"Network Architecture Design Service",
 		"id":1215
 	},
 	{
@@ -400,7 +400,7 @@
 		"id":1218
 	},
 	{
-		"name":"Network Hosted DevOps Service",
+		"name":"Network Operation and Maintenance Service",
 		"id":1220
 	},
 	{
@@ -412,7 +412,7 @@
 		"id":1228
 	},
 	{
-		"name":"IoT Edge Computing",
+		"name":"IoT Edge",
 		"id":1256
 	},
 	{
