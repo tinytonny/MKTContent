@@ -782,5 +782,19 @@
 		"id":1090,
 		"button_title":"Register Now",
 		"main_title":"JD Cloud TechMeetup · Shanghai"
+	},
+	{
+		"sub_title":"Centralized Cloud Service Manages Your Tons of IoT Devices",
+		"name":"IoT Hub",
+		"id":1091,
+		"button_title":"View More",
+		"main_title":"IoT Hub"
+	},
+	{
+		"sub_title":"IoT Edge, Safe, Fast and Efficient!",
+		"name":"IoT Edge",
+		"id":1092,
+		"button_title":"View More",
+		"main_title":"IoT Edge"
 	}
 ]
