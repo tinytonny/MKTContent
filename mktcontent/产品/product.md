@@ -392,7 +392,7 @@
 		"id":1216
 	},
 	{
-		"name":"Server and Network Monitoring Service",
+		"name":"Server & Network Monitor Service",
 		"id":1217
 	},
 	{
