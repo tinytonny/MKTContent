@@ -822,5 +822,21 @@
 		"jss_key":"News_Content_508",
 		"id":508,
 		"news_title":"“元洪模式”唱响数字中国，筑建全球食品交易云平台"
+	},
+	{
+		"summary":"“400个数字经济重大项目，3000亿元总投资，其中200个项目已开工建设，一批项目已建成运营。”这是首届数字中国建设峰会一年来的硕果。如今的中国，正以奔跑的姿态在数字中国建设的道路上前行。数字中国建设，为我们呈现出生活的多种可能，而每一种可能都事关美好。",
+		"image_url":"//img1.jcloudcs.com/cms/f11a03cb-1564-41a4-a63c-704c0c9ccb0820190509140554.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_509",
+		"jss_key":"News_Content_509",
+		"id":509,
+		"news_title":"申元庆：数字技术驱动智慧社会加速到来"
+	},
+	{
+		"summary":"随着科技的发展，特效渲染在中国影视剧中占据的比例越来越大，其中大家所熟悉的《西游记·大圣归来》、《捉妖记》、《龙之谷·破晓奇兵》、《熊出没·雪岭熊风》等多部热映动画电影都给观众留下了深刻的印象。而这些动画电影的特效和渲染画面，正是由国内云渲染服务行业处于领先地位的江苏赞奇科技股份有限公司参与并制作。",
+		"image_url":"//img1.jcloudcs.com/cms/0325c16f-099f-4c07-8a87-60c0f5c1d1e920190509190653.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_510",
+		"jss_key":"News_Content_510",
+		"id":510,
+		"news_title":"全面拥抱公有云催生变革 渲云借助京东云打造新一代云渲染平台"
 	}
 ]
