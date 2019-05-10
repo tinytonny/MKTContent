@@ -838,5 +838,21 @@
 		"jss_key":"News_Content_510",
 		"id":510,
 		"news_title":"全面拥抱公有云催生变革 渲云借助京东云打造新一代云渲染平台"
+	},
+	{
+		"summary":"强强合作，着眼未来。5月10日，京东·东坡（眉山）“互联网+新经济”合作发布会在京召开。眉山市东坡区委书记朱莉、京东集团京东云副总裁刘佩云出席。",
+		"image_url":"//img1.jcloudcs.com/cms/1bcf7d70-b69f-45e2-b69d-c0cecd05159720190510174530.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_515",
+		"jss_key":"News_Content_515",
+		"id":515,
+		"news_title":"京东∙东坡合作发布会在京举行"
+	},
+	{
+		"summary":"近日，京东云正式发布《京东云数据安全白皮书》，宣布以“让云端数据更安全”为目标，以及“尊重数据主权不碰用户数据，提供安全保障保护用户数据安全，保护隐私对用户透明可信”的理念。",
+		"image_url":"//img1.jcloudcs.com/cms/0969cbbc-cad5-4545-9777-1fb6b4dd17ab20190510172221.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_516",
+		"jss_key":"News_Content_516",
+		"id":516,
+		"news_title":"让云端数据更安全 京东云发布《数据安全白皮书》"
 	}
 ]
