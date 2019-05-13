@@ -1349,7 +1349,7 @@
 	},
 	{
 		"summary":"",
-		"name":"JD AI",
+		"name":"AI",
 		"id":3248
 	},
 	{
