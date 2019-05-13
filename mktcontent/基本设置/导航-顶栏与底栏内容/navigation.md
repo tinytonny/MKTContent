@@ -1629,8 +1629,8 @@
 		"id":3165
 	},
 	{
-		"name":"AI与机器学习",
-		"description":"AI与机器学习",
+		"name":"京东人工智能",
+		"description":"京东人工智能",
 		"id":3169
 	},
 	{
@@ -1908,8 +1908,8 @@
 		"id":3295
 	},
 	{
-		"name":"AI与机器学习",
-		"description":"AI与机器学习",
+		"name":"人工智能",
+		"description":"人工智能",
 		"id":3297
 	},
 	{
