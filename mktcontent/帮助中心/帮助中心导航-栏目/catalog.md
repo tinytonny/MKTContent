@@ -1349,7 +1349,7 @@
 	},
 	{
 		"summary":"",
-		"name":"AI & Machine Learning",
+		"name":"JD AI",
 		"id":3248
 	},
 	{
