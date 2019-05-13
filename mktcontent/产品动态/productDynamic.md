@@ -1636,5 +1636,11 @@
 		"name":"Official Release of CodeDeploy",
 		"description":"CodeDeploy is a strong tool with various types and modes of deployment. Using CodeDeploy makes you easily deploy the program package to JD Cloud Virtual Machines. Moreover, CodeDeploy can support multiple deployment policies and configurations in a flexible way. It can link with products such as Load Balancer and Availability Group to implement the cloud deployment. Used in conjunction with developer tools such as CodeCommit and CodeBuild to form an integrated, continuous delivery.",
 		"id":2263
+	},
+	{
+		"introduce":"JD Cloud Live SDK is a software development kit launched by JD Cloud for mobile terminal platforms.",
+		"name":"Live Pushing Streaming & Player SDK",
+		"description":"It includes two modules, namely pushing streaming SDK and player SDK, respectively supporting Android and iOS pushing streaming and playing. Pushing streaming SDK can help developers quickly achieve stable collection and pushing streaming functions for video live, and player SDK supports the playing of live video, VOD, local video and other types of videos.",
+		"id":2264
 	}
 ]

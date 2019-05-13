@@ -798,5 +798,21 @@
 		"jss_key":"News_Content_505",
 		"id":505,
 		"news_title":"JD Cloud helps \"Hot Pot Food Material Trading Platform\" make its debut in Chongqing"
+	},
+	{
+		"summary":"On April 29, the JD (Yuanhong) Food Digital Economy Industry Center was formally opened, and the representatives of Municipal Government of Fuqing, JD Group and food industry jointly witnessed the practice and exploration results of food digital economy of JD (Yuanhong).",
+		"image_url":"//img1.jcloudcs.com/cms/d7f3f4b9-7ce6-4ef6-a39f-e4fc85b04a9f20190430145452.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_506",
+		"jss_key":"News_Content_506",
+		"id":506,
+		"news_title":"Yuanhong Food is empowered by JD Cloud, driving the food industry in Fuqing to enter the new digital economy era"
+	},
+	{
+		"summary":"According to the Global Serverless Architecture Market, a report released by KBV Research Company, the scale of the global Serverless architecture market is predicted to reach 14 billion US Dollars in 2024 and to increase at an annual compound growth rate of 23.4% in this prediction period. From the perspective of development, a lower operating cost and higher process flexibility have promoted the implementation of the Serverless architecture.",
+		"image_url":"//img1.jcloudcs.com/cms/e8a044b9-8bec-44ad-baa0-9ad19acdc59220190430155303.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_507",
+		"jss_key":"News_Content_507",
+		"id":507,
+		"news_title":"Cloud computing has developed further, and JD Cloud has opened the Serverless architecture application - Function Service"
 	}
 ]

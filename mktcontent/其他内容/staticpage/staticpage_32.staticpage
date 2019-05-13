@@ -198,6 +198,7 @@
     </div>
   </div>
 
+<!--
   <div class="domain-floor">
     <div class="domain-floor-hd">
       <h5 class="domain-floor-tit">Virtual Machines price as low as 40% off</h5>
@@ -273,7 +274,7 @@
 
     </div>
   </div>
-
+-->
   <div class="domain-floor">
     <div class="domain-floor-hd">
       <h5 class="domain-floor-tit">Only RMB 98 required for website building template</h5>
@@ -541,8 +542,10 @@
     <ul class="domain-navlst">
       <li class="domain-navlst-item" clstag="Activity|keycount|MiddleContentSec|17"><p>Strive to register domains within the limited time</p>
 </li>
+	  <!-- 
       <li class="domain-navlst-item" clstag="Activity|keycount|MiddleContentSec|18"><p>Virtual Machines price as low as 40% off</p>
 </li>
+	  -->
       <li class="domain-navlst-item" clstag="Activity|keycount|MiddleContentSec|19"><p>Only RMB 98 required for website building template</p>
 </li>
       <li class="domain-navlst-item" clstag="Activity|keycount|MiddleContentSec|20"><p>Choice Template Case</p>
