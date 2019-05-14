@@ -796,5 +796,12 @@
 		"id":1092,
 		"button_title":"View More",
 		"main_title":"IoT Edge"
+	},
+	{
+		"sub_title":"Making Data in the Cloud More Secure",
+		"name":"JD Cloud Data Security WhitePaper Released",
+		"id":1096,
+		"button_title":"View More",
+		"main_title":"JD Cloud Data Security WhitePaper Released"
 	}
 ]
