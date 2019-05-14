@@ -1,11 +1,11 @@
 [
 	{
-		"name":"7*24 After-sales Support",
+		"name":"7*24 After-Sales Support",
 		"id":1,
 		"label":"Exclusive"
 	},
 	{
-		"name":"VIP One-to-one Service",
+		"name":"VIP One-to-One Service",
 		"id":2,
 		"label":"VIP"
 	},
