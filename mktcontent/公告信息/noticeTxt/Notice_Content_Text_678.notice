@@ -1,0 +1,68 @@
+<p style="line-height: 24px;background: white"><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">2019</span>
+<span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">年5月15日，京东云安全团队监测到微软官方发布紧急安全补丁，修复了一个Windows远程桌面服务的远程代码执行漏洞(CVE-2019-0708)，利用此漏洞可能可以直接获取Windows服务器权限。</span>
+</p>
+<p style="line-height: 24px;background: white"><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41"><br/></span>
+</p>
+<p style="line-height: 24px;background: white"><strong><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">【<strong style="white-space: normal;"><span style="font-size: 13px; font-family: 微软雅黑, sans-serif; color: rgb(55, 61, 65);">漏洞描述</span>
+</strong>】</span>
+</strong></p>
+<p style="line-height: 24px;background: white"><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">远程桌面服务（以前称为终端服务）中存在远程执行代码漏洞，当未经身份验证的攻击者使用RDP连接到目标系统并发送特制请求时。此漏洞是预身份验证，无需用户交互。成功利用此漏洞的攻击者可以在目标系统上执行任意代码。然后攻击者可以安装程序; 查看，更改或删除数据; 或创建具有完全用户权限的新帐户。</span>
+</p>
+<p style="line-height: 24px;background: white"><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41"><br/></span>
+</p>
+<p style="line-height: 24px;background: white"><strong><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">【<strong style="white-space: normal;"><span style="font-size: 13px; font-family: 微软雅黑, sans-serif; color: rgb(55, 61, 65);">漏洞编号和评级</span>
+</strong>】</span>
+</strong></p>
+<p style="line-height: 24px;background: white"><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">CVE-2019-0708 </span>
+<span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">严重</span>
+</p>
+<p style="line-height: 24px;background: white"><strong><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41"><br/></span>
+</strong></p>
+<p style="line-height: 24px;background: white"><strong><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">【受<strong style="white-space: normal;"><span style="font-size: 13px; font-family: 微软雅黑, sans-serif; color: rgb(55, 61, 65);">影响的Windows系统版本</span>
+</strong>】</span>
+</strong></p>
+<ul class=" list-paddingleft-2" style="list-style-type: disc;"><li><p style="line-height: 24px;background: white"><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">Windows 7</span>
+</p>
+</li><li><p style="line-height: 24px;background: white"><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">Windows Server 2008 R2</span>
+</p>
+</li><li><p style="line-height: 24px;background: white"><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">Windows Server 2008</span>
+</p>
+</li><li><p style="line-height: 24px;background: white"><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">Windows 2003</span>
+</p>
+</li><li><p style="line-height: 24px; background: white; text-align: left;"><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">Windows XP</span>
+</p>
+</li></ul><p style="line-height: 24px;background: white"><strong><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41"><br/></span>
+</strong></p>
+<p style="line-height: 24px;background: white"><strong><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">【<strong style="white-space: normal;"><span style="font-size: 13px; font-family: 微软雅黑, sans-serif; color: rgb(55, 61, 65);">安全建议</span>
+</strong>】</span>
+</strong></p>
+<p><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">Windows 7</span>
+<span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">，Windows 2008 R2，Windows 2008 的用户会自动收到补丁的更新推送并自动更新，请保持Windows更新开启或者手动进行更新。</span>
+</p>
+<p><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41"><br/></span>
+</p>
+<p style="line-height: 24px;background: white"><strong><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">【<strong style="white-space: normal;"><span style="font-size: 13px; font-family: 微软雅黑, sans-serif; color: rgb(55, 61, 65);">缓解措施</span>
+</strong>】</span>
+</strong></p>
+<p style="line-height: 24px;background: white"><span style="font-size: 13px; font-family: 微软雅黑, sans-serif; color: rgb(55, 61, 65);">1.<span style="font-variant-numeric: normal;font-stretch: normal;font-size: 9px;line-height: normal;font-family: &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size: 13px; font-family: 微软雅黑, sans-serif; color: rgb(55, 61, 65);">如果不需要，请禁用远程桌面服务。</span>
+</p>
+<p style="line-height: 24px;background: white"><span style="font-size: 13px; font-family: 微软雅黑, sans-serif; color: rgb(55, 61, 65);">2.<span style="font-variant-numeric: normal;font-stretch: normal;font-size: 9px;line-height: normal;font-family: &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size: 13px; font-family: 微软雅黑, sans-serif; color: rgb(55, 61, 65);">在运行Windows 7，Windows Server 2008和Windows Server 2008 R2的受支持版本的系统上启用网络级别身份验证（NLA）</span>
+</p>
+<p class="MsoListParagraph" style="margin-left: 24px;text-indent: 0;line-height: 24px;background: white"><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">参考配置：<a href="https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc732713(v=ws.11)" _src="https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc732713(v=ws.11)">https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc732713(v=ws.11)</a></span>
+</p>
+<p class="MsoListParagraph" style="margin-left: 24px;text-indent: 0;line-height: 24px;background: white"><span style="font-size: 13px; font-family: 微软雅黑, sans-serif; color: rgb(55, 61, 65);">3.<span style="font-variant-numeric: normal;font-stretch: normal;font-size: 9px;line-height: normal;font-family: &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size: 13px; font-family: 微软雅黑, sans-serif; color: rgb(55, 61, 65);">在安全组配置阻止TCP端口3389</span>
+<br/></p>
+<p style="line-height: 24px;background: white"><br/></p>
+<p style="line-height: 24px;background: white"><span style="color:#373d41;font-family:微软雅黑, sans-serif"><span style="font-size: 13px;"><strong>【官方参考链接</strong></span>
+</span>
+<strong style="font-size: 13px; color: rgb(55, 61, 65); font-family: 微软雅黑, sans-serif;">】</strong></p>
+<p style="line-height: 24px;background: white"><strong style="font-size: 13px; color: rgb(55, 61, 65); font-family: 微软雅黑, sans-serif;"><span style="color: rgb(55, 61, 65); font-family: 微软雅黑, sans-serif; font-size: 13px;"><a href="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0708" _src="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0708">https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0708</a> </span>
+</strong></p>
+<p><br/></p>
+<p><br/></p>
