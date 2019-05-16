@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"语音识别\",\"label\":[{\"TitleName\":\"0元试用\",\"TitleUrl\":\"http://ai-console.jdcloud.com/voice/automatic-speech-recognition\",\"classTag\":\"\"}],\"desc\":\"将语音转成文字。支持多场景识别，为零售、客服、金融等场景提供语音解决方案\"}",
+		"id":1001
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"多领域精通\",\"proName\":\"依托于京东零售、金融、客服等领域大数据支持，结合行业前沿算法，做到领域内专家级语音识别\"},{\"showShade\":false,\"proGood\":\"可定向优化\",\"proName\":\"能够帮助客户做定向优化，通过一定数据与模型的调试，提供更适合您领域的语音识别服务\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"即说即显\",\"proName\":\"采用流式识别技术，能做到“边说边出文字”\"}]",
+		"id":1002
+	},
+	{
+		"txt":"[{\"funcName\":\"流式识别\",\"funcContent\":[{\"funcTitle\":\"语音转文本\",\"funcP\":\"语音识别主要包括特征提取技术、模式匹配准则及模型训练等三个方面，实现人机交互过程中将语音转成文字，采用流式识别技术，实现“即说即显”\"}]},{\"funcName\":\"支持多场景\",\"funcContent\":[{\"funcTitle\":\"应用场景\",\"funcP\":\"为零售、客服、金融等场景提供语音解决方案\"}]}]",
+		"id":1003
+	},
+	{
+		"txt":"[{\"name\":\"客服录音分析\",\"instruction\":\"客服录音分析将用户与客服的对话转成文字，挖掘用户的情绪，分析客服的回答水平，实现音频的大数据分析\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"零售商品查询\",\"instruction\":\"零售商品查询用户直接以语音的方式，查找自己想要的商品，代替原有的打字查询，让搜索更加高效\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"金融机器人顾问\",\"instruction\":\"金融机器人顾问用户可用对话的方式，了解金融相关资讯\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1004
+	}
+]
