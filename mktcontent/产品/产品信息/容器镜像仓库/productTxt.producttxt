@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"容器镜像仓库\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/containerregistry\"}],\"desc\":\"容器镜像仓库是全托管的容器镜像存储、分发平台，提供安全、可靠的镜像服务，与京东云原生容器、Kubernetes集群服务无缝集成，为基于容器的应用提供一站式部署服务。\\n\\n公测期间，一折促销中，欢迎使用\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/fb2ee315-72e2-4057-b250-9907cbc6985e20181115163317.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|96\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|96\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"容器镜像仓库\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://cns-console.jdcloud.com/host/containerregistry/list\"}],\"desc\":\"容器镜像仓库是全托管的容器镜像存储、分发平台，提供安全、可靠的镜像服务，与京东云原生容器、Kubernetes集群服务无缝集成，为基于容器的应用提供一站式部署服务。\\n\\n一折促销中，欢迎使用\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/fb2ee315-72e2-4057-b250-9907cbc6985e20181115163317.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|96\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|96\"}",
 		"id":287
 	},
 	{
@@ -10,5 +10,9 @@
 	{
 		"txt":"[{\"funcContent\":[{\"funcP\":\"用户可以根据需求，对容器镜像进行创建、删除、下载。\",\"funcTitle\":\"管理容器镜像\"},{\"funcP\":\"支持华北-北京、华东-上海、华南-广州三大地域\",\"funcTitle\":\"支持多区域\"}],\"funcName\":\"容器镜像管理\"},{\"funcContent\":[{\"funcP\":\"结合原生容器、Kubernetes集群，快速创建容器化应用。\",\"funcTitle\":\"快速创建容器化应用\"}],\"funcName\":\"集成容器服务\"}]",
 		"id":289
+	},
+	{
+		"txt":"[{\"name\":\"产品简介\",\"link\":\"https://docs.jdcloud.com/container-registry/product-overview\",\"classTag\":\"\"},{\"name\":\"产品定价\",\"link\":\"https://docs.jdcloud.com/container-registry/billing-overview\",\"classTag\":\"\"},{\"name\":\"入门指南\",\"link\":\"https://docs.jdcloud.com/container-registry/guide-overview\",\"classTag\":\"\"},{\"name\":\"操作指南\",\"link\":\"https://docs.jdcloud.com/container-registry/registry-overview\",\"classTag\":\"\"},{\"name\":\"最佳实践\",\"link\":\"https://docs.jdcloud.com/container-registry/deploy-application\",\"classTag\":\"\"},{\"name\":\"常见问题\",\"link\":\"https://docs.jdcloud.com/container-registry/common-problem\",\"classTag\":\"\"},{\"name\":\"API参考\",\"link\":\"https://docs.jdcloud.com/containerregistry/api/overview?content=API\",\"classTag\":\"\"}]",
+		"id":909
 	}
 ]
