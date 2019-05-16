@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"评论观点抽取\",\"label\":[{\"TitleName\":\"0元试用\",\"TitleUrl\":\"http://ai-console.jdcloud.com/nlp/commentary-extraction\",\"classTag\":\"\"}],\"desc\":\"自动分析评论关注点和评论观点，提取评论的评论观点标签。辅助用户进行内容生成、产品决策、运营监控等\"}",
+		"id":1045
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"准确率高\",\"proName\":\"自动挖掘评价词，形成标签体系。通过机器学习算法高效准确的提取评论观点\"},{\"showShade\":false,\"proGood\":\"数据丰富\",\"proName\":\"基于电商领域丰富的评论数据\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"维度多样\",\"proName\":\"基于电商领域大量的数据自动获取用户评论的多维度的关注点\"}]",
+		"id":1046
+	},
+	{
+		"txt":"[{\"funcName\":\"自动提取数据\",\"funcContent\":[{\"funcTitle\":\"自动挖掘评价词\",\"funcP\":\"基于机器学习算法模型和电商领域丰富的评论数据，自动挖掘评价词\"}]},{\"funcName\":\"摘要生成\",\"funcContent\":[{\"funcTitle\":\"可生成摘要内容\",\"funcP\":\"自动分析评论关注点和评论观点，提取评论观点标签，辅助决策、生成摘要\"}]}]",
+		"id":1047
+	},
+	{
+		"txt":"[{\"name\":\"评论观点抽取\",\"instruction\":\"评论观点抽取提取评论中的标签分类，辅助决策\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"摘要生成\",\"instruction\":\"摘要生成观点抽取，摘要生成，提升质量摘要生成摘要生成观点抽取，摘要生成，提升质量\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"行业调研\",\"instruction\":\"行业调研反馈用户关注热点，辅助决策\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1048
+	}
+]
