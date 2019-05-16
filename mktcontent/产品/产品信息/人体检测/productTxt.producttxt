@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"人体检测\",\"label\":[{\"TitleName\":\"0元试用\",\"TitleUrl\":\"http://ai-console.jdcloud.com/body/human-detection\",\"classTag\":\"\"}],\"desc\":\"基于业界领先的AI技术准确地检测出图片或视频中的人体，并返回高精度的人体矩形框坐标\"}",
+		"id":1077
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"准确率高\",\"proName\":\"算法模型在2018 ECCV全球竞赛多项冠亚军，算法不断更新，保持领先优势\"},{\"showShade\":false,\"proGood\":\"可检测单人及多人场景\",\"proName\":\"不仅可以支持单人的姿态预估，同时有效支持多人场景下的人体检测\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"支持平俯视角\",\"proName\":\"不仅支持中远距离俯拍，还支持平拍视角，根据不同的视角调用不同的模型，更加准确可靠\"}]",
+		"id":1078
+	},
+	{
+		"txt":"[{\"funcName\":\"多人体检测\",\"funcContent\":[{\"funcTitle\":\"检测图片中的人体\",\"funcP\":\"检测图像中的所有人体\"}]},{\"funcName\":\"返回人体坐标\",\"funcContent\":[{\"funcTitle\":\"检测并返回人体坐标值\",\"funcP\":\"检测并返回图片或视频中人体坐标值以及置信度\"}]}]",
+		"id":1079
+	},
+	{
+		"txt":"[{\"name\":\"智慧零售\",\"instruction\":\"人体检测不仅支持简单的客流统计还可结合人脸检测API实时统计商场、门店出入口人流量，年龄分布，性别，等客户信息，分析消费者得属性，为商家导购导流、货品优化、门店选址等起到关键性的作用\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"安防监控\",\"instruction\":\"安防监控实时监测景区，机场、车站、学校、广场等场所的人流量，为公共安全提供保障\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"其他场景\",\"instruction\":\"其他场景在其他由人体检测的场景中，实现快速检测识别\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1080
+	}
+]
