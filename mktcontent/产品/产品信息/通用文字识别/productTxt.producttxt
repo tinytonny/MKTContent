@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"通用文字识别\",\"label\":[{\"TitleName\":\"0元试用\",\"TitleUrl\":\"http://ai-console.jdcloud.com/ocr/general-image-ocr\",\"classTag\":\"\"}],\"desc\":\"基于业界领先的深度学习技术，利用光学字符识别技术，依托京东海量优质数据为您提供多场景、高精度的图片文字检测和识别服务\"}",
+		"id":1065
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"通用性强\",\"proName\":\"不仅支持卡证类图片，还支持多种复杂场景的文字识别，如电商图文、广告图文，街景等\"},{\"showShade\":false,\"proGood\":\"适应性强\",\"proName\":\"适应各种实际应用中复杂的情况，如反光、倾斜、模糊等，具备稳定的可用性\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"稳定可靠\",\"proName\":\"丰富的场景业务验证，性能稳定\"}]",
+		"id":1066
+	},
+	{
+		"txt":"[{\"funcName\":\"检测文字\",\"funcContent\":[{\"funcTitle\":\"检测图片中的文字\",\"funcP\":\"基于用户输入的图片检测图片中的文字\"}]},{\"funcName\":\"识别文字\",\"funcContent\":[{\"funcTitle\":\"识别图片中的文字\",\"funcP\":\"将图片上的文字转换为可编辑的文本，并返回文字坐标\"}]}]",
+		"id":1067
+	},
+	{
+		"txt":"[{\"name\":\"通用性强\",\"instruction\":\"不仅支持卡证类图片，还支持多种复杂场景的文字识别，如电商图文、广告图文，街景等\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"适应性强\",\"instruction\":\"适应各种实际应用中复杂的情况，如反光、倾斜、模糊等，具备稳定的可用性\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"稳定可靠\",\"instruction\":\"丰富的场景业务验证，性能稳定\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1068
+	}
+]
