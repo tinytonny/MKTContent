@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"营业执照识别\",\"desc\":\"基于业界领先的深度学习技术，识别营业执照的关键字段包括：统一社会信用代码/注册号，单位名称、法人、地址、有效期、等关键字段准确可靠\",\"label\":[],\"instruction\":[]}",
+		"id":1069
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"适应性强\",\"proName\":\"适应各种实际应用中复杂的情况，如反光、倾斜、模糊等，具备稳定的可用性\"},{\"showShade\":false,\"proGood\":\"识别精准\",\"proName\":\"关键字段识别准确率达98%以上\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"稳定可靠\",\"proName\":\"丰富的场景业务验证，性能稳定\"}]",
+		"id":1070
+	},
+	{
+		"txt":"[{\"funcName\":\"营业执照检测\",\"funcContent\":[{\"funcTitle\":\"对图片中的营业执照检测\",\"funcP\":\"检测图片中是否含有营业执照\"}]},{\"funcName\":\"营业执照识别\",\"funcContent\":[{\"funcTitle\":\"对图片中的营业执照识别\",\"funcP\":\"识别营业执照的关键字段包括：统一社会信用代码/注册号，单位名称、法人、地址、有效期等\"}]}]",
+		"id":1071
+	},
+	{
+		"txt":"[{\"name\":\"企业认证\",\"instruction\":\"可应用于电商、O2O，税务，分类信息网站等，快速识别营业执照进行信息录入，提高输入效率，提升用户体验\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"金融领域\",\"instruction\":\"应用于金融业务的企业营业执照的识别，实现信息录入，速度快，准确率高，减少用户输入成本，节省人力成本，有效提高用户的体验\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1072
+	}
+]
