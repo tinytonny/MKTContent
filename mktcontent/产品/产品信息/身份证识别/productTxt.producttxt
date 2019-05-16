@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"身份证识别\",\"label\":[{\"TitleName\":\"0元试用\",\"TitleUrl\":\"http://ai-console.jdcloud.com/ocr/identity-card-recognize\",\"classTag\":\"\"}],\"desc\":\"识别二代居民身份证正反面的关键字段识别，包括姓名、性别、民族、出生日期、住址、身份证号、签发机关、有效期限，识别准确率业内领先，稳定可靠\"}",
+		"id":1053
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"服务多样\",\"proName\":\"支持各类二代身份证（包含藏族，蒙族，维族，朝鲜族，壮族等多种少数民族地区专有版式）\"},{\"showShade\":false,\"proGood\":\"识别精准\",\"proName\":\"关键字段识别准确率高，业内领先\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"稳定可靠\",\"proName\":\"丰富的场景业务验证，性能稳定\"}]",
+		"id":1054
+	},
+	{
+		"txt":"[{\"funcName\":\"身份证检测\",\"funcContent\":[{\"funcTitle\":\"检测图片中的身份证\",\"funcP\":\"用户输入一张图片，检测图片是否含有身份证\"}]},{\"funcName\":\"身份证识别\",\"funcContent\":[{\"funcTitle\":\"识别身份证信息\",\"funcP\":\"并识别居民身份证正反面的关键字段识别，包括姓名、性别、民族、出生日期、住址、身份证号、签发机关、有效期限\"}]}]",
+		"id":1055
+	},
+	{
+		"txt":"[{\"name\":\"金融领域\",\"instruction\":\"金融领域应用于金融业务的用户身份认证识别，实现信息录入，速度快，准确率高，减少用户输入成本，节省人力成本，有效提高用户的体验\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"电商物流领域\",\"instruction\":\"电商物流领域电商物流领域在电商和物流领域，识别用户或商户身份证的自动识别和录入，快捷高效的验证身份\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"其他领域\",\"instruction\":\"在有身份证识别的场景中，快速识别身份证信息\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1056
+	}
+]
