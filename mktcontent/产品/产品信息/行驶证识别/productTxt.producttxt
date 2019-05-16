@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"行驶证识别\",\"label\":[{\"TitleName\":\"0元试用\",\"TitleUrl\":\"http://ai-console.jdcloud.com/ocr/vehicle-license-recognize\",\"classTag\":\"\"}],\"desc\":\"基于业界领先的深度学习技术，识别机动车行驶证正页的关键字段识别，包括号牌号码、车辆类型、所有人、住址、使用性质、品牌型号、车辆识别代号、发动机号码、注册日期、发证日期等关键字段，准确可靠\"}",
+		"id":1057
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"适应性强\",\"proName\":\"适应各种实际应用中复杂的情况，如反光、倾斜、模糊等，具备稳定的可用性\"},{\"showShade\":false,\"proGood\":\"识别精准\",\"proName\":\"关键字段识别准确率高，业内领先\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"稳定可靠\",\"proName\":\"丰富的场景业务验证，性能稳定\"}]",
+		"id":1058
+	},
+	{
+		"txt":"[{\"funcName\":\"检测行驶证\",\"funcContent\":[{\"funcTitle\":\"检测图片中的行驶证\",\"funcP\":\"基于用户输入的图片，检测图片中是否含有机动车行驶证\"}]},{\"funcName\":\"识别关键字段\",\"funcContent\":[{\"funcTitle\":\"关键字段的识别输出\",\"funcP\":\"正确识别正页的关键字段包括：号牌号码、车辆类型、所有人、住址、使用性质、品牌型号、车辆识别代号、发动机号码、注册日期、发证日期\"}]}]",
+		"id":1059
+	},
+	{
+		"txt":"[{\"name\":\"交通运输\",\"instruction\":\"交通运输服务类应用，使用行驶证识别对注册司机信息进行快速录入，降低驾驶员的输入成本，准确快速便捷\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"金融领域\",\"instruction\":\"应用于金融业务中的用户的行驶证信息，速度快，准确率高，减少用户输入成本，节省人力成本，有效提高用户的体验\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"其他领域\",\"instruction\":\"在有行驶证识别的场景中，实现行驶证信息的快速录入\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1060
+	}
+]
