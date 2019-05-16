@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"人脸对比\",\"label\":[{\"TitleName\":\"0元试用\",\"TitleUrl\":\"http://ai-console.jdcloud.com/face/face-compare\",\"classTag\":\"\"}],\"desc\":\"基于人的脸部特征信息，计算两张脸的相似程度，并返回相似度评分，判断两者是否为同一个人\"}",
+		"id":1009
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"准确率高\",\"proName\":\"依托京东线上线下多个零售场景现实数据，利用业界先进的AI算法技术，能够提供高准确的相似性判断，准确率超过99%\"},{\"showShade\":false,\"proGood\":\"灵活易用\",\"proName\":\"通过上传2张图片即可即时获得相似度结果，借以判断是否为同一人；灵活支持自定义阈值，满足特定场景需求\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"多场景应用\",\"proName\":\"可满足金融场景下的人脸核身、安防场景下的人脸验证等多个场景的使用需求，后续将会陆续增加不同服务以满足更多场景的需求\"}]",
+		"id":1010
+	},
+	{
+		"txt":"[{\"funcName\":\"人脸检测\",\"funcContent\":[{\"funcTitle\":\"检测图片中的人脸\",\"funcP\":\"用户输入两张图片，检测图片中的人脸\"}]},{\"funcName\":\"人脸比对\",\"funcContent\":[{\"funcTitle\":\"比对图片中的人脸\",\"funcP\":\"从两张图片中挑选出最大的人脸进行比较，计算两张脸的相似程度，并返回相似度评分，判断两者是否为同一个人\"}]}]",
+		"id":1011
+	},
+	{
+		"txt":"[{\"name\":\"金融业务核身\",\"instruction\":\"金融业务核身通过人脸验证判断自拍照同公安系统或验证过的注册照片是否为同一人，以进行授权验证，能够帮助金融企业提升风控能力，实现快速放款；同时提升用户体验，降低成本\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"自助服务办理\",\"instruction\":\"自助服务办理自助服务办理在民政、公安等多个场景下，通过人脸验证保证居民生真实的情况下，将线下窗口服务转为线上自助服务，减少了繁琐的窗口程序，同时增加了业务办理渠道及延长了办理时间。有效提高了社会运转效率\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"安防验证\",\"instruction\":\"安防验证安防验证在严格的安防场景下，需要对通过的人员进行身份验证。将通过的人员的照片与注册照片进行严格比对，可以有效降低假冒顶替的行为风险\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1012
+	}
+]
