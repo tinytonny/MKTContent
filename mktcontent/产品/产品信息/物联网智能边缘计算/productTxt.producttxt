@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"productName\":\"物联网智能边缘计算\",\"desc\":\"部署和运行在边缘节点设备上的智能系统，将云端计算能力扩展到本地边缘节点，在现场执行智能计算。用户可以在设备部署现场通过边缘计算节点获得例如设备接入管理，数据就近处理，以及AI推断等能力。\",\"label\":[{\"TitleName\":\"立即申请\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/iotedge\",\"classTag\":\"\"}],\"instruction\":[]}",
+		"txt":"{\"instruction\":[{\"explain\":\"如申请本产品公测，请同时申请物联网中心公测\",\"explainLink\":\"https://www.jdcloud.com/cn/products/iot-hub\",\"classTag\":\"\"}],\"productName\":\"物联网智能边缘计算\",\"label\":[{\"TitleName\":\"立即申请\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/iotedge\",\"classTag\":\"\"}],\"desc\":\"部署和运行在边缘节点设备上的智能系统，将云端计算能力扩展到本地边缘节点，在现场执行智能计算。用户可以在设备部署现场通过边缘计算节点获得例如设备接入管理，数据就近处理，以及AI推断等能力。\"}",
 		"id":1109
 	},
 	{
