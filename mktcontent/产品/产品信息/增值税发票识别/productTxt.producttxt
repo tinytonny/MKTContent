@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"增值税发票识别\",\"label\":[{\"TitleName\":\"0元试用\",\"TitleUrl\":\"http://ai-console.jdcloud.com/ocr/value-added-tax-invoice-recognize\",\"classTag\":\"\"}],\"desc\":\"基于业界领先的深度学习技术，识别发票代码，发票号码，购方名称，购方税号等20个关键字段，准确可靠深度学习技术，识别发票代码，发票号码，购方名称，购方税号等20个关键字段，准确可靠。\"}",
+		"id":1097
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"适应性强\",\"proName\":\"适应各种实际应用中复杂的情况，如反光、倾斜、模糊等，具备稳定的可用性\"},{\"showShade\":false,\"proGood\":\"识别精准\",\"proName\":\"关键字段识别准确率高，业内领先\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"稳定可靠\",\"proName\":\"丰富的场景业务验证，性能稳定\"}]",
+		"id":1098
+	},
+	{
+		"txt":"[{\"funcName\":\"发票检测\",\"funcContent\":[{\"funcTitle\":\"检测增值税发票\",\"funcP\":\"检测图片中是否含有增值税发票\"}]},{\"funcName\":\"识别发票\",\"funcContent\":[{\"funcTitle\":\"识别图片中的增值税发票\",\"funcP\":\"识别并返回增值税发票的关键字段及其对应值，包括：发票代码，发票号码，购方名称，购方税号，发票金额，开票日期等\"}]}]",
+		"id":1099
+	},
+	{
+		"txt":"[{\"name\":\"财务报销\",\"instruction\":\"可应用于企业财务的报销核对，对发票进行识别实现信息录入，速度快，准确率高，减少用户输入成本，节省人力成本\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"发票审核\",\"instruction\":\"识别增值税发票发票代码、发票号码、开票日期等信息与税务机关的查验平台进行核对发票真伪\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"发票审核\",\"instruction\":\"识别增值税发票发票代码、发票号码、开票日期等信息与税务机关的查验平台进行核对发票真伪\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1100
+	}
+]
