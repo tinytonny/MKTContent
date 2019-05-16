@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"人脸活体检测\",\"label\":[{\"TitleName\":\"0元试用\",\"TitleUrl\":\"http://ai-console.jdcloud.com/face/face-anti-spoofing\",\"classTag\":\"\"}],\"desc\":\"基于业内领先的深度学习技术，在人脸识别应用中判断用户是否为真实本人操作，可有效抵御照片、换脸、面具、遮挡以及屏幕翻拍等常见的攻击手段，从而帮助用户甄别欺诈行为，保障用户的利益\"}",
+		"id":1021
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"领先的算法\",\"proName\":\"基于业内领先的深度学习算法和京东海量数据训练，在实际的业务应用中具备领先优势\"},{\"showShade\":false,\"proGood\":\"准确可靠\",\"proName\":\"经过京东商城及第三方合作厂家数亿万次的调用业务验证，稳定可靠，识别精确\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"简单易用\",\"proName\":\"可通过不同的API自由组合各个人脸技术模块，实现不同的功能\"}]",
+		"id":1022
+	},
+	{
+		"txt":"[{\"funcName\":\"检测人脸\",\"funcContent\":[{\"funcTitle\":\"检测图片中的人脸\",\"funcP\":\"针对用户上传图像，检测图片中的人脸\"}]},{\"funcName\":\"活体检测\",\"funcContent\":[{\"funcTitle\":\"判断人脸是否为真人\",\"funcP\":\"判断用户是否为真实本人操作，可有效抵御照片、换脸、面具、遮挡以及屏幕翻拍等常见的攻击手段\"}]}]",
+		"id":1023
+	},
+	{
+		"txt":"[{\"name\":\"人证核验\",\"instruction\":\"判断用户是否为真实本人操作，可有效抵御照片、换脸、面具、遮挡以及屏幕翻拍等常见的攻击手段\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"金融业务核身\",\"instruction\":\"金融业务核身结合人脸对比API共同使用，通过人脸对比判断自拍照同公安系统或验证过的注册照片是否为同一人，以进行授权验证，能够帮助金融企业提升风控能力，实现快速放款；同时提升用户体验，降低成本\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"安防验证\",\"instruction\":\"安防验证在严格的安防场景下，结合人脸搜索API，对通过的人员进行身份验证，可以有效降低假冒顶替的行为风险\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1024
+	}
+]
