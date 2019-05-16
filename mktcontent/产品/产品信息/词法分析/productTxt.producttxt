@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"词法分析\",\"label\":[{\"TitleName\":\"0元试用\",\"TitleUrl\":\"http://ai-console.jdcloud.com/nlp/lexical-analysis\",\"classTag\":\"\"}],\"desc\":\"提供中文分词、词性标注、命名实体识别三个功能，解析自然语言中的基本语言元素，并赋予词性，识别文本中的特定类型的事物名称或符号，支撑自然语言的准确理解\"}",
+		"id":1029
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"语料丰富\",\"proName\":\"有丰富的开放领域及电商领域标注数据\"},{\"showShade\":false,\"proGood\":\"自由定制\",\"proName\":\"能灵活扩展用户自定义，中文分词/词性标注/命名实体识别支持动态加载词表，随时修改分词结果\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"针对电商领域优化\",\"proName\":\"针对电商领域的分词和NER识别进行专门优化，准确度高\"}]",
+		"id":1030
+	},
+	{
+		"txt":"[{\"funcName\":\"中文分词\",\"funcContent\":[{\"funcTitle\":\"按词性进行分词\",\"funcP\":\"将连续的自然语言文本，切分成具有语义合理性和完整性的词汇序列\"}]},{\"funcName\":\"词性标注\",\"funcContent\":[{\"funcTitle\":\"完成词性标注\",\"funcP\":\"通过词性标注服务，用户可以快速的为每一个词附上对应的词性，结合分词服务，可以快速进行更深层次的文本挖掘处理，无需担心新词发现、歧义消除等问题\"}]},{\"funcName\":\"命名实体识别\",\"funcContent\":[{\"funcTitle\":\"对固定的实体名进行识别\",\"funcP\":\"快速识别文本中的实体，进而挖掘各实体间的关系，覆盖电商领域，识别品牌、产品、型号等，同时也包括一些通用领域实体如人名、地名、机构名、时间日期等\"}]}]",
+		"id":1031
+	},
+	{
+		"txt":"[{\"name\":\"文本搜索\",\"instruction\":\"文本搜索提升文本搜索准确性或审核质量\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"实体数据库搭建\",\"instruction\":\"实体数据库搭建根据实体或其之间关系，构建知识图谱\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"指令解析\",\"instruction\":\"指令解析使得机器能更精确理解指令内容\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1032
+	}
+]
