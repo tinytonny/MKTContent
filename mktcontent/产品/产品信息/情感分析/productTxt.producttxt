@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"情感分析\",\"label\":[{\"TitleName\":\"0元试用\",\"TitleUrl\":\"http://ai-console.jdcloud.com/nlp/sentiment-classifier\",\"classTag\":\"\"}],\"desc\":\"针对带有主观描述的中文文本，自动判断该文本的情感极性类别，并给出相应的置信度。帮助使用者理解用户消费习惯、舆情监控和分析热点话题，为企业提供有力的决策支持\"}",
+		"id":1037
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"丰富数据\",\"proName\":\"丰富数据基于电商领域丰富的评论数据。无需添加任何情感词表就可以完美挖掘用户的情感极性\"},{\"showShade\":false,\"proGood\":\"精度高\",\"proName\":\"基于大数据和深度学习训练，学习深层次的语义表达，情感分析精度高\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"迁移学习\",\"proName\":\"采用迁移学习方法，少许场景标注数据即可快速切换新的情感场景\"}]",
+		"id":1038
+	},
+	{
+		"txt":"[{\"funcName\":\"情感极性类别\",\"funcContent\":[{\"funcTitle\":\"判断文本中的情感极性类别，输出相应的置信度\",\"funcP\":\"基于电商领域丰富的评论数据，无需添加情感词表，通过分析带有主观描述的中文文本，即可自动判断文本中的情感极性类别，并给出相应的置信度\"}]},{\"funcName\":\"情感分析深度学习模型\",\"funcContent\":[{\"funcTitle\":\"基于大数据和深度学习训练，情感分析具备高精准度\",\"funcP\":\"基于大数据和深度学习训练，情感分析具备高精准度，可应用于情感极性分类提取、情感分析辅助决策、舆情分析等\"}]}]",
+		"id":1039
+	},
+	{
+		"txt":"[{\"name\":\"情感交互\",\"instruction\":\"情感交互按情感极性以分类提取，增加用户体验\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"情感分析\",\"instruction\":\"情感分析通过评论情感分析，辅助决策\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"舆情分析\",\"instruction\":\"舆情分析舆情分析把握热点信息的情感倾向性变化\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1040
+	}
+]
