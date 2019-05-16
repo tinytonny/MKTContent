@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"视频标签\",\"desc\":\"基于业界领先的人工智能技术，对视频进行文字、人脸、物体、场景多维度分析，输出视频泛标签，提升搜索推荐效果\",\"label\":[],\"instruction\":[]}",
+		"id":1105
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"行为分析更精准\",\"proName\":\"不但能够分析进入\\\\离开区域等简单行为，而且还能对看，打架、奔跑、聚集、倒地等各种复杂功能进行识别\"},{\"showShade\":false,\"proGood\":\"产品形态更丰富\",\"proName\":\"可以放置在中心机房，进行后端集中式分析处理也可以把智能分析功能集成到网络摄像机中\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"识别准确\",\"proName\":\"误报率和漏报率低\"}]",
+		"id":1106
+	},
+	{
+		"txt":"[{\"funcName\":\"视频理解\",\"funcContent\":[{\"funcTitle\":\"对视频进行理解\",\"funcP\":\"基于客户提供的视频，通过对视频片段和视频帧的深度理解\"}]},{\"funcName\":\"视频分析\",\"funcContent\":[{\"funcTitle\":\"对视频进行分析\",\"funcP\":\"基于客户提供的视频，对视频进行文字、人脸、物体、场景多维度分析，输出视频泛标签，提升搜索推荐效果\"}]}]",
+		"id":1107
+	},
+	{
+		"txt":"[{\"name\":\"边看边买\",\"instruction\":\"用户在观看视频的同时,可以由客户端自动识别出视频中出现的明星同款或相关性商品供用户进行购买\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"视频内容监控\",\"instruction\":\"直播等场景中采用色情识别、暴恐识别、政治敏感识别技术,实现对图片、视频、直播等内容的实时自动审核,标准统一,简单快速,成本低廉\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"内容检索\",\"instruction\":\"通过视频内容分析,快速为视频生成热门标签,解决视频缺乏关键词无法露出的问题,提升用户检索体验\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1108
+	}
+]
