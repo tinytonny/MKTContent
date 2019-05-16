@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"银行卡识别\",\"desc\":\"基于业界领先的深度学习技术，识别银行卡号，银行名称等关键字段，准确可靠\",\"label\":[],\"instruction\":[]}",
+		"id":1061
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"适应性强\",\"proName\":\"适应各种实际应用中复杂的情况，如反光、倾斜、模糊等，具备稳定的可用性\"},{\"showShade\":false,\"proGood\":\"识别精准\",\"proName\":\"关键字段识别准确率高，业内领先\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"稳定可靠\",\"proName\":\"丰富的场景业务验证，性能稳定\"}]",
+		"id":1062
+	},
+	{
+		"txt":"[{\"funcName\":\"卡号识别\",\"funcContent\":[{\"funcTitle\":\"识别银行卡卡号\",\"funcP\":\"对银行卡卡号识别输出\"}]},{\"funcName\":\"发卡行识别\",\"funcContent\":[{\"funcTitle\":\"识别银行卡的发卡行\",\"funcP\":\"识别并返回发卡行和卡片类型\"}]}]",
+		"id":1063
+	},
+	{
+		"txt":"[{\"name\":\"金融领域\",\"instruction\":\"应用于金融业务的用户银行卡识别,实现信息录入,速度快,准确率高,减少用户输入成本，节省人力成本,有效提高用户的体验\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"电商物流领域\",\"instruction\":\"在电商和物流领域,识别用户或商户身份证的自动识别和录入,快捷高效的验证身份\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"其他场景\",\"instruction\":\"在有银行卡识别的场景中,快速识别银行卡信息等内容\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1064
+	}
+]
