@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"自拍人像抠图\",\"label\":[{\"TitleName\":\"0元试用\",\"TitleUrl\":\"http://ai-console.jdcloud.com/face/selfie-segmentation\",\"classTag\":\"\"}],\"desc\":\"分割自拍照中的人像区域：快速提取自拍照中人的轮廓，与背景进行区分\"}",
+		"id":1025
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"速度快\",\"proName\":\"依托京东领先的技术，百毫秒级的响应速度\"},{\"showShade\":false,\"proGood\":\"性能稳定\",\"proName\":\"经过大规模的业务场景验证，性能稳定可靠\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"适应场景丰富\",\"proName\":\"在不同光照、场景下，可快速进行人像抠图\"}]",
+		"id":1026
+	},
+	{
+		"txt":"[{\"funcName\":\"检测人脸\",\"funcContent\":[{\"funcTitle\":\"检测图片中的人脸\",\"funcP\":\"基于用户输入的图片，检测图片中的人脸\"}]},{\"funcName\":\"人像分离\",\"funcContent\":[{\"funcTitle\":\"分离图片中的人像\",\"funcP\":\"将图片中的人像与背景分离出来\"}]}]",
+		"id":1027
+	},
+	{
+		"txt":"[{\"name\":\"图像合成\",\"instruction\":\"图像合成快速的识别自拍人像进行抠图，可拼接不同的场景，实现场景的转换，更加生动饱满\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"美颜相机\",\"instruction\":\"美颜相机识别自拍人像，根据不同的风格进行美颜，让生活更加有趣\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"图片特效\",\"instruction\":\"图片特效便于增加各种设定的背景特效、贴纸道具，提供更加丰富的娱乐体验\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1028
+	}
+]
