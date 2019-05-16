@@ -1511,5 +1511,30 @@
 		"summary":"",
 		"name":"PLUS Smart SMS",
 		"id":3295
+	},
+	{
+		"summary":"",
+		"name":"Cloud File Service",
+		"id":3297
+	},
+	{
+		"summary":"",
+		"name":"Rich Media SMS",
+		"id":3332
+	},
+	{
+		"summary":"",
+		"name":"SSL Certificate",
+		"id":3334
+	},
+	{
+		"summary":"",
+		"name":"Query Card Service",
+		"id":3335
+	},
+	{
+		"summary":"",
+		"name":"Domain Diagnostics",
+		"id":3336
 	}
 ]
