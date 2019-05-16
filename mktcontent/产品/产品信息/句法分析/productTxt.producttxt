@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"句法分析\",\"label\":[{\"TitleName\":\"0元试用\",\"TitleUrl\":\"http://ai-console.jdcloud.com/nlp/syntactic-parsing\",\"classTag\":\"\"}],\"desc\":\"提供文本中词与词之间的依存关系和句法结构信息（如：主谓宾、定状补），帮助机器实现对用户意图的准确理解\"}",
+		"id":1033
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"准确率高\",\"proName\":\"采用全局非贪心算法求解最优依存关系，达到业内领先水平\"},{\"showShade\":false,\"proGood\":\"速度快\",\"proName\":\"基于转移的神经网络依存句法模型，相比于基于图的模型速度更快\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"语料丰富\",\"proName\":\"丰富的中文依存句法标注数据\"}]",
+		"id":1034
+	},
+	{
+		"txt":"[{\"funcName\":\"依存分析\",\"funcContent\":[{\"funcTitle\":\"分析语言单元关联性\",\"funcP\":\"分析句子各个语言单位之间的语义关联，并将语义关联以依存结构呈现\"}]},{\"funcName\":\"句法结构\",\"funcContent\":[{\"funcTitle\":\"解析句法结构信息\",\"funcP\":\"通过句法结构信息（如：主谓宾、定状补），帮助机器实现对用户意图的准确理解，实现语义理解、语义匹配及实体数据库搭建等应用\"}]}]",
+		"id":1035
+	},
+	{
+		"txt":"[{\"name\":\"语义理解\",\"instruction\":\"语义理解语义理解准确的依存句法结构信息可以提升意图分类等语义理解任务的准确率\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"语义匹配\",\"instruction\":\"语义匹配帮助提升语义匹配计算的准确率\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"实体数据库搭建\",\"instruction\":\"挖掘更多实体、关系、语义关系\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1036
+	}
+]
