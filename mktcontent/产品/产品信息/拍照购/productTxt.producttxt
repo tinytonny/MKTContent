@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"拍照购\",\"label\":[{\"TitleName\":\"0元试用\",\"TitleUrl\":\"http://ai-console.jdcloud.com/image/snap-shop\",\"classTag\":\"\"}],\"desc\":\"拍照并识别照片中的物体，返回京东商城对应相同或相似商品的信息，大幅提升搜索速度和准确度，增加拍照和购物乐趣\"}",
+		"id":1085
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"支持种类多样\",\"proName\":\"依托京东线上线下多个零售场景现实数据，利用业界先进的AI算法技术，能够支持家电数码，食品饮料，个护化妆，箱包，配饰，鞋靴，上衣等数十个大类及数千个类目\"},{\"showShade\":false,\"proGood\":\"准确可靠\",\"proName\":\"经过京东商城及第三方合作厂家数亿万次的调用业务验证，稳定可靠，识别精确\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"多场景应用\",\"proName\":\"可满足电商场景下的商品识别，也可支持手机终端厂商的相机模块，拍照购物，增加用户的购物乐趣\"}]",
+		"id":1086
+	},
+	{
+		"txt":"[{\"funcName\":\"检测商品\",\"funcContent\":[{\"funcTitle\":\"检测图片中的商品\",\"funcP\":\"基于用户上传的图片，检测图片中的商品\"}]},{\"funcName\":\"商品检索\",\"funcContent\":[{\"funcTitle\":\"检索图片中的商品\",\"funcP\":\"用户上传包含物品的日常图片，经过后台服务器处理，返回京东商城中与上传图片中某一主体视觉相似的商品列表\"}]}]",
+		"id":1087
+	},
+	{
+		"txt":"[{\"name\":\"电商场景\",\"instruction\":\"通过调用拍照购，识别商品库中相同或相似商品，返回对应的商品信息\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"手机终端\",\"instruction\":\"通过相机对商品进行拍照，识别商品并返回对应的商品信息\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"其他场景\",\"instruction\":\"其他涉及拍照并识别照片中的物体，返回京东商城对应相同或相似商品信息的场景\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1088
+	}
+]
