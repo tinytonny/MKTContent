@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"人脸搜索\",\"label\":[{\"TitleName\":\"0元试用\",\"TitleUrl\":\"http://ai-console.jdcloud.com/face/face-search\",\"classTag\":\"\"}],\"desc\":\"针对一张人脸，与指定人脸库中的N个人脸进行比对，找出最相似的一张脸或多张人脸，并返回一系列相似人脸信息及相似度评分，可用于验证用户身份、刷脸门禁，安防监控等相关场景\"}",
+		"id":1013
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"速度快\",\"proName\":\"依托京东领先的技术，支持超大容量的人脸库管理，毫秒级的响应速度\"},{\"showShade\":false,\"proGood\":\"灵活便捷\",\"proName\":\"人脸库支持自由的用户分组及便捷的人脸库管理\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"高精度\",\"proName\":\"在数万级别人脸库首选识别率上，高达99%以上，大大满足各种应用需求\"}]",
+		"id":1014
+	},
+	{
+		"txt":"[{\"funcName\":\"自建人脸库\",\"funcContent\":[{\"funcTitle\":\"支持自定义人脸库\",\"funcP\":\"用户可根据实际情况，自建人脸库，支持人脸库分组等功能\"}]},{\"funcName\":\"人脸搜素\",\"funcContent\":[{\"funcTitle\":\"搜索图片中的人脸\",\"funcP\":\"与在一个已有人脸集合中找出与指定人脸最相似的一张或多张人脸注册库比对，实现1：N的人脸识别\"}]}]",
+		"id":1015
+	},
+	{
+		"txt":"[{\"name\":\"刷脸门禁\",\"instruction\":\"刷脸门禁利用人脸识别技术，快速为用户录入人脸信息，在用户通行时，自动检测人脸进行人脸验证，即可完成身份信息确认，在企业园区、办公楼、酒店，住宅等多种场景下进行刷脸进门\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"安防监控\",\"instruction\":\"安防监控在机场、商场、超市，火车站，广场等人流密集的公共场所对人群进行监控，实现客流量的自动统计、敏感人物的识别与追踪\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"其他场景\",\"instruction\":\"其他场景在会议，学校，公司等需要签到或考勤的场景中可预先录入人脸，使用人脸搜搜实现刷脸签到，考勤打卡等功能\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1016
+	}
+]
