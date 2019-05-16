@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"菜品识别\",\"label\":[{\"TitleName\":\"0元试用\",\"TitleUrl\":\"http://ai-console.jdcloud.com/image/food-recognition\",\"classTag\":\"\"}],\"desc\":\"基于业界领先的细粒度图像识别技术，准确识别中餐菜品，返回菜品名称\"}",
+		"id":1093
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"准确性高\",\"proName\":\"基于京东丰富的海量数据，领先的细粒度分类算法，准确性高有保障\"},{\"showShade\":false,\"proGood\":\"灵活高效\",\"proName\":\"基于自研精细分类算法，无额外计算开销\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"支持菜品多样\",\"proName\":\"基于丰富的海量数据，支持的菜品数量大，种类多样\"}]",
+		"id":1094
+	},
+	{
+		"txt":"[{\"funcName\":\"检测菜品\",\"funcContent\":[{\"funcTitle\":\"检测图片中的菜品\",\"funcP\":\"基于用户输入的图片，检测图片中的中餐菜品\"}]},{\"funcName\":\"识别菜品\",\"funcContent\":[{\"funcTitle\":\"识别图片中的菜品\",\"funcP\":\"识别图片中的并返回菜品名称\"}]}]",
+		"id":1095
+	},
+	{
+		"txt":"[{\"name\":\"拍照识别\",\"instruction\":\"用户可拍摄照片，识别图片中的菜品\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"图片识别\",\"instruction\":\"通过图片内容识别，识别图片中的菜品，并返回菜品信息\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"其他场景\",\"instruction\":\"其他需要菜品识别的场景，快速识别出相应菜品\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1096
+	}
+]
