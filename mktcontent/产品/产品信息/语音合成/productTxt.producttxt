@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"语音合成\",\"label\":[{\"TitleName\":\"0元试用\",\"TitleUrl\":\"http://ai-console.jdcloud.com/voice/text-to-speech\",\"classTag\":\"\"}],\"desc\":\"提供高自然度、有感情色彩，个性化的语音合成服务，包括文字转声音，声音转声音服务。给聪明的机器装上灵巧的“嘴巴”，让机器开口说话\"}",
+		"id":1005
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"即输即说\",\"proName\":\"通过在线云端语音合成引擎合成，达到让机器实时说话的效果\"},{\"showShade\":false,\"proGood\":\"效果自然\",\"proName\":\"支持中英文合成，并且能根据业务调整语速与音量。接近普通人的朗读水平\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"个性语音定制\",\"proName\":\"通过提交个性化发音人的语料，使机器模仿出该发言人的语音\"}]",
+		"id":1006
+	},
+	{
+		"txt":"[{\"funcName\":\"自然人朗读\",\"funcContent\":[{\"funcTitle\":\"文字转声音\",\"funcP\":\"可实现即输即说，高自然度，效果接近普通人的朗读水平，提供有感情、个性化的语音合成服务\"}]},{\"funcName\":\"个性化定制\",\"funcContent\":[{\"funcTitle\":\"用户自定义合成\",\"funcP\":\"依据用户提交的音频数据，定制个性合成声音\"}]}]",
+		"id":1007
+	},
+	{
+		"txt":"[{\"name\":\"智能客服回答\",\"instruction\":\"智能客服回答智能客服回答通过语音合成，客服机器人用语音回答出用户问题的答案\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"提示播报\",\"instruction\":\"提示播报通过语音合成进行语音播报，广播通知\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"智能外呼\",\"instruction\":\"智能外呼智能外呼合成的语音通过电话外呼，告知用户重要信息，如告知用户物流延迟，账号异常等\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1008
+	}
+]
