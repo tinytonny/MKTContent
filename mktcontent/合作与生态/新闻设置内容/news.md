@@ -854,5 +854,13 @@
 		"jss_key":"News_Content_516",
 		"id":516,
 		"news_title":"让云端数据更安全 京东云发布《数据安全白皮书》"
+	},
+	{
+		"summary":"5月16日，“第三届世界智能大会”在天津梅江会展中心盛大开幕，京东云受邀出席。本次大会以“智能新时代：进展、策略和机遇”为主题，通过“会、展、赛+智能体验”，集中展示天津智能化解决方案和应用场景。",
+		"image_url":"//img1.jcloudcs.com/cms/ad21065d-0d7e-4bee-86c6-4bb36d61542320190516190527.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_517",
+		"jss_key":"News_Content_517",
+		"id":517,
+		"news_title":"智能构建新世界，京彩数字赋天津"
 	}
 ]
