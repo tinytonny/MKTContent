@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"物联网协议适配\",\"label\":[{\"TitleName\":\"立即申请\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/iotcloudgateway\",\"classTag\":\"\"}],\"desc\":\"物联网协议适配服务 通过内置的非标设备数据封装协议或通信协议转换适配模块，帮助用户快速、低成本的将既有设备连接上云。服务内置了JT/T-808（道路运输车辆卫星定位系统终端通讯协议及数据格式）协议支持\"}",
+		"txt":"{\"instruction\":[{\"explain\":\"如申请本产品公测，请同时申请物联网中心公测\",\"explainLink\":\"https://www.jdcloud.com/cn/products/iot-hub\",\"classTag\":\"\"}],\"productName\":\"物联网协议适配\",\"label\":[{\"TitleName\":\"立即申请\",\"TitleUrl\":\"https://www.jdcloud.com/cn/public/testApply/iotcloudgateway\",\"classTag\":\"\"}],\"desc\":\"物联网协议适配服务 通过内置的非标设备数据封装协议或通信协议转换适配模块，帮助用户快速、低成本的将既有设备连接上云。服务内置了JT/T-808（道路运输车辆卫星定位系统终端通讯协议及数据格式）协议支持\"}",
 		"id":996
 	},
 	{
