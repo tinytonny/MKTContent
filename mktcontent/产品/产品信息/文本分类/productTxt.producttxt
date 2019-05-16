@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"文本分类\",\"label\":[{\"TitleName\":\"0元试用\",\"TitleUrl\":\"http://ai-console.jdcloud.com/nlp/text-categorization\",\"classTag\":\"\"}],\"desc\":\"识别用户话术的领域信息，提供在17个领域上分类：歌曲、广播、故事、百科、天气、时间、新闻、生活查询、岀行、股票、购物、音箱指令、家居指令、闲聊、翻译、计算机、闹钟\"}",
+		"id":1049
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"准确率高\",\"proName\":\"意图识别提供多种算法，包括逻辑回归/CNN/LSTM模型\"},{\"showShade\":false,\"proGood\":\"语料丰富\",\"proName\":\"有丰富的开放领域标注数据，评测结果达到业内领先水平\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"自由定制\",\"proName\":\"允许开发者对话术模型数据进行灵活定制\"}]",
+		"id":1050
+	},
+	{
+		"txt":"[{\"funcName\":\"对话文本\",\"funcContent\":[{\"funcTitle\":\"解析对话领域分本信息\",\"funcP\":\"基于逻辑回归/CNN/LSTM模型的高意图识别算法和丰富的开放领域标注数据，识别用户话术的领域信息\"}]},{\"funcName\":\"应用场景\",\"funcContent\":[{\"funcTitle\":\"覆盖17个日常生活领域\",\"funcP\":\"提供在17个领域上分类：歌曲、广播、故事、百科、天气、时间、新闻、生活查询、岀行、股票、购物、音箱指令、家居指令、闲聊、翻译、计算机、闹钟等\"}]}]",
+		"id":1051
+	},
+	{
+		"txt":"[{\"name\":\"领域分类\",\"instruction\":\"领域分类自动化分类文本，进行预分类判断\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"智能硬件赋能\",\"instruction\":\"智能硬件赋能针对智能硬件赋予语音交互的能力\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"其他场景\",\"instruction\":\"其他场景满足各个行业领域文本分类相关场景需求\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1052
+	}
+]
