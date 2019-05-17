@@ -1642,5 +1642,11 @@
 		"name":"Live Pushing Streaming & Player SDK",
 		"description":"It includes two modules, namely pushing streaming SDK and player SDK, respectively supporting Android and iOS pushing streaming and playing. Pushing streaming SDK can help developers quickly achieve stable collection and pushing streaming functions for video live, and player SDK supports the playing of live video, VOD, local video and other types of videos.",
 		"id":2264
+	},
+	{
+		"introduce":"Availability Group Official Release",
+		"name":"Availability Group Official Release",
+		"description":"Availability Group is the Virtual Machines Logic Set provided by JD Cloud. Virtual Machines in the Availability Group are distributed and deployed on physical resources isolated with each other, and only partial Virtual Machines will be affected in the event of hardware failure or regular maintenance, with your business still in available status. Free Service",
+		"id":2265
 	}
 ]

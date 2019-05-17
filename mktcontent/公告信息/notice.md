@@ -410,5 +410,13 @@
 	{
 		"id":671,
 		"title":"Function service launched with Python 2.7 and Python 3.7 runtime"
+	},
+	{
+		"id":676,
+		"title":"Launch Notification of Customized of IOPS Function Supported by Performance Type SSD Cloud Disk"
+	},
+	{
+		"id":677,
+		"title":"Upgrade Notice on Cloud Disk Service in cn-south-1 Region"
 	}
 ]

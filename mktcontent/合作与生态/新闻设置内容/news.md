@@ -814,5 +814,45 @@
 		"jss_key":"News_Content_507",
 		"id":507,
 		"news_title":"Cloud computing has developed further, and JD Cloud has opened the Serverless architecture application - Function Service"
+	},
+	{
+		"summary":"On May 6, the 2nd Digital China Summit kicked off in Fuzhou Strait International Conference & Exhibition Center, Fuqing Function District of Fuzhou New Area and JD Cloud with the fusion model of real economy and digital economy built up by the Parties, which is the latest achievement of Yuanhong Food in digital construction, appeared in the Digital Fujian Achievement Exhibition Area of Digital China Construction Achievement Exhibition.",
+		"image_url":"//img1.jcloudcs.com/cms/a3b89c78-7a4f-4314-a95f-55142d60d60a20190508140833.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_508",
+		"jss_key":"News_Content_508",
+		"id":508,
+		"news_title":"“Yuanhong Mode” heralds the Digital China and builds up the Global Food Transaction Cloud Platform"
+	},
+	{
+		"summary":"“There are 400 major projects in digital economy, with a total investment of RMB 300 billion, in which 200 projects have been commenced for construction, and a number of projects have been completed and put into operation.” Those are the achievements made in one year since the 1st Digital China Summit. Today’s China is advancing on the road of construction of digital China. Construction of digital China presents us with many possibilities of life, each of which is about beauty.",
+		"image_url":"//img1.jcloudcs.com/cms/f11a03cb-1564-41a4-a63c-704c0c9ccb0820190509140554.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_509",
+		"jss_key":"News_Content_509",
+		"id":509,
+		"news_title":"Shen Yuanqing: Digital technology is accelerating the arrival of a smart society"
+	},
+	{
+		"summary":"With the development of science and technology, the proportion of special effects rendering in Chinese films and TV plays is increasing, in which a number of hot animated films that people are familiar, such as Monkey King: Hero Is Back, Monster Hunt, Dragon Nest: Warriors' Dawn, Boonie Bears: Mystical Winter left a deep impression on the audience. And special effects and rendering images in those animated films are produced by Jiangsu Cudatec Technology Co., Ltd. which takes the leadership of domestic cloud rendering service industry.",
+		"image_url":"//img1.jcloudcs.com/cms/0325c16f-099f-4c07-8a87-60c0f5c1d1e920190509190653.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_510",
+		"jss_key":"News_Content_510",
+		"id":510,
+		"news_title":"Fully Embrace the Public Cloud to Create Change Xrender Builds A New Generation of Rendering Platform by JD Cloud"
+	},
+	{
+		"summary":"Strong-strong Collaboration, Focus on Future On May 10, JD Dongpo (Meishan) “Internet+New Economy” Cooperation Press Conference was held in Beijing. Zhu Li, Secretary of the Dongpo District Committee, Meishan City, and Liu Peiyun, Vice President of JD Cloud of JD Group attended the conference.",
+		"image_url":"//img1.jcloudcs.com/cms/1bcf7d70-b69f-45e2-b69d-c0cecd05159720190510174530.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_515",
+		"jss_key":"News_Content_515",
+		"id":515,
+		"news_title":"JD Dongpo Cooperation Press Conference Held in Beijing"
+	},
+	{
+		"summary":"Recently, JD Cloud officially released the JD Cloud Data Security White Paper, announced its goal to “Make cloud data more secure” and the concept of “Respect data sovereignty without touching user data, provide security guarantee to protect the user data security, protect privacy and be transparent and credible to users”.",
+		"image_url":"//img1.jcloudcs.com/cms/0969cbbc-cad5-4545-9777-1fb6b4dd17ab20190510172221.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_516",
+		"jss_key":"News_Content_516",
+		"id":516,
+		"news_title":"To Make Cloud Data More Secure JD Cloud Released the Data Security White Paper"
 	}
 ]

@@ -148,6 +148,18 @@
 		"id":114
 	},
 	{
+		"name":"App Deployment on Cloud",
+		"id":116
+	},
+	{
+		"name":"Cloud Disaster Recovery",
+		"id":118
+	},
+	{
+		"name":"Cloud Competition Solution",
+		"id":120
+	},
+	{
 		"name":"Intelligent Verify Code",
 		"id":121
 	}
