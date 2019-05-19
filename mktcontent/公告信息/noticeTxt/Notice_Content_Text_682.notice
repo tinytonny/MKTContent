@@ -1,0 +1,32 @@
+<p><span style="font-size: 12px;">您好！ 为提供更好的云硬盘产品和服务，京东云将于2019年5月20日22:00:00至5月21日01:00:00在【华北-北京】上线性能型SSD云盘支持自定义IOPS功能。</span>
+</p>
+<p><span style="font-size: 12px;">届时将：</span>
+</p>
+<p><span style="font-size: 12px;">&nbsp; &nbsp; <strong>暂停【华北-北京】云主机控制台访问以及OpenAPI服务，其它地域不受影响；</strong></span>
+</p>
+<p><strong><span style="font-size: 12px;">&nbsp; &nbsp; 暂停【华北-北京】云硬盘控制台及OpenAPI服务，其它地域不受影响；</span>
+</strong></p>
+<p><strong><span style="font-size: 12px;">&nbsp; &nbsp; 暂停【华北-北京】原生容器实例和Pod控制台及OpenAPI服务，其它地域不受影响；</span>
+</strong></p>
+<p><strong><span style="font-size: 12px;">此次上线不影响您所有地域的固有业务运行，上线完成后控制台将恢复正常使用。</span>
+</strong></p>
+<p><br/></p>
+<p><span style="font-size: 12px;">性能型SSD云硬盘支持自定义IOPS功能上线后，支持对每块性能型SSD云盘单独配置IOPS，范围从200 IOPS 至最高32,000 IOPS，步长10 IOPS。 配置 IOPS 与创建的云硬盘大小 (GiB) 的最大比率为 50倍。</span>
+</p>
+<p><span style="font-size: 12px;">性能型SSD云硬盘计费逻辑将发生变化，变更为【基本价格+IOPS价格】，变更后参考价格如下（以下单时最终价格为准）：</span>
+</p>
+<p><span style="font-size: 12px;">&nbsp; &nbsp; 包年包月购买：</span>
+</p>
+<p><span style="font-size: 12px;">&nbsp; &nbsp; 容量基本价格：5元/10G/月</span>
+</p>
+<p><span style="font-size: 12px;">&nbsp; &nbsp; 每个IOPS价格：0.01元/个/月</span>
+</p>
+<p><span style="font-size: 12px;">按配置购买：</span>
+</p>
+<p><span style="font-size: 12px;">&nbsp; &nbsp; 容量基本价格：0.007元/10G/小时</span>
+</p>
+<p><span style="font-size: 12px;">&nbsp; &nbsp; 每个IOPS价格：0.01元/个/月( 即：0.00001389 元/个/小时)</span>
+</p>
+<p><br/></p>
+<p><span style="font-size: 12px;">【华北-北京】地域云盘如果遇到相关问题，请您及时与我们工单、电话联系（400-615-1212），感谢您对京东云的支持。</span>
+</p>
