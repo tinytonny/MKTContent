@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"云缓存 Redis\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"//redis-console.jdcloud.com/create?dataCenter=bj_02&hideSideMenu=1\"},{\"TitleName\":\"申请试用Redis 4.0\",\"TitleUrl\":\"https://ticket.jdcloud.com/myorder/form?cateId=166&questionId=168\",\"classTag\":\"\"}],\"desc\":\"云缓存 Redis是京东云提供的基于Redis协议的在线缓存服务，支持主从版、集群版的多种规格供用户选择。可满足多种业务场景对可用性、可靠性和高读写性能的要求，支持双机热备，提供自动容灾切换、实例监控等服务，以降低业务风险，确保业务的连续性。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/83b026b7-897c-46f8-bcd1-c310aebb7b4c20181115165804.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|8\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|8\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"云缓存 Redis\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"//redis-console.jdcloud.com/create?dataCenter=bj_02&hideSideMenu=1\"}],\"desc\":\"云缓存 Redis是京东云提供的基于Redis协议的在线缓存服务，支持主从版、集群版的多种规格供用户选择。可满足多种业务场景对可用性、可靠性和高读写性能的要求，支持双机热备，提供自动容灾切换、实例监控等服务，以降低业务风险，确保业务的连续性。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/83b026b7-897c-46f8-bcd1-c310aebb7b4c20181115165804.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|8\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|8\"}",
 		"id":22
 	},
 	{
@@ -12,7 +12,6 @@
 		"id":24
 	},
 	{
-		"txt":"[{\"instruction\":\"电商行业中，对大型促销秒杀、商品库存的实时更新、带有计数的应用、商品库存量、商品的实时推荐等，系统整体的访问压力巨大，使用云缓存redis能够轻松承载巨大的瞬时读写压力并进行数据持久化；通过云缓存Redis提供的强大性能支持，可提供高达100W+的QPS来轻松应对高并发访问\",\"name\":\"电商平台\",\"picUrl\":\"//img1.jcloudcs.com/cms/f722bbd0-99d5-4cdd-a38e-72a06e7bffc920180926161447.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"视频直播行业中，爆发式的用户数据、互动数据、物品道具数据等出现的流量突发场景，云缓存redis百万级的QPS可以满足低时延、高并发的业务需求\",\"name\":\"视频直播\",\"picUrl\":\"//img1.jcloudcs.com/cms/7c3545e7-76f7-4d50-bf31-33f5937727fe20180926161452.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"在游戏行业中，为了快速抢占市场，加上本身对性能、交互的高要求，使用云缓存Redis可以减少开发的复杂度并极大的提升性能，当业务持续增长的时候，可以平滑的进行扩容，满足各个阶段业务的需求；基于云缓存Redis自身特点，比如每日任务、成就、各种积分排名、功能活动、玩家交际属性等策划案的实现，云缓存Redis都有非常明显的优势\",\"name\":\"游戏行业\",\"picUrl\":\"//img1.jcloudcs.com/cms/fd23caae-29e2-43f6-aa84-445466d45a3c20180926161458.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"网站、APP等对读写压力要求较高的应用，云缓存Redis提供高QPS、构建队列系统、数据缓存、精准设定过期时间、数据持久化到RDS的应用等\",\"name\":\"互联网应用\",\"picUrl\":\"//img1.jcloudcs.com/cms/57e567d6-18d2-4495-ba24-d3834aa2451b20180926161504.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false}]",
 		"id":25
 	},
 	{
