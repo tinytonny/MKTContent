@@ -316,7 +316,7 @@
 	},
 	{
 		"name":"京东小易移动办公",
-		"description":"",
+		"description":"京东小易移动办公",
 		"id":175
 	},
 	{
