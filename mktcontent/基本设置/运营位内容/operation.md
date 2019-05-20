@@ -25,8 +25,8 @@
 		"id":5
 	},
 	{
-		"name":"Only 9 RMB for .cn domain",
-		"description":"26 RMB off for more others",
+		"name":"JD Cloud App",
+		"description":"Accessing at anytime and anywhere",
 		"id":6
 	},
 	{
