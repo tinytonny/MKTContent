@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"日志服务\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/logs\",\"classTag\":\"\"}],\"desc\":\"日志服务是京东云提供的一站式日志服务平台。提供日志实时采集、日志存储，日志检索，智能分析等功能，协助用户通过日志解决业务运营，业务监控，日志分析等问题。\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"日志服务\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://logs-console.jdcloud.com/logset/list\",\"classTag\":\"\"}],\"desc\":\"日志服务是京东云提供的一站式日志服务平台。提供日志实时采集、日志存储，日志检索，智能分析等功能，协助用户通过日志解决业务运营，业务监控，日志分析等问题。\"}",
 		"id":676
 	},
 	{
