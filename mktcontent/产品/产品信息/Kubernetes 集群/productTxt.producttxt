@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Kubernetes 集群\",\"label\":[{\"TitleName\":\"申请公测\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/kubernetes\"}],\"desc\":\"Kubernetes集群服务采用管理节点全托管的方式，为用户提供简单易用、高可靠、功能强大的容器管理服务。该产品完全兼容标准Kubernetes API ，集成京东云网络、存储等插件。Kubernetes集群服务简化了Kubernetes部署、管理，降低了Kubernetes使用门槛，增强应用的可靠性，提升开发的效率，减少资源投入成本。\\n服务本身免费，仅收取所使用资源的费用：如云主机等\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/d770f7b9-05b8-4a2d-8b1c-0317843e8fdd20181115162945.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|86\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|86\"}",
+		"txt":"{\"instruction\":[{\"explain\":\"已通过Kubernetes一致性认证\",\"explainLink\":\"https://www.cncf.io/certification/software-conformance/\",\"classTag\":\"\"}],\"productName\":\"Kubernetes 集群\",\"label\":[{\"TitleName\":\"立即购买\",\"TitleUrl\":\"https://cns-console.jdcloud.com/host/kubernetes/list\"}],\"desc\":\"Kubernetes集群服务采用管理节点全托管的方式，为用户提供简单易用、高可靠、功能强大的容器管理服务。该产品完全兼容标准Kubernetes API ，集成京东云网络、存储等插件。Kubernetes集群服务简化了Kubernetes部署、管理，降低了Kubernetes使用门槛，增强应用的可靠性，提升开发的效率，减少资源投入成本。\\n服务本身免费，仅收取所使用资源的费用：如云主机等\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/d770f7b9-05b8-4a2d-8b1c-0317843e8fdd20181115162945.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|86\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|86\"}",
 		"id":245
 	},
 	{
@@ -14,5 +14,9 @@
 	{
 		"txt":"[{\"instruction\":\"借助Kubernetes集群服务，创建以容器为单位的开发测试部署流程,简化了环境搭建的步骤，提高了资源利用效率和开发测试部署的速度,降低了迁移的成本。容器可以快速创建和删除，实现快速迭代，大量节约开发、测试、部署的时间。\",\"name\":\"持续集成和部署\",\"picUrl\":\"//img1.jcloudcs.com/cms/4b9607a2-8011-4744-ba43-839ad302200020180712110430.jpg\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"容器为微服务架构的\\\"天然\\\"的载体，借助Kubernetes集群服务，容器的轻量级、统一部署特性为解决各个微服务统一管理、调度、部署带来了全新的思路，并且大大降低了服务、版本之间的依赖关系，让同一个微服务在不同环境中保持良好的一致性。\",\"name\":\"微服务架构\",\"picUrl\":\"//img1.jcloudcs.com/cms/7bf89372-0391-4f28-9330-12bb80e9b91d20180711104421.jpg\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false},{\"instruction\":\"通过Kubernetes集群服务，借助容器快速启动、快速部署、海量并发的能力，对于需求变化量大，并且需要快速启动几百甚至上千台机器的应用，Kubernetes集群服务可以非常好地满足业务的突发需求。\",\"name\":\"快速弹性伸缩\",\"picUrl\":\"//img1.jcloudcs.com/cms/1fd4deea-dd3b-4a72-9b7e-9d8f22cfa0e220180711104501.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false}]",
 		"id":248
+	},
+	{
+		"txt":"[{\"name\":\"产品简介\",\"link\":\"https://docs.jdcloud.com/jcs-for-kubernetes/product-overview\",\"classTag\":\"\"},{\"name\":\"产品定价\",\"link\":\"https://docs.jdcloud.com/jcs-for-kubernetes/billing-overview\",\"classTag\":\"\"},{\"name\":\"入门指南\",\"link\":\"https://docs.jdcloud.com/jcs-for-kubernetes/version-notes\",\"classTag\":\"\"},{\"name\":\"操作指南\",\"link\":\"https://docs.jdcloud.com/jcs-for-kubernetes/cluster-overview\",\"classTag\":\"\"},{\"name\":\"最佳实践\",\"link\":\"https://docs.jdcloud.com/jcs-for-kubernetes/deploy-container-registry\",\"classTag\":\"\"},{\"name\":\"常见问题\",\"link\":\"https://docs.jdcloud.com/jcs-for-kubernetes/common-problem\",\"classTag\":\"\"}]",
+		"id":910
 	}
 ]
