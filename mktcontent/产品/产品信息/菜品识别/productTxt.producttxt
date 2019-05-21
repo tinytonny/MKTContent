@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Food Recognition\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/image/food-recognition\",\"classTag\":\"\"}],\"desc\":\"Based on the leading fine-grained image identification technology of the industry, Chinese food can be precisely recognized and food name can be returned\"}",
+		"id":1093
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"High Accuracy\",\"proName\":\"Based on rich mass data and leading fine-grained categorization algorithm of JD, it guarantees high accuracy\"},{\"showShade\":false,\"proGood\":\"Flexible and High-efficient\",\"proName\":\"Based on the self-developed refined categorization algorithm, no additional computing cost is caused\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Support to Food Diversity\",\"proName\":\"Based on rich mass data, it supports a large quantity of foods and diversified food types\"}]",
+		"id":1094
+	},
+	{
+		"txt":"[{\"funcName\":\"Food Detection\",\"funcContent\":[{\"funcTitle\":\"Detect food in images\",\"funcP\":\"Detect Chinese food in images uploaded by users\"}]},{\"funcName\":\"Food Recognition\",\"funcContent\":[{\"funcTitle\":\"Recognized food in images\",\"funcP\":\"Recognize and return food name in images\"}]}]",
+		"id":1095
+	},
+	{
+		"txt":"[{\"name\":\"Recognition by Shooting\",\"instruction\":\"Users can recognize food in images by shooting\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Image Recognition\",\"instruction\":\"Through image content recognition, recognize food in images and return food information\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Other Scenarios\",\"instruction\":\"Rapidly recognize corresponding food in other scenarios requiring Food Recognition\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1096
+	}
+]

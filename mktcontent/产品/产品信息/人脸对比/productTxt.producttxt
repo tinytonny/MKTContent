@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Face Compare\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/face/face-compare\",\"classTag\":\"\"}],\"desc\":\"Based on characteristic human face information, similarity level of two faces are calculated and similarity scores are returned to judge if this is the same person\"}",
+		"id":1009
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"High Accuracy\",\"proName\":\"Relying on real data of different on-line and off-line retail scenarios of JD and by using the leading AI algorithm technology of the industry, similarity judgment can be made precisely, with accuracy greater than 99%\"},{\"showShade\":false,\"proGood\":\"Flexible and easy to use\",\"proName\":\"After 2 images are uploaded, the similarity results can be obtained instantly and then judgment can be made whether this is the same person; it flexibly supports customized threshold and meets specific scenario demands\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Multi-scenario Application\",\"proName\":\"It satisfies application requirements for identity verification through face detection under the finance scenario, face verification under security and protection scenario and other scenarios, with more services available subsequently to meet more scenario demand\"}]",
+		"id":1010
+	},
+	{
+		"txt":"[{\"funcName\":\"Face Detection\",\"funcContent\":[{\"funcTitle\":\"Detect faces in images\",\"funcP\":\"Detect faces in the two images entered by user\"}]},{\"funcName\":\"Face Comparison\",\"funcContent\":[{\"funcTitle\":\"Compare faces in images\",\"funcP\":\"Select the largest face from each of the two images, calculate similarity of the two faces, return similarity scores and determine if the two images are taken from the same person\"}]}]",
+		"id":1011
+	},
+	{
+		"txt":"[{\"name\":\"Identity Verification for Financial Business\",\"instruction\":\"For Identity Verification for Financial Business  The face verification can be used for determining if the selfie and the registered photo of the public security system or the verified one are from the same person and for making authorization verification. It can help financial enterprises improve their risk control capacity and rapidly grant loans; meanwhile, it can improve user experiences and reduce cost\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Self-help Handling\",\"instruction\":\"Self-help Handling  In several scenarios such as civil administration and public security, the Self-help Handling can guarantee authenticity of resident through Face Verification and turn the off-line window service to the on-line self-help service, reducing fussy window program while increasing business handling channels and extending handling time. Effectively improve society operation efficiency\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Security and Protection Verification\",\"instruction\":\"For security and protection verification, it needs to make identity verification to the passer under the strict security and protection scenario. The risk of counterfeiting and displacement can be effectively reduced by strictly comparing a photo of passer with the registered photo\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1012
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Lexical Analysis\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/nlp/lexical-analysis\",\"classTag\":\"\"}],\"desc\":\"Provide functions of Chinese word segmentation, part-of-speech tagging and named entity recognition, parse basic language factors in natural language and grant part of speech, recognize particular type of things name or symbol in text and support accurate understanding of natural language\"}",
+		"id":1029
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Rich Linguistic Information\",\"proName\":\"Annotation data of rich open field and e-commerce field are provided\"},{\"showShade\":false,\"proGood\":\"Free Customization\",\"proName\":\"It can flexibly expand the user customization. Chinese word segmentation/part-of-speech tagging/named entity recognition support dynamic loading of word table. The results of word segmentation can be modified at any time\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Optimization for E-Commerce Field\",\"proName\":\"Special optimization is made for word segmentation and NER recognition with high accuracy\"}]",
+		"id":1030
+	},
+	{
+		"txt":"[{\"funcName\":\"Chinese Word Segmentation\",\"funcContent\":[{\"funcTitle\":\"Carry out word segmentation by part of speech\",\"funcP\":\"Segment the continuous text of natural language into vocabulary sequence with rationality and completeness of semantics\"}]},{\"funcName\":\"Part-of-speech Tagging\",\"funcContent\":[{\"funcTitle\":\"Complete part-of-speech tagging\",\"funcP\":\"Through the part-of-speech tagging service, the user can quickly attach the corresponding part of speech for every word, and while combining the word segmentation service, the user can also quickly carry out deeper text mining processing without worrying new word discovery, ambiguity resolution and other problems\"}]},{\"funcName\":\"Named Entity Recognition\",\"funcContent\":[{\"funcTitle\":\"Recognize fixed entity name\",\"funcP\":\"Quickly recognize entities in text thus to mine the relations among the entities, covering recognition of brand, product, model and so on in the e-commerce field and names of a person, place and institution, time and date and so on in some general fields\"}]}]",
+		"id":1031
+	},
+	{
+		"txt":"[{\"name\":\"Text Search\",\"instruction\":\"Text Search improves the accuracy of text search or review quality\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Real Database Setup\",\"instruction\":\"Real Database Setup builds the knowledge graph according to the relation between the entity and it\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Instruction Parse\",\"instruction\":\"Instruction Parse enables the machine to understand the instruction more accurately\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1032
+	}
+]

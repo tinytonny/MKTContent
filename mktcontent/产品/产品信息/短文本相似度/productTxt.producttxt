@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Short Text Similarity\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/nlp/short-text-similarity\",\"classTag\":\"\"}],\"desc\":\"Similarity between different short texts can be computed and the similarity output is a real value within 0 to 1. The higher the value, the better the similarity. This similarity value can be directly used for ranking results as well as more complex systems as a one-dimension basic feature\"}",
+		"id":1041
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"High Accuracy\",\"proName\":\"It provides traditional computing method based on Short Text Similarity an also the similarity computing method based on deep learning\"},{\"showShade\":false,\"proGood\":\"Massive Training Data\",\"proName\":\"Algorithm development and training are made with large-scale mass data, so as to realize deep Chinese semantics comprehension system\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"High Flexibility\",\"proName\":\"Applications in specific fields and specific scenarios can be rapidly developed and realized according to demands\"}]",
+		"id":1042
+	},
+	{
+		"txt":"[{\"funcName\":\"Text Similarity Depth Model\",\"funcContent\":[{\"funcTitle\":\"Multi-model Fusion\",\"funcP\":\"Based on multiple computing models, such as the traditional one and the deep learning one, as well as mass training data, similarity between different short texts is computed and the similarity output is a real value within 0 to 1. The higher the value, the better the similarity\"}]},{\"funcName\":\"Application Scenarios\",\"funcContent\":[{\"funcTitle\":\"Wide Scenario Application\",\"funcP\":\"It is applicable for Text Categorization, assisting pre-categorizing search; it can recommend products with similar titles according to customer’s browsing records; it can categorize answers and questions, etc.\"}]}]",
+		"id":1043
+	},
+	{
+		"txt":"[{\"name\":\"Vertical Categorization\",\"instruction\":\"With Vertical Categorization, similar texts can be retrieved according to texts and pre-categorizing search can be assisted\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Product Recommendation\",\"instruction\":\"With Product Recommendation, products with similar titles can be detected according to product titles browsed by the customer and recommended to users\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Question and Answer Categorization\",\"instruction\":\"With Question and Answer Classification, similar questions and answers can be searched for users\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1044
+	}
+]

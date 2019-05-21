@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Specific Subject Face Recognition\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/image/specific-subject-face-recognition\",\"classTag\":\"\"}],\"desc\":\"Based on the leading deep learning technology in the industry, sensitive persons or specific person in images can be precisely recognized with rapid speed and high efficiency, greatly saving human cost and avoiding relevant risks\"}",
+		"id":1081
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Diversified Characters\",\"proName\":\"Tens of politically-sensitive persons can be recognized or customized persons can be recognized, helping e-commerce platforms, BBS, UGC, IM and other product scenarios to avoid relevant risks\"},{\"showShade\":false,\"proGood\":\"Mature and Stable Performance\",\"proName\":\"Through billion-level callings per day to JD Mall’s own businesses, its performance is stable and reliable\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"High Accuracy\",\"proName\":\"As shown by hundreds of millions of calling business verifications of JD Mall and third-party partner manufacturers, API is stable and reliable, with recognition accuracy greater than 99%\"}]",
+		"id":1082
+	},
+	{
+		"txt":"[{\"funcName\":\"Face Detection\",\"funcContent\":[{\"funcTitle\":\"Detect faces in images\",\"funcP\":\"Detection and Analysis can be made to all faces in uploaded images\"}]},{\"funcName\":\"Person Recognition\",\"funcContent\":[{\"funcTitle\":\"Recognize designated persons in images\",\"funcP\":\"Judge if the person is a special one to be audited. To avoid risks, a special character photo base shall be additionally customized according to customers’ demands, with indefinite number of person\"}]}]",
+		"id":1083
+	},
+	{
+		"txt":"[{\"name\":\"Content Audit\",\"instruction\":\"Because the e-commerce and news applications contain a large number of politically-sensitive images, there is a supervision risk for applications. However, the politically-sensitive character recognition of JD can automatically determine if such images contain relevant violating information, greatly lowering human cost and reducing business violating risks\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Character Categorization\",\"instruction\":\"Recognition and categorization can be made to specific persons, and acts such as dimming, sheltering and other can be made according to business scenarios\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Other Scenarios\",\"instruction\":\"In other scenarios involving recognition of politically-sensitive scenarios, it can assist rapid recognition to designated politically-sensitive characters\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1084
+	}
+]

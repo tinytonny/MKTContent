@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"Video Summarization\",\"desc\":\"Based on the leading video content analyzing technology in the industry, through deeply understanding to video clips and video frames, extract highlights of videos and multiple representative video frames as Video Summarization\",\"label\":[],\"instruction\":[]}",
+		"id":1101
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Support to Diversity\",\"proName\":\"Through full sense of impressiveness degree, content relevance and others of videos and in combination with picture quality, not only highlights are extracted as dynamic summarization, making video attractive, attacking users to click and output several video frames as static summarization, but also the video can be rapidly browsed in combination with user demands, improving user experiences and visual effects\"},{\"showShade\":false,\"proGood\":\"High Precision\",\"proName\":\"Based on the leading AI technology of the industry, make deeply comprehension to video contents and output Video Summarization with high precision\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Stable and Reliable\",\"proName\":\"Rich experiences in scenario business verification, stable performance, interesting Video Summarization and greatly improving video click rate by users\"}]",
+		"id":1102
+	},
+	{
+		"txt":"[{\"funcName\":\"Dynamic Summarization\",\"funcContent\":[{\"funcTitle\":\"Extract dynamic videos\",\"funcP\":\"Based on videos provided by customers, through deeply understanding to video clips and video frames, extract highlights of videos and multiple representative video frames as Video Summarization\"}]},{\"funcName\":\"Static Summarization\",\"funcContent\":[{\"funcTitle\":\"Extract Static Picture\",\"funcP\":\"Based on videos provided by customers, through deeply understanding to video clips and video frames, extract multiple representative video frames in the video as Video Summarization\"}]}]",
+		"id":1103
+	},
+	{
+		"txt":"[{\"name\":\"Entertainment Media\",\"instruction\":\"Apply the Video Summarization technology to quickly select the high-quality summarization for the video and rapidly catch the user's eyes to increase the click rate\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"E-commerce Scenario\",\"instruction\":\"In a video advertising a commodity, the Video Summarization related to the commodity can be captured so that user can quickly localize the commodity\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Education\",\"instruction\":\"In an education video course, capture the highlighted teaching Video Summarization to enhance the user's interest and increase the click rate of the video\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1104
+	}
+]

@@ -1,0 +1,18 @@
+<p>To provide better products and services about Cloud Disk, JD Cloud will launch performance-oriented SSD Cloud Disk in [cn-east-1] and [cn-south-1] from 21:00:00 to 23:59:59 on May 16, 2019 to support customized IOPS features.</p>
+<p>At the scheduled time:</p>
+<p>&nbsp;Virtual Machines Console Access and OpenAPI services in [cn-east-1] and [cn-south-1] will be paused while such services in other regions will not be affected;</p>
+<p>&nbsp;Cloud Disk Service Console and OpenAPI services in [cn-east-1] and [cn-south-1] will be paused while such services in other regions will not be affected;</p>
+<p>&nbsp;Native Container Instance, Pod Console and OpenAPI services in [cn-east-1] and [cn-south-1] will be paused while such services in other regions will not be affected;</p>
+<p>Inherent business running in your regions will not affected by the launch. The Console will be resumed for normal use upon completion of launching.</p>
+<p><br/></p>
+<p>After launch of Customized of IOPS Function Supported by Performance Type SSD Cloud Disk, it supports to configure IOPS separately for each Performance Type SSD Cloud Disk; and the range is from 200 IOPS to maximum 32,000 IOPS, and the step length is 10 IOPS. The maximum ratio of configured IOPS to the created Cloud Disk Service size (GiB) is 50 times.</p>
+<p>The billing logic of Performance Type SSD Cloud Disk will be changed, which will be changed to [Base Price +IOPS Price]; the reference price after change is as follows (the final price is subject to the order below):</p>
+<p>&nbsp; &nbsp; Monthly Package Purchase:</p>
+<p>Basic Capacity Price: RMB 5/10G/Month</p>
+<p>Price of Each IOPS: RMB 0.01/Piece/Month</p>
+<p>&nbsp;&nbsp; Pay By Configuration:</p>
+<p>Basic Capacity Price: RMB 0.007/10G/Hour</p>
+<p>Price of Each IOPS: RMB 0.01/Piece/Month (namely: RMB 0.00001389/Piece/Hour)</p>
+<p><br/></p>
+<p>For [cn-east-1] and [cn-south-1] regions, if you have relevant questions with the Cloud Disk in the regions, please contact us via tickets and phone number (400-615-1212). Thank you for your support to JD Cloud.</p>
+<p><br/></p>

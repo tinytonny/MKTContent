@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"Bank Card Number Recognize\",\"desc\":\"Based on industry-leading deep learning technology, recognize key fields including bank card number and bank name, achieving accuracy and reliability\",\"label\":[],\"instruction\":[]}",
+		"id":1061
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"High Adaptability\",\"proName\":\"Fit to complex conditions in various real applications, such as reflecting, inclining, dimming and others, and have stable applicability\"},{\"showShade\":false,\"proGood\":\"Precise Identification\",\"proName\":\"Have high key field recognition accuracy and have leading status in the industry\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Stable and Reliable\",\"proName\":\"Rich experiences in scenario business verification and stable performance\"}]",
+		"id":1062
+	},
+	{
+		"txt":"[{\"funcName\":\"Card Number Recognize\",\"funcContent\":[{\"funcTitle\":\"Recognize the bank card number\",\"funcP\":\"Output the Bank Card Number Recognize\"}]},{\"funcName\":\"Bank Recognize\",\"funcContent\":[{\"funcTitle\":\"Recognize the bank issuing the bank card\",\"funcP\":\"Recognize and return the bank and card type\"}]}]",
+		"id":1063
+	},
+	{
+		"txt":"[{\"name\":\"Financing Field\",\"instruction\":\"It can be applied to Bank Card Number Recognize in the financing business, achieving rapid and high-accuracy information inputting, reducing user’s inputting cost, saving human cost and effectively improving user’s experiences\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"E-commerce and Logistics Fields\",\"instruction\":\"In the e-commerce and logistics fields, recognize users or automatically recognize and input merchant's identity card to quickly and efficiently verify the identity\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Other Scenarios\",\"instruction\":\"Rapidly recognize the bank card information and other contents in the scenario of Bank Card Number Recognize\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1064
+	}
+]

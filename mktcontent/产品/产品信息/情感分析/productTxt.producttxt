@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Sentiment Classifier\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/nlp/sentiment-classifier\",\"classTag\":\"\"}],\"desc\":\"For Chinese text with subjective description, sentiment polarity type of this text will be automatically determined and corresponding confidence coefficient will be provided. Help the user understand user’s consumption habits, monitor public opinions and analyze hot topics and provides enterprises with powerful decision support\"}",
+		"id":1037
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Rich Data\",\"proName\":\"Rich data are from rich comment data in the e-commerce field. The user’s sentiment polarity is perfectly explored without adding any emotional vocabulary\"},{\"showShade\":false,\"proGood\":\"High Precision\",\"proName\":\"Based on big data and deep learning training, learn deep semantic expression and achieve high Sentiment Classifier precision\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Transfer Learning\",\"proName\":\"With the transfer learning method, the annotated data of some scenarios can be rapidly switched to a new emotional scenario\"}]",
+		"id":1038
+	},
+	{
+		"txt":"[{\"funcName\":\"Sentiment Polarity Type\",\"funcContent\":[{\"funcTitle\":\"Determine sentiment polarity type in texts and output corresponding confidence coefficient\",\"funcP\":\"Based on rich comment data of the e-commerce field, it is no need to add any emotional vocabulary. For Chinese text with subjective description, sentiment polarity type of this text will be automatically determined and corresponding confidence coefficient will be provided\"}]},{\"funcName\":\"Deep Learning Model of Sentiment Classifier\",\"funcContent\":[{\"funcTitle\":\"Based on big data and deep learning training, Sentiment Classifier can achieve high accuracy\",\"funcP\":\"Based on big data and deep learning training, Sentiment Classifier can achieve high accuracy and can be applied for sentiment polarity type extraction, Sentiment Classifier-aided decision, Sentiment Analysis, etc.\"}]}]",
+		"id":1039
+	},
+	{
+		"txt":"[{\"name\":\"Emotion Interaction\",\"instruction\":\"Emotion Interaction  Extract by types of sentiment polarity to improve user experiences\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Sentiment Classifier\",\"instruction\":\"Sentiment Classifier  Decision-making is assisted by commenting Sentiment Classifier\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Sentiment Analysis\",\"instruction\":\"Sentiment Analysis  Emotional tendency change of hot information can be controlled\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1040
+	}
+]

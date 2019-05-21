@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Identity Card Recognize\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/ocr/identity-card-recognize\",\"classTag\":\"\"}],\"desc\":\"Recognize key fields on both sides of second-generation resident identity cards, including name, gender, nationality, date of birth, address, identity card number, issuance authority and period of validity. The accuracy of recognition is leading in the industry and is stable and reliable\"}",
+		"id":1053
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Diversified Services\",\"proName\":\"Support all kinds of second-generation identity cards (including multiple special formats in minority areas such as the Tibetan nationality, the Mongolian nationality, the Wei nationality, the Korean nationality and the Zhuang nationality)\"},{\"showShade\":false,\"proGood\":\"Precise Identification\",\"proName\":\"Have high key field recognition accuracy and have leading status in the industry\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Stable and Reliable\",\"proName\":\"Rich experiences in scenario business verification and stable performance\"}]",
+		"id":1054
+	},
+	{
+		"txt":"[{\"funcName\":\"Identity Card Detection\",\"funcContent\":[{\"funcTitle\":\"Detect identity cards in images\",\"funcP\":\"Detect if the images entered by the users contain any identity card\"}]},{\"funcName\":\"Identity Card Recognize\",\"funcContent\":[{\"funcTitle\":\"Recognize Identity Card Information\",\"funcP\":\"And recognize key fields on both sides of resident identity cards, including name, gender, nationality, date of birth, address, identity card number, issuance authority and period of validity\"}]}]",
+		"id":1055
+	},
+	{
+		"txt":"[{\"name\":\"Financing Field\",\"instruction\":\"Financial Field It can be applied to recognize user identity verification in the financing business, achieving rapid and high-accuracy information inputting, reducing user’s inputting cost, saving human cost and effectively improving user’s experiences\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"E-commerce and Logistics Fields\",\"instruction\":\"E-commerce and Logistics Fields In the e-commerce and logistics fields, recognize users or automatically recognize and input merchant's identity card to quickly and efficiently verify the identity\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Other Fields\",\"instruction\":\"Rapidly recognize the identity card information in the scenario of Identity Card Recognize\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1056
+	}
+]

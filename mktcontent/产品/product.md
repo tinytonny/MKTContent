@@ -412,6 +412,114 @@
 		"id":1228
 	},
 	{
+		"name":"Automatic Speech Recognition",
+		"id":1229
+	},
+	{
+		"name":"Text to Speech",
+		"id":1230
+	},
+	{
+		"name":"Face Compare",
+		"id":1231
+	},
+	{
+		"name":"Face Search",
+		"id":1232
+	},
+	{
+		"name":"Face Detect and Analysis",
+		"id":1233
+	},
+	{
+		"name":"Face Anti-spoofing",
+		"id":1234
+	},
+	{
+		"name":"Selfie Segmentation",
+		"id":1235
+	},
+	{
+		"name":"Lexical Analysis",
+		"id":1236
+	},
+	{
+		"name":"Syntactic Parsing",
+		"id":1237
+	},
+	{
+		"name":"Sentiment Classifier",
+		"id":1238
+	},
+	{
+		"name":"Short Text Similarity",
+		"id":1239
+	},
+	{
+		"name":"Commentary Extraction",
+		"id":1240
+	},
+	{
+		"name":"Text Categorization",
+		"id":1241
+	},
+	{
+		"name":"Identity Card Recognize",
+		"id":1242
+	},
+	{
+		"name":"Vehicle License Recognize",
+		"id":1243
+	},
+	{
+		"name":"Bank Card Number Recognize",
+		"id":1244
+	},
+	{
+		"name":"General Image OCR",
+		"id":1245
+	},
+	{
+		"name":"Business License Recognize",
+		"id":1246
+	},
+	{
+		"name":"Pose Estimation",
+		"id":1247
+	},
+	{
+		"name":"Human Detection",
+		"id":1248
+	},
+	{
+		"name":"Specific Subject Face Recognition",
+		"id":1249
+	},
+	{
+		"name":"Snap Shop",
+		"id":1250
+	},
+	{
+		"name":"Intelligent Anti-porn",
+		"id":1251
+	},
+	{
+		"name":"Food Recognition",
+		"id":1252
+	},
+	{
+		"name":"Value-added Tax Invoice Recognize",
+		"id":1253
+	},
+	{
+		"name":"Video Summarization",
+		"id":1254
+	},
+	{
+		"name":"Video Tagging",
+		"id":1255
+	},
+	{
 		"name":"IoT Edge",
 		"id":1256
 	},

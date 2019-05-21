@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Text to Speech\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/voice/text-to-speech\",\"classTag\":\"\"}],\"desc\":\"Provide Text to Speech Service with high naturalness, emotional coloring and personality, including text-to-speech and speech-to-speech services. Equip the smart machine with a ready tongue and make it speak\"}",
+		"id":1005
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Type and Speak\",\"proName\":\"Achieve the effect of making the machine speak in real time by synthesizing it in the on-line cloud Text to Speech engine\"},{\"showShade\":false,\"proGood\":\"Natural Effect\",\"proName\":\"Support Chinese or English letter synthesis and can adjust speed and volume according to the business Close to the reading level of an ordinary person\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Personalized Speech Customization\",\"proName\":\"Submit linguistic data of the personalized speaker and the machine can imitate the speech of this speaker\"}]",
+		"id":1006
+	},
+	{
+		"txt":"[{\"funcName\":\"Natural-sounding Reading\",\"funcContent\":[{\"funcTitle\":\"Text to Speech\",\"funcP\":\"It can realize Type and Speak with high naturalness, having an effect close to the reading level of an ordinary person, and provide emotional and personalized Text to Speech Service\"}]},{\"funcName\":\"Personalized Customization\",\"funcContent\":[{\"funcTitle\":\"Support user customized synthesis\",\"funcP\":\"Customize the personalized synthesis voice according to the audio data submitted by the user\"}]}]",
+		"id":1007
+	},
+	{
+		"txt":"[{\"name\":\"Intelligent Customer Service Answering\",\"instruction\":\"Intelligent Customer Service Answering Through Text to Speech, the Customer Service robot answers the user's questions with voice\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Notification Broadcast\",\"instruction\":\"Notification Broadcast carries out voice broadcast and broadcast notification through Text to Speech\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Intelligent Outbound Call\",\"instruction\":\"Intelligent Outbound Call The synthesized voice informs users of important information through outbound calls, e.g. inform users of delay in logistics, abnormal account, etc.\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1008
+	}
+]

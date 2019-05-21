@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"General Image OCR\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/ocr/general-image-ocr\",\"classTag\":\"\"}],\"desc\":\"Based on industry-leading deep learning technology, provide you with image character detection and recognition service with multiple scenarios and high precision by using OCR technology and relying on JD's massive high-quality data\"}",
+		"id":1065
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Strong Universality\",\"proName\":\"Not only support card and certificate images, but also support character recognition in multiple complicated scenarios, e.g. e-commerce graphics context, advertising graphics context, streetscape, etc.\"},{\"showShade\":false,\"proGood\":\"High Adaptability\",\"proName\":\"Fit to complex conditions in various real applications, such as reflecting, inclining, dimming and others, and have stable applicability\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Stable and Reliable\",\"proName\":\"Rich experiences in scenario business verification and stable performance\"}]",
+		"id":1066
+	},
+	{
+		"txt":"[{\"funcName\":\"Character Detection\",\"funcContent\":[{\"funcTitle\":\"Detect characters in images\",\"funcP\":\"Detect characters in images entered by users\"}]},{\"funcName\":\"Character Recognition\",\"funcContent\":[{\"funcTitle\":\"Recognize characters in images\",\"funcP\":\"Convert characters in images into editable text and return coordinates of the characters\"}]}]",
+		"id":1067
+	},
+	{
+		"txt":"[{\"name\":\"Strong Universality\",\"instruction\":\"Not only support card and certificate images, but also support character recognition in multiple complicated scenarios, e.g. e-commerce graphics context, advertising graphics context, streetscape, etc.\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"High Adaptability\",\"instruction\":\"Fit to complex conditions in various real applications, such as reflecting, inclining, dimming and others, and have stable applicability\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Stable and Reliable\",\"instruction\":\"Rich experiences in scenario business verification and stable performance\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1068
+	}
+]

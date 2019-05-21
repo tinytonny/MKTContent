@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"Video Tagging\",\"desc\":\"Based on the industry-leading artificial intelligence (AI) technology, provide multi-dimensional analysis of text, face, object and scenario for the video and output the video tags to enhance the recommendation effects from search\",\"label\":[],\"instruction\":[]}",
+		"id":1105
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"More Accurate Behavior Analysis\",\"proName\":\"It not only analyzes simple behaviors such as entering\\\\leaving regions, but also view each other and recognize all kinds of complicated functions including fight, run, gather and falling to the ground\"},{\"showShade\":false,\"proGood\":\"More Rich Product Form\",\"proName\":\"It can be placed at the central data center to implement backend centralized analysis and process and it can integrate the intelligent analysis function into the web camera\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Precise Recognition\",\"proName\":\"Low False Alarm Rate and False Negative Rate\"}]",
+		"id":1106
+	},
+	{
+		"txt":"[{\"funcName\":\"video Understanding\",\"funcContent\":[{\"funcTitle\":\"Understand videos\",\"funcP\":\"Based on videos provided by customers, through deeply understanding to video clips and video frames\"}]},{\"funcName\":\"Video Analysis\",\"funcContent\":[{\"funcTitle\":\"Analyze videos\",\"funcP\":\"Based on videos provided by customers, provide multi-dimensional analysis of text, face, object and scenario for the video and output the video tags to enhance the recommendation effects from search\"}]}]",
+		"id":1107
+	},
+	{
+		"txt":"[{\"name\":\"Watch and Buy\",\"instruction\":\"While watching a video, the user can purchase a star's same style or relevant commodity automatically recognized in the video by the client\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Video Content Monitoring\",\"instruction\":\"Adopt technologies to recognize porno, violence and terror, political sensitivity in scenarios including live so as to realize real-time automatic review of images, videos, live and other contents in a standard, unified, simple, quick and low-cost way\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Content Retrieval\",\"instruction\":\"Quickly generate hot tags for videos by analyzing the video contents to solve the problem that a video cannot emerge due to lack of keywords so as to enhance the retrieval experience of users\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1108
+	}
+]

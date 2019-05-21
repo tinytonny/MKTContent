@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Human Detection\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/body/human-detection\",\"classTag\":\"\"}],\"desc\":\"Based on industry-leading AI technology, it can precisely detect humans in images or videos and return human coordinate of high precision in a rectangular box\"}",
+		"id":1077
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"High Accuracy\",\"proName\":\"The algorithm model has won the several gold medals and silver medals in 2018 ECCV Global Competition. As the algorithm is continuously updated, it remains it leading benefits\"},{\"showShade\":false,\"proGood\":\"Ability of Detecting Single-person and Multi-person Scenario\",\"proName\":\"It not only supports single-person posture estimate, but also effectively supports human detection under multi-person scenario\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Support to Horizontal and High Angle Shooting Perspective\",\"proName\":\"It not only supports medium-distance and long-distance high angle shooting, but also supports horizontal angle shooting. Different modes will be called for different perspectives, making it accurate and reliable\"}]",
+		"id":1078
+	},
+	{
+		"txt":"[{\"funcName\":\"Multiple Human Detection\",\"funcContent\":[{\"funcTitle\":\"Detect humans in images\",\"funcP\":\"Detect all humans in images\"}]},{\"funcName\":\"Return to human coordinate\",\"funcContent\":[{\"funcTitle\":\"Detect and return human body coordinate value\",\"funcP\":\"Detect and return human body coordinate value in images or videos as well as confidence coefficient\"}]}]",
+		"id":1079
+	},
+	{
+		"txt":"[{\"name\":\"Smart Retail\",\"instruction\":\"Human Detection not only supports simple customer flow statistics, but also can count human flow, age group, gender and other customer information at entrance and exit of shopping mall and outlet in real time in combination with face detection API, analyze customer attribute and play the key function in guide by merchants and shopping guides, optimization of goods, outlet location and others\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Security and Protection Monitoring\",\"instruction\":\"Security and protection monitoring can monitor human flow at scenic areas, airports, stations, schools, squares and other locations and provide public security guarantee\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Other Scenarios\",\"instruction\":\"Other Scenarios  Rapid detection and recognition can be realized quickly in other scenarios detected via Human Detection\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1080
+	}
+]

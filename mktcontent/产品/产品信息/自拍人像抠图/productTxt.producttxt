@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Selfie Segmentation\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/face/selfie-segmentation\",\"classTag\":\"\"}],\"desc\":\"Divide portrait regions in the selfie: Rapidly extract the human profile in the selfie and separate the same from the background\"}",
+		"id":1025
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Rapid Speed\",\"proName\":\"Relying on leading technology of JD, the hundred-millisecond-level response speed can be achieved\"},{\"showShade\":false,\"proGood\":\"Stable Performance\",\"proName\":\"Through large-scale business scenario verification, stable and reliable performance can be achieved\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Rich Applicable Scenarios\",\"proName\":\"The portrait can be rapidly segmented under different illuminations and scenarios\"}]",
+		"id":1026
+	},
+	{
+		"txt":"[{\"funcName\":\"Face Detection\",\"funcContent\":[{\"funcTitle\":\"Detect faces in images\",\"funcP\":\"Detect faces in images uploaded by users\"}]},{\"funcName\":\"Portrait Separation\",\"funcContent\":[{\"funcTitle\":\"Separate portraits from images\",\"funcP\":\"Separate portraits from backgrounds of images\"}]}]",
+		"id":1027
+	},
+	{
+		"txt":"[{\"name\":\"Image Synthesis\",\"instruction\":\"With Image Synthesis, selfie can be rapidly recognized, segmented and stitched to a different scenario, realizing scenario switch and making the scenario more vivid and fuller\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Beauty Camera\",\"instruction\":\"The beauty camera can recognize selfie, beautify photos according to different styles and make life more interesting\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Special Image Effect\",\"instruction\":\"With Special Image Effect, various preset special background effects and paster props can be conveniently added, providing and diversifying entertainment experiences\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1028
+	}
+]

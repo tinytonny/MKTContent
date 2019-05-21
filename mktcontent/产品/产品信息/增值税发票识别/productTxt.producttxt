@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Value-added Tax Invoice Recognize\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/ocr/value-added-tax-invoice-recognize\",\"classTag\":\"\"}],\"desc\":\"Based on the leading deep learning technology of the industry, 20 key fields such as invoice code, invoice number, buyer’s name, buyer’s tax number and others can be recognized. With the accurate and reliable deep learning technology, 20 key fields such as invoice code, invoice number, buyer’s name, buyer’s taxation number and others can be recognized precisely and reliably.\"}",
+		"id":1097
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"High Adaptability\",\"proName\":\"Fit to complex conditions in various real applications, such as reflecting, inclining, dimming and others, and have stable applicability\"},{\"showShade\":false,\"proGood\":\"Precise Identification\",\"proName\":\"Have high key field recognition accuracy and have leading status in the industry\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Stable and Reliable\",\"proName\":\"Rich experiences in scenario business verification and stable performance\"}]",
+		"id":1098
+	},
+	{
+		"txt":"[{\"funcName\":\"Invoice Detection\",\"funcContent\":[{\"funcTitle\":\"Value-added Tax Invoice Detection\",\"funcP\":\"Detect if the value-added tax invoice is detected\"}]},{\"funcName\":\"Invoice Recognition\",\"funcContent\":[{\"funcTitle\":\"Recognize value-added tax invoice in images\",\"funcP\":\"Recognize and return key fields in value-added invoices and its corresponding value, including invoice code, invoice number, name of buyer, tax number of buyer, invoicing amount, invoicing date, etc.\"}]}]",
+		"id":1099
+	},
+	{
+		"txt":"[{\"name\":\"Financial Reimbursement\",\"instruction\":\"It can be applied to financial reimbursement and check of enterprise, with invoice information recognized and input quickly and precisely, reducing inputting cost for user and saving human cost\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Invoice Audit\",\"instruction\":\"Recognize invoice code, invoice number, invoicing date and other information of value-added invoice and check authenticity of the invoice through the check platform of the taxation authority\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Invoice Audit\",\"instruction\":\"Recognize invoice code, invoice number, invoicing date and other information of value-added invoice and check authenticity of the invoice through the check platform of the taxation authority\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1100
+	}
+]

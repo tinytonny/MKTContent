@@ -1,0 +1,68 @@
+<p style="line-height: 24px;background: white">
+<span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">On May 15, 2019, JD Cloud Security Team monitored the emergency security patch released office by Microsoft and fixed remote execution code vulnerability (CVE-2019-0708) for Windows remote desktop service. One may directly obtain Windows server permission via this vulnerability.</span>
+</p>
+<p style="line-height: 24px;background: white"><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41"><br/></span>
+</p>
+<p style="line-height: 24px;background: white"><strong><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">[<strong style="white-space: normal;"><span style="font-size: 13px; font-family: 微软雅黑, sans-serif; color: rgb(55, 61, 65);">Vulnerability Description</span>
+</strong>]</span>
+</strong></p>
+<p style="line-height: 24px;background: white"><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">If a remote execution code vulnerability exists in the remote JD WorkSpaces service (called terminal service previously), when an attacker without identity verification uses RDP to connect to the target system and sends a specially crafted request, since this vulnerability is a pre-identity verification not requiring user interaction, the attacker successfully using this vulnerability can execute any code in the target system, and then the attacker can install programs, view, modify or delete data, or create a new account with complete user permission.</span>
+</p>
+<p style="line-height: 24px;background: white"><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41"><br/></span>
+</p>
+<p style="line-height: 24px;background: white"><strong><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">[<strong style="white-space: normal;"><span style="font-size: 13px; font-family: 微软雅黑, sans-serif; color: rgb(55, 61, 65);">Vulnerability Number and Rating</span>
+</strong>]</span>
+</strong></p>
+<p style="line-height: 24px;background: white"><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">CVE-2019-0708 </span>
+<span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">Severe</span>
+</p>
+<p style="line-height: 24px;background: white"><strong><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41"><br/></span>
+</strong></p>
+<p style="line-height: 24px;background: white"><strong><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">[Windows Version affected by <strong style="white-space: normal;"><span style="font-size: 13px; font-family: Microsoft YaHei, sans-serif; color: rgb(55, 61, 65);"></span>
+</strong>]</span>
+</strong></p>
+<ul class=" list-paddingleft-2" style="list-style-type: disc;"><li><p style="line-height: 24px;background: white"><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">Windows 7</span>
+</p>
+</li><li><p style="line-height: 24px;background: white"><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">Windows Server 2008 R2</span>
+</p>
+</li><li><p style="line-height: 24px;background: white"><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">Windows Server 2008</span>
+</p>
+</li><li><p style="line-height: 24px;background: white"><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">Windows 2003</span>
+</p>
+</li><li><p style="line-height: 24px; background: white; text-align: left;"><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">Windows XP</span>
+</p>
+</li></ul><p style="line-height: 24px;background: white"><strong><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41"><br/></span>
+</strong></p>
+<p style="line-height: 24px;background: white"><strong><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">[<strong style="white-space: normal;"><span style="font-size: 13px; font-family: 微软雅黑, sans-serif; color: rgb(55, 61, 65);">Security Recommendations</span>
+</strong>]</span>
+</strong></p>
+<p><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">Windows 7</span>
+<span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">, users of Windows 2008 R2 and Windows 2008 will automatically receive the patch update push and will be updated automatically. Please keep Windows update open or update manually.</span>
+</p>
+<p><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41"><br/></span>
+</p>
+<p style="line-height: 24px;background: white"><strong><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">[<strong style="white-space: normal;"><span style="font-size: 13px; font-family: 微软雅黑, sans-serif; color: rgb(55, 61, 65);">Mitigation Measure</span>
+</strong>]</span>
+</strong></p>
+<p style="line-height: 24px;background: white"><span style="font-size: 13px; font-family: 微软雅黑, sans-serif; color: rgb(55, 61, 65);">1.<span style="font-variant-numeric: normal;font-stretch: normal;font-size: 9px;line-height: normal;font-family: &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size: 13px; font-family: 微软雅黑, sans-serif; color: rgb(55, 61, 65);">If unnecessary, please prohibit the remote JD WorkSpaces service.</span>
+</p>
+<p style="line-height: 24px;background: white"><span style="font-size: 13px; font-family: 微软雅黑, sans-serif; color: rgb(55, 61, 65);">2.<span style="font-variant-numeric: normal;font-stretch: normal;font-size: 9px;line-height: normal;font-family: &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size: 13px; font-family: 微软雅黑, sans-serif; color: rgb(55, 61, 65);">Enable the network-level identity verification (NLA) on the system running versions supported by Windows 7, Windows Server 2008 and Windows Server 2008 R2</span>
+</p>
+<p class="MsoListParagraph" style="margin-left: 24px;text-indent: 0;line-height: 24px;background: white"><span style="font-size:13px;font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;;color:#373D41">Reference Configuration:<a href="https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc732713(v=ws.11)" _src="https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc732713(v=ws.11)">https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc732713(v=ws.11)</a></span>
+</p>
+<p class="MsoListParagraph" style="margin-left: 24px;text-indent: 0;line-height: 24px;background: white"><span style="font-size: 13px; font-family: 微软雅黑, sans-serif; color: rgb(55, 61, 65);">3.<span style="font-variant-numeric: normal;font-stretch: normal;font-size: 9px;line-height: normal;font-family: &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp; </span>
+</span>
+<span style="font-size: 13px; font-family: 微软雅黑, sans-serif; color: rgb(55, 61, 65);">Configure block TCP port 3389 in Security Group</span>
+<br/></p>
+<p style="line-height: 24px;background: white"><br/></p>
+<p style="line-height: 24px;background: white"><span style="color:#373d41;font-family:微软雅黑, sans-serif"><span style="font-size: 13px;"><strong>[Official Reference Link</strong></span>
+</span>
+<strong style="font-size: 13px; color: rgb(55, 61, 65); font-family: 微软雅黑, sans-serif;">]</strong></p>
+<p style="line-height: 24px;background: white"><strong style="font-size: 13px; color: rgb(55, 61, 65); font-family: 微软雅黑, sans-serif;"><span style="color: rgb(55, 61, 65); font-family: 微软雅黑, sans-serif; font-size: 13px;"><a href="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0708" _src="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0708">https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0708</a> </span>
+</strong></p>
+<p><br/></p>
+<p><br/></p>

@@ -8,6 +8,14 @@
 		"tableName":"cms_partner"
 	},
 	{
+		"name":"Beijing MapleCloudy Co., Ltd.",
+		"description":"MapleCloudy provides one-stop big data developer services and industry-leading solutions. MapleCloudy helps customers realize DevOps for big data. A wealth of development kits and code samples are available on the platform to help enterprises quickly build big data capabilities.\n",
+		"short_name":"Maplecloudy",
+		"id":2,
+		"partner_label":"Initiative One-stop Big Data Developer Platform in the World",
+		"tableName":"cms_partner"
+	},
+	{
 		"name":"Huoking Data Science & Technology (Beijing) Co., Ltd.",
 		"description":"Huoking Consultation is a professional service organization focusing on strategic reform, providing factor market research, reform management consultation, and innovative talent development, which has developed a collaborative innovation Internet platform with three major independent intellectual property rights, with consultation mode of \"logical path-finding + data talking\" to realize intensive and continuous operation management. \n",
 		"short_name":"Huoking",
@@ -40,11 +48,35 @@
 		"tableName":"cms_partner"
 	},
 	{
+		"name":"HangZhou Delan Technology Co., Ltd.",
+		"description":"HangZhou Delan Technology Co., Ltd. is a leading domestic IoT product and solutions service provider providing large household appliances manufacturers with integrated solutions and product services for devices, data, platform and cloud operation. The company owns customers of industrial mavens such as Medea, Hisense, Changhong, Skyworth, Meiling, Honyar and Bull.\n",
+		"short_name":"Hangzhou Delan",
+		"id":7,
+		"partner_label":"Leading Integrated IoT Solution Provider in China",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Hangzhou Fit2Cloud Information Technology Co., Ltd.",
+		"description":"FIT2CLOUD is a world leading cloud management platform (CMP) provider, helping enterprises manage cloud resources, control cloud costs and use cloud services, better applying cloud and sustainable delivery to accelerate business innovation and realize the vision of digital transformation and “Fit to Cloud”.\n",
+		"short_name":"FIT2CLOUD",
+		"id":8,
+		"partner_label":"Leading Cloud Management Platform Provider in the Industry",
+		"tableName":"cms_partner"
+	},
+	{
 		"name":"Beijing Huilian Technology Co., Ltd.",
 		"description":"Intelligent customer service robot + cloud platform SaaS eco-operation enterprise. Intelligent robots are used to emancipate the brainworkers and form a platform linking people, robots, enterprises and services to promote dialogue and services. Service is the development and transformation of marketing. It realizes the integration of virtual robot and hardware robot, and liberates human productivity. \n",
 		"short_name":"Huilian Technology",
 		"id":9,
 		"partner_label":"AI Customer service leader",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Visualsec (Beijing) Technology Co., Ltd.",
+		"description":"VisualSec is a software company devoting itself to cloud data security governance and guaranteeing data security and compliance of cloud enterprise users via systems such as cloud database audit, database firewall and database encryption.\n",
+		"short_name":"VisualSec",
+		"id":11,
+		"partner_label":"Cloud Data Security, Cloud Security Access Agency",
 		"tableName":"cms_partner"
 	},
 	{
@@ -61,6 +93,22 @@
 		"short_name":"Yungoal Information",
 		"id":13,
 		"partner_label":"Automatic operation and maintenance, integrated monitoring and flow management",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Beijing Qiban Information Technology Co., Ltd.",
+		"description":"With experience of 10 years, Qiban has been working on providing leading mobile Internet integrated enterprise service platform solutions and multiple self-developed sub-solutions covering cloud business invitation, cloud management, cloud service and big data.\n",
+		"short_name":"qiban.com",
+		"id":14,
+		"partner_label":"Enterprise Service Platform System and Operation Service Provider",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Beijing Soin Technology Corp., Ltd.",
+		"description":"Established in 2011, Beijing Soin Technology Corp., Ltd. (SOIN TECH for short) is a high-tech company engaging in database products and services, software and hardware distribution and system integration. The company processes the first-class technical personnel, advanced service system, prefect quality assurance as well as all-around and personalized pre-sales, on-purchase and after-sales services.\n",
+		"short_name":"SOIN Tech",
+		"id":15,
+		"partner_label":"Efficient Connection with Cloud System, Data and Business",
 		"tableName":"cms_partner"
 	},
 	{
@@ -96,11 +144,51 @@
 		"tableName":"cms_partner"
 	},
 	{
+		"name":"Beijing JT Cloud Technology Development Co. Ltd.",
+		"description":"Beijing JT Cloud Technology Development Co. Ltd. was founded in 2009 and headquartered in Beijing, with branch offices in Shanghai, Guangzhou, Chengdu and Zhengzhou. Since the establishment, it is always dedicated to the areas including the information technology, professional consultation, application development, and sales promotion for the high-tech information technology and products related to Internet+. It is a leading information technology service provider in China.\n",
+		"short_name":"JT Cloud",
+		"id":20,
+		"partner_label":"Chatone Service, a Reliable IT Service Provider",
+		"tableName":"cms_partner"
+	},
+	{
 		"name":"Shenzhen Qicai Technology Co., Ltd.",
 		"description":"COMIX.com.cn is owned by COMIX Group (stock code: 002301) mainly as a B2B one-stop procurement and service platform aiming at the procurement and service needs of enterprise users to provide “hardware + software + service” for terminal enterprise users based on the operation mode of platform operator + O2O.\n",
 		"short_name":"17cai.com",
 		"id":21,
 		"partner_label":"Enterprise one-stop purchase and service platform",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Beijing Qituan Technology Co., Ltd.",
+		"description":"Qituan Technology is dedicated to developing B2B community e-commerce to ally thousands of medium and small enterprises through Internet for group purchase and direct selling and supply, making the enterprise-level product market more transparent and more efficient. It helps enterprises reduce operational costs and find their most suitable product and service in compliance with their development stage.\n",
+		"short_name":"Qituan Technology",
+		"id":22,
+		"partner_label":"Purchase Service Window Integrating Millions of SMEs",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Beijing Rongchengchuangxin Information Technology Co., Ltd.",
+		"description":"Data Mining Consultant Company Inc. landed on the New Third Board Market in 2015 and provides more enterprise-level customers with professional big data marketing services with more regulated services and more transparent operations. The company is dedicated to supporting customers in multiple areas to create enterprise brands, precisely positioning the market and improving the marketing effects with big data computing.\n",
+		"short_name":"Rongchengchuangxin",
+		"id":23,
+		"partner_label":"Big Data and Mobile Internet Technology and Integrated Marketing",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Beijing Yuanding Technology Co., Ltd.",
+		"description":"Yuanding Technology (security code: 831126) is committed to building a leading domestic IT integrated service platform. Relying on IT resources, enterprise-level customers, Internet innovation and venture capital investment, it builds a larger IT Internet ecosystem to fully meet the needs of customers in IT construction\n",
+		"short_name":"Yuanding Technology",
+		"id":24,
+		"partner_label":"An Internet Company Engaged in IT Business",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Jiangsu TSNSoft Information Technology Co., Ltd.",
+		"description":"TSNSoft Technology focuses on providing enterprise IT infrastructure planning, information security planning, deployment and operation and maintenance outsourcing business, and providing professional consulting services in cloud computing and artificial intelligence. The company integrates businesses, technologies and processes and offers solutions to help customers create value and realize the potential.\n",
+		"short_name":"TSNSoft",
+		"id":25,
+		"partner_label":"Professional IT Infrastructure and Cloud Service Provider",
 		"tableName":"cms_partner"
 	},
 	{
@@ -112,11 +200,43 @@
 		"tableName":"cms_partner"
 	},
 	{
+		"name":"LinkTop (China) Co., Ltd.",
+		"description":"NetApp provides customers with data management and cloud storage solutions. Its Data Fabric architecture enables customers’ data to realize seamless data management, backup, disaster recovery and protection under private cloud, public cloud and Hybrid Cloud environments and in VMware and OpenStack technical systems.",
+		"short_name":"NetApp China",
+		"id":27,
+		"partner_label":"Data Management and Cloud Storage Solution Provider",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Beijing Wen Yi Information Technology Co., Ltd.",
+		"description":"Wen Yi Information is committed to providing all-round IT service and industrial solutions for industry customers such as finance, public service, government and industrial Internet. Our services and solutions cover IT consulting, application development, product engineering, customized software development, maintenance and testing, and business process outsourcing services.\n",
+		"short_name":"Beijing Wen Yi",
+		"id":28,
+		"partner_label":"Interlocking Mechanism One-stop Integrated Management Cloud Platform",
+		"tableName":"cms_partner"
+	},
+	{
 		"name":"Beijing JD Financial Technology Co., Ltd.",
 		"description":"JD Financial Enterprise Service Platform is oriented to a top Financial Technology (Fin Tech) open platform in China, which is committed to opening up the technology, products, users, fund side and asset side accumulated by JD Finance to banks, securities, insurance and other financial institutions as well as other non- Financial institutions, providing menu-based and embedded services for corporate customers. \n",
 		"short_name":"JD Finance Service Platform for Enterprises",
 		"id":29,
 		"partner_label":"Provide enterprises with one-stop financial service solution",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Guangdong Zhonghong Software Technology Co., Ltd.",
+		"description":"Based on its strong R&D strength and over years of technical and operational experience, Zhonghong Software Technology provides mobile Internet solutions including industry e-commerce, cross-border e-commerce and mobile marketing, applies its mobile Internet, IoT, cloud computing and e-commerce technologies and integrates years of e-commerce practical experience to provide services for enterprises to innovate their business modes.\n",
+		"short_name":"Zhonghong Software Technology",
+		"id":30,
+		"partner_label":"Integrated Cross-border E-commerce Platform Solution Provider",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Harbin Innovation Valley Investment Management Co., Ltd.",
+		"description":"As JD Cloud's base and JDC Institute's operating center in Heilongjiang, Harbin Yun Shidai Technology Development Co., Ltd. is a subsidiary wholly owned by Innovation Valley, technically supported by the professional professor team of the major computer of Harbin Institute of Technology and carried by its subordinate System Integration Business Department as well as JD Cloud Business Department and Software R&D Department. Based on its long-term business practice and technical accumulation in cloud computing, big data, IoT and mobile Internet applications, the company is devoted to building a social cloud platform and providing safe, professional, steady and convenient cloud service for the society.",
+		"short_name":"Innovation Valley Investment Management Co., Ltd.",
+		"id":36,
+		"partner_label":"Cloud Future, Double-pioneer and One-stop Cloud Service Platform",
 		"tableName":"cms_partner"
 	},
 	{
@@ -152,11 +272,27 @@
 		"tableName":"cms_partner"
 	},
 	{
+		"name":"Beijing Weifuyou Scientific and Technologic Development Co., Ltd.",
+		"description":"Beijing Weifuyou -- With 18-year ERP and distribution & retail storefront system, 9-year e-commerce management software system, 5-year omni-channel retail system and 3-year intelligent mobile new retail implementation capability, it provides omni-channel system construction for enterprises such as Haier, PEACEBIRD, New Hope Group, Evergrande Group, Aimer, Erdos Group, QUANYOU and Deli.",
+		"short_name":"Beijing Weifuyou",
+		"id":44,
+		"partner_label":"18-year ERP and Distribution & Retail Storefront System",
+		"tableName":"cms_partner"
+	},
+	{
 		"name":"Shanghai Qianjiang Cloud Technology Co., Ltd.",
 		"description":"Shanghai QianJiang Network Technology Co., Ltd. is China's leading enterprise Internet new business platform service provider, which provides e-commerce applications and PaaS services, helps companies redefine enterprise IT architecture, supports enterprises to customize e-commerce application solutions on demand, and helps enterprises Internet and empowers companies to digitize new businesses.",
 		"short_name":"Qianjiang Cloud",
 		"id":45,
 		"partner_label":"Leading enterprise Internet new commercial platform service provider in China",
+		"tableName":"cms_partner"
+	},
+	{
+		"name":"Shanghai Xiangxin Cloud Network Technology Co., Ltd.",
+		"description":"Super Guide is a business operation SAAS platform designed for brand retail enterprises to realize on-line employee, on-line commodity and on-line operation and largely reduce retail costs and improve retail ability. Super Guide Operation Platform for Retail = Software Tool + Content Creation + Operation Service + Special Consulting\n",
+		"short_name":"Shanghai Xiangxin Cloud",
+		"id":46,
+		"partner_label":"Business Operation SAAS Platform Designed for Brand Retail Enterprises",
 		"tableName":"cms_partner"
 	},
 	{
@@ -212,190 +348,6 @@
 		"description":"iTonghui, incorporated in 2008, is engaged in enterprise transaction networking, from enterprise upstream procurement and downstream channel distribution as well as B2B transaction platform construction, serving nearly ten global and domestic top 500 enterprises, hundreds of listed companies as well as medium and large-sized enterprises, and providing customers with systematic and institutional project implementation as well as after-sales service process.",
 		"short_name":"iTonghui",
 		"id":594,
-		"partner_label":"Solution Provider",
-		"tableName":"cms_partner"
-	},
-	{
-		"name":"Beijing Ntalker Technology Corporation",
-		"description":"Xiaoneng was founded in 2007, which belongs to Beijing Ntalker Technology Corporation. As a service provider of smart cloud customer service solution, it is always the pioneer and advocate in customer service field. Since Xiaoneng Smart Customer Service formally released in 2011, it has cooperated with top enterprises in each industry to release solutions of 9 major industries and become their long-term strategic partner.",
-		"short_name":"Xiaoneng",
-		"id":597,
-		"partner_label":"Sales Agent",
-		"tableName":"cms_partner"
-	},
-	{
-		"name":"Ele-Cloud Information Technology Co., Ltd.",
-		"description":"Ele-Cloud Information Technology Co., Ltd. is an innovative Internet science and technology company focusing on the integration of taxation big data development & application, taxation information business and \"Internet + taxation\". Established in 2016, it has helped various customers implement safe, convenient and fast, stable and active taxation information services.",
-		"short_name":"Ele-Cloud",
-		"id":598,
-		"partner_label":"Solution Provider",
-		"tableName":"cms_partner"
-	},
-	{
-		"name":"Beijing Deya Fenghua Information Technology Co., Ltd.",
-		"description":"Found in 2004, DEYA TECH is the earliest manufacturer supplying Enterprise Cloud BOX in China. HOLA enterprise content management system helps enterprises conduct centralized management of technical documents, project documents, and market data so as to implement sort management, safe sharing, controlled distribution, quick retrieval and version management of documents.",
-		"short_name":"Deya",
-		"id":599,
-		"partner_label":"Solution Provider",
-		"tableName":"cms_partner"
-	},
-	{
-		"name":"Hunan Jubaopen Network Technology Co., Ltd.",
-		"description":"As a professional e-commerce software provider at home, the company provides enterprises with multi-user online store system, omni-channel retail online store system, new retail group purchase system for community, WeChat distribution online store system and on-line & off-line integrated new retail store management system as well as online store e-commerce software and marketing tools and related value-added services.",
-		"short_name":"Jubaopen",
-		"id":600,
-		"partner_label":"Solution Provider",
-		"tableName":"cms_partner"
-	},
-	{
-		"name":"Shenzhen Kemai Technology Co., Ltd.",
-		"description":"Kemai is one of the early domestic developers of business software management systems and is a high-tech enterprise with its original products. The company has abundant experience of product development and project implementation in the field of business management software since it has devoted itself to retailing for 18 years. It obtained the first-batch national high-tech enterprise certification, 5 national patents and 52 software copyright patents.",
-		"short_name":"Kemai",
-		"id":601,
-		"partner_label":"Solution Provider",
-		"tableName":"cms_partner"
-	},
-	{
-		"name":"ChinaMainCloud (Beijing) Network Technology Co., Ltd.",
-		"description":"ChinaMainCloud (Beijing) Network Technology Co., Ltd. is a leading domestic network contents integrated operating service provider, providing customers with five excellent services including cloud distribution, cloud storage, cloud security, cloud computing center and data analysis. It has become the integrated service provider and strategic partner of over 200 Internet technology giants in the field of cloud computing.",
-		"short_name":"ChinaMainCloud",
-		"id":602,
-		"partner_label":"Solution Provider",
-		"tableName":"cms_partner"
-	},
-	{
-		"name":"Suzhou Yinengtong Information Technology Co., Ltd.",
-		"description":"Suzhou Yinengtong Information Technology Co., Ltd. is a high-tech company concentrating on artificial intelligence (AI). With the cutting-edge Chinese Natural Language Processing technology in China, the company devotes itself to bringing revolutionary improvement to efficiency of communication between enterprises and consumers and efficiency of customer service and sales with AI technologies.",
-		"short_name":"Yinengtong",
-		"id":603,
-		"partner_label":"Solution Provider",
-		"tableName":"cms_partner"
-	},
-	{
-		"name":"Beijing Weifuyou Scientific and Technologic Development Co., Ltd.",
-		"description":"Beijing Weifuyou is the most competitive domestic retail ERP software management developer, supplier and solution provider in e-commerce times at present, and also one of the pioneers and leading manufacturers in the Chinese retail ERP management software industry. The company owns 76 software copyright patents and provides services for more than 1,000 large and medium enterprise customers.",
-		"short_name":"Beijing Weifuyou",
-		"id":604,
-		"partner_label":"Sales Agent",
-		"tableName":"cms_partner"
-	},
-	{
-		"name":"Wuhan MyE Information Technology Co., Ltd.",
-		"description":"Found in 2013, MyE Technology has been devoting itself to investment and operation of cloud computing infrastructure, research and development of technology and professional operation and maintenance so as to provide customers in the industry with safe, reliable, flexible and customized cloud service products and solutions and facilitate cloudization of enterprise IT architecture. The company is a professional cloud service provider in Central China.",
-		"short_name":"MyE Technology",
-		"id":605,
-		"partner_label":"Solution Provider",
-		"tableName":"cms_partner"
-	},
-	{
-		"name":"Changsha Xishang Network Technology Co., Ltd.",
-		"description":"Xishang Network Technology (http://www.jubaozan.com) was established in 2014. Xishang Network Technology - Jubaozan specializes in offering one-stop social new retail marketing and member management solutions to traditional e-commerce and enterprises in order to help enterprises rapidly expand channels and increase sales and building their own member new retail platform. The company's selected merchants include Yanjinpuzi, Xiongbenjia, and Jiajia Soy Sauce.",
-		"short_name":"Xishang Network",
-		"id":606,
-		"partner_label":"Solutions",
-		"tableName":"cms_partner"
-	},
-	{
-		"name":"Guangdong UnitedData Holding Group Co., Ltd.",
-		"description":"Being a professional data eco-environment operator, Guangdong UnitedData Holding Group Co., Ltd. specializes in industrial whole life cycle management services for data centers, with its scope of business covering planning and design, operation and maintenance, cloud computing and value-added services of data center. The company is an industry leader in aspect of asset management and technology research and development of data center. ",
-		"short_name":"UnitedData",
-		"id":607,
-		"partner_label":"Sales Agent",
-		"tableName":"cms_partner"
-	},
-	{
-		"name":"CloudXink.com",
-		"description":"CloudXink is the leading innovator of brand and advertisement research in China. By combining traditional research modules and Internet technologies, the company develops automated cloud products. By connecting and cooperating with partners in respect of data, technology and methodology, it provides precise marketing ROI evaluation and optimization solutions for the market.",
-		"short_name":"CloudXink",
-		"id":608,
-		"partner_label":"Solution Provider",
-		"tableName":"cms_partner"
-	},
-	{
-		"name":"Jiangsu Cudatec Technology Co., Ltd.",
-		"description":"Cudatec is a high-tech enterprise specializing in 3D visual computing cloud technology research, development and application, owning diversified derivative products in fields of movie and TV cartoon, game, and AR/VR. Xrender (product) is the only cloud rendering platform embracing public cloud in an all-round way in the world, aiming at providing global users with high-efficiency and low-cost solutions by cooperating with public cloud.",
-		"short_name":"Cudatec",
-		"id":609,
-		"partner_label":"Solution Provider",
-		"tableName":"cms_partner"
-	},
-	{
-		"name":"CNISPGROUP Technology Co., Ltd.",
-		"description":"As a cloud infrastructure service provider, CNISPGROUP Technology Co., Ltd. owns several professional accreditations and service qualifications, such as value-added telecommunications business license for entire network. By optimizing operator contents and data resources, CNISPGROUP satisfy customers’ differentiated demands and has provided services for a large number of famous domestic enterprises at present.",
-		"short_name":"CNISPGROUP Technology Co., Ltd.",
-		"id":610,
-		"partner_label":"Solution Provider",
-		"tableName":"cms_partner"
-	},
-	{
-		"name":"Zhongxun Runda (Beijing) Technology Co., Ltd.",
-		"description":"As a professional intelligent communication service provider, Zhongxun Runda (Beijing) Technology Co., Ltd. provides mobile manufacturers with big data and artificial intelligence (AI) solutions through system address list. Its main products include: Intelligent Address List, and Intelligent Marketing Platform. The company devotes itself to providing valuable services for more people.",
-		"short_name":"Zhongxun Runda",
-		"id":611,
-		"partner_label":"Solution Provider",
-		"tableName":"cms_partner"
-	},
-	{
-		"name":"Zhongyunxin Technology Co., Ltd.",
-		"description":"Established in 2018, Zhongyunxin Technology Co., Ltd. is a scientific and technological innovation-oriented enterprise controlled by CITIC Private Equity Funds Management Co., Ltd., providing multiple one-stop services such as hosted data center, data disaster recovery, cloud computing, big data, business continuity and IT outsourcing for customers.",
-		"short_name":"Zhongyunxin",
-		"id":612,
-		"partner_label":"Solution Provider",
-		"tableName":"cms_partner"
-	},
-	{
-		"name":"Anhui Ruilian Information Technology Co., Ltd.",
-		"description":"Ruilian Information Technology is a system integrator providing computer information application for small and medium enterprises. The company aims at offering customized informatization construction schemes at the premise of controlling costs and increase benefits for enterprises and providing enterprise virtualization, big data integration, deep security control and other businesses for high-end users.",
-		"short_name":"Ruilian Information",
-		"id":613,
-		"partner_label":"Sales Agent",
-		"tableName":"cms_partner"
-	},
-	{
-		"name":"Nanjing Qunli Times Software Co., Ltd",
-		"description":"Nanjing Qunli Times Software Co., Ltd is the wholly-owned subsidiaries of Qunli Group. It has been committed to application software R&D and technical Support Service by relying on industrial benefits and business network of Qunli Group since its establishment in 2009.  Qunli is willing to work together with partners in the cloud ecological system of JD Cloud to share the interest and future!",
-		"short_name":"",
-		"id":631,
-		"partner_label":"Sales Agent",
-		"tableName":"cms_partner"
-	},
-	{
-		"name":"Beijing Migrsoft Technology Co., Ltd.",
-		"description":"Beijing Migrsoft Technology Co., Ltd. specializes in new retail, smart retail stores and new business solutions providers, and provides platform-level product systems based on omni-channel integrated business support for chain shopping centers, fresh & convenience, cosmetics, and business centers. The standard products include business center, POS-ERP, mobile POS, CRM, O2O, B2B, new retail applications (unmanned shop systems, free purchasing systems, face recognition systems, etc.).",
-		"short_name":"Migrsoft Technology",
-		"id":632,
-		"partner_label":"Solution Provider",
-		"tableName":"cms_partner"
-	},
-	{
-		"name":"Centerm Information Co., Ltd.",
-		"description":"Centerm Information Co., LTD is a leading provider of cloud terminals, thin clients, payment POS and \"JD WorkSpaces Cloud\" overall solutions in Asia Pacific. It takes \"independent R&D strength\" as the cornerstone of enterprise development, having five research institutes in Fuzhou, Chengdu, Wuhan, Shanghai and Xiamen and more than 600 R&D personnel, which constitute a high-quality R&D team with high reputation in the industry.",
-		"short_name":"Centerm Information",
-		"id":633,
-		"partner_label":"Solution Provider",
-		"tableName":"cms_partner"
-	},
-	{
-		"name":"Beijing SVOC Technology Co., Ltd.",
-		"description":"Beijing SVOC Technology is a cloud collaboration and cloud value-added operation service provider based on independent cloud computing technology. Based on virtualization technology and with the core of multimedia communication frontier technology, it independently developed the “Power Cloud” and “Vision Cloud” platforms, and relied on multi-line access IDC to help the upgrade transformation and business innovation of enterprises.",
-		"short_name":"SVOC",
-		"id":634,
-		"partner_label":"Solution Provider",
-		"tableName":"cms_partner"
-	},
-	{
-		"name":"Xiamen Reconova Information & Technology Co., Ltd.",
-		"description":"Reconova focuses on the research of image Intelligent awareness technology. The company's core R&D team is composed of many senior experts in Artificial Intelligence and computer vision. It has industry-leading core technologies of machine learning and computer vision, with scale product applications in smart stores, smart home appliances, car intelligence, smart security and other fields.",
-		"short_name":"Xiamen Reconova",
-		"id":635,
-		"partner_label":"Solution Provider",
-		"tableName":"cms_partner"
-	},
-	{
-		"name":"Zhongxin Saibao (Tianjin) E-commerce Co., Ltd.",
-		"description":"Zhongxin Saibao is an industry mobile internet solutions provider. It is a high-tech enterprise integrating mobile Internet product design, research and development, operation, sales and service. It has nearly 400 agency partners nationwide. It provides enterprises with a strategic idea of personalized, customized mobile Internet development and industry-based Internet solutions.",
-		"short_name":"Zhongxin Saibao",
-		"id":636,
 		"partner_label":"Solution Provider",
 		"tableName":"cms_partner"
 	}

@@ -1,0 +1,8 @@
+<p>To provide better products and services about Cloud Disk Service, JD Cloud will upgrade Cloud Disk Service in [cn-north-1] region from 22:00:00 on May 16, 2019 to 01:00:00 on May 17, 2019. During this period:</p>
+<p>&nbsp;Virtual Machines Console Access and OpenAPI services in [cn-north-1] will be paused while such services in other regions will not be affected;</p>
+<p>&nbsp;Cloud Disk Service Console and OpenAPI services in [cn-north-1] will be paused while such services in other regions will not be affected;</p>
+<p>&nbsp;Native Container Instance, Pod Console and OpenAPI services in [cn-north-1] will be paused while such services in other regions will not be affected;</p>
+<p>Inherent business running in your regions will not affected by the launch. The Console will be resumed for normal use upon completion of launching.</p>
+<p><br/></p>
+<p>For [cn-north-1], if you have relevant questions with the Cloud Disk Service in the region, please contact us via tickets and phone number (400-615-1212). Thank you for your support to JD Cloud.</p>
+<p><br/></p>

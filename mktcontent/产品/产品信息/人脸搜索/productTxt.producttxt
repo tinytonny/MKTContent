@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Face Search\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/face/face-search\",\"classTag\":\"\"}],\"desc\":\"The same face will be compared to N faces in the face base, the most similar face or faces will be found out and a series of similar face information and similarity scores will be returned, for verifying user’s identity, face swiping access control, security and protection monitoring and relevant scenarios\"}",
+		"id":1013
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Rapid Speed\",\"proName\":\"Based on leading technology of JD, it supports super-large capacity face base management and millisecond response speed\"},{\"showShade\":false,\"proGood\":\"Flexible and Convenience\",\"proName\":\"Face base supports free user grouping and convenient face base management\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"High Precision\",\"proName\":\"For the face base with tens of thousands faces, the first-selection recognition rate is above 99%, greatly meeting various application demands\"}]",
+		"id":1014
+	},
+	{
+		"txt":"[{\"funcName\":\"Self-built Face Base\",\"funcContent\":[{\"funcTitle\":\"Support customized face base\",\"funcP\":\"Users can set up face bases based on reality, which shall support functions as face base grouping and others\"}]},{\"funcName\":\"Face Search\",\"funcContent\":[{\"funcTitle\":\"Search faces in images\",\"funcP\":\"Fined one or more face register bases from one existing face set, which is/are the most similar to the designated face, compare the two, and realize 1:N Face Recognition\"}]}]",
+		"id":1015
+	},
+	{
+		"txt":"[{\"name\":\"Face Swiping Access Control\",\"instruction\":\"By using the face recognition technology, the face swiping access control can rapidly input face information, automatically detect faces of users passing through, make face verification, and complete identity information confirmation. The face swiping access control is applicable under various scenarios such as enterprise park, office buildings, hotels, residence communities and others\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Security and Protection Monitoring\",\"instruction\":\"Security and Protection Monitoring can be used for monitoring groups in crowded public occasions such as airports, malls, supermarkets, railway stations, squares and others, realizing automatic counting for passenger flow and recognition and track to sensitive persons\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Other Scenarios\",\"instruction\":\"In other scenarios where attendance or attendance check is required, such as meeting rooms, schools, companies and others, faces shall be entered in advance and the face detection function can be used for realizing face swiping attendance, attendance check and other functions\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1016
+	}
+]

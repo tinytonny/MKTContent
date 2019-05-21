@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Automatic Speech Recognition\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/voice/automatic-speech-recognition\",\"classTag\":\"\"}],\"desc\":\"Convert speech into text. Support recognition of multiple scenarios and provide voice solutions for scenarios such as retail, customer service and finance\"}",
+		"id":1001
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Multi-field Proficiency\",\"proName\":\"Relying on JD's big data support of retail, finance and customer service fields, it achieves an expert-level Automatic Speech Recognition in the fields based on the cutting-edge algorithm in the industry\"},{\"showShade\":false,\"proGood\":\"Orientable Optimization\",\"proName\":\"It can help customers with orientable optimization and provide Automatic Speech Recognition Service more suitable for your field by debugging data and model to certain extent\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Speak and Display\",\"proName\":\"By using stream recognition technology, it can display the text while a person is speaking\"}]",
+		"id":1002
+	},
+	{
+		"txt":"[{\"funcName\":\"Stream Recognition\",\"funcContent\":[{\"funcTitle\":\"Speech to Text\",\"funcP\":\"Automatic Speech Recognition mainly consists of feature extraction technique, pattern matching criterion and Model Training to convert speech into text in the course of man-machine interaction and it uses stream recognition technology to implement \\\"Speak and Display\\\"\"}]},{\"funcName\":\"Support Multiple Scenarios\",\"funcContent\":[{\"funcTitle\":\"Application Scenarios\",\"funcP\":\"Provide voice solutions for scenarios such as retail, customer service and finance\"}]}]",
+		"id":1003
+	},
+	{
+		"txt":"[{\"name\":\"Customer Service Recording Analysis\",\"instruction\":\"Customer Service Recording Analysis will convert the conversation between a user and the customer service personnel into text to mine the user's emotion, analyze the answering level of the customer service personnel and implement big data analysis of the audio\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Retail Commodity Search\",\"instruction\":\"Retail Commodity Search Users can search the commodity they want by voice instead of typing to make the search more efficient\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Financial Robot Advisor\",\"instruction\":\"Financial Robot Advisor Users can get information related to finance by way of conversion\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1004
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Commentary Extraction\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/nlp/commentary-extraction\",\"classTag\":\"\"}],\"desc\":\"Automatically analyze the commentary focus and point, extract the viewpoint tags for the comment. Assist users with content generation, decision-making on product, operation monitoring and so on\"}",
+		"id":1045
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"High Accuracy\",\"proName\":\"Automatically mine the sentiment to form the tag system. Efficiently and accurately extract the point by machine learning algorithm\"},{\"showShade\":false,\"proGood\":\"Rich Data\",\"proName\":\"Based on rich comment data in the e-commerce field\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Various Dimensions\",\"proName\":\"Obtain the multi-dimension focus of user comments automatically based on a mass of data in the e-commerce field\"}]",
+		"id":1046
+	},
+	{
+		"txt":"[{\"funcName\":\"Automatically Extract Data\",\"funcContent\":[{\"funcTitle\":\"Automatically Mine Sentiment\",\"funcP\":\"Automatically mine the sentiment based on the machine learning algorithm model and rich comment data in the e-commerce field\"}]},{\"funcName\":\"Summarization Generation\",\"funcContent\":[{\"funcTitle\":\"It can generate the summarization contents\",\"funcP\":\"Automatically analyze the commentary focus and point and extract the viewpoint tags to assist in decision-making and generating summarization\"}]}]",
+		"id":1047
+	},
+	{
+		"txt":"[{\"name\":\"Commentary Extraction\",\"instruction\":\"Commentary Extraction extracts the tag category in the comment to assist in decision-making\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Summarization Generation\",\"instruction\":\"Summarization generation point extraction, summarization generation, enhance quality\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Industry Research\",\"instruction\":\"Industry Research gives feedback on user's focus of hot-spots to assist in decision-making\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1048
+	}
+]

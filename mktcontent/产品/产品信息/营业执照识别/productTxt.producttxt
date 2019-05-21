@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"productName\":\"Business License Recognize\",\"desc\":\"Based on leading deep learning technology of the industry, it can recognize key fields in business licenses, including key fields: unified social credit code/registration number, unit name, legal person, address, validity, etc., achieving accuracy and reliability\",\"label\":[],\"instruction\":[]}",
+		"id":1069
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"High Adaptability\",\"proName\":\"Fit to complex conditions in various real applications, such as reflecting, inclining, dimming and others, and have stable applicability\"},{\"showShade\":false,\"proGood\":\"Precise Identification\",\"proName\":\"Recognition accuracy for key fields is greater than 98%\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Stable and Reliable\",\"proName\":\"Rich experiences in scenario business verification and stable performance\"}]",
+		"id":1070
+	},
+	{
+		"txt":"[{\"funcName\":\"Business License Detection\",\"funcContent\":[{\"funcTitle\":\"Detect business license in images\",\"funcP\":\"Detect if the images contain any business license\"}]},{\"funcName\":\"Business License Recognize\",\"funcContent\":[{\"funcTitle\":\"Business License Recognize for Image\",\"funcP\":\"Recognize key fields in business licenses, including: unified social credit code/registration number, unit name, legal person, address, validity, etc.\"}]}]",
+		"id":1071
+	},
+	{
+		"txt":"[{\"name\":\"Enterprise Verification\",\"instruction\":\"It can be applied to e-commerce, O2O, taxation, categorized information website and others and rapidly recognize business license for information input, increasing inputting efficiency and improving user experiences\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Financing Field\",\"instruction\":\"It can be applied to recognize enterprise business license in the financing business, achieving rapid and high-accuracy information inputting, reducing user’s inputting cost, saving human cost and effectively improving user’s experiences\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1072
+	}
+]

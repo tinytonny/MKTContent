@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Face Anti-spoofing\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/face/face-anti-spoofing\",\"classTag\":\"\"}],\"desc\":\"Based on leading deep learning technology of the industry, judge if the user is an alive person in Face Recognition application and effectively withhold common attack means such as photo, face swapping, mask, shielding and copied screen\"}",
+		"id":1021
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Leading Algorithm\",\"proName\":\"Based on leading deep learning algorithm in the industry and mass data training of JD, it has leading benefits in real business application\"},{\"showShade\":false,\"proGood\":\"Accurate and Reliable\",\"proName\":\"Through hundreds of millions of calling business verifications of JD Mall and third-party partner manufacturers, it achieves stability, reliability and precise recognition\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Simple and Easy to Use\",\"proName\":\"Freely combine individual face technology module through different APIs, realizing different functions\"}]",
+		"id":1022
+	},
+	{
+		"txt":"[{\"funcName\":\"Face Detection\",\"funcContent\":[{\"funcTitle\":\"Detect faces in images\",\"funcP\":\"Detect faces in images uploaded by users\"}]},{\"funcName\":\"Alive Person Detection\",\"funcContent\":[{\"funcTitle\":\"Judge if the face is from an alive person\",\"funcP\":\"Judge if the user is an alive person and can effectively withhold common attack means such as photo, face swapping, mask, shielding and copied screen\"}]}]",
+		"id":1023
+	},
+	{
+		"txt":"[{\"name\":\"Human and Certificate Verification\",\"instruction\":\"Judge if the user is an alive person and can effectively withhold common attack means such as photo, face swapping, mask, shielding and copied screen\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Identity Verification for Financial Business\",\"instruction\":\"Where Identity Verification for Financial Business is used in combination with Face Compare, it is determined if the selfie and the registered photo of the public security system or the verified one are from the same person, for making authorization verification. It can help financial enterprises improve their risk control capacity and rapidly grant loans; meanwhile, it can improve user experiences and reduce cost\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Security and Protection Verification\",\"instruction\":\"Under the strict security and protection scenario and in combination with Face Search API, it can effectively reduce the risk of counterfeiting and displacement through identity verification\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1024
+	}
+]

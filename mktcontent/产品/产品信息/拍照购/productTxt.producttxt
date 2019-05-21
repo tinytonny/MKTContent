@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Snap Shop\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/image/snap-shop\",\"classTag\":\"\"}],\"desc\":\"Shoot and recognize objects in photos and return the same or similar commodity information from JD Mall, greatly improving searching speed and accuracy and increasing shooting and shopping enjoyment\"}",
+		"id":1085
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"Support to Diversified Types\",\"proName\":\"Relying on real data of different on-line and off-line retail scenarios of JD and by using the leading AI algorithm technology of the industry, it can supports tens of major types and thousands of categories such as home appliance, digital products, food, beverage, personal care products, cosmetics, suitcases, bags, accessories, shoes, boots, jackets and others\"},{\"showShade\":false,\"proGood\":\"Accurate and Reliable\",\"proName\":\"Through hundreds of millions of calling business verifications of JD Mall and third-party partner manufacturers, it achieves stability, reliability and precise recognition\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Multi-scenario Application\",\"proName\":\"It can meet demands for commodity recognition under e-commerce scenario and also support camera module of mobile terminal manufacturer. With Snap Shop, the user’s shopping enjoyment is increased\"}]",
+		"id":1086
+	},
+	{
+		"txt":"[{\"funcName\":\"Commodity Detection\",\"funcContent\":[{\"funcTitle\":\"Detect commodities in images\",\"funcP\":\"Detect commodities in images uploaded by users\"}]},{\"funcName\":\"Commodity Retrieval\",\"funcContent\":[{\"funcTitle\":\"Retrieve commodities in images\",\"funcP\":\"Daily images uploaded by users, containing objects, will be processed by the background server and a list of commodity with the same visual effect similar to that of the uploaded images will be returned by JD Mall\"}]}]",
+		"id":1087
+	},
+	{
+		"txt":"[{\"name\":\"E-commerce Scenario\",\"instruction\":\"By calling Snap Shop, the same or similar commodities can be recognized from the commodity base and corresponding commodity information can be returned\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Mobile Terminal\",\"instruction\":\"By shooting the commodity with the camera, the commodity can be recognized and corresponding commodity information can be returned\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Other Scenarios\",\"instruction\":\"For other objects involved in shooting and photo recognition, the same or similar commodity information scenario of JD Mall will be returned\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1088
+	}
+]

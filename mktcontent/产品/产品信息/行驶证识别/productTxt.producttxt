@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Vehicle License Recognize\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/ocr/vehicle-license-recognize\",\"classTag\":\"\"}],\"desc\":\"Based on leading deep-learning technology of the industry, recognize key field recognition in vehicle license pages, including key fields: plate number, vehicle type, owner, address, use nature, brand model, vehicle identification number, engine number, registration date and issue date, achieving accuracy and reliability\"}",
+		"id":1057
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"High Adaptability\",\"proName\":\"Fit to complex conditions in various real applications, such as reflecting, inclining, dimming and others, and have stable applicability\"},{\"showShade\":false,\"proGood\":\"Precise Identification\",\"proName\":\"Have high key field recognition accuracy and have leading status in the industry\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Stable and Reliable\",\"proName\":\"Rich experiences in scenario business verification and stable performance\"}]",
+		"id":1058
+	},
+	{
+		"txt":"[{\"funcName\":\"Drive License Detection\",\"funcContent\":[{\"funcTitle\":\"Detect drive license in images\",\"funcP\":\"Detect if the images uploaded by the users contain any vehicle licenses\"}]},{\"funcName\":\"Key Field Recognition\",\"funcContent\":[{\"funcTitle\":\"Key Field Recognition and Output\",\"funcP\":\"Correctly recognize key fields in pages, including: plate number, vehicle type, owner, address, use nature, brand model, vehicle identification number, engine number, registration date and issue date\"}]}]",
+		"id":1059
+	},
+	{
+		"txt":"[{\"name\":\"Transportation\",\"instruction\":\"For the transportation service applications, the registered driver’s information can be rapidly input with the Vehicle License Recognize, reducing input cost for driver information and becoming precise, rapid and convenient\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Financing Field\",\"instruction\":\"It can be applied to user’s drive license information in the financing business, achieving rapid speed and high accuracy, reducing user’s inputting cost, saving human cost and effectively improving user’s experiences\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Other Fields\",\"instruction\":\"Rapidly input information in the vehicle license in the scenario of Vehicle License Recognize\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1060
+	}
+]

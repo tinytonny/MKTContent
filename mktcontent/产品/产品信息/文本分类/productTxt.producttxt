@@ -1,0 +1,18 @@
+[
+	{
+		"txt":"{\"instruction\":[],\"productName\":\"Text Categorization\",\"label\":[{\"TitleName\":\"Free Trial\",\"TitleUrl\":\"http://ai-console.jdcloud.com/nlp/text-categorization\",\"classTag\":\"\"}],\"desc\":\"Recognize field information of user’s speech and provide categorizations of 17 fields, including song, broadcasting, story, encyclopedia, weather, time, news, life style search, travel, stock, shopping, loudspeaker box instruction, household instruction, chatting, translation, computer and alarm clock\"}",
+		"id":1049
+	},
+	{
+		"txt":"[{\"showShade\":false,\"proGood\":\"High Accuracy\",\"proName\":\"It intends to recognize and provides various algorithms, including logic regression/CNN/LSTM model\"},{\"showShade\":false,\"proGood\":\"Rich Linguistic Information\",\"proName\":\"Annotation data of rich and open fields are provided and the evaluation results achieve leading status of the industry\"},{\"showShade\":false,\"imageUrl\":\"\",\"proGood\":\"Free Customization\",\"proName\":\"Developers are allowed to flexibly customize speech model data\"}]",
+		"id":1050
+	},
+	{
+		"txt":"[{\"funcName\":\"Dialog Text\",\"funcContent\":[{\"funcTitle\":\"Parse text categorization information in speed field\",\"funcP\":\"Recognize field information of user’s speech based on high-intention algorithm of logic regression/CNN/LSTM model as well as annotation data in rich and open fields\"}]},{\"funcName\":\"Application Scenarios\",\"funcContent\":[{\"funcTitle\":\"Cover 17 daily life fields\",\"funcP\":\"Provide categorizations of 17 fields, including song, broadcasting, story, encyclopedia, weather, time, news, life style search, travel, stock, shopping, loudspeaker box instruction, household instruction, chatting, translation, computer and alarm clock\"}]}]",
+		"id":1051
+	},
+	{
+		"txt":"[{\"name\":\"Field Categorization\",\"instruction\":\"Field Categorization  Texts are automatically categorized and pre-categorizing judgment is made\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Intelligent Hardware Empowerment\",\"instruction\":\"Intelligent Hardware Empowerment  The voice interaction capacity is provided to intelligent hardware\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false},{\"name\":\"Other Scenarios\",\"instruction\":\"Other scenario shall meet demands for Text Categorization-related scenario in different industries and fields\",\"recommend\":\"\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"picUrl\":\"\",\"showShade\":false}]",
+		"id":1052
+	}
+]
