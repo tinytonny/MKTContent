@@ -824,5 +824,12 @@
 		"id":1098,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"618企业线促销活动",
+		"id":1100,
+		"button_title":"",
+		"main_title":""
 	}
 ]
