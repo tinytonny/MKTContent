@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"Log Service\",\"label\":[{\"TitleName\":\"Apply for Beta\",\"TitleUrl\":\"https://www.jdcloud.com/public/testApply/logs\",\"classTag\":\"\"}],\"desc\":\"Log Service is a one-stop log service platform provided by JD Cloud. It provides real-time log collection, log storage, log retrieval, intelligent analysis and other functions to help users solve business operation, workload monitoring, log analysis and other problems through logs.\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"Log Service\",\"label\":[{\"TitleName\":\"Buy Now\",\"TitleUrl\":\"https://logs-console.jdcloud.com/logset/list\",\"classTag\":\"\"}],\"desc\":\"Log Service is a one-stop log service platform provided by JD Cloud. It provides real-time log collection, log storage, log retrieval, intelligent analysis and other functions to help users solve business operation, workload monitoring, log analysis and other problems through logs.\"}",
 		"id":676
 	},
 	{
