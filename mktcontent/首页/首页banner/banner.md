@@ -803,5 +803,19 @@
 		"id":1096,
 		"button_title":"View More",
 		"main_title":"JD Cloud Data Security WhitePaper Released"
+	},
+	{
+		"sub_title":"",
+		"name":"618MidYear",
+		"id":1098,
+		"button_title":"",
+		"main_title":""
+	},
+	{
+		"sub_title":"",
+		"name":"618ENTPromo",
+		"id":1100,
+		"button_title":"",
+		"main_title":""
 	}
 ]
