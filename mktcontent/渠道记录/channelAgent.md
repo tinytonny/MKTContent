@@ -22,5 +22,9 @@
 	{
 		"channel_agent":"Traffic",
 		"id":68
+	},
+	{
+		"channel_agent":"Internet Application",
+		"id":70
 	}
 ]

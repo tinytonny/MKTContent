@@ -20,7 +20,7 @@
 		"id":10
 	},
 	{
-		"name":"Industrial JD Cloud Onboarding",
+		"name":"Enterprise Cloud Access",
 		"id":11
 	},
 	{
@@ -30,6 +30,10 @@
 	{
 		"name":"Medical Cloud",
 		"id":15
+	},
+	{
+		"name":"JD Cloud Brain",
+		"id":16
 	},
 	{
 		"name":"Industry Innovation",
@@ -96,7 +100,7 @@
 		"id":68
 	},
 	{
-		"name":"JD WorkSpaces Private Solutions",
+		"name":"JD WorkSpaces Solutions",
 		"id":72
 	},
 	{
@@ -114,5 +118,49 @@
 	{
 		"name":"Internet Finance Security Solutions",
 		"id":82
+	},
+	{
+		"name":"AI Smart Retail Store Solutions",
+		"id":85
+	},
+	{
+		"name":"AR Makeup Try-ons Solutions",
+		"id":88
+	},
+	{
+		"name":"Offline Advertisement Intelligent Marketing Solution",
+		"id":90
+	},
+	{
+		"name":"Hybrid Cloud Security Solution",
+		"id":91
+	},
+	{
+		"name":"JD Cloud Enterprise Assistant",
+		"id":110
+	},
+	{
+		"name":"Cloud Migration Solution",
+		"id":111
+	},
+	{
+		"name":"Government-Enterprise Business Cloud Solution",
+		"id":114
+	},
+	{
+		"name":"App Deployment on Cloud",
+		"id":116
+	},
+	{
+		"name":"Cloud Disaster Recovery",
+		"id":118
+	},
+	{
+		"name":"Cloud Competition Solution",
+		"id":120
+	},
+	{
+		"name":"Intelligent Verify Code",
+		"id":121
 	}
 ]

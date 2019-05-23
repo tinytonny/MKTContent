@@ -140,10 +140,6 @@
 		"id":73
 	},
 	{
-		"name":"NLP Analysis",
-		"id":74
-	},
-	{
 		"name":"Data Integration",
 		"id":75
 	},
