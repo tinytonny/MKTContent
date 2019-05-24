@@ -1,22 +1,22 @@
 [
 	{
-		"summary":"To carry out the multi-dimensional cooperation, JD Group has signed the strategic cooperation agreement with the People’ s Government of Guangxi Zhuang Autonomous Region in the fields of E-commerce, intelligent logistics, Internet finance, “Internet +” tax services, emerging technologies, government affairs, etc.",
+		"summary":"To carry out the multi-dimensional cooperation, JD Group has signed the strategic cooperation agreement with the People’ s Government of Guangxi Zhuang Autonomous Region in the fields of E-commerce, intelligent logistics, Internet finance, \"Internet +\" tax services, emerging technologies, government affairs, etc.",
 		"image_url":"//img1.jcloudcs.com/cms/beed87a3-29f4-4c7c-a73a-e37d015e93ac20180702110614.png",
 		"jss_url":"http://img1.jcloudcs.com/News_Content_107",
 		"jss_key":"News_Content_107",
 		"id":107,
-		"news_title":"JD Cloud cooperating with Digital Guangxi Group to broaden the “new space” of digital economy"
+		"news_title":"JD Cloud cooperating with Digital Guangxi Group to broaden the \"new space\" of digital economy"
 	},
 	{
-		"summary":"The 2018 Conference on the Rural E-commerce Industry Integration Development in Guangdong (Zhaoqing) with the topic of “Cloud-based Industry and Providing Assistance to the Rural Vitalization” was officially held in Zhaoqing, Guangdong. This grand conference was hosted by the People's Government of Zhaoqing Municipality and JD Group and organized by Bureau of Commerce of Zhaoqing City, Zhaoqing New Area Management Committee and JD Cloud, and the “Internet +” resources are integrated and new opportunities of connecting the rural area with E-commerce are explored against a backdrop of rural vitalization, with the aim to blaze a trail for the integration and development of rural E-commerce and industries.",
+		"summary":"The 2018 Conference on the Rural E-commerce Industry Integration Development in Guangdong (Zhaoqing) with the topic of \"Cloud-based Industry and Providing Assistance to the Rural Vitalization\" was officially held in Zhaoqing, Guangdong. This grand conference was hosted by the People's Government of Zhaoqing Municipality and JD Group and organized by Bureau of Commerce of Zhaoqing City, Zhaoqing New Area Management Committee and JD Cloud, and the \"Internet +\" resources are integrated and new opportunities of connecting the rural area with E-commerce are explored against a backdrop of rural vitalization, with the aim to blaze a trail for the integration and development of rural E-commerce and industries.",
 		"image_url":"//img1.jcloudcs.com/cms/4e1f37fc-71f9-4bfe-a22a-1e013b3d569320180702183341.png",
 		"jss_url":"http://img1.jcloudcs.com/News_Content_108",
 		"jss_key":"News_Content_108",
 		"id":108,
-		"news_title":"Cloud Industry helping rural development   rural E-commerce opening “Zhaoqing Pattern”"
+		"news_title":"Cloud Industry helping rural development   rural E-commerce opening \"Zhaoqing Pattern\""
 	},
 	{
-		"summary":"As the integrated service providers of all-platform cloud computing in China, JD Cloud was hailed as one of the “Strong Performers” in the latest issued research report of The Forrester Wave™: Full-Stack Public Cloud Development Platforms in China (Q3 2018) (hereinafter referred to as the “Report”) by Forrester",
+		"summary":"As the integrated service providers of all-platform cloud computing in China, JD Cloud was hailed as one of the \"Strong Performers\" in the latest issued research report of The Forrester Wave™: Full-Stack Public Cloud Development Platforms in China (Q3 2018) (hereinafter referred to as the \"Report\") by Forrester",
 		"image_url":"//img1.jcloudcs.com/cms/ffaee869-3dc9-44b2-aef0-8d795aeb88c120180719185902.jpg",
 		"jss_url":"http://img1.jcloudcs.com/News_Content_109",
 		"jss_key":"News_Content_109",
@@ -24,7 +24,7 @@
 		"news_title":"JD Cloud making effort for 18 months, step into the first rank of cloud computing in China"
 	},
 	{
-		"summary":"JD Cloud announces that it has reached the strategic cooperation agreement with Top Cloud-Agri to jointly build and improve the cloud matrix ecological system strategy of JD Cloud Matrix through their respective advantages in the terms of cloud computing, big data, Internet, agricultural information technology and finance, with the aim to promote the application of the new generation of information technology in this industry and accelerate the modernization of agriculture and rural areas based on the work deployment of ”three rural issues: agriculture, rural areas and farmers”.",
+		"summary":"JD Cloud announces that it has reached the strategic cooperation agreement with Top Cloud-Agri to jointly build and improve the cloud matrix ecological system strategy of JD Cloud Matrix through their respective advantages in the terms of cloud computing, big data, Internet, agricultural information technology and finance, with the aim to promote the application of the new generation of information technology in this industry and accelerate the modernization of agriculture and rural areas based on the work deployment of \"three rural issues: agriculture, rural areas and farmers\".",
 		"image_url":"//img1.jcloudcs.com/cms/7c793618-c0af-4fd5-815a-d87b14696ae720180720170314.png",
 		"jss_url":"http://img1.jcloudcs.com/News_Content_110",
 		"jss_key":"News_Content_110",
@@ -32,12 +32,12 @@
 		"news_title":"JD Cloud reaching strategic cooperation with Top Cloud-Agri and jointly forging ecological products of intelligent agriculture"
 	},
 	{
-		"summary":"The awarding activity of “JD Cloud (Pingyi) Industry Incubation Center” was officially opened in Pingyi County.",
+		"summary":"The awarding activity of \"JD Cloud (Pingyi) Industry Incubation Center\" was officially opened in Pingyi County.",
 		"image_url":"//img1.jcloudcs.com/cms/a4a692df-05e7-47f1-b108-612688075c7820180723155705.jpg",
 		"jss_url":"http://img1.jcloudcs.com/News_Content_111",
 		"jss_key":"News_Content_111",
 		"id":111,
-		"news_title":"Awarding activity of “JD Cloud Pingyi Industry Incubation Center” held in Pingyi"
+		"news_title":"Awarding activity of \"JD Cloud Pingyi Industry Incubation Center\" held in Pingyi"
 	},
 	{
 		"summary":"JD Cloud cooperates with UnitedData to jointly build the integrated Internet data center and establish the industry-leading IDC service standard.",
@@ -56,7 +56,7 @@
 		"news_title":"JD Cloud cooperating with SMART Technology, an educational technology brand subordinate to Foxconn"
 	},
 	{
-		"summary":"“Intelligent Education and See the Future—JD Cloud Intelligent Education Strategy Press Conference” was successfully convened in Beijing. In this press conference, JD Cloud intelligent education strategy was officially released, indicating that the determination and confidence of JD Cloud in the layout of the intelligent education market in China, with the aim to create the brand-new mode of intelligent education of China and assist the education industry in the rapid development and reform.",
+		"summary":"\"Intelligent Education and See the Future—JD Cloud Intelligent Education Strategy Press Conference\" was successfully convened in Beijing. In this press conference, JD Cloud intelligent education strategy was officially released, indicating that the determination and confidence of JD Cloud in the layout of the intelligent education market in China, with the aim to create the brand-new mode of intelligent education of China and assist the education industry in the rapid development and reform.",
 		"image_url":"//img1.jcloudcs.com/cms/67cce1ae-7bac-4f38-93b9-ee65b99e36ef20180726194233.jpg",
 		"jss_url":"http://img1.jcloudcs.com/News_Content_114",
 		"jss_key":"News_Content_114",
@@ -72,20 +72,20 @@
 		"news_title":"Promote innovative entrepreneurial culture   JD Cloud helping rural development"
 	},
 	{
-		"summary":"A grand opening ceremony of 2018 Zhaoqing Digital Creativity Industry Summit was launched in Zhaoqing, Guangdong. The topic of this summit is “Enabling, Clustering and Win-Win”, attracting the guests of all circles, including governments, colleges and universities, enterprises, etc.",
+		"summary":"A grand opening ceremony of 2018 Zhaoqing Digital Creativity Industry Summit was launched in Zhaoqing, Guangdong. The topic of this summit is \"Enabling, Clustering and Win-Win\", attracting the guests of all circles, including governments, colleges and universities, enterprises, etc.",
 		"image_url":"//img1.jcloudcs.com/cms/2905d9cf-5afb-47a3-b28e-4b0e31d0446e20180801155243.jpg",
 		"jss_url":"http://img1.jcloudcs.com/News_Content_116",
 		"jss_key":"News_Content_116",
 		"id":116,
-		"news_title":"“Zhaoqing Yunkai”, write a new chapter of “enabling, collection and win-win”"
+		"news_title":"\"Zhaoqing Yunkai\", write a new chapter of \"enabling, collection and win-win\""
 	},
 	{
-		"summary":"The “Changzhou Internet + New Agricultural Cloud-based Commerce Conference” co-sponsored by Jiangsu Changzhou Tianning Economic Development Zone Management Committee, Changzhou Agricultural Product Industry Association and JD Cloud Business Department of JD Group was convened in Changzhou.",
+		"summary":"The \"Changzhou Internet + New Agricultural Cloud-based Commerce Conference\" co-sponsored by Jiangsu Changzhou Tianning Economic Development Zone Management Committee, Changzhou Agricultural Product Industry Association and JD Cloud Business Department of JD Group was convened in Changzhou.",
 		"image_url":"//img1.jcloudcs.com/cms/284d58a0-1d55-460c-b31f-9e2d952f1ab820180803110750.jpg",
 		"jss_url":"http://img1.jcloudcs.com/News_Content_117",
 		"jss_key":"News_Content_117",
 		"id":117,
-		"news_title":"JD Cloud enabling Changzhou to forge a new engine of agricultural product “Internet +”"
+		"news_title":"JD Cloud enabling Changzhou to forge a new engine of agricultural product \"Internet +\""
 	},
 	{
 		"summary":"JD Cloud has launched the leased product of bare metal server independently developed by it, i.e. Cloud Physical Server (CPS).",
@@ -109,7 +109,7 @@
 		"jss_url":"http://img1.jcloudcs.com/News_Content_120",
 		"jss_key":"News_Content_120",
 		"id":120,
-		"news_title":"JD Cloud Agricultural Cloud appearing on the “First China Intelligent Pig Breeding Industry Practice Summit”"
+		"news_title":"JD Cloud Agricultural Cloud appearing on the \"First China Intelligent Pig Breeding Industry Practice Summit\""
 	},
 	{
 		"summary":"JD Cloud announces that it will provide a strategic investment for EasyStack, a quasi-high-growth enterprise in 2018, and the two parties will work closely to help JD Cloud to become a trusted cloud computing service provider in three open source technologies, i.e. cloud computing, distributed storage and container.",
@@ -128,7 +128,7 @@
 		"news_title":"JD Cloud Load Balancer realizing three levels of high availability"
 	},
 	{
-		"summary":"The Trusted Cloud award and evaluation prove the strength of JD Cloud in the field of technological innovation again and also mark that the GovCloud solutions of JD Cloud has reached the advanced level at home and abroad, and the significance of “Link Technology to Industry” of JD Cloud is further highlighted.",
+		"summary":"The Trusted Cloud award and evaluation prove the strength of JD Cloud in the field of technological innovation again and also mark that the GovCloud solutions of JD Cloud has reached the advanced level at home and abroad, and the significance of \"Link Technology to Industry\" of JD Cloud is further highlighted.",
 		"image_url":"//img1.jcloudcs.com/cms/2b5fe1d0-3d11-4a31-aea9-2fa23825915420180814154015.jpg",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_124",
 		"jss_key":"News_Content_124",
@@ -189,7 +189,7 @@
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_131",
 		"jss_key":"News_Content_131",
 		"id":131,
-		"news_title":" JD Cloud Joins Hands with Xiangtan Universities to Get Through the “Last Kilometer” of Industry and Education Integration"
+		"news_title":" JD Cloud Joins Hands with Xiangtan Universities to Get Through the \"Last Kilometer\" of Industry and Education Integration"
 	},
 	{
 		"summary":"The authoritative advisory organization of the world, IDC, released the Market Share Report for Chinese Government Affairs Cloud Service Operators in 2017. With the 10% market share ratio, the JD Cloud Government Affairs Cloud was ranked Top 5.",
@@ -213,7 +213,7 @@
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_358",
 		"jss_key":"News_Content_358",
 		"id":358,
-		"news_title":"CDN Technical Service Capacity Ranking the First Class JD Cloud and Qihoo 360 Jointly Perform “JD-Qihoo\" Cloud"
+		"news_title":"CDN Technical Service Capacity Ranking the First Class JD Cloud and Qihoo 360 Jointly Perform \"JD-Qihoo\" Cloud"
 	},
 	{
 		"summary":"On September 26, 2018, the \"Plus and Infinite Creation\" JD Cloud Partner Conference 2018 was held in Beijing.",
@@ -256,7 +256,7 @@
 		"news_title":"The capabilities of JD Cloud CDN obtains wide acknowledgment  Capture another castle in the single month -- Cooperating with iQIYI"
 	},
 	{
-		"summary":"“Innovation, Integration, All-win” - “2018 JD Partner Xi'an Summit” was convened in ancient city Xi’an on October 30.",
+		"summary":"\"Innovation, Integration, All-win\" - \"2018 JD Partner Xi'an Summit\" was convened in ancient city Xi’an on October 30.",
 		"image_url":"//img1.jcloudcs.com/cms/a92e47f6-60bd-46e9-93cd-7771389e91c420181101160746.png",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_372",
 		"jss_key":"News_Content_372",
@@ -432,12 +432,12 @@
 		"news_title":"Export Technical Service to Game Industry    JD Cloud Reached Strategic Cooperation with Game 9377"
 	},
 	{
-		"summary":"JD Cloud was invited to the 2018 Secure and Controllable Technology Application Promotion Conference which was held in Beijing. The “JD Cloud JDStack Proprietary Cloud” product of JD Cloud won the Award of “2017-2018 Excellent Solutions of Secure and Controllable Technology”.",
+		"summary":"JD Cloud was invited to the 2018 Secure and Controllable Technology Application Promotion Conference which was held in Beijing. The \"JD Cloud JDStack Proprietary Cloud\" product of JD Cloud won the Award of \"2017-2018 Excellent Solutions of Secure and Controllable Technology\".",
 		"image_url":"//img1.jcloudcs.com/cms/46cf759a-5ef3-4cd9-a0e4-c0f069db053520181221163510.jpg",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_409",
 		"jss_key":"News_Content_409",
 		"id":409,
-		"news_title":"JD Cloud JDStack won the “Excellent Solutions of Secure and Controllable Technology Award”"
+		"news_title":"JD Cloud JDStack won the \"Excellent Solutions of Secure and Controllable Technology Award\""
 	},
 	{
 		"summary":"Sponsored by JD Cloud and Shiyan Municipal People's Government, the 2018 China (Shiyan) Turquoise Industry Summit and Opening Ceremony were held in Shiyan City.",
@@ -448,7 +448,7 @@
 		"news_title":"JD Cloud joins turquoise industry and Shiyan excels in jewelry fashion on cloud"
 	},
 	{
-		"summary":"Starting from Hebi; Gathering in Central China. On December 21, “2018 Hebi New Economic Industry Development Summit and JD Cloud (Hebi) Digital Economy Industrial Park Opening Ceremony” was held in Hebi City.",
+		"summary":"Starting from Hebi; Gathering in Central China. On December 21, \"2018 Hebi New Economic Industry Development Summit and JD Cloud (Hebi) Digital Economy Industrial Park Opening Ceremony\" was held in Hebi City.",
 		"image_url":"//img1.jcloudcs.com/cms/481f19b2-4ed8-47cd-a40b-765a0f8b5dbe20181224160254.jpg",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_411",
 		"jss_key":"News_Content_411",
@@ -544,7 +544,7 @@
 		"news_title":"A great beginning of new VPC-WAF won 2018 \"SKD Excellent Product Award\""
 	},
 	{
-		"summary":"On the “2019 Ifenxi Technology Innovation Conference”, the comprehensive score of JD Cloud ranks among the top 10, in the top three among cloud computing manufacturers, giving out an impressive transcript.",
+		"summary":"On the \"2019 Ifenxi Technology Innovation Conference\", the comprehensive score of JD Cloud ranks among the top 10, in the top three among cloud computing manufacturers, giving out an impressive transcript.",
 		"image_url":"//img1.jcloudcs.com/cms/f13ff47d-6659-4538-97ef-2fceb7fc6c3820190111140906.jpg",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_442",
 		"jss_key":"News_Content_442",
@@ -632,23 +632,23 @@
 		"news_title":"Liu Zihao from JD Cloud delivered an English speech at the Oxford China Forum: China will become the largest incremental market for the global digital economy"
 	},
 	{
-		"summary":"“2019 Changzhou Tianning District Investment Promotion Conference and JD (Changzhou) Merchant Service Center Launching Ceremony” was held in Shanghai.",
+		"summary":"\"2019 Changzhou Tianning District Investment Promotion Conference and JD (Changzhou) Merchant Service Center Launching Ceremony\" was held in Shanghai.",
 		"image_url":"//img1.jcloudcs.com/cms/74fad0f6-2d95-45e1-86a4-294e1a8c8c0720190306133737.png",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_467",
 		"jss_key":"News_Content_467",
 		"id":467,
-		"news_title":"Changzhou partnered with JD Tianning embraced a “great beginning” in 2019 cloud investment"
+		"news_title":"Changzhou partnered with JD Tianning embraced a \"great beginning\" in 2019 cloud investment"
 	},
 	{
-		"summary":"On March 16, “Signing Ceremony of Yangtze River Delta Regional Center for Nantong·JD Cloud Port and Shipping Services and Signing Press Conference of Cooperative Enterprises” was held in Beijing.",
+		"summary":"On March 16, \"Signing Ceremony of Yangtze River Delta Regional Center for Nantong·JD Cloud Port and Shipping Services and Signing Press Conference of Cooperative Enterprises\" was held in Beijing.",
 		"image_url":"//img1.jcloudcs.com/cms/3b67d8f8-c1b2-47ac-8941-85b833216bc820190318184521.jpg",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_469",
 		"jss_key":"News_Content_469",
 		"id":469,
-		"news_title":"Cloud blossoms. Nantong cooperates with JD Cloud to widen the new space of “Internet+” new economy development."
+		"news_title":"Cloud blossoms. Nantong cooperates with JD Cloud to widen the new space of \"Internet+\" new economy development."
 	},
 	{
-		"summary":"On March 21, the “Kick-off Meeting of JD Cloud & Qunli” was convened in Nanjing.",
+		"summary":"On March 21, the \"Kick-off Meeting of JD Cloud & Qunli\" was convened in Nanjing.",
 		"image_url":"//img1.jcloudcs.com/cms/b0eafe4b-145d-4f94-bd6b-4d85ac606cc620190322205904.jpg",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_470",
 		"jss_key":"News_Content_470",
@@ -664,12 +664,12 @@
 		"news_title":"Highlight Release. JD Cloud firstly launched the Distributed Network Load Balancer, solving the network forwarding bottle neck"
 	},
 	{
-		"summary":"A few days ago, “JD Cloud-Beijing” took the crown in the complex ranking list of Performance Evaluation Report of Virtual Machines in February 2019 released by Bonree Index. Meanwhile, “JD Cloud-Shanghai” took the fourth place in the complex ranking list and the first place in East China.",
+		"summary":"A few days ago, \"JD Cloud-Beijing\" took the crown in the complex ranking list of Performance Evaluation Report of Virtual Machines in February 2019 released by Bonree Index. Meanwhile, \"JD Cloud-Shanghai\" took the fourth place in the complex ranking list and the first place in East China.",
 		"image_url":"//img1.jcloudcs.com/cms/73601752-d242-4d1e-944e-c335848845a320190326095604.jpg",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_472",
 		"jss_key":"News_Content_472",
 		"id":472,
-		"news_title":"Bonree index: “JD Cloud-Beijing” took the crown and “JD Cloud-Shanghai” ranked the first place in East China"
+		"news_title":"Bonree index: \"JD Cloud-Beijing\" took the crown and \"JD Cloud-Shanghai\" ranked the first place in East China"
 	},
 	{
 		"summary":"On March 26, JD Cloud officially released the JD Cloud Workspaces White Paper to provide customers with high-quality one-stop JD Cloud Workspaces products and services.",
@@ -688,15 +688,15 @@
 		"news_title":"By cooperating in Minecraft: Education Edition JD and Microsoft jointly create an innovative education platform"
 	},
 	{
-		"summary":"On March 26, JD Cloud's relevant responsible person was invited to participate in the “2019 China Data Center Facility Forum (DCFF)” and give a topic speech.",
+		"summary":"On March 26, JD Cloud's relevant responsible person was invited to participate in the \"2019 China Data Center Facility Forum (DCFF)\" and give a topic speech.",
 		"image_url":"//img1.jcloudcs.com/cms/26e492ef-3d99-48ee-ac55-66e6881c6dc220190328113211.jpg",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_476",
 		"jss_key":"News_Content_476",
 		"id":476,
-		"news_title":"More Efficient and More Intelligent: “Futuristic Technology” in JD Cloud Data Center"
+		"news_title":"More Efficient and More Intelligent: \"Futuristic Technology\" in JD Cloud Data Center"
 	},
 	{
-		"summary":"On March 28, the “Kick-off Meeting on Cooperation Between JD Cloud and Digital China” was officially held in Beijing and JD Cloud officially granted the “Diamond Enterprise Channel Partner” qualification to the subsidiary of Digital China Group (000034.SZ), DC Clouds.",
+		"summary":"On March 28, the \"Kick-off Meeting on Cooperation Between JD Cloud and Digital China\" was officially held in Beijing and JD Cloud officially granted the \"Diamond Enterprise Channel Partner\" qualification to the subsidiary of Digital China Group (000034.SZ), DC Clouds.",
 		"image_url":"//img1.jcloudcs.com/cms/6633b2da-5806-4e17-b0a2-1b379a84cfe420190328174516.jpg",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_477",
 		"jss_key":"News_Content_477",
@@ -757,7 +757,7 @@
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_498",
 		"jss_key":"News_Content_498",
 		"id":498,
-		"news_title":"Three “Major Features” of JD Cloud Container will assist enterprises to create higher commercial value"
+		"news_title":"Three \"Major Features\" of JD Cloud Container will assist enterprises to create higher commercial value"
 	},
 	{
 		"summary":"With continuous development of cloud computing technology, the user’s Cloud Security business receives more and more attention. The enterprise cloud users urgently expect that their own cloud business and data can enjoy the security protection which is equivalent to or even more comprehensive than the traditional physical network environment.",
@@ -821,10 +821,10 @@
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_508",
 		"jss_key":"News_Content_508",
 		"id":508,
-		"news_title":"“Yuanhong Mode” heralds the Digital China and builds up the Global Food Transaction Cloud Platform"
+		"news_title":"\"Yuanhong Mode\" heralds the Digital China and builds up the Global Food Transaction Cloud Platform"
 	},
 	{
-		"summary":"“There are 400 major projects in digital economy, with a total investment of RMB 300 billion, in which 200 projects have been commenced for construction, and a number of projects have been completed and put into operation.” Those are the achievements made in one year since the 1st Digital China Summit. Today’s China is advancing on the road of construction of digital China. Construction of digital China presents us with many possibilities of life, each of which is about beauty.",
+		"summary":"\"There are 400 major projects in digital economy, with a total investment of RMB 300 billion, in which 200 projects have been commenced for construction, and a number of projects have been completed and put into operation.\" Those are the achievements made in one year since the 1st Digital China Summit. Today’s China is advancing on the road of construction of digital China. Construction of digital China presents us with many possibilities of life, each of which is about beauty.",
 		"image_url":"//img1.jcloudcs.com/cms/f11a03cb-1564-41a4-a63c-704c0c9ccb0820190509140554.jpg",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_509",
 		"jss_key":"News_Content_509",
@@ -840,7 +840,7 @@
 		"news_title":"Fully Embrace the Public Cloud to Create Change Xrender Builds A New Generation of Rendering Platform by JD Cloud"
 	},
 	{
-		"summary":"Strong-strong Collaboration, Focus on Future On May 10, JD Dongpo (Meishan) “Internet+New Economy” Cooperation Press Conference was held in Beijing. Zhu Li, Secretary of the Dongpo District Committee, Meishan City, and Liu Peiyun, Vice President of JD Cloud of JD Group attended the conference.",
+		"summary":"Strong-strong Collaboration, Focus on Future On May 10, JD Dongpo (Meishan) \"Internet+New Economy\" Cooperation Press Conference was held in Beijing. Zhu Li, Secretary of the Dongpo District Committee, Meishan City, and Liu Peiyun, Vice President of JD Cloud of JD Group attended the conference.",
 		"image_url":"//img1.jcloudcs.com/cms/1bcf7d70-b69f-45e2-b69d-c0cecd05159720190510174530.jpg",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_515",
 		"jss_key":"News_Content_515",
@@ -848,11 +848,19 @@
 		"news_title":"JD Dongpo Cooperation Press Conference Held in Beijing"
 	},
 	{
-		"summary":"Recently, JD Cloud officially released the JD Cloud Data Security White Paper, announced its goal to “Make cloud data more secure” and the concept of “Respect data sovereignty without touching user data, provide security guarantee to protect the user data security, protect privacy and be transparent and credible to users”.",
+		"summary":"Recently, JD Cloud officially released the JD Cloud Data Security White Paper, announced its goal to \"Make cloud data more secure\" and the concept of \"Respect data sovereignty without touching user data, provide security guarantee to protect the user data security, protect privacy and be transparent and credible to users\".",
 		"image_url":"//img1.jcloudcs.com/cms/0969cbbc-cad5-4545-9777-1fb6b4dd17ab20190510172221.jpg",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_516",
 		"jss_key":"News_Content_516",
 		"id":516,
 		"news_title":"To Make Cloud Data More Secure JD Cloud Released the Data Security White Paper"
+	},
+	{
+		"summary":"On May 16, JD Cloud was invited to attend the grand opening ceremony of the \"3rd World Intelligence Congress\" held at the Meijiang Convention and Exhibition Center in Tianjin. The theme of this congress is \"Intelligence New Era: Evolution, Strategy and Opportunity\" and it displayed Tianjin intelligent solutions and application scenarios through \"intelligent conferences, exhibitions, competitions + intelligent experience\".",
+		"image_url":"//img1.jcloudcs.com/cms/ad21065d-0d7e-4bee-86c6-4bb36d61542320190516190527.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_517",
+		"jss_key":"News_Content_517",
+		"id":517,
+		"news_title":"Intelligence Builds a New World, JD Digitalization Empowers Tianjin"
 	}
 ]

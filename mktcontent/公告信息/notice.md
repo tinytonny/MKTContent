@@ -418,5 +418,17 @@
 	{
 		"id":677,
 		"title":"Upgrade Notice on Cloud Disk Service in cn-south-1 Region"
+	},
+	{
+		"id":678,
+		"title":"\\[Vulnerability Warning\\] Windows RDP remote code executes high risk vulnerability"
+	},
+	{
+		"id":679,
+		"title":"Notice on Pause of Virtual Machines, Cloud Disks, Native Container, Pod Console Access and OpenAPI Services in cn-east-1 and cn-south-1"
+	},
+	{
+		"id":680,
+		"title":"Notice on Pause of Virtual Machines, Cloud Disks, Native Container, Pod Console Service and OpenAPI in cn-north-1"
 	}
 ]
