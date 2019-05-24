@@ -156,6 +156,10 @@
 		"id":118
 	},
 	{
+		"name":"Monitoring",
+		"id":119
+	},
+	{
 		"name":"Cloud Competition Solution",
 		"id":120
 	},
