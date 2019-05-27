@@ -886,5 +886,13 @@
 		"jss_key":"News_Content_522",
 		"id":522,
 		"news_title":"京东云发布618营销作战计划 助力品牌商实现销量飞跃"
+	},
+	{
+		"summary":"“交叉、融合、相生、共赢”——5月25日，2019全球人工智能技术大会（2019 GAITC），在南京盛大开幕。作为世界性AI技术盛会，全球人工智能技术大会立足中国、面向全球，致力于搭建一个人工智能领域开展合作研究、开发应用与技术交流的高端平台，不论是专业高度还是覆盖广度，都具有标杆性。",
+		"image_url":"//img1.jcloudcs.com/cms/562b5624-728e-43fa-ae59-5ab2bde1adf920190527192734.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_529",
+		"jss_key":"News_Content_529",
+		"id":529,
+		"news_title":"2019全球人工智能技术大会盛大开幕，京东云携手南京麒麟打造“智能”新标签"
 	}
 ]
