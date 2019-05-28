@@ -42,7 +42,7 @@
           <td>抗震9级</td>
         </tr>
         <tr>
-          <td>地铁承重</td>
+          <td>地板承重</td>
           <td>1,000Kg/㎡</td>
         </tr>
         <tr class="bg-tr">
@@ -56,7 +56,7 @@
         </tr>
         <tr class="bg-tr">
           <td>UPS冗余</td>
-          <td>2N，蓄电池后备时间单侧15min，双侧40min</td>
+          <td>2N，蓄电池后备时间单侧15min，双侧30min</td>
         </tr>
         <tr class="bg-tr">
           <td>机柜供电</td>
