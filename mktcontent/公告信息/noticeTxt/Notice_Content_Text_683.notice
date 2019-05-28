@@ -1,0 +1,4 @@
+<p>In order to provide more stable services, JD Cloud will upgrade the Virtual Machines service from 22:00:00 on May 21 to 00:59:59 on May 22, 2019. During such period, the Console access to Virtual Machines and the use of OpenAPI in cn-north-1 region will be paused, but this pause will not influence other regions.</p>
+<p>None of the above upgrades will affect your inherent business running in all of your regions. The Console and OpenAPI will resume normal use after the upgrades.</p>
+<p>If you have relevant questions during the upgrade, please contact JD Cloud Customer Service at any time (Tel: 4006151212). Thank you for your support to JD Cloud.</p>
+<p><br/></p>

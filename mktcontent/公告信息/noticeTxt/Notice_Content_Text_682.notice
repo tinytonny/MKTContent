@@ -1,0 +1,32 @@
+<p><span style="font-size: 12px;">To provide better products and services about Cloud Disk Service, JD Cloud will launch the customized IOPS function supported by performance SSD Cloud Disk from 22:00:00 on May 20, 2019 to 01:00:00 on May 21, 2019 in [cn-north-1].</span>
+</p>
+<p><span style="font-size: 12px;">At the scheduled time:</span>
+</p>
+<p><span style="font-size: 12px;">&nbsp; &nbsp; <strong> The Virtual Machines Console Access and OpenAPI services in [cn-north-1] will be paused while such services in other regions will not be affected;</strong></span>
+</p>
+<p><strong><span style="font-size: 12px;">&nbsp; &nbsp; Cloud Disk Service Console and OpenAPI services in [cn-north-1] will be paused while such services in other regions will not be affected;</span>
+</strong></p>
+<p><strong><span style="font-size: 12px;">&nbsp; &nbsp; Native Container Instance, Pod Console and OpenAPI services in [cn-north-1] will be paused while such services in other regions will not be affected;</span>
+</strong></p>
+<p><strong><span style="font-size: 12px;">This launch won’t affect the inherent business running in all of your regions. Normal use of the Console will resume after the launch.</span>
+</strong></p>
+<p><br/></p>
+<p><span style="font-size: 12px;">After launch of Customized of IOPS Function Supported by Performance Type SSD Cloud Disk, it supports to configure IOPS separately for each Performance Type SSD Cloud Disk; and the range is from 200 IOPS to maximum 32,000 IOPS, and the step length is 10 IOPS. The maximum ratio of configured IOPS to the created Cloud Disk Service size (GiB) is 50 times.</span>
+</p>
+<p><span style="font-size: 12px;">The billing logic of Performance Type SSD Cloud Disk will be changed, which will be changed to [Base Price +IOPS Price]; the reference price after change is as follows (the final price is subject to the order below):</span>
+</p>
+<p><span style="font-size: 12px;">&nbsp; &nbsp; Monthly Package Purchase:</span>
+</p>
+<p><span style="font-size: 12px;">&nbsp; &nbsp; Basic Capacity Price: RMB 5/10G/Month</span>
+</p>
+<p><span style="font-size: 12px;">&nbsp; &nbsp; Price of Each IOPS: RMB 0.01/Piece/Month</span>
+</p>
+<p><span style="font-size: 12px;">Purchased by Configuration:</span>
+</p>
+<p><span style="font-size: 12px;">&nbsp; &nbsp; Basic Capacity Price: RMB 0.007/10G/Hour</span>
+</p>
+<p><span style="font-size: 12px;">&nbsp; &nbsp; Price of Each IOPS: RMB 0.01/Piece/Month (namely: RMB 0.00001389/Piece/Hour)</span>
+</p>
+<p><br/></p>
+<p><span style="font-size: 12px;">For [cn-north-1], if you have relevant questions with the Cloud Disk Service in the region, please timely contact us via tickets and phone number (400-615-1212). Thank you for your support to JD Cloud.</span>
+</p>

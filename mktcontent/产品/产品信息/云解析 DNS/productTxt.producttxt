@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"JD Cloud DNS\",\"label\":[{\"TitleName\":\"Try Now\",\"TitleUrl\":\"//dns-console.jcloud.com/list\"}],\"desc\":\"JD Cloud DNS is an authoritative DNS server with high availability, high reliability and rich features based on Domain Name Resolution developed by the JD Cloud team in combination with the high-quality network and host resources of JD Cloud. JD Cloud DNS has an easy-to-use console which facilitates users to manipulate domain names. With multi-cluster, multi-node deployment and 100-G protection package, the professional DNS team provides comprehensive SLA capability.\",\"iconUrl\":\"9\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/454e7b6b-02a8-41e6-8bc1-4a2f64d8273e20181115172051.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|64\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|64\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"JD Cloud DNS\",\"label\":[{\"TitleName\":\"Try Now\",\"TitleUrl\":\"//dns-console.jcloud.com/list\"},{\"TitleName\":\"Domain Diagnostics\",\"TitleUrl\":\"//domain-diagnosis.jdcloud.com/index\",\"classTag\":\"\"}],\"desc\":\"JD Cloud DNS is an authoritative DNS server with high availability, high reliability and rich features based on Domain Name Resolution developed by the JD Cloud team in combination with the high-quality network and host resources of JD Cloud. JD Cloud DNS has an easy-to-use console which facilitates users to manipulate domain names. With multi-cluster, multi-node deployment and 100-G protection package, the professional DNS team provides comprehensive SLA capability.\",\"iconUrl\":\"9\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/454e7b6b-02a8-41e6-8bc1-4a2f64d8273e20181115172051.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|64\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|64\"}",
 		"id":171
 	},
 	{
@@ -12,7 +12,7 @@
 		"id":173
 	},
 	{
-		"txt":"[{\"instruction\":\"Rich station building templates, quick setup of website \\n cloud analysis linkage deployment through the application marketplace, efficient and convenient. \\n intelligent analysis IP provider adaptation, provide the optimal website access path \\n provide the security protection feature, and guarantee the website security and stability\",\"name\":\"Website Service\",\"picUrl\":\"//img1.jcloudcs.com/cms/954e51da-1658-4cb2-83e6-567efda560b220180124181153.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"}}]",
+		"txt":"[{\"instruction\":\"Rich station building templates, quick setup of website \\n cloud analysis linkage deployment through the application marketplace, efficient and convenient. \\n intelligent analysis IP provider adaptation, provide the optimal website access path \\n provide the security protection feature, and guarantee the website security and stability\",\"name\":\"Website Service\",\"picUrl\":\"//img1.jcloudcs.com/cms/954e51da-1658-4cb2-83e6-567efda560b220180124181153.png\",\"selectedProduct\":[],\"buttons\":{\"name\":\"\",\"link\":\"\",\"classTag\":\"\"},\"showShade\":false}]",
 		"id":174
 	},
 	{

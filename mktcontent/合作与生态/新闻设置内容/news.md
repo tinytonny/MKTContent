@@ -862,5 +862,21 @@
 		"jss_key":"News_Content_517",
 		"id":517,
 		"news_title":"Intelligence Builds a New World, JD Digitalization Empowers Tianjin"
+	},
+	{
+		"summary":"In the Internet era, the wall of industry has been broken and the boundary among industries disappears little by little. Most of the activities developing through the Internet are collected by big data. Meanwhile, as consumption scenarios are fragmentized and personalized, taking \"cloud\" as the underlying technology with the help of artificial intelligence, big data and other technologies has become one of the marketing trend for future enterprises.",
+		"image_url":"//img1.jcloudcs.com/cms/b0fc3da3-114e-459f-b793-2b6825d4e64920190516194303.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_518",
+		"jss_key":"News_Content_518",
+		"id":518,
+		"news_title":"JD Cloud Upgrades Industry Digitalization Empowerment   Open a New Mode for Intelligent Marketing"
+	},
+	{
+		"summary":"On May 16, the \"2nd Chuzhou Smart Home Appliances Event  New Product Release & Signing Ceremony\" was held successfully. JD Group presented an outstanding transcript to the citizens in Chuzhou. By linking the technology, resources and service with the household appliance enterprises in Chuzhou in an all-round way, JD Group enhanced the nationwide brand influence of Chuzhou leading household appliance enterprises and smart home appliance cluster and further promote their product innovation capability and e-commerce marketing ability, so as to practically and effectively facilitate the upgrade of Chuzhou household appliances industry.",
+		"image_url":"//img1.jcloudcs.com/cms/fe0721dd-c5cc-479b-af69-e66f2640228420190517175953.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_521",
+		"jss_key":"News_Content_521",
+		"id":521,
+		"news_title":"JD Empowers Chuzhou Household Appliances Industry  Cloud Technology Supports Intelligence Innovative Development"
 	}
 ]

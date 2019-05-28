@@ -482,7 +482,7 @@
 	{
 		"introduce":"Migrate the offline database of SQL server to JD Cloud database through recovering the backup of database",
 		"name":"SQL Server supports the operation of \"moving\" the library on the cloud",
-		"description":"The users can enjoy cloud database’s stability and efficiency by “transferring” the offline database to the cloud through the following three steps: \n1. Backup local database; \n2. Upload database’s backup files to JD Cloud; \n3. Restore the uploaded file to the cloud database. \n",
+		"description":"The users can enjoy cloud database’s stability and efficiency by \"transferring\" the offline database to the cloud through the following three steps: \n1. Backup local database; \n2. Upload database’s backup files to JD Cloud; \n3. Restore the uploaded file to the cloud database. \n",
 		"id":92
 	},
 	{
@@ -560,7 +560,7 @@
 	{
 		"introduce":"Enterprise supports the verification type of \"individual industrial and commercial households\" with real name. Personal real name verification supports the Association of verified account",
 		"name":"Features, such as that enterprise supports the verification type of \"individual industrial and commercial households\" with real name, etc. are released",
-		"description":"Enterprise real-name verification adds the verification type of “individual industrial and commercial households”; if the personal real-name verification encounters the condition that the identity information is occupied, it can Associate the certified JD account to perform related verification.",
+		"description":"Enterprise real-name verification adds the verification type of \"individual industrial and commercial households\"; if the personal real-name verification encounters the condition that the identity information is occupied, it can Associate the certified JD account to perform related verification.",
 		"id":105
 	},
 	{
@@ -578,7 +578,7 @@
 	{
 		"introduce":"In the marketplace, tri-image, such as LNMP, Discuz and Zhujibao, are released",
 		"name":"Virtual Machines Tri-image is released",
-		"description":"When the Virtual Machines create and rebuild the system, tri-image in the marketplace can be selected directly. Note: The Virtual Machines created by the image in the marketplace do not support the operation of “Create Image” and “Virtual Machines Backup”.",
+		"description":"When the Virtual Machines create and rebuild the system, tri-image in the marketplace can be selected directly. Note: The Virtual Machines created by the image in the marketplace do not support the operation of \"Create Image\" and \"Virtual Machines Backup\".",
 		"id":108
 	},
 	{
@@ -1597,7 +1597,7 @@
 	},
 	{
 		"introduce":"Add subscription of GeoTrust brand certificate",
-		"name":"SSL Certificate",
+		"name":"Add subscription of GeoTrust brand certificate",
 		"description":"Add subscription of GeoTrust brand certificate, including certificates of enterprise type (OV) and enhanced type (EV), supporting multiple formats of single domain, multiple domains and extensive domain.",
 		"id":2257
 	},
@@ -1648,5 +1648,65 @@
 		"name":"Availability Group Official Release",
 		"description":"Availability Group is the Virtual Machines Logic Set provided by JD Cloud. Virtual Machines in the Availability Group are distributed and deployed on physical resources isolated with each other, and only partial Virtual Machines will be affected in the event of hardware failure or regular maintenance, with your business still in available status. Free Service",
 		"id":2265
+	},
+	{
+		"introduce":"Availability Group Official Release",
+		"name":"Availability Group Official Release",
+		"description":"Availability Group is the Virtual Machines Logic Set provided by JD Cloud. Virtual Machines in the Availability Group are distributed and deployed on physical resources isolated with each other, and only partial Virtual Machines will be affected in the event of hardware failure or regular maintenance, with your business still in the available status. Free Service.",
+		"id":2282
+	},
+	{
+		"introduce":"1.  Create/delete instance template\n2. Use instance template to create Virtual Machines",
+		"name":"Virtual Machines - Instance Template",
+		"description":"Instance template is the configuration information template provided by JD Cloud for creating instances, including Image, Instance Type, System Disk and Data Disk Type and Capacity, Virtual Private Cloud, and Subnet Configuration, Security Group and Login Information, etc. Instance template can be used to create instance or used to configure availability group, and instance template must be specified when availability group is created. Parameters included in instance template do not need to be re-specified when instance is created with instance template, and the deployment time shall be shortened.",
+		"id":2283
+	},
+	{
+		"introduce":"Slow Log List Download",
+		"name":"JCS for MySQL - Slow log supports downloading",
+		"description":"Based on the slow log interface for user search, downloading to the user’s local machine is supported.",
+		"id":2284
+	},
+	{
+		"introduce":"Renewal: The billing method of instance paid by configuration is changed into monthly package; the monthly package service time is extended\n The tag is the tag of JD Cloud user to manage its own resource instance",
+		"name":"Native Container Instance",
+		"description":"1. It supports change from pay by configuration to monthly package, extension of monthly package, batch renewal, packaging renewal, batch packaging renewal, and automatic renewal.\n2. Resources can be classified by associating resources with tags, so as to more efficiently manage your resources in JD Cloud.",
+		"id":2285
+	},
+	{
+		"introduce":"Support renewal; support tag; support MFA",
+		"name":"Native Container Pod",
+		"description":"1. It supports change from pay by configuration to monthly package, extension of monthly package, batch renewal, packaging renewal, batch packaging renewal, and automatic renewal.\n2. Resources can be classified by associating resources with tags, so as to more efficiently manage your resources in JD Cloud.\n3. It can realize Pod deletion and identity verification to prevent deletion by mistake",
+		"id":2286
+	},
+	{
+		"introduce":"Performance Type SSD Cloud Disk supports IOPS configurable functions",
+		"name":"Performance Type SSD Cloud Disk supports IOPS configurable functions",
+		"description":"1. Performance Type SSD Cloud Disk launched in cn-south-1, cn-east-2 and cn-east-1 regions supports IOPS configurable functions, to facilitate users to configure IOPS based on actual demands and optimize expenditure.\n2. IOPS configuration ranges from 200 IOPS to max. 32,000 IOPS, with a step size of 10 IOPS. The maximum ratio of configured IOPS to the created Cloud Disk Service size (GiB) is 50 times.",
+		"id":2287
+	},
+	{
+		"introduce":"Newly Launched Domain Diagnostics Page on Official Website",
+		"name":"Domain Diagnostics",
+		"description":"1. Diagnosis items include: Whois, HTTP, NS and Dig+Trace\n2. Through the above diagnostics items, assistance is provided to the user to judge the health of the domain. For example, domain status, whether the access is normal or not, and situation of NS and resolution.",
+		"id":2288
+	},
+	{
+		"introduce":"Log Service  Official Release",
+		"name":"Log Service  Official Release",
+		"description":"Log Service is a one-stop log service platform provided by JD Cloud. It provides real-time log collection, log storage, log retrieval, intelligent analysis and other functions to help users solve business operation, workload monitoring, log analysis and other problems through logs.",
+		"id":2289
+	},
+	{
+		"introduce":"CodePipeline  Official Release",
+		"name":"CodePipeline  Official Release",
+		"description":"JD Cloud CodePipeline is a product providing continuous integration and continuous delivery capability. The visual and customized automatic delivery CodePipeline ensures the uniformity and stability at different stages of product release.",
+		"id":2290
+	},
+	{
+		"introduce":"The function of requesting signatures when Rust language accesses JD Cloud OpenAPI is provided.",
+		"name":"JD Cloud Rust Signature Tool\t",
+		"description":"The function of requesting signatures when Rust language accesses JD Cloud OpenAPI is provided.",
+		"id":2291
 	}
 ]

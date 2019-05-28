@@ -430,5 +430,21 @@
 	{
 		"id":680,
 		"title":"Notice on Pause of Virtual Machines, Cloud Disks, Native Container, Pod Console Service and OpenAPI in cn-north-1"
+	},
+	{
+		"id":682,
+		"title":"Notice on Pause of Virtual Machines, Cloud Disks, Native Container, Pod Console Access and OpenAPI Services in cn-north-1"
+	},
+	{
+		"id":683,
+		"title":"Upgrade Notice on Virtual Machines Service in cn-north-1"
+	},
+	{
+		"id":684,
+		"title":"Upgrade Notice on Virtual Machines and Native Container Service in cn-north-1"
+	},
+	{
+		"id":685,
+		"title":" Announcement on the Launch of the New Edition Console of Live Video Product"
 	}
 ]
