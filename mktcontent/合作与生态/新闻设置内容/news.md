@@ -894,5 +894,13 @@
 		"jss_key":"News_Content_529",
 		"id":529,
 		"news_title":"2019全球人工智能技术大会盛大开幕，京东云携手南京麒麟打造“智能”新标签"
+	},
+	{
+		"summary":"5月28日，正式更名为中国国际服务贸易交易会的第六届“京交会”在北京国家会议中心开幕。京东集团旗下的全平台云计算综合服务提供商京东云，作为云计算技术服务行业重要代表，与众多国内外科技领域企业一同在本次展会上惊艳亮相。",
+		"image_url":"//img1.jcloudcs.com/cms/6a56c294-6db6-4a6f-932c-84575f6ecb9420190528185731.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_530",
+		"jss_key":"News_Content_530",
+		"id":530,
+		"news_title":"京东云携最新自研产品亮相京交会"
 	}
 ]
