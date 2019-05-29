@@ -902,5 +902,13 @@
 		"jss_key":"News_Content_530",
 		"id":530,
 		"news_title":"京东云携最新自研产品亮相京交会"
+	},
+	{
+		"summary":"近日，国际知名咨询机构IDC发布了《中国公有云服务市场（2018下半年）跟踪》报告。报告指出，2018年中国公有云市场发展热情空前高涨，呈现出先入者大步前行，后发力者高歌猛进的局面。京东云凭借强大的研发实力，出色的客户管理以及广泛的生态布局，业绩得到迅速提升，尤其2018年下半年，增速超过1000%。",
+		"image_url":"//img1.jcloudcs.com/cms/4744a4a1-ef53-4dcc-931e-a5b9a01de41d20190529160956.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_531",
+		"jss_key":"News_Content_531",
+		"id":531,
+		"news_title":"IDC发布《中国公有云服务市场（2018下半年）跟踪》，京东云再获认可"
 	}
 ]
