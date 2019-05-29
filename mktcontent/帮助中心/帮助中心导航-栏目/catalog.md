@@ -1536,5 +1536,15 @@
 		"summary":"",
 		"name":"Domain Diagnostics",
 		"id":3336
+	},
+	{
+		"summary":"",
+		"name":"Anti-DDoS Protection Package",
+		"id":3341
+	},
+	{
+		"summary":"",
+		"name":"Availability Group",
+		"id":3343
 	}
 ]
