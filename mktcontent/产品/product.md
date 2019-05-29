@@ -84,20 +84,12 @@
 		"id":49
 	},
 	{
-		"name":"Model Training",
-		"id":52
-	},
-	{
 		"name":"Data Visualization",
 		"id":56
 	},
 	{
 		"name":"Cloud Database JCS for SQL Server",
 		"id":58
-	},
-	{
-		"name":"SSL Certificate",
-		"id":59
 	},
 	{
 		"name":"Direct Connection",

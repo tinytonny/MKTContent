@@ -878,5 +878,21 @@
 		"jss_key":"News_Content_521",
 		"id":521,
 		"news_title":"JD Empowers Chuzhou Household Appliances Industry  Cloud Technology Supports Intelligence Innovative Development"
+	},
+	{
+		"summary":"Recently, JD Cloud released the operation plan for product marketing during 2019 JD 618 Global Shopping Festival. Based on its own big data capability, JD Cloud prepares the marketing operation plan of full services for brand owners, including the complete solutions from marketing insight, brand policy, customer access, sales monitoring to marketing effect analysis, and assists brand owners to realize the win-win of brand and sales in JD 618 campaign in combination with fast, efficient, accurate and full-link integration tools.",
+		"image_url":"//img1.jcloudcs.com/cms/0d9f7047-5112-4d61-820a-3eb4ebc8539120190524104302.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_522",
+		"jss_key":"News_Content_522",
+		"id":522,
+		"news_title":"JD Cloud releases 618 marketing operation plan and assists brand owners in achieving a leap in sales"
+	},
+	{
+		"summary":"\"Cross, Integration, Co-existence and Win-win\" - On May 25, the opening ceremony of 2019 GAITC was held in Nanjing. As a worldwide grand gathering of AI technology, GAITC roots in China and faces the world, devoted to build a high-end platform carrying out cooperation research, development application and technical exchange in the artificial intelligence field, as a benchmark in not only the professional level but also the coverage breadth.",
+		"image_url":"//img1.jcloudcs.com/cms/562b5624-728e-43fa-ae59-5ab2bde1adf920190527192734.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_529",
+		"jss_key":"News_Content_529",
+		"id":529,
+		"news_title":"The opening ceremony of 2019 GAITC was held and JD Cloud works with Nanjing Qilin to create a new tag of \"intelligence\""
 	}
 ]

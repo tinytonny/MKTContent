@@ -1647,12 +1647,6 @@
 		"introduce":"Availability Group Official Release",
 		"name":"Availability Group Official Release",
 		"description":"Availability Group is the Virtual Machines Logic Set provided by JD Cloud. Virtual Machines in the Availability Group are distributed and deployed on physical resources isolated with each other, and only partial Virtual Machines will be affected in the event of hardware failure or regular maintenance, with your business still in available status. Free Service",
-		"id":2265
-	},
-	{
-		"introduce":"Availability Group Official Release",
-		"name":"Availability Group Official Release",
-		"description":"Availability Group is the Virtual Machines Logic Set provided by JD Cloud. Virtual Machines in the Availability Group are distributed and deployed on physical resources isolated with each other, and only partial Virtual Machines will be affected in the event of hardware failure or regular maintenance, with your business still in the available status. Free Service.",
 		"id":2282
 	},
 	{
@@ -1682,7 +1676,7 @@
 	{
 		"introduce":"Performance Type SSD Cloud Disk supports IOPS configurable functions",
 		"name":"Performance Type SSD Cloud Disk supports IOPS configurable functions",
-		"description":"1. Performance Type SSD Cloud Disk launched in cn-south-1, cn-east-2 and cn-east-1 regions supports IOPS configurable functions, to facilitate users to configure IOPS based on actual demands and optimize expenditure.\n2. IOPS configuration ranges from 200 IOPS to max. 32,000 IOPS, with a step size of 10 IOPS. The maximum ratio of configured IOPS to the created Cloud Disk Service size (GiB) is 50 times.",
+		"description":"1. Performance Type SSD Cloud Disk launched in four areas, cn-north-1, cn-south-1, cn-east-2 and cn-east-1, supports IOPS configurable functions, to facilitate users to configure based on actual demands\n2. IOPS configuration ranges from 200 IOPS to max. 32,000 IOPS, with a step size of 10 IOPS. The maximum ratio of configured IOPS to the created Cloud Disk Service size (GiB) is 50 times.",
 		"id":2287
 	},
 	{
@@ -1708,5 +1702,35 @@
 		"name":"JD Cloud Rust Signature Tool\t",
 		"description":"The function of requesting signatures when Rust language accesses JD Cloud OpenAPI is provided.",
 		"id":2291
+	},
+	{
+		"introduce":"Subscription of SSL Certificate for All Products",
+		"name":"Subscription of SSL Certificate for All Products",
+		"description":"1.  Subscription of three brand certificates, i.e. GlobalSign, CFCA and TrustAsia\n2. Supplement multiple specifications of two brand certificates, i.e. Symantec and GeoTrust",
+		"id":2293
+	},
+	{
+		"introduce":"SQL-level audit is supported",
+		"name":"SQL-level audit is supported",
+		"description":"Audit can be carried out on SQL including addition, deletion, change and investigation executed by the user",
+		"id":2294
+	},
+	{
+		"introduce":"Migrate the availability zone",
+		"name":"Migrate the availability zone",
+		"description":"The Availability Zone of JCS for SQL Server instance can be changed. During the change, the influence on businesses is negligible, and only reconnection is required",
+		"id":2295
+	},
+	{
+		"introduce":"The creation of JCS for Kubernetes supports the addition of working node group of GPU type",
+		"name":"The addition of working node group of GPU type is supported",
+		"description":"1. When the cluster or working node group is created, the instance type of GPU type is supported;\n2. Currently GPU type is available to 1.12.3 version only;\n3. Currently GPU type is greyscale launched in Availability Zone A and Availability Zone B in cn-north-1;",
+		"id":2296
+	},
+	{
+		"introduce":"Launch of the New Edition Console of Live Video",
+		"name":"New Edition Console of Live Video",
+		"description":"1. Business overview is increased to have an overview of the basic business situation;\n2. Function template and configuration are split to support function configuration of live streaming dimensionality;\n3. Consumption query, status monitoring, operation data and other statistics and analysis items are increased for customers to understand their own businesses in more dimensions;\n4. Watermark configuration, IP blacklist, referer anti-leech and other IAM means are increased to protect live security.",
+		"id":2297
 	}
 ]
