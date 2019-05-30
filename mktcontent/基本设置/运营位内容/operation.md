@@ -20,13 +20,13 @@
 		"label":"赔"
 	},
 	{
-		"name":"京东云刊",
-		"description":"礼包奉上，订阅有惊喜",
+		"name":"备战618",
+		"description":"全方位营销备战计划助力商家大卖",
 		"id":5
 	},
 	{
-		"name":"京东云APP",
-		"description":"随时随地触达京东云",
+		"name":"618大促",
+		"description":"云产品全场1折起",
 		"id":6
 	},
 	{
