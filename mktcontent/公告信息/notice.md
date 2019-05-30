@@ -361,7 +361,7 @@
 	},
 	{
 		"id":644,
-		"title":"CDN Console menu location change"
+		"title":"CDN Console Menu Location Change"
 	},
 	{
 		"id":645,
@@ -409,7 +409,7 @@
 	},
 	{
 		"id":671,
-		"title":"Function service launched with Python 2.7 and Python 3.7 runtime"
+		"title":"Function Service Launched with Python 2.7 and Python 3.7 Runtime"
 	},
 	{
 		"id":676,
@@ -421,7 +421,7 @@
 	},
 	{
 		"id":678,
-		"title":"\\[Vulnerability Warning\\] Windows RDP remote code executes high risk vulnerability"
+		"title":"\\[Vulnerability Warning\\] Windows RDP Remote Code Executes High Risk Vulnerability"
 	},
 	{
 		"id":679,
