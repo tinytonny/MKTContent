@@ -1,25 +1,25 @@
 [
 	{
 		"introduce":"The JD Cloud Virtual Machines are officially opened to the public, which can be selected by the users in South China, East China and North China.",
-		"name":"The Virtual Machines are officially online",
+		"name":"The Virtual Machines Are Officially Online",
 		"description":"The Virtual Machines provided by JD Cloud are the cloud computing service unit which provides computing services with Auto Scaling of processing capability, containing all required resources, such as CPU, memory, operating system, disk, networking and security, etc. Each resource provides various instance types to meet the personalized demands of different businesses.",
 		"id":1
 	},
 	{
 		"introduce":"The billing method can be switched without interrupting the business to select the most economical billing method on demand.",
-		"name":"For Virtual Machines, the operation of changing the billing mode from configuration to monthly  package is supported",
+		"name":"For Virtual Machines, The Operation of Changing The Billing Mode from Configuration to Monthly  Package Is Supported",
 		"description":"In earlier stage, the users can purchase the Virtual Machines whose Pay By Configuration in order to perform the test and to test appropriate Virtual Machines’ specifications according to its own business scale. Then, the users can change to the charging mode of monthly package to obtain the best cost performance.",
 		"id":2
 	},
 	{
 		"introduce":"The users can visit the security requirements according to the Virtual Machine network and choose to configure different security groups.",
-		"name":"Security Group goes online",
+		"name":"Security Group Goes Online",
 		"description":"Security group is a kind of distributed and stateful virtual firewall, which acts on the network exit of the Virtual Machines, and has the features of detecting and filtering the data packets of the upstream and downstream of the Virtual Machines. With security groups, Virtual Machines network IAM can be accomplished, including east-west traffic between Virtual Machines and north-south traffic between the Virtual Machines and the public network.",
 		"id":3
 	},
 	{
 		"introduce":"Support the users to upgrade the CPU and memory during the billing cycle of the purchase of the monthly package Virtual Machines, and easily respond to business expansion.",
-		"name":"Resources of monthly or annual package support the upgrade of configuration",
+		"name":"Resources of Monthly Or Annual Package Support The Upgrade of Configuration",
 		"description":"Support the users to upgrade the CPU and memory during the billing cycle of the purchase of the monthly package Virtual Machines, and easily respond to business expansion.",
 		"id":4
 	},
@@ -31,13 +31,13 @@
 	},
 	{
 		"introduce":"During the usage of the Virtual Machines, the scenario, which the operating system required to be upgraded or the system required to be rebuilt due to the changes of the service, will be easily used after the feature is online.",
-		"name":"The Virtual Machines support the operation of replacing the image and rebuilding the system",
+		"name":"The Virtual Machines Support The Operation of Replacing The Image And Rebuilding The System",
 		"description":"Operation of Rebuild can restore the Virtual Machines to the start state. It is an upgrade or recovery method when the VM instance requires to operate system upgrade or encounters with the failure of software. It can choose to reset to the system of Linux type or Windows type.",
 		"id":6
 	},
 	{
 		"introduce":"CentOS 7.1 64-bit images is support in North China, South China, East China and Hong Kong region, which can enrich the type of operating system",
-		"name":"CentOS 7.1 64-bit image is released",
+		"name":"CentOS 7.1 64-bit Image Is Released",
 		"description":"CentOS 7.1 64-bit images is support in North China, South China, East China and Hong Kong region, which can enrich the type of operating system type.",
 		"id":7
 	},
@@ -49,7 +49,7 @@
 	},
 	{
 		"introduce":"Cloud Database’s console provides backup download - BinLog Download and the users can customize the settings of the feature regarding automatic backup policy",
-		"name":"Backup Download and BinLog Download",
+		"name":"Backup Download And BinLog Download",
 		"description":"Obtain the address of download link and perform the operation of download at backup and Binlog page through the console of cloud database. Users can automatically backup the policy by custom settings in order to avoid the time point when the cloud database’s load is high and to execute the automatic backup policy at appropriate time nodes to improve the cloud database’s backup efficiency.",
 		"id":9
 	},
@@ -67,61 +67,61 @@
 	},
 	{
 		"introduce":"Original high-availability cloud-database-service cluster adds one or more read-only instances.",
-		"name":"Read-only Instance is online",
+		"name":"Read-only Instance Is Online",
 		"description":"On the basis of the original high-availability cluster, users can realize the scenes and requirements of reading-writing separation through creating one or more read-only instances regarding the current cloud database service and through executing the read request by read-only instance.",
 		"id":12
 	},
 	{
 		"introduce":"Add the feature of manual backup. It perfects user’s experience",
-		"name":"Manual Backup is online",
+		"name":"Manual Backup Is Online",
 		"description":"Manual backup feature is added on the basis of the original backup. Users can perform manual backup operations at the appropriate time nodes as requirements to facilitate the data protection before sensitive operations.",
 		"id":13
 	},
 	{
 		"introduce":"JD Cloud’s cloud database is officially opened to the public. It can be selected by the users in South China, East China and North China.",
-		"name":"Cloud Database is officially online",
+		"name":"Cloud Database Is Officially Online",
 		"description":"Cloud database is the stable and reliable relational database cloud service provided by JD Cloud. Compared with traditional database, it is easy to deploy, manage and expand. It supports master-slave hot standby architecture by default and provides complete solutions, such as data backup, fault recovery and monitoring, etc., which can completely solve the troubles of database’s operation and maintenance.",
 		"id":14
 	},
 	{
 		"introduce":"The release of the beta version enables the console to manage and operate the resources and supports pay by configuration.",
-		"name":"Primary-secondary version is released",
+		"name":"Primary-secondary Version Is Released",
 		"description":"The release of the beta version enables the console to manage and operate the resources and supports pay by configuration.",
 		"id":15
 	},
 	{
 		"introduce":"It can adjust the memory of the master-slave resource",
-		"name":"Console adds the master-slave version’s feature of changing configuration",
+		"name":"Console Adds The Master-slave Version’s Feature of Changing Configuration",
 		"description":"It can adjust the memory of the master-slave resource",
 		"id":16
 	},
 	{
 		"introduce":"It can sell the resources in monthly package mode\t",
-		"name":"Support the billing type of monthly package",
+		"name":"Support The Billing Type of Monthly Package",
 		"description":"It can sell the resources in monthly package mode\t",
 		"id":17
 	},
 	{
 		"introduce":"Monitor resource memory, traffic, QPS, hit ratio, etc.",
-		"name":"Resource Monitoring is online",
+		"name":"Resource Monitoring Is Online",
 		"description":"Monitor resource memory, traffic, QPS, hit ratio, etc.",
 		"id":18
 	},
 	{
 		"introduce":"The users can customize passwords to use resources",
-		"name":"Support the User-defined Passwords",
+		"name":"Support The User-defined Passwords",
 		"description":"The users can customize passwords to use resources",
 		"id":19
 	},
 	{
 		"introduce":"Resolve single-threaded bottlenecks and easily address Redis' high-capacity or high-performance business needs",
-		"name":"Cluster Version is released",
+		"name":"Cluster Version Is Released",
 		"description":"Resolve single-threaded bottlenecks and easily address Redis' high-capacity or high-performance business needs",
 		"id":20
 	},
 	{
 		"introduce":"It can adjust the memory of the cluster resources",
-		"name":"Console adds the cluster version’s feature of changing configuration",
+		"name":"Console Adds The Cluster Version’s Feature of Changing Configuration",
 		"description":"It can adjust the memory of the cluster resources",
 		"id":21
 	},
@@ -133,19 +133,19 @@
 	},
 	{
 		"introduce":"Support cloud storage file synchronize to data warehouse file storage and library table storage",
-		"name":"Synchronization of cloud storage’s file",
+		"name":"Synchronization of Cloud Storage’s File",
 		"description":"Support cloud storage file synchronize to data warehouse file storage and library table storage",
 		"id":23
 	},
 	{
 		"introduce":"Support users to centrally store and manage structured data, semi-structured data, and unstructured data",
-		"name":"Data is in centralized management",
+		"name":"Data Is in Centralized Management",
 		"description":"Support users to centrally store and manage structured data, semi-structured data, and unstructured data",
 		"id":24
 	},
 	{
 		"introduce":"Support users to develop, manage and share drag-and-drop reports",
-		"name":"Real-time report is under developing",
+		"name":"Real-time Report Is under Developing",
 		"description":"Support users to develop, manage and share drag-and-drop reports",
 		"id":25
 	},
@@ -157,79 +157,79 @@
 	},
 	{
 		"introduce":"CentOS 5.8 64-bit images is support in North China, South China, East China and Hong Kong region, which can enrich the type of operating system",
-		"name":"CentOS 5.8 64-bit image is released",
+		"name":"CentOS 5.8 64-bit Image Is Released",
 		"description":"CentOS 5.8 64-bit images is support in North China, South China, East China and Hong Kong region, which can enrich the type of operating system type.",
 		"id":27
 	},
 	{
 		"introduce":"Monitorable period of the Virtual Machines is expanded. The monitoring period of 1 day, 7 days and 30 days are added.",
-		"name":"The VM Monitoring supports multiple monitoring cycles",
+		"name":"The VM Monitoring Supports Multiple Monitoring Cycles",
 		"description":"The VM Monitoring allows the users to learn the running status and indicators of performance monitoring regarding the Virtual Machines in real time. Different lengths of monitoring period allow the users to observe the monitoring information for up to 30 days and know the historical running status of the Virtual Machines.",
 		"id":28
 	},
 	{
 		"introduce":"CentOS 7.2 64-bit images is support in North China, South China, East China and Hong Kong region, which can enrich the type of operating system",
-		"name":"CentOS 7.2 64-bit image is released",
+		"name":"CentOS 7.2 64-bit Image Is Released",
 		"description":"CentOS 7.2 64-bit images is support in North China, South China, East China and Hong Kong region, which can enrich the type of operating system type.",
 		"id":29
 	},
 	{
 		"introduce":"CentOS 7.3 64-bit images is support in North China, South China, East China and Hong Kong region, which can enrich the type of operating system",
-		"name":"CentOS 7.3 64-bit image is released",
+		"name":"CentOS 7.3 64-bit Image Is Released",
 		"description":"CentOS 7.3 64-bit images is support in North China, South China, East China and Hong Kong region, which can enrich the type of operating system type.",
 		"id":30
 	},
 	{
 		"introduce":"JD Cloud’s Virtual Machines, Cloud Disk Service and Elastic IP cut down the price to bring maximum profits to our users。",
-		"name":"The Virtual Machines cut down the prices permanently with 54% drop",
+		"name":"The Virtual Machines Cut Down The Prices Permanently with 54% Drop",
 		"description":"In North China, East China, South China and Hong Kong, Monthly Package prices are reduced by 26% at most; Pay By Configuration pricing is cut down by 54% at most; \n",
 		"id":31
 	},
 	{
 		"introduce":"CentOS 6.6 64-bit images is support in North China, South China, East China and Hong Kong region, which can enrich the type of operating system",
-		"name":"CentOS 6.6 64-bit image is released",
+		"name":"CentOS 6.6 64-bit Image Is Released",
 		"description":"CentOS 6.6 64-bit images is support in North China, South China, East China and Hong Kong region, which can enrich the type of operating system type.",
 		"id":32
 	},
 	{
 		"introduce":"The private-net NTP provides Intranet time synchronization for the Virtual Machines, which saves the time of the users to manually set up the time.",
-		"name":"Private-net’s NTP time service of JD Cloud is officially online",
+		"name":"Private-net’s NTP Time Service of JD Cloud Is Officially Online",
 		"description":"Domain name for private net’s visiting during NTP time is ntp.jcloudcs.com.",
 		"id":33
 	},
 	{
 		"introduce":"Intranet download source of JD Cloud significantly improves the Virtual Machine installation efficiency regarding software and reduces software’s installation cost.",
-		"name":"Private-net’s source of JD Cloud is officially online",
+		"name":"Private-net’s Source of JD Cloud Is Officially Online",
 		"description":"For purpose of improving user’s installation efficiency regarding software on the Virtual Machines and reduce installation cost, JD Cloud provides Intranet download source. Under the environment of CentOS and Ubuntu, users can quickly install the software through Intranet download source. Domain name of Intranet download source is mirrors.jcloudcs.com.",
 		"id":34
 	},
 	{
 		"introduce":"Support Ubuntu 16.04 64-bit image in the entire region of cn-north, cn-south and cn-east",
-		"name":"Ubuntu 16.04 64-bit image is released",
+		"name":"Ubuntu 16.04 64-bit Image Is Released",
 		"description":"Support Ubuntu 16.04 64-bit image in the entire region of cn-north, cn-south and cn-east",
 		"id":35
 	},
 	{
 		"introduce":"In Hong Kong, Virtual Machines reduces the price again permanently in order to make profit to customers and improve the cost performance regarding the business.",
-		"name":"Virtual Machines in Hong Kong reduces the price again by up to 20%",
+		"name":"Virtual Machines in Hong Kong Reduces The Price Again by up to 20%",
 		"description":"Price reduction details: It is cut down by 20% at most; \n",
 		"id":36
 	},
 	{
 		"introduce":"It can customize the range of VPC network and support the creation of VPC network without preset CIDR",
-		"name":"It can customize the range of VPC network and support the creation of VPC network without preset CIDR",
+		"name":"It Can Customize The Range of VPC Network And Support The Creation of VPC Network without Preset CIDR",
 		"description":"The users can customize the VPC network and can define the range of network by self-determination; Intranet segment starting from 10, 192.168, and 172 can be supported; VPC network without preset CIDR can be created. The VPC network is isolated completely and logically \n",
 		"id":37
 	},
 	{
 		"introduce":"It can customize the inbound and outbound rules for the network ACL, besides it can be associated with the subnet",
-		"name":"It can customize ACL’s inbound and outbound rules",
+		"name":"It Can Customize ACL’s Inbound And Outbound Rules",
 		"description":"The users can customize network ACL’s rules and set inbound and outbound policy. The newly created ACL rejects all inbound/outbound traffic by default. ACL has no state. It is required to set inbound and outbound rules respectively \n",
 		"id":38
 	},
 	{
 		"introduce":"It can customize the rules of route table and specify the type and address of the next hop, besides it can be associated with the subnet",
-		"name":"It can customize the rules of route table",
+		"name":"It Can Customize The Rules of Route Table",
 		"description":"The users can customize route table’s rules and specify the type and address of the next hop. It is tacitly assumed that route table contains two rules - local and internet \n",
 		"id":39
 	},
@@ -247,25 +247,25 @@
 	},
 	{
 		"introduce":"JD Cloud’s Cloud Disk Service is officially opened to the public. It can be selected by the users in North China, South China and East China",
-		"name":"The Cloud Disk Service is officially online",
+		"name":"The Cloud Disk Service Is Officially Online",
 		"description":"The Cloud Disk Service is a low-latency and highly reliable block-level storage provided by JD Cloud for the Virtual Machines, including three types, namely, Premium Hdd Cloud Disk, SSD Cloud Disk and Ultra-high Performance Cloud Disk. Data in the Cloud Disk Service is stored in multiple real-time replicas to avoid data unavailability due to component failures, and also provide highly available data storage services.",
 		"id":42
 	},
 	{
 		"introduce":"Data in specified time point can be restored at any time based on the feature of snapshot",
-		"name":"Support the creation of cloud disk from snapshot",
+		"name":"Support The Creation of Cloud Disk from Snapshot",
 		"description":"Snapshots provide the capability of data backup for Cloud Disk Service. Using the data of snapshot to create the Cloud Disk Service can realize the rapid deployment for the business or can solve the data problems of the Cloud Disk Service caused by misoperations, attacks, and tampering",
 		"id":43
 	},
 	{
 		"introduce":"Support the online expansion regarding the capacity of the cloud disk in order to meet user’s requirements for larger storage space",
-		"name":"Support the Expansion of Cloud Disk",
+		"name":"Support The Expansion of Cloud Disk",
 		"description":"Online expansion of cloud disk ensures that you can expand the capacity of cloud disk on demand in any time to meet the requirements of larger storage space regarding the ever-increasing business",
 		"id":44
 	},
 	{
 		"introduce":"According to business’s requirements, it should support larger cloud disk’s storage space at the time of restoring the data",
-		"name":"Create a cloud disk according to a cloud disk snapshot and support configurable cloud disk size",
+		"name":"Create A Cloud Disk According to A Cloud Disk Snapshot And Support Configurable Cloud Disk Size",
 		"description":"It recovers data on demand based on cloud disk snapshots while supporting larger cloud disk storage space to better adapt to user business needs for cloud disk storage space",
 		"id":45
 	},
@@ -283,25 +283,25 @@
 	},
 	{
 		"introduce":"The Virtual Machines with massive memory are launched in domestic for the first time",
-		"name":"The Virtual Machines with massive memory are online",
+		"name":"The Virtual Machines with Massive Memory Are Online",
 		"description":"Product line of Virtual Machines adds massive memory specifications: 76-core 1532GB matching with Intel's latest generation processor and the exclusive underlying computing resources can meet the application deployments asking for high requirements and dependence regarding memory capacity, memory operations and data’s computation rates.",
 		"id":49
 	},
 	{
 		"introduce":"The scenario whose overall bandwidth utilization rate is low and changes of bandwidth is greatly is adaptive",
-		"name":"Public IP supports the billing mode of paying by traffic",
+		"name":"Public IP Supports The Billing Mode of Paying by Traffic",
 		"description":"For the business scenarios whose overall utilization for the requirements of network bandwidth is low but with significant changes, such as the scenario where the utilization for bandwidth at ordinary times is low but the peaks of network access may occur intermittently, JD Cloud supports the users to purchase the Public IP which calculates the charges by actual used traffic. You can choose the reasonable billing model based on your actual business situation.",
 		"id":50
 	},
 	{
 		"introduce":"JD Cloud’s GPU Service is officially opened to public to initiate an era of heterogeneous computing",
-		"name":"GPU Service is officially opened for application",
+		"name":"GPU Service Is Officially Opened for Application",
 		"description":"The GPU Service provides more efficient computing services based on GPU, which is suitable for artificial intelligence, image processing, deep learning, scientific computing and so on. Real-time high-speed, providing excellent parallel computing and floating-point computing capabilities.",
 		"id":51
 	},
 	{
 		"introduce":"Multiple data access methods to meet the demands for different scenarios",
-		"name":"Streaming data is accessed",
+		"name":"Streaming Data Is Accessed",
 		"description":"Support API, SDK, Agent, Syslog and other data access modes, and customize the mode for enabling the theme service.",
 		"id":53
 	},
@@ -313,7 +313,7 @@
 	},
 	{
 		"introduce":"JD Cloud releases the learning platform of moon-machine and officially provides artificial intelligence services to the public",
-		"name":"Learning of moon-machine officially starts the open-beta test",
+		"name":"Learning of Moon-machine Officially Starts The Open-beta Test",
 		"description":"The lunar landing machine learning platform relies on powerful distributed data processing capabilities and rich built-in algorithm models to meet the one-stop service from raw data to model output. At the same time, through the visual modeling of drag-drop components, users can quickly create intelligent business on the lunar landing machine learning platform.",
 		"id":55
 	},
@@ -325,13 +325,13 @@
 	},
 	{
 		"introduce":"Summarize and calculate complex statements through SQL language",
-		"name":"Query in SQL mode",
+		"name":"Query in SQL Mode",
 		"description":"It can perform conjunctive query for multiple tables and other complex features’ consolidated calculation through SQL language",
 		"id":61
 	},
 	{
 		"introduce":"The operation of serving common types of database as data sources is supported",
-		"name":"Enrich the types of the data source",
+		"name":"Enrich The Types of The Data Source",
 		"description":"The operation of serving the data set of oracle, mysql, sqlserver, DB2 and FTP as the data-source-end is supported. Flexible creation of data synchronization tasks is supported.",
 		"id":62
 	},
@@ -343,13 +343,13 @@
 	},
 	{
 		"introduce":"Provide the ability of unified storage, management and processing for structured and unstructured data",
-		"name":"Structured and unstructured data are uniformly processed",
+		"name":"Structured And Unstructured Data Are Uniformly Processed",
 		"description":"It supports storage and management for database table/file and support the development capabilities for SQL Editor-SPARK-SQL \n",
 		"id":64
 	},
 	{
 		"introduce":"It can satisfy the ability of users to use PySpark to process the unstructured data",
-		"name":"Support PySpark’s data processing capacity",
+		"name":"Support PySpark’s Data Processing Capacity",
 		"description":"Through developing the module, PySpark language can be directly input to process the unstructured data stored in Data Compute in order to meet the requirements of the users for data cleaning and complex analysis.",
 		"id":65
 	},
@@ -379,31 +379,31 @@
 	},
 	{
 		"introduce":"Support the management of extensive-domain-name’s configuration and query of business usage; support the CDN access Log Download; support the billing mode of Pay-As-You-Go",
-		"name":"CDN supports extensive domain name and access Log Download",
+		"name":"CDN Supports Extensive Domain Name And Access Log Download",
 		"description":" Support the management of extensive-domain-name’s configuration and query of business usage; support the CDN access Log Download; support the billing mode of Pay-As-You-Go。",
 		"id":71
 	},
 	{
 		"introduce":"Data, such as the quantity of the accessing domain names, peak bandwidth of the current month, total traffic and real-time hit ratio can be viewed in real time",
-		"name":"The query feature for CDN’s business usage and service quality is released",
+		"name":"The Query Feature for CDN’s Business Usage And Service Quality Is Released",
 		"description":"Data, such as the number of access domain name, peak bandwidth of the current month, total traffic and real-time hit ratio can be queried in real time. At the same time, for the monitoring of the hit ratio, the TOP10 low hit ratio domain name and the details thereof will be listed to intuitively reflect the current business status and help the users for improvements.",
 		"id":72
 	},
 	{
 		"introduce":"Back-to-source of HTTPS agreement supports URL anti-leech chain authentication",
-		"name":"CDN HTTPS back-to-source supports URL anti-leech chain",
+		"name":"CDN HTTPS Back-to-source Supports URL Anti-leech Chain",
 		"description":"CDN nodes can back-to-source via port 443 of the source station, and encrypt the transmission content with HTTPS protocol to ensure the security of customer service content. Password and timestamp can be used to encrypt the access path of content to ensure the security of customer business content and avoid unauthorized access. \n",
 		"id":73
 	},
 	{
 		"introduce":"The data of bandwidth, traffic and visitor volume support the query in the dimension of region and ISP",
-		"name":"CDN’s bandwidth, traffic and visitor volume support multi-dimensional queries",
+		"name":"CDN’s Bandwidth, Traffic And Visitor Volume Support Multi-dimensional Queries",
 		"description":"The distribution and proportion of the data of CDN’s bandwidth, traffic and visitor volume can be queried according to the dimensions of region and ISP. At the same time, the back-to-source data of the CDN service can be queried according to four dimensions of the domain name, service type, region and ISP.",
 		"id":74
 	},
 	{
 		"introduce":"The users can apply for free open-beta test",
-		"name":"JCS for SQL Server is online for open-beta test",
+		"name":"JCS for SQL Server Is Online for Open-beta Test",
 		"description":"JCS for SQL Server is online and publicly tested. Users can create and manage JCS for SQL Server’s instances, databases, accounts & permissions and backups AND can monitor the database in multiple dimensions.",
 		"id":75
 	},
@@ -415,7 +415,7 @@
 	},
 	{
 		"introduce":"The pay-by-configuration billing of the Virtual Machines is adjusted from the pay-in-advance + pay-as-you-go mode to the full pay-as-you-go mode",
-		"name":"Virtual Machines’ billing mode is adjusted",
+		"name":"Virtual Machines’ Billing Mode Is Adjusted",
 		"description":"When new purchase of Virtual Machines is paid by configuration and resized, the original \"24-hour pre-paid fee\" rule is canceled and adjusted to use first and Pay-As-You-Go. You can create resources only by ensuring that the account balance meets the threshold requirements when placing an order.",
 		"id":80
 	},
@@ -427,7 +427,7 @@
 	},
 	{
 		"introduce":"The pay-by-configuration billing Public IP is adjusted from the pay-in-advance + pay-as-you-go mode to the full pay-as-you-go mode",
-		"name":"Billing mode of public IP is adjusted",
+		"name":"Billing Mode of Public IP Is Adjusted",
 		"description":"When new purchase of Public IP is paid by configuration and resized, the original \"24-hour pre-paid fee\" rule is canceled and adjusted to use first and Pay-As-You-Go. You can create resources only by ensuring that the account balance meets the threshold requirements when placing an order. In every morning, the previous day's bill will be generated and the cost will be settled based on the resource allocation and actual duration.",
 		"id":82
 	},
@@ -439,7 +439,7 @@
 	},
 	{
 		"introduce":"When purchasing Pay-In-Advance Virtual Machines, online payment and hybrid payment are supported",
-		"name":"Purchase of Virtual Machines supports online payment",
+		"name":"Purchase of Virtual Machines Supports Online Payment",
 		"description":"When purchasing Pay-In-Advance Virtual Machines at the Console, in the link of payment, online payment is supported. At the same time, multiple payment methods, such as coupon, balance and online payment can be chosen to make hybrid payment \n",
 		"id":84
 	},
@@ -451,19 +451,19 @@
 	},
 	{
 		"introduce":"When purchasing Pay-In-Advance Public IP, online payment and hybrid payment are supported",
-		"name":"Purchase of public IP supports online payment",
+		"name":"Purchase of Public IP Supports Online Payment",
 		"description":"When purchasing Pay-In-Advance Public IP at the Console, in the link of payment, online payment is supported. At the same time, multiple payment methods, such as coupon, balance and online payment can be chosen to make hybrid payment \n",
 		"id":86
 	},
 	{
 		"introduce":"Settlement interval of the Virtual Machines whose billing are calculated by configuration is adjusted one hour",
-		"name":"Settlement interval of the Virtual Machines whose billing are calculated by configuration is adjusted",
+		"name":"Settlement Interval of The Virtual Machines Whose Billing Are Calculated by Configuration Is Adjusted",
 		"description":"The settlement cycle of Virtual Machines Pay By Configuration is adjusted from one day to one hour, and settled by the hour.",
 		"id":87
 	},
 	{
 		"introduce":"The paid value-added protection service coping with the condition that the Internet server suffers from heavy traffic DDoS attacks",
-		"name":"Anti-DDoS Pro goes online",
+		"name":"Anti-DDoS Pro Goes Online",
 		"description":"Anti-DDoS Pro uses the way of replacing service IP with Advanced Anti-IP to ensure that the user's source station keeps safe and stable when it is subjected to high-traffic DDos attacks; JD Cloud Anti-DDoS Pro has experienced JD 618, Double-Eleven grand promotions for many times, and it is the core product of JD's technological development for years.",
 		"id":89
 	},
@@ -475,43 +475,43 @@
 	},
 	{
 		"introduce":"The monitoring feature of source station is launched. It can discover the exception of the source station in time",
-		"name":"CDN supports source station’s availability monitoring and quality monitoring",
+		"name":"CDN Supports Source Station’s Availability Monitoring And Quality Monitoring",
 		"description":"The exception of source station of the website will directly affect CDN’s service quality and user’s experience. After this update, through detecting the source station, CDN’s each distribution node can discover the exception problems of the source station in time, alert the customer and solve the problem that the exception of source station cannot be discovered in time due to the lack of effective monitoring means.",
 		"id":91
 	},
 	{
 		"introduce":"Migrate the offline database of SQL server to JD Cloud database through recovering the backup of database",
-		"name":"SQL Server supports the operation of \"moving\" the library on the cloud",
+		"name":"SQL Server Supports The Operation of \"Moving\" The Library on The Cloud",
 		"description":"The users can enjoy cloud database’s stability and efficiency by \"transferring\" the offline database to the cloud through the following three steps: \n1. Backup local database; \n2. Upload database’s backup files to JD Cloud; \n3. Restore the uploaded file to the cloud database. \n",
 		"id":92
 	},
 	{
 		"introduce":"Cloud Database, such as JCS for MySQL service and JCS for SQL Server, support the deployment in different availability zones",
-		"name":"Database’s and storage’s all products support the deployment in different availability zones",
+		"name":"Database’s And Storage’s All Products Support The Deployment in Different Availability Zones",
 		"description":"Built on the basis of different data centers, the multi-availability zone of JD Cloud is a multi-availability zone which is really and completely isolated from power, network and other physical facilities, and thus can bear the fault at the computer-room level and further improve the high availability and high reliability.",
 		"id":93
 	},
 	{
 		"introduce":"Deploy master-slave instances in different availability zones can improve data’s reliability.",
-		"name":"SQL Ser service supports the deployment in different availability zones",
+		"name":"SQL Ser Service Supports The Deployment in Different Availability Zones",
 		"description":"Built on the basis of different data centers, the multi-availability zone of JD Cloud is a multi-availability zone which is really and completely isolated from power, network and other physical facilities, and thus can bear the fault at the computer-room level and further improve the reliability.",
 		"id":94
 	},
 	{
 		"introduce":"Products, such as Virtual Machines, VPC, Load Balancer and Cloud Disk, support the deployment in different availability zones, which further enhances the high availability.",
-		"name":"All products of Elastic Compute support the deployment of different availability zones",
+		"name":"All Products of Elastic Compute Support The Deployment of Different Availability Zones",
 		"description":"Built on the basis of different data centers, the multi-availability zone of JD Cloud is a multi-availability zone which is really and completely isolated from power, network and other physical facilities, and thus can bear the fault at the computer-room level and further improve the high availability and high reliability.",
 		"id":95
 	},
 	{
 		"introduce":"Products, such as Virtual Machines, Cloud Database, Load Balancer and Cloud Disk Service, are newly available in Shanghai",
-		"name":"Shanghai Data Center opens the service",
+		"name":"Shanghai Data Center Opens The Service",
 		"description":"Shanghai Data Center adopts the international Tier3 + construction standard and possesses the high-quality BPG network covering mainstream IPS, besides it is equipped with the latest-generation Intel Xeon CPU and it provides 7*24 hours professional services; its usability can reach 99.995%.",
 		"id":96
 	},
 	{
 		"introduce":"JCS for Redis adjust the settlement cycle to 1 hour according to the configured billing resource",
-		"name":"Settlement interval of the resources whose billing are calculated by configuration is adjusted",
+		"name":"Settlement Interval of The Resources Whose Billing Are Calculated by Configuration Is Adjusted",
 		"description":"JCS for Redis adjust the settlement cycle to 1 hour according to the configured billing resource",
 		"id":97
 	},
@@ -523,19 +523,19 @@
 	},
 	{
 		"introduce":"Safe and reliable; seamlessly integrated SDN; extremely simple and easy-to-use; abundant configuration; flexible charging method",
-		"name":"Native Container Service goes online",
+		"name":"Native Container Service Goes Online",
 		"description":"Native Container service is based on virtualization of Hypervisor. It can operate the Docker images directly on customized independent kernel, which enables complete isolation among containers; At the same time, it perfectly integrates JD Cloud's existing products for resource interconnection with the host, database, redis and storage within the VPC based on VPC deployment; it has numerous instance type families, such as the type of Compute Optimized and Memory Optimized; it supports the billing type of monthly package and Pay By Configuration. During the Beta period from January 1, 2018 to March 31, 2018, free trial is provided for container instance paid by configuration, and 50% discounts are offered for monthly package.",
 		"id":99
 	},
 	{
 		"introduce":"It supports users to register and activate JD Cloud account with Hong Kong, Macao and Taiwan cell-phone number",
-		"name":"For registration, it is available to the verification of Hong Kong, Macao and Taiwan Mobile number",
+		"name":"For Registration, It Is Available to The Verification of Hong Kong, Macao And Taiwan Mobile Number",
 		"description":"It supports users to register and activate JD Cloud account with Hong Kong, Macao and Taiwan Mobile Phone Number.",
 		"id":100
 	},
 	{
 		"introduce":"The Virtual Machines support the allocation/release of the auxiliary Private IP, and the auxiliary Private IP can associate the Elastic IP",
-		"name":"The Virtual Machines feature of single network interface with multi-IP is released",
+		"name":"The Virtual Machines Feature of Single Network Interface with Multi-IP Is Released",
 		"description":"Single NIC multiple IP is widely used in keep alive and secondary virtualization scenarios. Virtual Machines now support allocation/release of auxiliary private IP",
 		"id":101
 	},
@@ -547,25 +547,25 @@
 	},
 	{
 		"introduce":"Image of Official CentOS 6.X | 7.X series adds epel source",
-		"name":"Partial official CentOS images adds epel source",
+		"name":"Partial Official CentOS Images Adds Epel Source",
 		"description":"The official CentOS 6.X | 7.X series images are added with the EPEL source and can obtain the software directly from the epel through the yum command.",
 		"id":103
 	},
 	{
 		"introduce":"The order that has not been paid for more than 15 days will be automatically canceled by the system.",
-		"name":"feature of automatically cancelling the order is released",
+		"name":"Feature of Automatically Cancelling The Order Is Released",
 		"description":"The order that has not been paid for more than 15 days will be automatically canceled by the system.",
 		"id":104
 	},
 	{
 		"introduce":"Enterprise supports the verification type of \"individual industrial and commercial households\" with real name. Personal real name verification supports the Association of verified account",
-		"name":"Features, such as that enterprise supports the verification type of \"individual industrial and commercial households\" with real name, etc. are released",
+		"name":"Features, Such as That Enterprise Supports The Verification Type of \"Individual Industrial And Commercial Households\" with Real Name, Etc. Are Released",
 		"description":"Enterprise real-name verification adds the verification type of \"individual industrial and commercial households\"; if the personal real-name verification encounters the condition that the identity information is occupied, it can Associate the certified JD account to perform related verification.",
 		"id":105
 	},
 	{
 		"introduce":"Add Operating Analysis Module; support batch addition of the accelerated domain names; back-to-source IP supports primary & backup and multi-IP Load Balancer, etc.",
-		"name":"Release of CDN Operating Analysis and Other New Features",
+		"name":"Release of CDN Operating Analysis And Other New Features",
 		"description":"Add the Operating Analysis Module; add TOP URL Statistics & Analysis; support batch addition of the accelerated domain names; back-to-source IP supports primary & backup and multi-IP Load Balancer; back-to-source domain name supports mutually backup for multiple domain names; perform in-depth cooperation with Object Storage Service; support OSS back-to-source mode.",
 		"id":106
 	},
@@ -577,25 +577,25 @@
 	},
 	{
 		"introduce":"In the marketplace, tri-image, such as LNMP, Discuz and Zhujibao, are released",
-		"name":"Virtual Machines Tri-image is released",
+		"name":"Virtual Machines Tri-image Is Released",
 		"description":"When the Virtual Machines create and rebuild the system, tri-image in the marketplace can be selected directly. Note: The Virtual Machines created by the image in the marketplace do not support the operation of \"Create Image\" and \"Virtual Machines Backup\".",
 		"id":108
 	},
 	{
 		"introduce":"The release of the trial version enables the creation of Bucket as well as uploading, downloading and management of Object on the console",
-		"name":"Cloud storage in trial version is online",
+		"name":"Cloud Storage in Trial Version Is Online",
 		"description":"The release of the trial version enables the creation of Bucket as well as uploading, downloading and management of Object on the console",
 		"id":109
 	},
 	{
 		"introduce":"Operations, such as Copy and Move, etc. can be performed to the Object, besides external link can be generated and can be visited through the external link",
-		"name":"Support the features, such as Copy, Move and external link, etc.",
+		"name":"Support The Features, Such as Copy, Move And External Link, Etc.",
 		"description":"Operations, such as Copy and Move, etc. can be performed to the Object, besides external link can be generated and the Object can be visited through the outside chain",
 		"id":110
 	},
 	{
 		"introduce":"Cloud storage access to CDN, providing CDN access domain name for content access acceleration",
-		"name":"CDN acceleration is accessed",
+		"name":"CDN Acceleration Is Accessed",
 		"description":"Cloud storage access to CDN, providing CDN access domain name for content access acceleration",
 		"id":111
 	},
@@ -607,91 +607,91 @@
 	},
 	{
 		"introduce":"Cloud storage is officially online and charged. The charging items include the capacity of storage space, download traffic of the external network and CDN back-to-source traffic",
-		"name":"Cloud storage in business edition is officially online and charged",
+		"name":"Cloud Storage in Business Edition Is Officially Online And Charged",
 		"description":"Cloud storage is officially charged and online. The charging items mainly include three parts - storage capacity, download traffic of external network and CDN’s accelerated traffic",
 		"id":113
 	},
 	{
 		"introduce":"It can upload data in segments regarding the large file. If the upload is interrupted during the process, it supports breakpoint resume",
-		"name":"Support the uploading in segment and breakpoint resume",
+		"name":"Support The Uploading in Segment And Breakpoint Resume",
 		"description":"It can upload data in segments regarding the large file. If the upload is interrupted due to the network error during the uploading process, it supports breakpoint resume",
 		"id":114
 	},
 	{
 		"introduce":"The AES128 method is used to encrypt and encode the data uploaded by the users on the server side to ensure the user data security",
-		"name":"Support the server-side encryption",
+		"name":"Support The Server-side Encryption",
 		"description":"The AES128 method is used to encrypt and encode the data uploaded by the users on the server side to ensure the user data security",
 		"id":115
 	},
 	{
 		"introduce":"Provide the Bucket-level permission control methods, which are divided into two permissions, i.e. Public Read and Private Write and Private Read/Write",
-		"name":"Support the settings of Bucket’s access permission",
+		"name":"Support The Settings of Bucket’s Access Permission",
 		"description":"Provide the Bucket-level permission control methods, which are divided into two permissions, i.e. Public Read and Private Write and Private Read/Write",
 		"id":116
 	},
 	{
 		"introduce":"Support online editing of image type files for centralized management, format conversion, cropping, watermarking, zooming, etc.",
-		"name":"Support image’s processing and management of image’s style",
+		"name":"Support Image’s Processing And Management of Image’s Style",
 		"description":"Support online editing of image type files for centralized management, format conversion, cropping, watermarking, zooming, etc.",
 		"id":117
 	},
 	{
 		"introduce":"According to the adjusted Billing Rules, in case of delay in payment, the resources will automatically suspend the service. After 7 days from the date of suspending service, the resources will be automatically deleted",
-		"name":"Processing logic of billing and arrears are adjusted",
+		"name":"Processing Logic of Billing And Arrears Are Adjusted",
 		"description":"According to the adjusted Billing Rules, in case of delay in payment, the resources will automatically suspend the service. After 7 days from the date of suspending service, the resources will be automatically deleted",
 		"id":118
 	},
 	{
 		"introduce":"It can perform the main format trans-coding operation on the video files stored in the JD Cloud Object Storage Service",
-		"name":"Support the feature of video transcoding",
+		"name":"Support The Feature of Video Transcoding",
 		"description":"It can perform the main format trans-coding operation on the video files stored in the JD Cloud Object Storage Service",
 		"id":119
 	},
 	{
 		"introduce":"The Java SDK is updated to version 1.0.2, and the .Net SDK is newly launched now.",
-		"name":"Java and .Net SDK are online",
+		"name":"Java And .Net SDK Are Online",
 		"description":"The Java SDK is updated to version 1.0.2, and the .Net SDK is newly launched now.",
 		"id":120
 	},
 	{
 		"introduce":"The price of external network download traffic of Object Storage Service is cut down by 23%, and that of storage capacity is cut down by 5%",
-		"name":"Each billing item of Object Storage Service’s product reduces the price",
+		"name":"Each Billing Item of Object Storage Service’s Product Reduces The Price",
 		"description":"The price of external network download traffic of Object Storage Service is cut down by 23%, and that of storage capacity is cut down by 5%",
 		"id":121
 	},
 	{
 		"introduce":"Realize the features of pornographic image identification and face recognition by means of interface call",
-		"name":"Features of Pornographic Image Identification and Face Recognition Are Online",
+		"name":"Features of Pornographic Image Identification And Face Recognition Are Online",
 		"description":"Realize the features of pornographic image identification and face recognition by means of interface call",
 		"id":122
 	},
 	{
 		"introduce":"With JD Cloud Object Storage Service as the source station, it can Associate the customized domain name and use the customized domain name to access the resource",
-		"name":"User-defined domain name is online",
+		"name":"User-defined Domain Name Is Online",
 		"description":"With JD Cloud Object Storage Service as the source station, it can Associate the customized domain name and use the customized domain name to access the resource",
 		"id":123
 	},
 	{
 		"introduce":"Compatible with S3 interface, thanks to the application developed based on S3, SDK and third-party services, it can perfectly access JD Cloud Object Storage Service",
-		"name":"API in compatible version S3 is online",
+		"name":"API in Compatible Version S3 Is Online",
 		"description":"Compatible with S3 interface, thanks to the application developed based on S3, SDK and third-party services, it can perfectly access JD Cloud Object Storage Service",
 		"id":124
 	},
 	{
 		"introduce":"Through cross-domain access settings, the Web application server can support cross-station IAM, making cross-station data transmission more secure",
-		"name":"Cross-domain access settings is online",
+		"name":"Cross-domain Access Settings Is Online",
 		"description":"Through cross-domain access settings, the Web application server can support cross-station IAM, making cross-station data transmission more secure",
 		"id":125
 	},
 	{
 		"introduce":"It can to flexibly configure different users' operating permissions for the files and directories under the bucket",
-		"name":"Bucket Policy is online.",
+		"name":"Bucket Policy Is Online.",
 		"description":"It can to flexibly configure different users' operating permissions for the files and directories under the bucket",
 		"id":126
 	},
 	{
 		"introduce":"Cn-north-1 is deployed with multiple AZs to achieve cross-computer-room disaster tolerance within the same geographical area and provide high-availability service capabilities across AZs",
-		"name":"North China region supports multi-availability zones",
+		"name":"North China Region Supports Multi-availability Zones",
 		"description":"Cn-north-1 is deployed with multiple AZs to achieve cross-computer-room disaster tolerance within the same geographical area and provide high-availability service capabilities across AZs",
 		"id":127
 	},
@@ -703,43 +703,43 @@
 	},
 	{
 		"introduce":"With support for the Compress Object interface, the users can compress multiple objects for download",
-		"name":"The feature of package download is online (API)",
+		"name":"The Feature of Package Download Is Online (API)",
 		"description":"With support for the Compress Object interface, the users can compress multiple objects for download",
 		"id":129
 	},
 	{
 		"introduce":"For image files stored in the Object Storage Service, it can prevent the risk of the original image from being stolen by turning on the original image protection.",
-		"name":"Feature of the protection for original image is online",
+		"name":"Feature of The Protection for Original Image Is Online",
 		"description":"For image files stored in the Object Storage Service, it can prevent the risk of the original image from being stolen by turning on the original image protection.",
 		"id":130
 	},
 	{
 		"introduce":"For the video generation preview and video screenshots as front cover and other business scenarios, add the feature of video screenshots to the video service",
-		"name":"Support the feature of video capture",
+		"name":"Support The Feature of Video Capture",
 		"description":"For the video generation preview and video screenshots as front cover and other business scenarios, add the feature of video screenshots to the video service",
 		"id":131
 	},
 	{
 		"introduce":"It can to migrate the data from local, AWS, Alibaba Cloud, Tencent Cloud, Baidu Cloud, Qiniu Cloud and etc. to JD Cloud Object Storage Service",
-		"name":"Migration tool of Object Storage Service’s data is online",
+		"name":"Migration Tool of Object Storage Service’s Data Is Online",
 		"description":"It can to migrate the data from local, AWS, Alibaba Cloud, Tencent Cloud, Baidu Cloud, Qiniu Cloud and etc. to JD Cloud Object Storage Service",
 		"id":132
 	},
 	{
 		"introduce":"The Object Storage Service CDN back-to-source traffic price is cut down by 52%, and the storage capacity price is cut down by 12%",
-		"name":"Release of Object Storage Service 2.0; Great Price Drop for the Spring Festival",
+		"name":"Release of Object Storage Service 2.0; Great Price Drop for The Spring Festival",
 		"description":"The Object Storage Service CDN back-to-source traffic price is cut down by 52%, and the storage capacity price is cut down by 12%",
 		"id":133
 	},
 	{
 		"introduce":" JCS for MongoDB’s beta is online. It automatically provides instances with three copies and high-availability and supports automatic switching regarding disaster tolerence",
-		"name":"Beta of JCS for MongoDB comes online",
+		"name":"Beta of JCS for MongoDB Comes Online",
 		"description":"JCS for MongoDB’s beta is online. It automatically provides instances with three copies and high-availability, supports automatic switching regarding disaster tolerance and supports the features of backup and recovery. The users can apply for the free trial.",
 		"id":134
 	},
 	{
 		"introduce":"JCS for MongoDB provides the feature of cross-availability-zone deployment and support to deploy MongoDB's master-slave nodes and",
-		"name":"JCS for MongoDB supports cross-availability-zone department",
+		"name":"JCS for MongoDB Supports Cross-availability-zone Department",
 		"description":"JCS for MongoDB provides the feature of cross-availability-zone deployment. It supports to deploy MongoDB's master-slave & hidden nodes in different availability zones to provide machine-room-level disaster tolerance \n",
 		"id":135
 	},
@@ -751,31 +751,31 @@
 	},
 	{
 		"introduce":"JCS for MongoDB supports smooth expansion/reduction. The process of changing configuration does not affect service’s operations. Users can adjust instance’s configuration in time according to business conditions.",
-		"name":"JCS for MongoDB supports expansion/reduction",
+		"name":"JCS for MongoDB Supports Expansion/reduction",
 		"description":"JCS for MongoDB supports smooth expansion/reduction. The process of changing configuration does not affect service’s operations. Users can adjust instance’s configuration in time according to business conditions. \n",
 		"id":137
 	},
 	{
 		"introduce":"JCS for MongoDB provides the feature of creating backup. Users can create new MongoDB instances based on a certain backup’s point data.",
-		"name":"Support the creation of the new instances based on backup",
+		"name":"Support The Creation of The New Instances Based on Backup",
 		"description":"JCS for MongoDB provides the feature of creating backup. Users can create new MongoDB instances based on a certain backup’s point data.\n",
 		"id":138
 	},
 	{
 		"introduce":"JCS for MongoDB’s beta is online. It has characteristics of high availability, high reliability, high usability and high security.",
-		"name":"JCS for MongoDB releases official version",
+		"name":"JCS for MongoDB Releases Official Version",
 		"description":"JCS for MongoDB’s beta is online. It has characteristics of high availability, high reliability, high usability and high security and it is open to all users. \n",
 		"id":139
 	},
 	{
 		"introduce":"CentOS 6.9/7.4 64-bit official image is launched in all areas",
-		"name":"Public Image of CentOS 6.9/7.4 is released",
+		"name":"Public Image of CentOS 6.9/7.4 Is Released",
 		"description":"Cent OS 6.9/7.4 64 Public Image has been launched in cn-north-1, cn-south-1, cn-east-1 and cn-east-2",
 		"id":140
 	},
 	{
 		"introduce":"The created Virtual Machines support the designation for the address of private IP Address (it should be designated in Number of available IP Address in subnet)",
-		"name":"The Virtual Machines support the creation of the specified private-net IP",
+		"name":"The Virtual Machines Support The Creation of The Specified Private-net IP",
 		"description":"The specified private IP feature aims for the Virtual Machine’s main network-card’s main private IP. When the VM instance Creation, for the address of private IP address, it can choose to be automatically allocated by the system or it can be specified in Number of available IP address in subnet. \n",
 		"id":141
 	},
@@ -799,7 +799,7 @@
 	},
 	{
 		"introduce":"JD Cloud DevOps is a set of DevOps products constructed based on JD’s years of accumulation",
-		"name":"Products of DevOps is released",
+		"name":"Products of DevOps Is Released",
 		"description":"Provide the continuous delivery process from code’s compilation, creation and deployment, container’s arrangement and traffic’s access; simplify related operations and processes; improve enterprise business’s iteration speed and deployment efficiency; assist for the success of the enterprise \n",
 		"id":146
 	},
@@ -817,13 +817,13 @@
 	},
 	{
 		"introduce":"Public Image - Windows Server 2016 in Data Center Edition - is online",
-		"name":"Public Image of WinServer2016 is online",
+		"name":"Public Image of WinServer2016 Is Online",
 		"description":"\"Windows Server 2016 data center version-Chinese version of the 64-bit\" official image has been launched in cn-east-2, cn-east-1, cn-south-1: and cn-north-1.",
 		"id":149
 	},
 	{
 		"introduce":"All regions gradually launch KMS service activated by genuine Windows Server",
-		"name":"WinServer KMS service is online",
+		"name":"WinServer KMS Service Is Online",
 		"description":"Windows Server operating system supports KMS (Key Management Service) activation, Windows Server Virtual Machines legitimate activation is no longer dependent on public network, and it can still be activated when without associating EIP.",
 		"id":150
 	},
@@ -835,25 +835,25 @@
 	},
 	{
 		"introduce":"The Virtual Machines support Edit Columns",
-		"name":"The Virtual Machines support Edit Columns",
+		"name":"The Virtual Machines Support Edit Columns",
 		"description":"The list page of the Console’s Virtual Machines supports the users to display the information items by custom settings, besides it can select focused information to display it in various Virtual Machines information.",
 		"id":152
 	},
 	{
 		"introduce":"Virtual Machines 2nd-generation specification goes online",
-		"name":"Virtual Machines 2nd-generation specification goes online",
+		"name":"Virtual Machines 2nd-generation Specification Goes Online",
 		"description":"JD Cloud's second-generation Virtual Machines adopts the latest -generation of Intel®Xeon® scalable processors. Compared with the previous generation, the processor's comprehensive performance is significantly improved and the floating-point calculation performance per clock cycle is doubled, besides it can significantly increase the workload speed.",
 		"id":153
 	},
 	{
 		"introduce":"The Availability Group is on official Beta",
-		"name":"The Availability Group is on official Beta",
+		"name":"The Availability Group Is on Official Beta",
 		"description":"Availability Group is the logical set of Virtual Machines provided by JD Cloud. The Virtual Machines in the group are distributed on the isolated physical resources to avoid the impact of local faults on the whole availability application. At the same time, the Availability Group has built-in elastic expansion feature to support auto scaling based on alarm policy or timing policy.",
 		"id":154
 	},
 	{
 		"introduce":"Powerful Database Engine with Compatibility to MySQL Protocol",
-		"name":"JCS for Percona is officially online",
+		"name":"JCS for Percona Is Officially Online",
 		"description":"JCS for Percona is a stable and reliable database service built by JD Cloud on the basis of the open source Percona 5.7 version. Compared with traditional databases, JCS for Percona is easy to deploy, manage and expand. By default, it supports the master-slave hot standby architecture and provides complete solutions for data backup, fault recovery, and monitoring to completely solve the problem in the operation and maintenance of database.",
 		"id":155
 	},
@@ -877,7 +877,7 @@
 	},
 	{
 		"introduce":"Cloud Database’s backup can perform synchronization regarding the real-time backup in different places",
-		"name":"JCS for MySQL Cross-regional backup can be synchronized",
+		"name":"JCS for MySQL Cross-regional Backup Can Be Synchronized",
 		"description":"Through cross-regional backup synchronization service, you can continuously back up the data in cloud database to a remote location and create new database instance based on backup data to meet the business scenarios such as remote backup for disaster recovery.",
 		"id":159
 	},
@@ -889,7 +889,7 @@
 	},
 	{
 		"introduce":"JCS for Kubernetes goes online and is opened for beta",
-		"name":"JCS for Kubernetes goes online and is opened for beta",
+		"name":"JCS for Kubernetes Goes Online And Is Opened for Beta",
 		"description":"JCS for Kubernetes is officially launched in cn-south-1. The service adopts the management node full hosting mode to provide users with the simple, reliable and powerful container management service. The product is fully compatible with the standards of Kubernetes API, and integrated with JD Cloud network, storage and other plug-ins. JCS for Kubernetes simplifies the deployment and management of JCS for Kubernetes, reduces the use threshold of JCS for Kubernetes, enhances the reliability of applications, improves the efficiency of development and reduces the cost of resources.",
 		"id":162
 	},
@@ -979,43 +979,43 @@
 	},
 	{
 		"introduce":"Generation II high frequency compute virtual machines are put into service in cn-east-1",
-		"name":"Generation II high frequency compute virtual machines are put into service in cn-east-1",
+		"name":"Generation II High Frequency Compute Virtual Machines Are Put into Service in cn-east-1",
 		"description":"Generation II high frequency compute virtual machines are put into service, and are applicable to high performance web frontend server, high performance science and engineering application and MMO game, video encoding and the scenarios with more higher requirements to computing capacity.",
 		"id":2053
 	},
 	{
 		"introduce":"Add password policy management for sub-accounts",
-		"name":"Add password policy management for sub-accounts to IAM",
+		"name":"Add Password Policy Management for Sub-accounts to IAM",
 		"description":"According to security requirements of different enterprises, primary account can set enterprise exclusive password policies for sub-users managed by it.",
 		"id":2054
 	},
 	{
 		"introduce":"New Enterprise Version",
-		"name":"Add enterprise version to Situation Awareness",
+		"name":"Add Enterprise Version to Situation Awareness",
 		"description":"Threat information, dynamic behavior analysis, exception detection and other key function are added in Situation Awareness Enterprise Version, supporting threat information detection of complete process, exceptional traffic detection for known threats and dynamic behavior analysis to malicious programs of network layer. Combined with JD Cloud's cutting-edged big data correlation analysis and machine learning algorithms, it will form security alarm events with more values for the users, decrease false negative alarm, false positive alarm, provide APT threat detection and defense capacity.",
 		"id":2055
 	},
 	{
 		"introduce":"New Alarm Template",
-		"name":"Add alarm template to Monitoring",
+		"name":"Add Alarm Template to Monitoring",
 		"description":"Users can use default alarm template provided by JD Cloud or customized alarm template created by themselves rapidly create alarm rules for the cloud resources.",
 		"id":2056
 	},
 	{
 		"introduce":"New Resource Overview and Visual Cabinet",
-		"name":"Add resource overview and visual cabinet to Cloud Cabinet Service",
+		"name":"Add Resource Overview And Visual Cabinet to Cloud Cabinet Service",
 		"description":"Customers can view resource overview information of different machine room through console, including cabinets, devices, bandwidth, and public IP information. Customers can view visual view of cabinets and displayed devices in the cabinets through console.",
 		"id":2057
 	},
 	{
 		"introduce":"The upgraded version of Application Load Balancer is released",
-		"name":"The upgraded version of Application Load Balancer is released",
+		"name":"The Upgraded Version of Application Load Balancer Is Released",
 		"description":"1. The name of Load Balancer is changed to be Application Load Balancer; 2, Application Load Balancer supports TLS listening; 3, and LB Monitoring items are added (input traffic rate, output traffic rate, number of input bytes, number of output bytes, and number of total bytes).",
 		"id":2067
 	},
 	{
 		"introduce":"Add the Region cn-south-1",
-		"name":"Native Container is officially launched in cn-south-1",
+		"name":"Native Container Is Officially Launched in Cn-south-1",
 		"description":"The service is officially launched in the third region, cn-south-1, after being launched in cn-north-1 and cn-east-2.",
 		"id":2068
 	},
@@ -1027,7 +1027,7 @@
 	},
 	{
 		"introduce":"The Anti-DDoS Pro supports protection for addresses of IPV4 and IPV6 both.",
-		"name":"Anti-DDoS Pro supports the protection for IPV6 address",
+		"name":"Anti-DDoS Pro Supports The Protection for IPV6 Address",
 		"description":"The Anti-DDoS Pro supports protection for addresses of IPV4 and IPV6 both. (Note: IPV6 protection is supported by China Telecom Line only and IPV6 address is not supported by back-to-origin IP temporarily. Upgrade purchased instances to IPV6 is not supported.)",
 		"id":2070
 	},
@@ -1111,7 +1111,7 @@
 	},
 	{
 		"introduce":"Encryption Cloud Disk Service is supported by Virtual Machines of Generation II Instance Type",
-		"name":"Encryption Cloud Disk Service can be attached to Virtual Machines (in Beta)",
+		"name":"Encryption Cloud Disk Service Can Be Attached to Virtual Machines (in Beta)",
 		"description":"It supports to create and attach encryption Cloud Disk Service at the time of Generation II Instance Type VM instance Creation (the encryption attribute can be specified at the time of creating a null disk; if it is created from snapshot, the encryption attribute is inherited from the snapshot); the encryption Cloud Disk Service can be attached to a Generation II Instance Type Virtual Machines that have been created. You can open ticket to apply for Beta qualifications.",
 		"id":2090
 	},
@@ -1195,7 +1195,7 @@
 	},
 	{
 		"introduce":"2012, 2014 and 2016 Standard Versions are added as Database Version",
-		"name":"2012, 2014 and 2016 Standard Versions are added as Database Version",
+		"name":"2012, 2014 And 2016 Standard Versions Are Added as Database Version",
 		"description":"2012, 2014 and 2016 standard versions are added as database version. Standard versions also support primary and backup instances and standalone instances",
 		"id":2115
 	},
@@ -1225,49 +1225,49 @@
 	},
 	{
 		"introduce":"JCS for SQL Server supports SQL Server Web version",
-		"name":"Support SQL Server Web version",
+		"name":"Support SQL Server Web Version",
 		"description":"Support SQL Server Web version. At present, JCS for SQL Server Service of JD Cloud RDS has fully supported enterprise version, standard version and Web version, which can meet users' requirements of various database scenarios.",
 		"id":2139
 	},
 	{
 		"introduce":"Security and compliance have been improved greatly, supporting advanced edition purchase",
-		"name":"Application security gateway version 2.2 has been released",
+		"name":"Application Security Gateway Version 2.2 Has Been Released",
 		"description":"Security has been improved, which threat information linkage is supported to mark attack source in real time and support region block, and enhanced customized rules can support 12 kinds of condition filtering; enhanced compliance supports HTTP RFC2616 compliance check to meet protective needs for government customers; support leak-proof for sensitive information and service return code replacement; support full log search to view attacking load.",
 		"id":2140
 	},
 	{
 		"introduce":"3 new operative protections have been added to MFA verification",
-		"name":"3 new operative protections have been added to MFA verification",
+		"name":"3 New Operative Protections Have Been Added to MFA Verification",
 		"description":"New protections to MFA have been added to the following operations: 1. Cloud on Single Database import; 2. backup recovery; 3. single database cross-instance recovery",
 		"id":2141
 	},
 	{
 		"introduce":"Add new migration tool",
-		"name":"Add new migration tool",
+		"name":"Add New Migration Tool",
 		"description":"Support multi-data source migration such as local files, OSS of other cloud vendors and url file list, which depends on Linux system",
 		"id":2142
 	},
 	{
 		"introduce":"JCS for MySQL supports version 8.0",
-		"name":"JCS for MySQL supports version 8.0",
+		"name":"JCS for MySQL Supports Version 8.0",
 		"description":"JCS for MySQL supports version 8.0, which compared to MySQL 5.6 and 5.7, it supports a number of new features as well as major updates and optimizations to existing features, along with significant performance improvements.",
 		"id":2143
 	},
 	{
 		"introduce":"Realize automatic data deletion process via life cycle management for storage resources",
-		"name":"Add life cycle management to THE Object Storage Service",
+		"name":"Add Life Cycle Management to THE Object Storage Service",
 		"description":"1. Support expiration rules, i.e. automatic delete expired resources; 2. Support two time conditions, i.e. the day and relative day; 3. Support match of effective resource according to prefixes",
 		"id":2147
 	},
 	{
 		"introduce":"Horizontal expansion to DRDS database is enabled",
-		"name":"The Distributed Relational Database Service (DRDS) supports horizontal expansion",
+		"name":"The Distributed Relational Database Service (DRDS) Supports Horizontal Expansion",
 		"description":"Make horizontal expansion to the DRDS database by adding RDS MySQL instances, improving storage capacity and processing capacity of database",
 		"id":2148
 	},
 	{
 		"introduce":"1. Add JNAME method to resolution type; 2. Add domain operation locking function",
-		"name":"Add solution type and domain operation locking function to JD Cloud DNS",
+		"name":"Add Solution Type And Domain Operation Locking Function to JD Cloud DNS",
 		"description":"1. Add JNAME access method: Once JNAME is accessed, the user request will be directly returned to the record A of the domain following JNAME, accelerating the understanding to resolution speed. It is suggested that domains hosted on JD Cloud DNS shall be accessed with the JNAME method. 2. Support domain locking and unlocking: Support locking the domain to be protected, to reducing unexpected misoperation. Two unlocking methods are provided, i.e. the direct unlocking method and the associated identity verification unlocking method.",
 		"id":2149
 	},
@@ -1285,25 +1285,25 @@
 	},
 	{
 		"introduce":"The Console supports the cluster snapshot function and may perform the backup operation of the ES index data",
-		"name":"The Console supports the cluster snapshot function",
+		"name":"The Console Supports The Cluster Snapshot Function",
 		"description":"1. Create a snapshot automatically when the cluster is created. 2. Enable the automatic snapshot after the cluster creation succeeded. 3. Create a snapshot manually after the cluster is created. 4. Display snapshot information list.",
 		"id":2161
 	},
 	{
 		"introduce":"Bucket Policy supports authorization of sub-accounts",
-		"name":"Bucket Policy supports authorization of sub-accounts",
+		"name":"Bucket Policy Supports Authorization of Sub-accounts",
 		"description":"Use the Bucket Policy to implement refinement authorization for resources and open authorization to sub-accounts.",
 		"id":2162
 	},
 	{
 		"introduce":"Support tag association, disassociation, Tag Filter of resources",
-		"name":"Support tag association, disassociation, Tag Filter of resources",
+		"name":"Support Tag Association, Disassociation, Tag Filter of Resources",
 		"description":"Support 14 resource editing tags such as Virtual Machines, Cloud Disk Service, Public IP, and RDS and supports Edit Tag.",
 		"id":2163
 	},
 	{
 		"introduce":"Support the authorized access to OSS of IAM sub-account",
-		"name":"Support the authorized access to OSS of IAM sub-account",
+		"name":"Support The Authorized Access to OSS of IAM Sub-account",
 		"description":"After the OSS accesses the IAM sub-account, the refinement authorization to OSS through the IAM management platform can be achieved, which supports 3 system preset policies, and the flexible authorization of 7 kinds of operation permissions to any resources (bucket and object) in the OSS.",
 		"id":2164
 	},
@@ -1327,7 +1327,7 @@
 	},
 	{
 		"introduce":"Capacity-oriented HDD, performance-oriented SSD and general SSD Cloud Disk are launched in cn-east-1 and cn-south-1 regions",
-		"name":"Three new types of cloud disks are launched in cn-east-1 and cn-south-1 regions",
+		"name":"Three New Types of Cloud Disks Are Launched in cn-east-1 And cn-south-1 Regions",
 		"description":"Capacity-oriented HDD, performance-oriented SSD and general SSD Cloud Disk are launched in cn-east-1 and cn-south-1 regions",
 		"id":2168
 	},
@@ -1345,7 +1345,7 @@
 	},
 	{
 		"introduce":"1. Identity and Access Management 2. Operation Protection  3. Internalization",
-		"name":"The Container Registry supports the Identity and Access Management, operation protection and internalization",
+		"name":"The Container Registry Supports The Identity And Access Management, Operation Protection And Internalization",
 		"description":"Users can create and manage sub-users via the Identity and Access Management and control operation permissions of these sub-users, such as access and operation of the Docker Image.\n With respect to operation protection for deletion of the Registry, the Container Registry and images, the operation protection shall be enabled and MFA, SMS and Email verification are supported.\n The Docker Image Repository Console supports English",
 		"id":2180
 	},
@@ -1363,7 +1363,7 @@
 	},
 	{
 		"introduce":"Support the Region Suqian",
-		"name":"Support the Region Suqian",
+		"name":"Support The Region Suqian",
 		"description":"The Anti-DDoS Protection Package can be subscribed for the region Suqian and the maximum protection capability in the region Suqian is 10G",
 		"id":2183
 	},
@@ -1399,19 +1399,19 @@
 	},
 	{
 		"introduce":"Support cluster version 1.12.3 of JD Cloud",
-		"name":"JCS for Kubernetes supports the Version 1.12.3",
+		"name":"JCS for Kubernetes Supports The Version 1.12.3",
 		"description":"The cluster version 1.12.3 of JD Cloud is supported, which is the cluster version under maintenance of community now. Compared with the cluster version 1.8, it expands new functions and features. In addition, the cluster stability is fully verified by the community and JD Cloud Team.",
 		"id":2189
 	},
 	{
 		"introduce":"JCS for Kubernetes supports the Monitoring",
-		"name":"JCS for Kubernetes supports the Monitoring",
+		"name":"JCS for Kubernetes Supports The Monitoring",
 		"description":"JCS for Kubernetes provides two types of resource monitoring: basic monitoring and custom metric monitoring. Basic monitoring is the monitoring of cluster infrastructure such as management node group and work node group. Custom metric monitoring provides a monitoring indicator for applications that users customize to deploy in the cluster, including CPU used, memory used, etc.",
 		"id":2190
 	},
 	{
 		"introduce":"JD Cloud will monitor status of work nodes and carry out automatic crown repair to work nodes not in ready state",
-		"name":"The work node group of JCS for Kubernetes supports automatic repair",
+		"name":"The Work Node Group of JCS for Kubernetes Supports Automatic Repair",
 		"description":"JD Cloud will monitor status of work nodes and carry out automatic crown repair to work nodes not in ready state",
 		"id":2191
 	},
@@ -1513,7 +1513,7 @@
 	},
 	{
 		"introduce":"Support 1.6T and 2T buckets",
-		"name":"Support 1.6T and 2T buckets",
+		"name":"Support 1.6T And 2T Buckets",
 		"description":"Instances with 16 core 64G memory specification can support 1.6T and 2T buckets in Beijing, Shanghai and Guangzhou regions",
 		"id":2208
 	},
@@ -1531,7 +1531,7 @@
 	},
 	{
 		"introduce":"Support implementation of deploying dubbo application",
-		"name":"Support implementation of deploying dubbo application",
+		"name":"Support Implementation of Deploying Dubbo Application",
 		"description":"Implementation of deploying dubbo application is now supported. It is now convenient for users to implement Microservice applications such as Spring Cloud and Dubbo",
 		"id":2229
 	},
@@ -1543,7 +1543,7 @@
 	},
 	{
 		"introduce":"Add Creating a policy by tag",
-		"name":"Add Creating a policy by tag",
+		"name":"Add Creating A Policy by Tag",
 		"description":"A feature of visually creating policies provided by federated tag management, users can automatically associate resources by specifying tags, simplifying the process of policy creation by specifying a set of permissions for a product without having to specify operations and resources one by one.",
 		"id":2231
 	},
@@ -1585,19 +1585,19 @@
 	},
 	{
 		"introduce":"IoT Hub and Beta Opening",
-		"name":"IoT Hub and Beta Opening",
+		"name":"IoT Hub And Beta Opening",
 		"description":"The IoT Hub provides the device connection communication function to help users with collection and JD Cloud onboarding of device data; the platform provides the device management function to help users with remote management and controlling devices; the platform offers interfaces to forward and store the device data to other JD Cloud services through the rule engine so as to help users with the integration of applications.",
 		"id":2255
 	},
 	{
 		"introduce":"IoT Protocol Adaptor and Beta Opening",
-		"name":"IoT Protocol Adaptor and Beta Opening",
+		"name":"IoT Protocol Adaptor And Beta Opening",
 		"description":"Internet of Things Protocol Adaptation Service  It switches adaptation modules through the built-in non-standard device data encapsulation protocol or communication protocol to help users with JD Cloud Onboarding of the existing devices in a quick and low-cost way. The service has built in JT/T-808 (GNSS system for operational vehicles — General specifications for vehicle terminal communication protocol and data format) protocol supports.",
 		"id":2256
 	},
 	{
 		"introduce":"Add subscription of GeoTrust brand certificate",
-		"name":"Add subscription of GeoTrust brand certificate",
+		"name":"Add Subscription of GeoTrust Brand Certificate",
 		"description":"Add subscription of GeoTrust brand certificate, including certificates of enterprise type (OV) and enhanced type (EV), supporting multiple formats of single domain, multiple domains and extensive domain.",
 		"id":2257
 	},
@@ -1615,7 +1615,7 @@
 	},
 	{
 		"introduce":"Support Python2.7, Python3.7 to write function code",
-		"name":"Support Python 2.7, Python 3.7 runtime",
+		"name":"Support Python 2.7, Python 3.7 Runtime",
 		"description":"1. Support Python2.7, Python3.7 to write function code\n2. Provide Python2.7 template to create function",
 		"id":2260
 	},
@@ -1657,7 +1657,7 @@
 	},
 	{
 		"introduce":"Slow Log List Download",
-		"name":"JCS for MySQL - Slow log supports downloading",
+		"name":"JCS for MySQL - Slow Log Supports Downloading",
 		"description":"Based on the slow log interface for user search, downloading to the user’s local machine is supported.",
 		"id":2284
 	},
@@ -1675,7 +1675,7 @@
 	},
 	{
 		"introduce":"Performance Type SSD Cloud Disk supports IOPS configurable functions",
-		"name":"Performance Type SSD Cloud Disk supports IOPS configurable functions",
+		"name":"Performance Type SSD Cloud Disk Supports IOPS Configurable Functions",
 		"description":"1. Performance Type SSD Cloud Disk launched in four areas, cn-north-1, cn-south-1, cn-east-2 and cn-east-1, supports IOPS configurable functions, to facilitate users to configure based on actual demands\n2. IOPS configuration ranges from 200 IOPS to max. 32,000 IOPS, with a step size of 10 IOPS. The maximum ratio of configured IOPS to the created Cloud Disk Service size (GiB) is 50 times.",
 		"id":2287
 	},
@@ -1711,19 +1711,19 @@
 	},
 	{
 		"introduce":"SQL-level audit is supported",
-		"name":"SQL-level audit is supported",
+		"name":"SQL-level Audit Is Supported",
 		"description":"Audit can be carried out on SQL including addition, deletion, change and investigation executed by the user",
 		"id":2294
 	},
 	{
 		"introduce":"Migrate the availability zone",
-		"name":"Migrate the availability zone",
+		"name":"Migrate The Availability Zone",
 		"description":"The Availability Zone of JCS for SQL Server instance can be changed. During the change, the influence on businesses is negligible, and only reconnection is required",
 		"id":2295
 	},
 	{
 		"introduce":"The creation of JCS for Kubernetes supports the addition of working node group of GPU type",
-		"name":"The addition of working node group of GPU type is supported",
+		"name":"The Addition of Working Node Group of GPU Type Is Supported",
 		"description":"1. When the cluster or working node group is created, the instance type of GPU type is supported;\n2. Currently GPU type is available to 1.12.3 version only;\n3. Currently GPU type is greyscale launched in Availability Zone A and Availability Zone B in cn-north-1;",
 		"id":2296
 	},
