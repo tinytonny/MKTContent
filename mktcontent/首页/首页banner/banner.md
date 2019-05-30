@@ -831,5 +831,12 @@
 		"id":1100,
 		"button_title":"",
 		"main_title":""
+	},
+	{
+		"sub_title":"6.18元起带你上云！",
+		"name":"商城pop店铺",
+		"id":1102,
+		"button_title":"",
+		"main_title":"抄底时刻，就在6·18"
 	}
 ]
