@@ -656,7 +656,7 @@
 	},
 	{
 		"name":"京东万象",
-		"description":"",
+		"description":"京东万象",
 		"id":277
 	},
 	{
@@ -1085,8 +1085,8 @@
 		"id":414
 	},
 	{
-		"name":"京东云智能城市",
-		"description":"京东云智能城市",
+		"name":"京东智能城市",
+		"description":"京东智能城市",
 		"id":415
 	},
 	{
@@ -1799,8 +1799,8 @@
 		"id":3253
 	},
 	{
-		"name":"AIDC",
-		"description":"AIDC",
+		"name":"智能 IDC",
+		"description":"智能 IDC",
 		"id":3255
 	},
 	{
@@ -2307,5 +2307,19 @@
 		"name":"交换网络",
 		"description":"为用户提供一站式全球互通的专用网络接入服务",
 		"id":3509
+	},
+	{
+		"name":"京东万象",
+		"description":"京东万象",
+		"id":3511
+	},
+	{
+		"name":"test",
+		"id":3513
+	},
+	{
+		"name":"最新活动",
+		"description":"最新活动",
+		"id":3515
 	}
 ]
