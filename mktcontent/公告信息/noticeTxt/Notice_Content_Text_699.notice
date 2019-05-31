@@ -1,0 +1,33 @@
+<p><br/></p>
+<p style="text-indent:28px"><span style="color:black">您好，函数服务已于</span>
+<span style="font-family:楷体;color:black">2019</span>
+<span style="color:black">年</span>
+<span style="font-family:楷体;color:black">5</span>
+<span style="color:black">月</span>
+<span style="font-family:楷体;color:black">29</span>
+<span style="color:black">日在华北地域完成小版本升级，此次升级的主要功能包括：</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:56px">1.<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span style="color:black">支持</span>
+<span style="font-family:楷体;color:black">node.js 6.17</span>
+<span style="color:black">、</span>
+<span style="font-family:楷体;color:black">node.js 8.16</span>
+<span style="color:black">运行时；</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:56px">2.<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span style="color:black">支持别名实现函数平滑迭代：函数发布新版本或回滚时，只需切换别名指向的函数版本，无需修改触发器，即可完成流量切换；</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:56px">3.<span style="font:9px &#39;Times New Roman&#39;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span style="color:black">集成</span>
+<span style="font-family:楷体;color:black">OSS SDK</span>
+<span style="color:black">、新增</span>
+<span style="font-family:楷体;color:black">OSS</span>
+<span style="color:black">函数模板及测试事件模板：通过控制台几分钟即可完成各类事件源函数的简单快速创建与验证。</span>
+</p>
+<p style="text-indent:28px"><span style="color:black">更多功能及详情请关注函数服务产品文档。</span>
+</p>
+<p style="text-indent:28px"><span style="color:black">函数服务目前处于公测期，欢迎产品首页申请公测或提交工单申请试用，诚邀您免费体验。感谢您对京东云函数服务的支持；使用期间如有疑问，请提交工单或联系京东云客服，电话：</span>
+<span style="font-family:楷体;color:black">4006151212</span>
+<span style="color:black">。</span>
+</p>
+<p><br/></p>
