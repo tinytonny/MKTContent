@@ -910,5 +910,13 @@
 		"jss_key":"News_Content_531",
 		"id":531,
 		"news_title":"IDC发布《中国公有云服务市场（2018下半年）跟踪》，京东云再获认可"
+	},
+	{
+		"summary":"近日，京东云正式发布《京东云云迁移技术白皮书》（以下简称“白皮书”），体现了京东云在云迁移方面的最新技术进展。白皮书详细阐述了京东云云迁移的独特技术优势和用户价值，为有跨云迁移需求的用户提供技术指导。该白皮书的发布，对于帮助用户实现技术创新和降本增效有很高的参考价值。",
+		"image_url":"//img1.jcloudcs.com/cms/68170a22-9ad4-4cf5-81f1-2060a3dade9020190531102739.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_536",
+		"jss_key":"News_Content_536",
+		"id":536,
+		"news_title":"京东云带来云迁移实践指南  发布《云迁移技术白皮书》"
 	}
 ]
