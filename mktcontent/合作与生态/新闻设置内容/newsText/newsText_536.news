@@ -1,0 +1,53 @@
+<p style="text-indent: 2em;">近日，京东云正式发布《京东云云迁移技术白皮书》（以下简称“白皮书”），体现了京东云在云迁移方面的最新技术进展。白皮书详细阐述了京东云云迁移的独特技术优势和用户价值，为有跨云迁移需求的用户提供技术指导。该白皮书的发布，对于帮助用户实现技术创新和降本增效有很高的参考价值。</p>
+<p><br/></p>
+<p style="text-align: center;"><a href="https://jdcloud-marketing.s3.cn-north-1.jdcloud-oss.com/WhitePaper/JD-Cloud-Migration-Technology-WhitePaper.pdf" target="_blank"><img src="//img1.jcloudcs.com/cms/4f054d78-f3d1-4e2a-9f4b-26837627e5ca20190531102830.jpg" title="" alt="官网新闻.jpg"/></a></p>
+<p><br/></p>
+<p style="text-indent: 2em;"><strong>提供可靠高效云迁移服务</strong></p>
+<p style="text-indent: 2em;"><strong><br/></strong></p>
+<p style="text-indent: 2em;"></p>
+<p style="text-indent: 2em;">如今，云计算市场规模不断扩大，一些用户为了提升业务的性能、安全性和降低成本，或者为了采用多云架构提升系统可靠性，会从一个云计算环境将全部或部分系统迁移到另一个云计算环境。云迁移的需求越来越大且面临挑战。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">京东云全面支持用户业务系统迁入，通过搭建完整的云迁移技术框架和设计，有效的云迁移模型、组件迁移策略，为用户的云迁移工作提供参考指南。白皮书中提供有效的云迁移系统性能、安全保障措施，同时提供计算环境迁移、数据存储迁移、网络环境迁移、中间件系统迁移、管理环境和安全产品迁移等5个方面的迁移方法和主要步骤，为用户业务系统顺利迁入京东云、为实现用户降本增效和业务的飞速发展提供强大支撑。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>弹性灵活部署模块化迁移技术</strong></p>
+<p style="text-indent: 2em;"><strong><br/></strong></p>
+<p style="text-indent: 2em;"></p>
+<p style="text-indent: 2em;">云计算云迁移框架主要分为分析、设计、实施及验证和优化4个部分。白皮书中指出，为了实现上述迁移框架，京东云设计了基于系统拆分和重组的云迁移模型，如下图所示。</p>
+<p style="text-indent: 2em;"><span style="font-family:&#39;微软雅黑&#39;,sans-serif">&nbsp;</span>
+</p>
+<p style="text-align: center;"><img src="//img1.jcloudcs.com/cms/31861fe6-c84c-42a4-9f76-ec34e64e21e020190531104053.jpg" title="" alt="未标题-1.jpg"/></p>
+<p style="text-indent: 2em;"><span style="font-family:&#39;微软雅黑&#39;,sans-serif"><br/></span>
+</p>
+<p style="text-indent: 2em;"></p>
+<p style="text-indent: 2em;">复杂系统的迁移模型主要分为系统切分、模块迁移、系统组合、评估验证等4个部分，在此过程中系统的状态分为原始态、子模块迁移态、系统整合态和完成态。在系统的原始态，根据系统各个模块的特点，将系统切分为多个独立组件。针对切分出的每个独立组件，对子模块实施迁移，形成了子模块迁移态。全部子模块迁移并经过验证后，需要将整个系统进行组合，形成系统整合态。对完成整合的系统进行充分的验证，若验证不通过则需要回滚流程，重新评估迁移方法；若验证通过则系统进入迁移的完成态，用户的业务量可以切换到新系统中。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">对于复杂系统切分后的独立组件，分成4种主要的迁移策略，即重新托管、重新购买、更换平台和重新构建。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-align: center;"><img src="//img1.jcloudcs.com/cms/5f9877b8-261d-4332-90c1-242de5aa76a520190531104255.jpg" title="" alt="未标题-2.jpg"/></p>
+<p style="text-indent: 2em;"><strong><br/></strong></p>
+<p style="text-indent: 2em;"></p>
+<p style="text-indent: 2em;"><strong>实现产品与服务10大优势</strong></p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>强大的产品支持：</strong>京东云共发布了16大类、190余款核心产品和服务，可以承载绝大多数用户业务系统迁入到京东云并稳定高效运行。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>全面有效的迁移方法：</strong>突破传统仅针对应用和数据进行迁移的旧理念，根据云计算技术的特点，更全面的针对计算类、存储类、网络类、中间件、管理与安全类等5大类产品26款组件给出可行的迁移方法和步骤。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>普适的迁移模型：</strong>京东云设计了基于系统拆分和重组的云迁移模型，将复杂系统的迁移模型分为系统切分、模块迁移、系统组合、评估验证等4个部分，能够适应和指导绝大多数的迁移实践。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>高效的迁移流程：</strong> 提出由分析、设计、实施及验证、优化等部分组成的完整迁移框架。针对较为复杂的用户业务系统，依据有效的迁移框架和迁移模型，设计出全系统迁移流程，实现多个组件的并行可靠迁移，保障系统迁移有效性的同时大幅提升迁移效率。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>灵活有效的策略：</strong>基于业界共识提供重新托管、重新购买、更换平台和重新构建4种主要的迁移策略，并针对云计算产品的特点制定出每种产品组件的一般迁移策略，使系统迁移更加灵活高效。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>全面有效的迁移验证方法：</strong>提供系统迁移执行过程中和组件、模块迁移集成完成后两个阶段全面的系统迁移有效性验证方法，确保实施云迁移执行过程中平滑高效迁移，确保实施云迁移后系统的功能、性能、可用性、可靠性、数据一致性、安全性等多个方面满足要求。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>有效的性能保障：</strong>从全链路性能测试、计算处理性能、网络性能、存储I/O性能、性能监控等5个层面确保用户系统迁移到京东云之后有可靠的系统性能保障。全面准确的资源性能监控，加上京东云具有多品类、多规格的云资源和提供的全链路性能测试指导和服务，使用户能够有效掌握系统性能情况，并能够对系统进行灵活性能调节。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>全面的安全保障：</strong>提供数据迁移安全保障、系统高可用保障、系统存储高可靠保障、云安全产品保障等4个方面全方位的安全保障，为用户系统迁移工作安全可靠实施保驾护航。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;"><strong>强大的迁移工具：</strong>提供JD Cloud Migration云迁移备份工具，支持虚拟机、云硬盘、文件系统、关系型数据库、NoSQL数据库、NewSQL数据库以及大数据的迁移和备份，支持增量迁移、数据加密和压缩传输。也提供对象存储Osstransfer工具、SQLServer单库上云工具、Redis迁移工具等多种迁移工具，帮助用户更轻松地实施系统迁移。</p>
+<p style="text-indent: 2em;"><strong><br/></strong></p>
+<p style="text-indent: 2em;"></p>
+<p style="text-indent: 2em;"><strong>多层次的服务保障：</strong>基于京东云的基础服务和技术保障服务，为用户提供云迁移基础服务和系统优化服务。在保障用户顺利高效完成系统迁移和系统稳定运行的基础上，全面提升用户业务系统的高可用性、性能、安全性、可扩展性、易运维性，并实现降本增效。</p>
+<p style="text-indent: 2em;"><br/></p>
+<p style="text-indent: 2em;">京东云副总裁、京东云客户成功部负责人刘辰表示：“客户上公有云的第一动力是在秒级获取弹性的IT资源和更高的系统健壮性。本次《京东云云迁移技术白皮书》的发布，是京东云基于Gartner‘6R’模型和架构设计‘六高’特性为基础的云迁移最佳实践。向客户展示了如何使用京东云迁移云服务和合理的架构设计，通过平滑的资源调度和最短的业务切换时间，得到最佳的业务健壮性，敏捷性，效能和最低的IT成本。”</p>
+<p style="text-align: center;"></p>
