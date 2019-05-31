@@ -1,6 +1,6 @@
 [
 	{
-		"txt":"{\"instruction\":[],\"productName\":\"云编译\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ci-console.jdcloud.com/job/list\",\"classTag\":\"\"}],\"desc\":\"云编译服务为开发者提供基于容器的自动化持续集成服务。支持多语言构建环境，构建产出支持包/镜像，查看构建结果及日志。编译构建实现容器化隔离，支持自定义构建容器，为产品的持续集成提供上游基础服务，提升研发效率。\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/ed1bc8dd-5415-4f22-bf8f-d20c2404c13320181115173954.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|94\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|94\"}",
+		"txt":"{\"instruction\":[],\"productName\":\"云编译\",\"label\":[{\"TitleName\":\"立即使用\",\"TitleUrl\":\"https://ci-console.jdcloud.com/job/list\",\"classTag\":\"\"}],\"desc\":\"提供持续构建、测试服务\",\"iconUrl\":\"\",\"imageUrl\":\"//jdcloud-portal.oss.cn-north-1.jcloudcs.com/www.jcloud.com/ed1bc8dd-5415-4f22-bf8f-d20c2404c13320181115173954.svg\",\"middleClstag\":\"Products|keycount|MiddleContentSec|94\",\"sectionClstag\":\"Products|keycount|SectionBannerSec|94\"}",
 		"id":280
 	},
 	{
