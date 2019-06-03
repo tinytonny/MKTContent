@@ -918,5 +918,13 @@
 		"jss_key":"News_Content_536",
 		"id":536,
 		"news_title":"京东云带来云迁移实践指南  发布《云迁移技术白皮书》"
+	},
+	{
+		"summary":"转型新山西，晋商新未来。5月31日，“2019山西（大同）电商大会暨大同好粮·京东三晋好物节”在大同古城正式拉开帷幕。",
+		"image_url":"//img1.jcloudcs.com/cms/9f3ebc76-8359-48e2-9ea2-96e2e388c0f220190603104302.jpg",
+		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_537",
+		"jss_key":"News_Content_537",
+		"id":537,
+		"news_title":"2019山西（大同）电商大会开幕"
 	}
 ]
