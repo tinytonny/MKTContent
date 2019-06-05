@@ -881,7 +881,7 @@
 	},
 	{
 		"summary":"近日，京东云发布2019年京东618全球好物节期间产品营销作战计划。基于自身大数据能力，京东云为品牌商准备了全场景营销作战计划，包含从营销洞察、品牌策略、客户触达、销售监测到营销效果分析的完整解决方案，结合快速高效精准与全链路整合工具，助力品牌商在京东618战役中实现品牌、销量双赢。",
-		"image_url":"//img1.jcloudcs.com/cms/0d9f7047-5112-4d61-820a-3eb4ebc8539120190524104302.jpg",
+		"image_url":"//img1.jcloudcs.com/cms/805faa00-0aad-420f-8865-a7c5cd636e8820190605152835.png",
 		"jss_url":"http://img1.jcloudcs.com/jdcloud-portal/News_Content_522",
 		"jss_key":"News_Content_522",
 		"id":522,
